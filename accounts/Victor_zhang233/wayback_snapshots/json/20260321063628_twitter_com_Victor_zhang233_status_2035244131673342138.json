@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2035243190329168300",
+    "created_at": "2026-03-21T06:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T07:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035244131673342138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1383940842239381510",
+          "start": 0,
+          "username": "Kitsunetenchou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035244131673342138",
+    "in_reply_to_user_id": "1383940842239381510",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035243190329168300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kitsunetenchou 爆！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2035243190329168300",
+        "created_at": "2026-03-21T06:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T07:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035244131673342138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1383940842239381510",
+              "start": 0,
+              "username": "Kitsunetenchou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035244131673342138",
+        "in_reply_to_user_id": "1383940842239381510",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035243190329168300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kitsunetenchou 爆！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1383940842239381510",
+        "conversation_id": "2035243190329168300",
+        "created_at": "2026-03-21T06:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T07:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035243190329168300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Victor_zhang23…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/Victor_zhang233/status/2035195597200752728",
+              "start": 55,
+              "url": "https://t.co/xc4FphCWs5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035243190329168300",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035195597200752728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "(:3_ヽ)_也许当核子烈焰落因为人类之中那些精英阶层的家伙的私欲落在所有人脸上的时候，我们会看到的.... https://t.co/xc4FphCWs5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "祝福我的死亡",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032502037242662912/m7BPbwdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 116,
+          "like_count": 2224,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1016
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-19T00:30:40.000Z",
+        "description": "赛博极乐ing/静候天机/烟鬼/电脑配件零售商（好友特价日常）/亞空間生物/物质位面存在裂解中/超凡智能大列巴/厌恶键政仔，跳脸会B/tl大清洗中..../🚪=15x LEDX/15x Defib/100x 闪耀世界医药",
+        "id": "1383940842239381510",
+        "location": "亚空间",
+        "name": "狐店長🍖「赛博极乐之狐」",
+        "pinned_tweet_id": "1910998726098690411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977890195715547136/qY9fBWeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2824,
+          "following_count": 884,
+          "like_count": 116713,
+          "listed_count": 21,
+          "media_count": 12852,
+          "tweet_count": 98560
+        },
+        "username": "Kitsunetenchou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1880619721810485741",
+    "created_at": "2025-01-18T17:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T18:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880666567496937813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1511185667274907652",
+          "start": 0,
+          "username": "RevolutionTide"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880666567496937813",
+    "in_reply_to_user_id": "1511185667274907652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880619721810485741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RevolutionTide 一个都不认识。。。555"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1880619721810485741",
+        "created_at": "2025-01-18T17:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T18:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880666567496937813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1511185667274907652",
+              "start": 0,
+              "username": "RevolutionTide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880666567496937813",
+        "in_reply_to_user_id": "1511185667274907652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880619721810485741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RevolutionTide 一个都不认识。。。555"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880613639251456000"
+          ]
+        },
+        "author_id": "1511185667274907652",
+        "conversation_id": "1880619721810485741",
+        "created_at": "2025-01-18T14:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T15:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880619721810485741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yh9NPBAShz",
+              "end": 70,
+              "expanded_url": "https://x.com/RevolutionTide/status/1880619721810485741/photo/1",
+              "media_key": "3_1880613639251456000",
+              "start": 47,
+              "url": "https://t.co/Yh9NPBAShz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880619721810485741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2515,
+          "like_count": 55,
+          "quote_count": 4,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在的高中生写的作文都这么潮酷吗？什么时候德兰达、斯洛特戴克、拉图尔、马里翁这些也加入作文？ https://t.co/Yh9NPBAShz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 59,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 446
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T03:35:22.000Z",
+        "description": "没有主人，没有神。神，就是我。/后结构无政府主义者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nightfall.buzz",
+                "end": 23,
+                "expanded_url": "https://nightfall.buzz/",
+                "start": 0,
+                "url": "https://t.co/T8Rq4vYSHW"
+              }
+            ]
+          }
+        },
+        "id": "1511185667274907652",
+        "location": "萨帕塔民族解放军",
+        "name": "Revolutionary Tide",
+        "pinned_tweet_id": "1847619356575817866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847070382706102272/mBWOLfpQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4577,
+          "following_count": 2600,
+          "like_count": 74662,
+          "listed_count": 22,
+          "media_count": 278,
+          "tweet_count": 3115
+        },
+        "url": "https://t.co/T8Rq4vYSHW",
+        "username": "RevolutionTide",
+        "verified": false
+      }
+    ]
+  }
+}

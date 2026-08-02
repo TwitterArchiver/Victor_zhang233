@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2062252031344308731",
+    "created_at": "2026-06-03T19:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T20:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062252031344308731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1873352140246466560",
+          "start": 3,
+          "username": "Fafa881869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062252031344308731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062251699390353782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fafa881869: 我想出cos，想调酒，想病好起来，想谈恋爱，想变的可爱，想睡个安稳觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2062252031344308731",
+        "created_at": "2026-06-03T19:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T20:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062252031344308731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1873352140246466560",
+              "start": 3,
+              "username": "Fafa881869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062252031344308731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062251699390353782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fafa881869: 我想出cos，想调酒，想病好起来，想谈恋爱，想变的可爱，想睡个安稳觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873352140246466560",
+        "conversation_id": "2062251699390353782",
+        "created_at": "2026-06-03T19:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T20:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062251699390353782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062251699390353782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想出cos，想调酒，想病好起来，想谈恋爱，想变的可爱，想睡个安稳觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2059669582818721884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062155233384615936/pl3fVQYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 285,
+          "like_count": 5666,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1725
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T12:55:40.000Z",
+        "description": "(｡･∀･)ﾉﾞ你好，叫我fafa就行啦\n独游爱好者，平时爱玩OW或者VRC\n有双相情感障碍，窝是泛性恋\n喜欢收集各种梗图和逆天图（收集癖）\n喜欢各种各样可爱的小东西=w=\n什么圈子都知道一些（成分超级复杂）超喜欢纯爱！对所有人保持善意OwO\n希望每个人都可以好好的活下去…\n\n还有！祝大家每天都开开心心顺顺利利的呀！",
+        "id": "1873352140246466560",
+        "location": "沃尔库塔-5",
+        "name": "Fafa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000434774960377856/hYn7tsN0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 327,
+          "like_count": 1820,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 637
+        },
+        "username": "Fafa881869",
+        "verified": false
+      }
+    ]
+  }
+}

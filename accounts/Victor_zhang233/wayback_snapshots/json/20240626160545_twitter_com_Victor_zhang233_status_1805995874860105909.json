@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1805563374450733137",
+    "created_at": "2024-06-26T16:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T17:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805995874860105909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1225358261467197440",
+          "start": 0,
+          "username": "chanxiulumanzhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805995874860105909",
+    "in_reply_to_user_id": "1225358261467197440",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805563374450733137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chanxiulumanzhi 那你应该出现在孙吧而不是X😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1805563374450733137",
+        "created_at": "2024-06-26T16:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T17:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805995874860105909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1225358261467197440",
+              "start": 0,
+              "username": "chanxiulumanzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805995874860105909",
+        "in_reply_to_user_id": "1225358261467197440",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805563374450733137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chanxiulumanzhi 那你应该出现在孙吧而不是X😋"
+      },
+      {
+        "attachments": {},
+        "author_id": "1225358261467197440",
+        "conversation_id": "1805563374450733137",
+        "created_at": "2024-06-25T11:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T12:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805563374450733137"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805563374450733137",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想做一个攻击力点满的疯女人🌹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这//白左/简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": ".. Лунный",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 35,
+          "like_count": 151,
+          "listed_count": 0,
+          "tweet_count": 205
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-06T09:59:23.000Z",
+        "description": "泠风/精神医学在读/重度社恐/友跨顺女/泛性恋/inxp/绘画/怪谈爱好者/恋姐/精神状态堪忧/欢迎私信互关扩列(没回关可能是没提示，如需互关可以私信我)\n@yomoda_yuhaori \n\n“死者永远十七岁”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "yomoda_yuhaori"
+              }
+            ]
+          }
+        },
+        "id": "1225358261467197440",
+        "location": "站在世界中心呼唤爱💙",
+        "name": "初夏泠风",
+        "pinned_tweet_id": "1764669814717718863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772131742134198272/g0J7HMu-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 170,
+          "like_count": 1421,
+          "listed_count": 1,
+          "tweet_count": 1170
+        },
+        "username": "chanxiulumanzhi",
+        "verified": false
+      }
+    ]
+  }
+}

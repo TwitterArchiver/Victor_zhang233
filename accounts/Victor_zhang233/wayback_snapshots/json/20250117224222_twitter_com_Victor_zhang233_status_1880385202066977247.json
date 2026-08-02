@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1880229259375177855",
+    "created_at": "2025-01-17T22:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T23:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880385202066977247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701841796547092480",
+          "start": 0,
+          "username": "broccoli_senpai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880385202066977247",
+    "in_reply_to_user_id": "1701841796547092480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880230007529951381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@broccoli_senpai 666十五吨煤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1880229259375177855",
+        "created_at": "2025-01-17T22:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T23:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880385202066977247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701841796547092480",
+              "start": 0,
+              "username": "broccoli_senpai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880385202066977247",
+        "in_reply_to_user_id": "1701841796547092480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880230007529951381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@broccoli_senpai 666十五吨煤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701841796547092480",
+        "conversation_id": "1880229259375177855",
+        "created_at": "2025-01-17T12:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T13:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880230007529951381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880230007529951381",
+        "in_reply_to_user_id": "1701841796547092480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880229259375177855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于海底捞消费的补充材料\n1、清汤锅底：9207元\n2、牛肉卷（按三个半盘计算）：1133.62元\n3、虾滑（按三个半盘计算）：5295.60元\n4、蔬菜拼盘：525元\n5、鸭血‌：5841元\n6、饮料‌：660元\n7、小费：1000元\n总计：\n23662.22元"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 56,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 424
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T06:14:49.000Z",
+        "description": "男 友Lgbtq+🏳️‍🌈🏳️‍⚧️著名动漫博主喜欢时评和偶尔日常的锐评博主 不会去反任何一个意识形态 但我厌蠢",
+        "id": "1701841796547092480",
+        "location": "距离你5公里",
+        "name": "西兰花前辈🕶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837113622406782976/0OO87Afr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3182,
+          "following_count": 134,
+          "like_count": 33002,
+          "listed_count": 7,
+          "media_count": 521,
+          "tweet_count": 11853
+        },
+        "username": "broccoli_senpai",
+        "verified": false
+      }
+    ]
+  }
+}

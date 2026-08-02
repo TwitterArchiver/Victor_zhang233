@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2061071799237120354",
+    "created_at": "2026-05-31T13:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061071799237120354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cheeseduck111/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Cheeseduck111/status/2061060780934779297",
+          "start": 16,
+          "url": "https://t.co/fsMPvYBIEK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061071799237120354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061060780934779297",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我对人生的掌控只有什么时候紫砂 https://t.co/fsMPvYBIEK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2061071799237120354",
+        "created_at": "2026-05-31T13:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061071799237120354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cheeseduck111/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Cheeseduck111/status/2061060780934779297",
+              "start": 16,
+              "url": "https://t.co/fsMPvYBIEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061071799237120354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061060780934779297",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我对人生的掌控只有什么时候紫砂 https://t.co/fsMPvYBIEK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896510089609297920",
+        "conversation_id": "2061060780934779297",
+        "created_at": "2026-05-31T12:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T13:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061060780934779297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061060780934779297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重新掌控人生\n掌控毁灭人生的权利"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "抱歉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2059669582818721884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 265,
+          "like_count": 5202,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1683
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T10:37:05.000Z",
+        "description": "168/60 hrt：2022.10.3\n05年生人 mtf\n坐标河南驻马店\n🚪58 可+联系方式\n活着的意义是让别人感受到自己不管痛苦或快乐",
+        "id": "1896510089609297920",
+        "name": "jimiling 🍥",
+        "pinned_tweet_id": "2056370088140587488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010906034991480833/wAteIzsP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 103,
+          "like_count": 6369,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1124
+        },
+        "username": "Cheeseduck111",
+        "verified": false
+      }
+    ]
+  }
+}

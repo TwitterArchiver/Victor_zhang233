@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1922274338306236667",
+    "created_at": "2025-05-14T16:07:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T17:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922685301639577666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "4518917773",
+          "start": 0,
+          "username": "Vier_Gauls"
+        },
+        {
+          "end": 22,
+          "id": "1497868189400809472",
+          "start": 12,
+          "username": "koulislee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922685301639577666",
+    "in_reply_to_user_id": "4518917773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922314179651768698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vier_Gauls @koulislee 真有可能，如果中间一场打输了激化矛盾的话\n都赢了就是另一种结局了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1922274338306236667",
+        "created_at": "2025-05-14T16:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T17:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922685301639577666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4518917773",
+              "start": 0,
+              "username": "Vier_Gauls"
+            },
+            {
+              "end": 22,
+              "id": "1497868189400809472",
+              "start": 12,
+              "username": "koulislee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922685301639577666",
+        "in_reply_to_user_id": "4518917773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922314179651768698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vier_Gauls @koulislee 真有可能，如果中间一场打输了激化矛盾的话\n都赢了就是另一种结局了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4518917773",
+        "conversation_id": "1922274338306236667",
+        "created_at": "2025-05-13T15:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T16:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922314179651768698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1497868189400809472",
+              "start": 0,
+              "username": "koulislee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922314179651768698",
+        "in_reply_to_user_id": "1497868189400809472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1245,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922274338306236667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koulislee 第七场战争：全国工人阶级共同推翻特色政府的资产阶级独裁统治，建立社会主义政权，特色政府流亡俄罗斯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（/抑郁焦虑/黑金属/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎扩列和找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 坏人堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 64,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 570
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-10T14:47:01.000Z",
+        "description": "MLM",
+        "id": "4518917773",
+        "name": "Sans-culottes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1085565758044758017/nuNjMCi3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 84,
+          "like_count": 879,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 668
+        },
+        "username": "Vier_Gauls",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-27T09:36:44.000Z",
+        "description": "对我而言，那种感觉真的很怪异，你首次意识到这个世界的存在时，适逢一个帝国逐渐消逝，而在你接近退休之年时，又碰上另一个帝国的正式诞生。——大卫·哈维《新帝国主义》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cpc.people.com.cn",
+                "end": 23,
+                "expanded_url": "http://cpc.people.com.cn/",
+                "start": 0,
+                "url": "https://t.co/EjPZzfi5y1"
+              }
+            ]
+          }
+        },
+        "id": "1497868189400809472",
+        "location": "北京市西城区府右街12号",
+        "name": "Riisk",
+        "pinned_tweet_id": "1900533622471639056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907039097815961600/ruSwcTk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 513,
+          "like_count": 51935,
+          "listed_count": 1,
+          "media_count": 414,
+          "tweet_count": 13568
+        },
+        "url": "https://t.co/EjPZzfi5y1",
+        "username": "koulislee",
+        "verified": false
+      }
+    ]
+  }
+}

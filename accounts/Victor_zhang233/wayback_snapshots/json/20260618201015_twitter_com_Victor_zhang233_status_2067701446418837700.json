@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2067589747602751982",
+    "created_at": "2026-06-18T20:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T21:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067701446418837700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1661148065749942272",
+          "start": 0,
+          "username": "MeiyiSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067701446418837700",
+    "in_reply_to_user_id": "1755494652889661440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067701258144952748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeiyiSama 打开以后，是一条亩产万斤的稻田，你看他怎么挣都挣不坏，不掉毛不掉絮，使用七八次都没问题，打桥牌带上它非常方便，用它擦擦脚，再擦擦嘴，擦擦脸，干净卫生。什么?在哪里买?下方小牛棚，买不如租，还包产到户。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2067589747602751982",
+        "created_at": "2026-06-18T20:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T21:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067701446418837700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1661148065749942272",
+              "start": 0,
+              "username": "MeiyiSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067701446418837700",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067701258144952748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeiyiSama 打开以后，是一条亩产万斤的稻田，你看他怎么挣都挣不坏，不掉毛不掉絮，使用七八次都没问题，打桥牌带上它非常方便，用它擦擦脚，再擦擦嘴，擦擦脸，干净卫生。什么?在哪里买?下方小牛棚，买不如租，还包产到户。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2067589747602751982",
+        "created_at": "2026-06-18T20:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T21:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067701258144952748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1661148065749942272",
+              "start": 0,
+              "username": "MeiyiSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067701258144952748",
+        "in_reply_to_user_id": "1661148065749942272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067589747602751982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeiyiSama 什么？这不是走资，我们这个邓小平理论体积小方便携带，拆开一包，放水里就会摸石头过河，一戳就破，用来擦脚，擦脸，擦嘴都是很好用的，你看打开以后像茅台一样大小，放在小渔村里画圈就会变富，吸钱性很强的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 |\nDM欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 372,
+          "like_count": 7296,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2056
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-23T23:12:24.000Z",
+        "description": "1935出生于吉林长春，1950参加中国人民解放军并参加抗美援朝。1951加入中国共产党。复员后到上海入第十七棉纺织厂当工人。后于保卫科任干事。1966响应伟大领袖毛主席号召推翻上海市委反动统治打响夺权第一枪，并在党十大上成功当选副主席。 1976粉碎走资派妄图复辟资本主义的阴谋诡计，在党十一大当选中华人民共和国主席。",
+        "id": "1661148065749942272",
+        "location": "中华人民共和国北京市西城区中南海",
+        "name": "王洪文",
+        "pinned_tweet_id": "1849506577570726220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800529443313848321/pBGkVoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 71,
+          "like_count": 785,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 2559
+        },
+        "url": "",
+        "username": "MeiyiSama",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992533472028856320"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "1992533475094937754",
+    "created_at": "2025-11-23T09:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T10:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992533475094937754"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AfkoHnpRFs",
+          "end": 23,
+          "expanded_url": "https://x.com/Victor_zhang233/status/1992533475094937754/photo/1",
+          "media_key": "3_1992533472028856320",
+          "start": 0,
+          "url": "https://t.co/AfkoHnpRFs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992533475094937754",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/AfkoHnpRFs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 714,
+        "media_key": "3_1992533472028856320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6bmostbEAADkM7.jpg",
+        "width": 714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992533472028856320"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "1992533475094937754",
+        "created_at": "2025-11-23T09:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T10:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992533475094937754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AfkoHnpRFs",
+              "end": 23,
+              "expanded_url": "https://x.com/Victor_zhang233/status/1992533475094937754/photo/1",
+              "media_key": "3_1992533472028856320",
+              "start": 0,
+              "url": "https://t.co/AfkoHnpRFs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992533475094937754",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AfkoHnpRFs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "点击填写简介",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 100,
+          "like_count": 1247,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 770
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

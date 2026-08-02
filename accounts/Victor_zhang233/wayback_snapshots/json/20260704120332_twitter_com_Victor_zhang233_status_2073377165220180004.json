@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2073377165220180004",
+    "created_at": "2026-07-04T12:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T13:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073377165220180004"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rinn3rin/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/rinn3rin/status/2073304221102092756",
+          "start": 4,
+          "url": "https://t.co/hnNSDmkRBL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073377165220180004",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073304221102092756",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "lol https://t.co/hnNSDmkRBL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11316,
+        "height": 1280,
+        "media_key": "13_2073304050632986624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073304050632986624/img/OgWC7clQnpUVEgk0.jpg",
+        "public_metrics": {
+          "view_count": 2552
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073304050632986624/vid/avc1/320x568/2QhIuNEi36IgkGDN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073304050632986624/vid/avc1/480x852/cjOjRykX3meZESts.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073304050632986624/vid/avc1/720x1280/_Z-Z9QuV-uTmZgeg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073304050632986624/pl/sz7GOQh1j3bmv3Ev.m3u8?v=80c"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2073377165220180004",
+        "created_at": "2026-07-04T12:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073377165220180004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rinn3rin/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/rinn3rin/status/2073304221102092756",
+              "start": 4,
+              "url": "https://t.co/hnNSDmkRBL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073377165220180004",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073304221102092756",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "lol https://t.co/hnNSDmkRBL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073304050632986624"
+          ]
+        },
+        "author_id": "1872236576882995200",
+        "conversation_id": "2073304221102092756",
+        "created_at": "2026-07-04T07:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T08:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073304221102092756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xOFcef0YmL",
+              "end": 43,
+              "expanded_url": "https://x.com/rinn3rin/status/2073304221102092756/video/1",
+              "media_key": "13_2073304050632986624",
+              "start": 20,
+              "url": "https://t.co/xOFcef0YmL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073304221102092756",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 7075,
+          "like_count": 707,
+          "quote_count": 6,
+          "reply_count": 13,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "P-chan loves rides! https://t.co/xOFcef0YmL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 | \n这是哪里。。？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Dekadens",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 422,
+          "like_count": 8746,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 2121
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T11:03:50.000Z",
+        "description": "𖦹 🎀 Hi I'm Rin ⋆˚｡⋆ ⋆ She/Her mtf🏳️‍⚧️🏳️‍🌈20 Mizuchef 👩‍🍳🌸",
+        "id": "1872236576882995200",
+        "location": "🇵🇭",
+        "name": "Rin🕊️🎐(Mizuchef👩‍🍳)",
+        "pinned_tweet_id": "2055531923532071156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974880788299808768/BAvrhrk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 4075,
+          "like_count": 142186,
+          "listed_count": 3,
+          "media_count": 2222,
+          "tweet_count": 23926
+        },
+        "url": "",
+        "username": "rinn3rin",
+        "verified": false
+      }
+    ]
+  }
+}

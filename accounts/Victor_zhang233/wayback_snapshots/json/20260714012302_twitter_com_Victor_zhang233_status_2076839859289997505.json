@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2076839859289997505",
+    "created_at": "2026-07-14T01:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T02:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076839859289997505"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Victor_zhang23…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Victor_zhang233/status/2076504005195505724",
+          "start": 11,
+          "url": "https://t.co/qR9X15Y5Nr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076839859289997505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076504005195505724",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "剧烈腹泻我草\n为什么 https://t.co/qR9X15Y5Nr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2076503992641986560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNE5YSgbIAAkx4W.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2076839859289997505",
+        "created_at": "2026-07-14T01:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076839859289997505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Victor_zhang23…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Victor_zhang233/status/2076504005195505724",
+              "start": 11,
+              "url": "https://t.co/qR9X15Y5Nr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076839859289997505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076504005195505724",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "剧烈腹泻我草\n为什么 https://t.co/qR9X15Y5Nr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076503992641986560"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2076504005195505724",
+        "created_at": "2026-07-13T03:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T04:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076504005195505724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NEKCcO1Q2f",
+              "end": 33,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2076504005195505724/photo/1",
+              "media_key": "3_2076503992641986560",
+              "start": 10,
+              "url": "https://t.co/NEKCcO1Q2f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076504005195505724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2208,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神药和药效未知的药 https://t.co/NEKCcO1Q2f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him | 药物欣快重度依赖 | \n这是哪里。。？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 468,
+          "like_count": 9873,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2301
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

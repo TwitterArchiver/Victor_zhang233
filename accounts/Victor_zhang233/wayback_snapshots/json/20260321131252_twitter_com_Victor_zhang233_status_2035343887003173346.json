@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2035343480889753984",
+    "created_at": "2026-03-21T13:12:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T14:12:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035343887003173346"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035343887003173346",
+    "in_reply_to_user_id": "1755494652889661440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035343480889753984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "或许我该去做梦😴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2035343480889753984",
+        "created_at": "2026-03-21T13:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T14:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035343887003173346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035343887003173346",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035343480889753984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或许我该去做梦😴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2035343480889753984",
+        "created_at": "2026-03-21T13:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T14:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035343480889753984"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035343480889753984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "许愿天降病娇大姐姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "祝福我的死亡",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032502037242662912/m7BPbwdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 117,
+          "like_count": 2280,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1033
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

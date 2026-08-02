@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1904766522180198512",
+    "created_at": "2025-03-27T18:31:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T19:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905326802823688478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1595110379851419648",
+          "start": 0,
+          "username": "XiaoGuoDing1997"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905326802823688478",
+    "in_reply_to_user_id": "1595110379851419648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904766522180198512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoGuoDing1997 以前我带你们长征"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 798,
+        "media_key": "3_1904765847480262656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm8WckdbYAAx_tA.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1904766522180198512",
+        "created_at": "2025-03-27T18:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T19:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905326802823688478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1595110379851419648",
+              "start": 0,
+              "username": "XiaoGuoDing1997"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905326802823688478",
+        "in_reply_to_user_id": "1595110379851419648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904766522180198512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoGuoDing1997 以前我带你们长征"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904765847480262656"
+          ]
+        },
+        "author_id": "1595110379851419648",
+        "conversation_id": "1904766522180198512",
+        "created_at": "2025-03-26T05:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T06:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904766522180198512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uDsXGtkZIS",
+              "end": 148,
+              "expanded_url": "https://x.com/XiaoGuoDing1997/status/1904766522180198512/photo/1",
+              "media_key": "3_1904765847480262656",
+              "start": 125,
+              "url": "https://t.co/uDsXGtkZIS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904766522180198512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 6081,
+          "like_count": 174,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "焰火晚会结束后，天已经很晚了，在天安门城楼上的人大部分都走了，只剩下毛泽东、周恩来和文革小组成员们。\n毛泽东对大家说：“形势很好，阻力很大。现在还看不清楚反对搞文化大革命的人，力量究竟有多大。一定要把文化大革命进行到底。要枪毙，我和你们一起枪毙。” https://t.co/uDsXGtkZIS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/抑郁焦虑/黑金属/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 坏人堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 67,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 537
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T17:42:28.000Z",
+        "description": "在广西电影制片厂发动了百色起义，在油画上参加了遵义会议，在八一电影制片厂指挥了淮海战役，在电视剧《换了人间》里支持出兵朝鲜，在电视剧《海棠依旧》里支持两弹一星建设，在电视剧《我们的法兰西岁月》里组建旅欧支部😊",
+        "id": "1595110379851419648",
+        "location": "牛棚",
+        "name": "水果村民的儿子",
+        "pinned_tweet_id": "1842872320119226418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848730808414310400/Z-MlGFge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 42,
+          "like_count": 2010,
+          "listed_count": 3,
+          "media_count": 160,
+          "tweet_count": 781
+        },
+        "username": "XiaoGuoDing1997",
+        "verified": false
+      }
+    ]
+  }
+}

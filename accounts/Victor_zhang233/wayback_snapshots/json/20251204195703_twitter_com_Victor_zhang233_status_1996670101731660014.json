@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1995007074619854990",
+    "created_at": "2025-12-04T19:57:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T20:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996670101731660014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1803660054991872002",
+          "start": 0,
+          "username": "singring0417669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996670101731660014",
+    "in_reply_to_user_id": "1803660054991872002",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995007074619854990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@singring0417669 👎👎🙏🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1995007074619854990",
+        "created_at": "2025-12-04T19:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T20:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996670101731660014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1803660054991872002",
+              "start": 0,
+              "username": "singring0417669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996670101731660014",
+        "in_reply_to_user_id": "1803660054991872002",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995007074619854990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@singring0417669 👎👎🙏🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803660054991872002",
+        "conversation_id": "1995007074619854990",
+        "created_at": "2025-11-30T05:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T06:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995007074619854990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995007074619854990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "警察姐姐不要我了，谈了几天就把我甩了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "点击填写简介",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 100,
+          "like_count": 1251,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 769
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T05:24:22.000Z",
+        "description": "双向/高中生上学ing/江苏省省重点/高考物化政/oded/偶尔鉴证/闲聊\n我的女朋友是警察姐姐！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Tsing_ring",
+                "end": 23,
+                "expanded_url": "http://t.me/Tsing_ring",
+                "start": 0,
+                "url": "https://t.co/y1g9ttvey7"
+              }
+            ]
+          }
+        },
+        "id": "1803660054991872002",
+        "location": "你的心里",
+        "name": "Tsing_ring",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981390453812412416/kvpqwyFu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 78,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/y1g9ttvey7",
+        "username": "singring0417669",
+        "verified": false
+      }
+    ]
+  }
+}

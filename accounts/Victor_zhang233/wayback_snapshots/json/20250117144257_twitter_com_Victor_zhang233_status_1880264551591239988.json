@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1879553185758708075",
+    "created_at": "2025-01-17T14:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T15:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880264551591239988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1500365333475078148",
+          "start": 0,
+          "username": "wrieamg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880264551591239988",
+    "in_reply_to_user_id": "1500365333475078148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879553185758708075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wrieamg 不是这东西还能买得到吗😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1879553185758708075",
+        "created_at": "2025-01-17T14:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T15:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880264551591239988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1500365333475078148",
+              "start": 0,
+              "username": "wrieamg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880264551591239988",
+        "in_reply_to_user_id": "1500365333475078148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879553185758708075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wrieamg 不是这东西还能买得到吗😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879553181543477248"
+          ]
+        },
+        "author_id": "1500365333475078148",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1879553185758708075",
+        "created_at": "2025-01-15T15:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T16:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879553185758708075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZZztYhNVrs",
+              "end": 30,
+              "expanded_url": "https://x.com/wrieamg/status/1879553185758708075/photo/1",
+              "media_key": "3_1879553181543477248",
+              "start": 7,
+              "url": "https://t.co/ZZztYhNVrs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879553185758708075",
+        "lang": "ht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "12tDXM https://t.co/ZZztYhNVrs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 56,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 389
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-06T06:59:37.000Z",
+        "description": "中文/English | INTP-T | 苦逼在读高中生 | 友跨🏳️‍⚧️ | 愿意接纳任何立场 | 不键政 | 查成分回fo | 我只block机器人 | Producer(最菜的FL Studio使用者) | header是去往北八的路 | 我永远对每个人开启私信 欢迎来聊天 | 发的推文就是我死之前的日记",
+        "id": "1500365333475078148",
+        "location": "西格玛高原",
+        "name": "失眠",
+        "pinned_tweet_id": "1755622624351396350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653430004494241792/DO1k502V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 414,
+          "like_count": 1023,
+          "listed_count": 1,
+          "media_count": 602,
+          "tweet_count": 2122
+        },
+        "username": "wrieamg",
+        "verified": false
+      }
+    ]
+  }
+}

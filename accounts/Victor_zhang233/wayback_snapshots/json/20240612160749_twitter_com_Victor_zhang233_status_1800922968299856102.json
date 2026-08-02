@@ -1,0 +1,414 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1800746105812197389",
+    "created_at": "2024-06-12T16:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-12T17:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800922968299856102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753647103770050560",
+          "start": 0,
+          "username": "Nchzh184280"
+        },
+        {
+          "end": 26,
+          "id": "1776950180274634752",
+          "start": 13,
+          "username": "fen_gui65454"
+        },
+        {
+          "end": 39,
+          "id": "1472039984097988614",
+          "start": 27,
+          "username": "xingzhe2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800922968299856102",
+    "in_reply_to_user_id": "1753647103770050560",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800855498759299247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nchzh184280 @fen_gui65454 @xingzhe2021 正在关注：原神崩铁锛坏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1800746105812197389",
+        "created_at": "2024-06-12T16:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T17:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800922968299856102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1753647103770050560",
+              "start": 0,
+              "username": "Nchzh184280"
+            },
+            {
+              "end": 26,
+              "id": "1776950180274634752",
+              "start": 13,
+              "username": "fen_gui65454"
+            },
+            {
+              "end": 39,
+              "id": "1472039984097988614",
+              "start": 27,
+              "username": "xingzhe2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800922968299856102",
+        "in_reply_to_user_id": "1753647103770050560",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800855498759299247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nchzh184280 @fen_gui65454 @xingzhe2021 正在关注：原神崩铁锛坏"
+      },
+      {
+        "attachments": {},
+        "author_id": "1753647103770050560",
+        "conversation_id": "1800746105812197389",
+        "created_at": "2024-06-12T11:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T12:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800855498759299247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1776950180274634752",
+              "start": 0,
+              "username": "fen_gui65454"
+            },
+            {
+              "end": 26,
+              "id": "1472039984097988614",
+              "start": 14,
+              "username": "xingzhe2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800855498759299247",
+        "in_reply_to_user_id": "1776950180274634752",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800848039726498014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fen_gui65454 @xingzhe2021 你搁这刷存在感 用消息的震动塞你mb\n里自慰呢 好低能，像是小学男生为了吸引别人注意做各种傻逼事情，然后还沾沾自喜以为自己多与众不同🤣🤣小学没毕业就别翻墙了😂😂😂怕你脑子和屁眼功能完全调换了😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这//白左/简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": ".. Лунный",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 34,
+          "like_count": 124,
+          "listed_count": 0,
+          "tweet_count": 183
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T05:10:44.000Z",
+        "description": "新中國開國十大元帥之一，1971年9月13日因空難而亡。但於公元2024年2月打贏復活賽，並註冊X賬號，發佈反動言論。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh.m.wikipedia.org/w/index.php?ti…",
+                "end": 23,
+                "expanded_url": "https://zh.m.wikipedia.org/w/index.php?title=8964&redirect=no",
+                "start": 0,
+                "url": "https://t.co/3ISTksAW1H"
+              }
+            ]
+          }
+        },
+        "id": "1753647103770050560",
+        "location": "中華人民共和國",
+        "name": "林彪",
+        "pinned_tweet_id": "1800840926400794749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800863608009785345/YBrEusC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 99,
+          "like_count": 2703,
+          "listed_count": 1,
+          "tweet_count": 981
+        },
+        "url": "https://t.co/3ISTksAW1H",
+        "username": "Nchzh184280",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-07T12:28:51.000Z",
+        "description": "",
+        "id": "1776950180274634752",
+        "name": "桂乃芬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777999361756000256/o3QtNAvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 5,
+          "listed_count": 0,
+          "tweet_count": 49
+        },
+        "username": "fen_gui65454",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T03:06:23.000Z",
+        "description": "1. 本推內容以諷刺搞笑圖片、寫實漫畫和搞笑視頻為主，皆為原創或二創；以搞笑、戲說、諷刺、批判的形式，揭露極權統治階級及獨裁者的荒唐、邪惡、愚蠢、狂妄、蠻橫、無恥……\n2. 寫百姓看得懂的漢字，書寫牆國荒誕之事。\n#习近平 #搞笑 #漫画 #梗图",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 107,
+                "tag": "习近平"
+              },
+              {
+                "end": 115,
+                "start": 112,
+                "tag": "搞笑"
+              },
+              {
+                "end": 119,
+                "start": 116,
+                "tag": "漫画"
+              },
+              {
+                "end": 123,
+                "start": 120,
+                "tag": "梗图"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@QGHDZ",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@QGHDZ",
+                "start": 0,
+                "url": "https://t.co/beYywsf2zL"
+              }
+            ]
+          }
+        },
+        "id": "1472039984097988614",
+        "name": "墻國荒誕字（墙国荒诞字）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601762729832091649/nlPFqndm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58041,
+          "following_count": 422,
+          "like_count": 27105,
+          "listed_count": 205,
+          "tweet_count": 9646
+        },
+        "url": "https://t.co/beYywsf2zL",
+        "username": "xingzhe2021",
+        "verified": true
+      }
+    ]
+  }
+}

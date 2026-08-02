@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2008511158907793428",
+    "created_at": "2026-01-06T15:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T16:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008563957414666666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1167502107429105670",
+          "start": 0,
+          "username": "kotomiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008563957414666666",
+    "in_reply_to_user_id": "1167502107429105670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008511158907793428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kotomiouo 不要再騙我們死宅了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2008511158907793428",
+        "created_at": "2026-01-06T15:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T16:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008563957414666666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1167502107429105670",
+              "start": 0,
+              "username": "kotomiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008563957414666666",
+        "in_reply_to_user_id": "1167502107429105670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008511158907793428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kotomiouo 不要再騙我們死宅了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167502107429105670",
+        "conversation_id": "2008511158907793428",
+        "created_at": "2026-01-06T12:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T13:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008511158907793428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ATORI_YA/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/ATORI_YA/status/2008149918238793873",
+              "start": 14,
+              "url": "https://t.co/eHs3LDbQEv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008511158907793428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 222,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008149918238793873",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要再畫這種東西騙我幻想了 https://t.co/eHs3LDbQEv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001408376811704320/27ExCAWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 92,
+          "like_count": 1418,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 786
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-30T18:19:39.000Z",
+        "description": "台湾.病み\nJpop🦌🦔🍏.\n音ゲー.東方プロ.",
+        "id": "1167502107429105670",
+        "location": "幻想鄉",
+        "name": "ことみ",
+        "pinned_tweet_id": "1992211371841519826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007436814353911808/XmfNDpI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 806,
+          "like_count": 15472,
+          "listed_count": 4,
+          "media_count": 407,
+          "tweet_count": 6910
+        },
+        "username": "kotomiouo",
+        "verified": false
+      }
+    ]
+  }
+}

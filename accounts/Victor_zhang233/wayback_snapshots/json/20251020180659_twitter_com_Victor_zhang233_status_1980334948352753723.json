@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1980325903889756424",
+    "created_at": "2025-10-20T18:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T19:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980334948352753723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1428041553608527873",
+          "start": 0,
+          "username": "xingling_xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980334948352753723",
+    "in_reply_to_user_id": "1428041553608527873",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980325903889756424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingling_xl 😦👎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1980325903889756424",
+        "created_at": "2025-10-20T18:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T19:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980334948352753723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1428041553608527873",
+              "start": 0,
+              "username": "xingling_xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980334948352753723",
+        "in_reply_to_user_id": "1428041553608527873",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980325903889756424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingling_xl 😦👎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1428041553608527873",
+        "conversation_id": "1980325903889756424",
+        "created_at": "2025-10-20T17:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T18:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980325903889756424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980325903889756424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完全爆炸\n抗抑郁一点作用也没有\n只有解离"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（// 高中生［endl］ \n只听自杀黑¿._ / \n我喜欢视奸你们^°^",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 91,
+          "like_count": 877,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 684
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-18T17:10:20.000Z",
+        "description": "可能是个自己的树洞｜INFP｜中文｜English｜日本語｜会回fo",
+        "id": "1428041553608527873",
+        "location": "Holy Terra",
+        "name": "xingling",
+        "pinned_tweet_id": "1971305588354437128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1445717602597158924/hZWtL6ew_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 495,
+          "like_count": 742,
+          "listed_count": 15,
+          "media_count": 16,
+          "tweet_count": 444
+        },
+        "username": "xingling_xl",
+        "verified": false
+      }
+    ]
+  }
+}

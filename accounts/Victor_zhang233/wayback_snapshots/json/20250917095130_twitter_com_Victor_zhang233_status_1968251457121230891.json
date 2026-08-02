@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1968251457121230891",
+    "created_at": "2025-09-17T09:51:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T10:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968251457121230891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1842194704508796928",
+          "start": 3,
+          "username": "zongke1898"
+        },
+        {
+          "end": 27,
+          "id": "1905362528143822848",
+          "start": 16,
+          "username": "sola_nubes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968251457121230891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967568013923946938",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zongke1898: @sola_nubes 对同志锱铢必较，对敌人宽容大度。\n历史中资本主义彻底复辟后的中国共产党也是这么做的，甚至于搞诬陷开除党籍的一套，对功绩尽量隐藏，对缺点无限发大，不站在无产阶级历史观角度看问题。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1968251457121230891",
+        "created_at": "2025-09-17T09:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T10:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968251457121230891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1842194704508796928",
+              "start": 3,
+              "username": "zongke1898"
+            },
+            {
+              "end": 27,
+              "id": "1905362528143822848",
+              "start": 16,
+              "username": "sola_nubes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968251457121230891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967568013923946938",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zongke1898: @sola_nubes 对同志锱铢必较，对敌人宽容大度。\n历史中资本主义彻底复辟后的中国共产党也是这么做的，甚至于搞诬陷开除党籍的一套，对功绩尽量隐藏，对缺点无限发大，不站在无产阶级历史观角度看问题。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842194704508796928",
+        "conversation_id": "1967294213684711891",
+        "created_at": "2025-09-15T12:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T13:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967568013923946938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1905362528143822848",
+              "start": 0,
+              "username": "sola_nubes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967568013923946938",
+        "in_reply_to_user_id": "1842194704508796928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1163,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967567162861916547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sola_nubes 对同志锱铢必较，对敌人宽容大度。\n历史中资本主义彻底复辟后的中国共产党也是这么做的，甚至于搞诬陷开除党籍的一套，对功绩尽量隐藏，对缺点无限发大，不站在无产阶级历史观角度看问题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（//黑金属/高中生//呃呃呃呃简介这样写没问题吧？（",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 73,
+          "like_count": 649,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 628
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T13:27:07.000Z",
+        "description": "天下大乱，形势大好！     \n                             \n武攻文卫，天翻地覆！@luchishui1898\n        一切权力归劳动者！推翻中帝！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "luchishui1898"
+              }
+            ]
+          }
+        },
+        "id": "1842194704508796928",
+        "name": "Кан Шэн.(Константин.)",
+        "pinned_tweet_id": "1844014253705211930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842194914286993408/6ZXCQLxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2556,
+          "following_count": 152,
+          "like_count": 15119,
+          "listed_count": 19,
+          "media_count": 435,
+          "tweet_count": 3970
+        },
+        "username": "zongke1898",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T20:53:49.000Z",
+        "description": "🐈🐈🐈",
+        "id": "1905362528143822848",
+        "location": "Greenland",
+        "name": "青色的云",
+        "pinned_tweet_id": "1968004284957839431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905362648751112194/Hn_SLKjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 200,
+          "like_count": 1363,
+          "listed_count": 8,
+          "media_count": 106,
+          "tweet_count": 7155
+        },
+        "username": "sola_nubes",
+        "verified": false
+      }
+    ]
+  }
+}

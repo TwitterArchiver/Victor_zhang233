@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1861450526543511564",
+    "created_at": "2024-11-28T11:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T12:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862100604350312519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817115470736293889",
+          "start": 0,
+          "username": "8964jiaoxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862100604350312519",
+    "in_reply_to_user_id": "1817115470736293889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861450526543511564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964jiaoxi 草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1861450526543511564",
+        "created_at": "2024-11-28T11:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T12:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862100604350312519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817115470736293889",
+              "start": 0,
+              "username": "8964jiaoxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862100604350312519",
+        "in_reply_to_user_id": "1817115470736293889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861450526543511564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964jiaoxi 草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817115470736293889",
+        "conversation_id": "1861450526543511564",
+        "created_at": "2024-11-26T16:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T17:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861450526543511564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MRds788/status…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/MRds788/status/1861032987321844141",
+              "start": 20,
+              "url": "https://t.co/5bJQmZM8ms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861450526543511564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 14466,
+          "like_count": 233,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861032987321844141",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "邓小平坦克碾人算不算小萝莉重口味SM（ https://t.co/5bJQmZM8ms"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这///简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、可能是网左（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 53,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 365
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T08:31:17.000Z",
+        "description": "isfp/新左派/史同人/革命女权/支持lgbt/支持🇺🇦🇵🇸/社会主义多党制/不排斥毛霍安托西/支持二简字/泛左互fo",
+        "id": "1817115470736293889",
+        "location": "桃花源",
+        "name": "艽蒠",
+        "pinned_tweet_id": "1859969712228327804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852068582672191488/Sco9b6xs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 761,
+          "like_count": 16869,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2129
+        },
+        "username": "8964jiaoxi",
+        "verified": false
+      }
+    ]
+  }
+}

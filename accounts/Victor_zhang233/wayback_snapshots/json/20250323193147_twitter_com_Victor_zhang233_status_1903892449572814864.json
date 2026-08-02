@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1903505538887086263",
+    "created_at": "2025-03-23T19:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T20:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903892449572814864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1821260004860817408",
+          "start": 0,
+          "username": "Marswiman2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903892449572814864",
+    "in_reply_to_user_id": "1821260004860817408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903505538887086263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Marswiman2 哎呀害死我力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1903505538887086263",
+        "created_at": "2025-03-23T19:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T20:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903892449572814864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1821260004860817408",
+              "start": 0,
+              "username": "Marswiman2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903892449572814864",
+        "in_reply_to_user_id": "1821260004860817408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903505538887086263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Marswiman2 哎呀害死我力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821260004860817408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1903505538887086263",
+        "created_at": "2025-03-22T17:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T18:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903505538887086263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903505538887086263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1775,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "21世纪推动人类走向民主的八位伟人。\n\n🇺🇸：特朗普\n🇨🇳：习近平\n🇷🇺：普京\n🇮🇷：哈梅内伊\n🇰🇵：金正恩\n🇮🇱：内塔尼亚胡\n🇧🇾：卢卡申科\n🇹🇷：埃尔多安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/抑郁焦虑/黑金属/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 坏人堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 66,
+          "like_count": 469,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 511
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T19:00:10.000Z",
+        "description": "邪恶轴心归来，看略地球世界土崩瓦解。 @Marswimore",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Marswimore"
+              }
+            ]
+          }
+        },
+        "id": "1821260004860817408",
+        "location": "火星 温带行省",
+        "name": "峰哥亡命上海滩👤",
+        "pinned_tweet_id": "1881457202638332081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887380005547884544/YwOsbWfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 597,
+          "like_count": 22469,
+          "listed_count": 3,
+          "media_count": 427,
+          "tweet_count": 3078
+        },
+        "username": "Marswiman2",
+        "verified": false
+      }
+    ]
+  }
+}

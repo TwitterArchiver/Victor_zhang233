@@ -1,0 +1,209 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1800884786418094324",
+    "created_at": "2024-06-12T16:10:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-12T17:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800923631649976714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1705414209432064000",
+          "start": 0,
+          "username": "hung1623120"
+        },
+        {
+          "end": 29,
+          "id": "1644328501980561409",
+          "start": 13,
+          "username": "LitangHospital2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800923631649976714",
+    "in_reply_to_user_id": "1705414209432064000",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800923180242211207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hung1623120 @LitangHospital2 大头儿子和小头爸爸，这不经典？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1800884786418094324",
+        "created_at": "2024-06-12T16:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T17:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800923631649976714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705414209432064000",
+              "start": 0,
+              "username": "hung1623120"
+            },
+            {
+              "end": 29,
+              "id": "1644328501980561409",
+              "start": 13,
+              "username": "LitangHospital2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800923631649976714",
+        "in_reply_to_user_id": "1705414209432064000",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800923180242211207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hung1623120 @LitangHospital2 大头儿子和小头爸爸，这不经典？"
+      },
+      {
+        "attachments": {},
+        "author_id": "1705414209432064000",
+        "conversation_id": "1800884786418094324",
+        "created_at": "2024-06-12T16:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T17:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800923180242211207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1644328501980561409",
+              "start": 0,
+              "username": "LitangHospital2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800923180242211207",
+        "in_reply_to_user_id": "1644328501980561409",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800884786418094324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LitangHospital2 第二张是啥？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这//白左/简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": ".. Лунный",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 34,
+          "like_count": 124,
+          "listed_count": 0,
+          "tweet_count": 185
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T02:50:29.000Z",
+        "description": "本人王洪文，1935年出生在长春，早年参加过朝鲜战争，1951年入党，战争结束后在国棉十七厂保卫科担任科事部，1966年成立工总司并担任总司令，1973年在中共十大当选为副主席，在随后的几年里成功当选为主席",
+        "id": "1705414209432064000",
+        "location": "中南海",
+        "name": "王洪文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763214483579916288/AOfFqC95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3167,
+          "following_count": 307,
+          "like_count": 3347,
+          "listed_count": 17,
+          "tweet_count": 4850
+        },
+        "username": "hung1623120",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T13:17:27.000Z",
+        "description": "经典回归",
+        "id": "1644328501980561409",
+        "location": "理塘",
+        "name": "丁医生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798011104209334273/XTsGHgjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10849,
+          "following_count": 2694,
+          "like_count": 34042,
+          "listed_count": 38,
+          "tweet_count": 8491
+        },
+        "username": "LitangHospital2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1922725807534866674",
+    "created_at": "2025-05-15T07:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T08:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922917493724561744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1358308167700996100",
+          "start": 0,
+          "username": "Luonanzhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922917493724561744",
+    "in_reply_to_user_id": "1358308167700996100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922725807534866674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luonanzhu 你们宿舍怎么这么早关灯。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1922725807534866674",
+        "created_at": "2025-05-15T07:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T08:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922917493724561744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1358308167700996100",
+              "start": 0,
+              "username": "Luonanzhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922917493724561744",
+        "in_reply_to_user_id": "1358308167700996100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922725807534866674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luonanzhu 你们宿舍怎么这么早关灯。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1358308167700996100",
+        "conversation_id": "1922725807534866674",
+        "created_at": "2025-05-14T18:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T19:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922725807534866674"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922725807534866674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 916,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "舍友为什么突然摸我头，是不是我男娘味太重了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（/玉玉休学中/黑金属/高一//呃呃呃呃简介这样写没问题吧？（\n欢迎扩列和找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 怀人堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 64,
+          "like_count": 516,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 584
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-07T06:55:01.000Z",
+        "description": "我们牵着手，看着散落一地的照片                             \n          \nCN/MTX/性格爆裂/人格破碎/门槛是88r/陪你玩！/🍄逃生装置：@likeliuhua🍄@ye15803❤️@4ntid0te_💙@shiiiiiiii47💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 91,
+                "username": "likeliuhua"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "username": "ye15803"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "4ntid0te_"
+              },
+              {
+                "end": 137,
+                "start": 124,
+                "username": "shiiiiiiii47"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/luonan…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/luonanzhu.bsky.social",
+                "start": 0,
+                "url": "https://t.co/yuOt4OmUZo"
+              }
+            ]
+          }
+        },
+        "id": "1358308167700996100",
+        "location": "Bluesky🦋:↓    禁止跳楼 违者罚款",
+        "name": "🍄†Rօղąղzհմ†",
+        "pinned_tweet_id": "1730507373289304230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852184097415925761/oboOr_cI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4304,
+          "following_count": 786,
+          "like_count": 62366,
+          "listed_count": 9,
+          "media_count": 3695,
+          "tweet_count": 12521
+        },
+        "url": "https://t.co/yuOt4OmUZo",
+        "username": "Luonanzhu",
+        "verified": false
+      }
+    ]
+  }
+}

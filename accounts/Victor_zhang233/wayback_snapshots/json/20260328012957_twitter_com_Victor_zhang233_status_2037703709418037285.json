@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2037702761220112720",
+    "created_at": "2026-03-28T01:29:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T02:29:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037703709418037285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1492808050461196288",
+          "start": 0,
+          "username": "Breaking_Lead_G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037703709418037285",
+    "in_reply_to_user_id": "1492808050461196288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037702761220112720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Breaking_Lead_G 封建忠君"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2037702761220112720",
+        "created_at": "2026-03-28T01:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T02:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037703709418037285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1492808050461196288",
+              "start": 0,
+              "username": "Breaking_Lead_G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037703709418037285",
+        "in_reply_to_user_id": "1492808050461196288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037702761220112720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Breaking_Lead_G 封建忠君"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492808050461196288",
+        "conversation_id": "2037702761220112720",
+        "created_at": "2026-03-28T01:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T02:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037702761220112720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037702761220112720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "武士道到底是怎样的精神呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "T^T",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032502037242662912/m7BPbwdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 119,
+          "like_count": 2559,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1110
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T10:29:22.000Z",
+        "description": "喜欢函数式编程，古典音乐和神秘感。 高中生 里号 @Wiki1Minecraft 喜欢@10lulu2老师的音乐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 25,
+                "username": "Wiki1Minecraft"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "10lulu2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "0x0.st",
+                "end": 23,
+                "expanded_url": "http://0x0.st",
+                "start": 0,
+                "url": "https://t.co/GGoZDg5x7N"
+              }
+            ]
+          }
+        },
+        "id": "1492808050461196288",
+        "location": "Xi'an",
+        "name": "千秋",
+        "pinned_tweet_id": "2037636551182876867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036567342726221824/X6anslr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1638,
+          "following_count": 694,
+          "like_count": 1718,
+          "listed_count": 7,
+          "media_count": 733,
+          "tweet_count": 7680
+        },
+        "url": "https://t.co/GGoZDg5x7N",
+        "username": "Breaking_Lead_G",
+        "verified": false
+      }
+    ]
+  }
+}

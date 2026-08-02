@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2059147560020000874",
+    "created_at": "2026-05-27T08:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059558241286390211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1966769306240512007",
+          "start": 0,
+          "username": "Epyq59QJZV90802"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059558241286390211",
+    "in_reply_to_user_id": "1966769306240512007",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059558010721337526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Epyq59QJZV90802 和一位"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 970,
+        "media_key": "3_2059558008397635584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUFGLzaIAAvj8C.jpg",
+        "width": 502
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2059147560020000874",
+        "created_at": "2026-05-27T08:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059558241286390211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1966769306240512007",
+              "start": 0,
+              "username": "Epyq59QJZV90802"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059558241286390211",
+        "in_reply_to_user_id": "1966769306240512007",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059558010721337526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Epyq59QJZV90802 和一位"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059558008397635584"
+          ]
+        },
+        "author_id": "1966769306240512007",
+        "conversation_id": "2059147560020000874",
+        "created_at": "2026-05-27T08:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059558010721337526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nfiRhTlXH1",
+              "end": 56,
+              "expanded_url": "https://x.com/Epyq59QJZV90802/status/2059558010721337526/photo/1",
+              "media_key": "3_2059558008397635584",
+              "start": 33,
+              "url": "https://t.co/nfiRhTlXH1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059558010721337526",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059147560020000874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 快點修復啊！要個der止痛藥😡 https://t.co/nfiRhTlXH1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2055781542031753407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 208,
+          "like_count": 4396,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1546
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-13T07:42:14.000Z",
+        "description": "",
+        "id": "1966769306240512007",
+        "name": "入機王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042592482115088384/lLVrIOfS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 25,
+          "like_count": 1076,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 549
+        },
+        "username": "Epyq59QJZV90802",
+        "verified": false
+      }
+    ]
+  }
+}

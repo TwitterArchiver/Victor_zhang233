@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880264657484607488"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "1879767451245945047",
+    "created_at": "2025-01-17T14:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T15:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880264660282384733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1500365333475078148",
+          "start": 0,
+          "username": "wrieamg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iN21xFbhS1",
+          "end": 38,
+          "expanded_url": "https://x.com/Victor_zhang233/status/1880264660282384733/photo/1",
+          "media_key": "3_1880264657484607488",
+          "start": 15,
+          "url": "https://t.co/iN21xFbhS1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880264660282384733",
+    "in_reply_to_user_id": "1500365333475078148",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879767451245945047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wrieamg 我来！！！ https://t.co/iN21xFbhS1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_1880264657484607488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhgKvnEXcAACTK4.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880264657484607488"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "1879767451245945047",
+        "created_at": "2025-01-17T14:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T15:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880264660282384733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1500365333475078148",
+              "start": 0,
+              "username": "wrieamg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iN21xFbhS1",
+              "end": 38,
+              "expanded_url": "https://x.com/Victor_zhang233/status/1880264660282384733/photo/1",
+              "media_key": "3_1880264657484607488",
+              "start": 15,
+              "url": "https://t.co/iN21xFbhS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880264660282384733",
+        "in_reply_to_user_id": "1500365333475078148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879767451245945047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wrieamg 我来！！！ https://t.co/iN21xFbhS1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500365333475078148",
+        "conversation_id": "1879767451245945047",
+        "created_at": "2025-01-16T05:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T06:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879767451245945047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wrieamg/status…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/wrieamg/status/1879553185758708075",
+              "start": 117,
+              "url": "https://t.co/lf0qmU8I10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879767451245945047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879553185758708075",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Very very bad trip\n晚上十一点服用后打了两三个小时的游戏，没一点药效，睡觉去了，凌晨四点我被药效弄醒，刚开始我以为我在攀爬，后来我才发现我在床上，我不停地翻腾，蜷缩，被药效折磨着\n这还是DXM吗，这简直就是金刚烷胺 https://t.co/lf0qmU8I10"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 56,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 390
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-06T06:59:37.000Z",
+        "description": "中文/English | INTP-T | 苦逼在读高中生 | 友跨🏳️‍⚧️ | 愿意接纳任何立场 | 不键政 | 查成分回fo | 我只block机器人 | Producer(最菜的FL Studio使用者) | header是去往北八的路 | 我永远对每个人开启私信 欢迎来聊天 | 发的推文就是我死之前的日记",
+        "id": "1500365333475078148",
+        "location": "西格玛高原",
+        "name": "失眠",
+        "pinned_tweet_id": "1755622624351396350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653430004494241792/DO1k502V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 414,
+          "like_count": 1023,
+          "listed_count": 1,
+          "media_count": 602,
+          "tweet_count": 2122
+        },
+        "username": "wrieamg",
+        "verified": false
+      }
+    ]
+  }
+}

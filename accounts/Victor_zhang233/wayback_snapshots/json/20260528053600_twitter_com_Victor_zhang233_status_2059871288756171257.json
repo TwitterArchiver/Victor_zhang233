@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2059871288756171257",
+    "created_at": "2026-05-28T05:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059871288756171257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1896510089609297920",
+          "start": 3,
+          "username": "Cheeseduck111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059871288756171257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059861398566719928",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cheeseduck111: 依我看，心情太好的时候就不要频繁聊天了\n时候被人发现我不是阴暗b只是个脑子有病的屌丝了可怎么办啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2059871288756171257",
+        "created_at": "2026-05-28T05:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059871288756171257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1896510089609297920",
+              "start": 3,
+              "username": "Cheeseduck111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059871288756171257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059861398566719928",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cheeseduck111: 依我看，心情太好的时候就不要频繁聊天了\n时候被人发现我不是阴暗b只是个脑子有病的屌丝了可怎么办啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896510089609297920",
+        "conversation_id": "2059861398566719928",
+        "created_at": "2026-05-28T04:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059861398566719928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059861398566719928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "依我看，心情太好的时候就不要频繁聊天了\n时候被人发现我不是阴暗b只是个脑子有病的屌丝了可怎么办啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2059669582818721884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 228,
+          "like_count": 4624,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1604
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T10:37:05.000Z",
+        "description": "168/60 hrt：2022.10.3\n05年生人 mtf\n坐标河南驻马店\n🚪58 可+联系方式\n活着的意义是让别人感受到自己不管痛苦或快乐",
+        "id": "1896510089609297920",
+        "name": "jimiling 🍥",
+        "pinned_tweet_id": "2056370088140587488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010906034991480833/wAteIzsP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 95,
+          "like_count": 6265,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1112
+        },
+        "username": "Cheeseduck111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2020852455215427712",
+    "created_at": "2026-02-09T16:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T17:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020897801165844834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2003990629135929345",
+          "start": 0,
+          "username": "zzethldOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020897801165844834",
+    "in_reply_to_user_id": "2003990629135929345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020852455215427712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzethldOfficial 有没有链接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2095,
+        "media_key": "3_2020852452682248192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuCmUmaMAAZjit.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2020852455215427712",
+        "created_at": "2026-02-09T16:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T17:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020897801165844834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2003990629135929345",
+              "start": 0,
+              "username": "zzethldOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020897801165844834",
+        "in_reply_to_user_id": "2003990629135929345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020852455215427712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzethldOfficial 有没有链接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020852452682248192"
+          ]
+        },
+        "author_id": "2003990629135929345",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020852455215427712",
+        "created_at": "2026-02-09T13:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T14:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020852455215427712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wgKiUULdLF",
+              "end": 31,
+              "expanded_url": "https://x.com/zzethldOfficial/status/2020852455215427712/photo/1",
+              "media_key": "3_2020852452682248192",
+              "start": 8,
+              "url": "https://t.co/wgKiUULdLF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020852455215427712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我是男的。 https://t.co/wgKiUULdLF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "林中落雨，秋前盛夏",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016888733715615747/2ZjaRw3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 78,
+          "like_count": 1732,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 880
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-25T00:46:36.000Z",
+        "description": "カウント・ゼトッド | 别名义：Cosmospïka. | 音ゲー | プロセカ創作譜面 | 病弱系男子",
+        "id": "2003990629135929345",
+        "location": "(191, 62, -34)",
+        "name": "Comte Zzethld 🍥⚡🎵🕹️🔮⛓️🗡️",
+        "pinned_tweet_id": "2020799757023605217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003997640024117254/LDWKEYCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 727,
+          "like_count": 4913,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1252
+        },
+        "username": "zzethldOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

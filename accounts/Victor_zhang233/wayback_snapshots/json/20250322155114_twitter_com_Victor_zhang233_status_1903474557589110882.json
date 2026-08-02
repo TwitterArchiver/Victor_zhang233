@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1903421180574617822",
+    "created_at": "2025-03-22T15:51:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T16:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903474557589110882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845844455095762944",
+          "start": 0,
+          "username": "Ankyo127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903474557589110882",
+    "in_reply_to_user_id": "1845844455095762944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903421180574617822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ankyo127 呃呃啊逆天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1903421180574617822",
+        "created_at": "2025-03-22T15:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T16:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903474557589110882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845844455095762944",
+              "start": 0,
+              "username": "Ankyo127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903474557589110882",
+        "in_reply_to_user_id": "1845844455095762944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903421180574617822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ankyo127 呃呃啊逆天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845844455095762944",
+        "conversation_id": "1903421180574617822",
+        "created_at": "2025-03-22T12:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T13:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903421180574617822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903421180574617822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 311,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何评价我是因为吞药自杀的，所以我的母亲理解为药都不是好东西，更不让我吃了，把我抑郁焦虑和精分的处方药全藏起来了，现在我每天都疯狂发病，下一次自杀真是指日可待了👎🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/抑郁焦虑/黑金属/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 坏人堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 66,
+          "like_count": 467,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 507
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T15:10:13.000Z",
+        "description": "桉秋/Ankyo🩵🤍丨友跨丨精分+重抑+中焦+BPD丨自伤od丨LGBT+丨欢迎互fo丨 很喜欢聊天和交朋友所以没有门槛╹ヮ╹",
+        "id": "1845844455095762944",
+        "name": "Ankyo꙳.†",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845846041545019392/2n5ZnMZ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 40,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 46
+        },
+        "username": "Ankyo127",
+        "verified": false
+      }
+    ]
+  }
+}

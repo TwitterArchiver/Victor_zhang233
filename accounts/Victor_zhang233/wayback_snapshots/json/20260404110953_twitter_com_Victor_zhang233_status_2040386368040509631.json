@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040386363267461120"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2040001897034371402",
+    "created_at": "2026-04-04T11:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T12:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040386368040509631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1775833048493240320",
+          "start": 0,
+          "username": "kuukiwfn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YSFQTnbcvf",
+          "end": 54,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2040386368040509631/photo/1",
+          "media_key": "3_2040386363267461120",
+          "start": 31,
+          "url": "https://t.co/YSFQTnbcvf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040386368040509631",
+    "in_reply_to_user_id": "1775833048493240320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040001897034371402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuukiwfn 我们可以期待中国全面禁药然后制毒业大爆发 https://t.co/YSFQTnbcvf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2040386363267461120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFDolkMbsAAzPfP.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040386363267461120"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2040001897034371402",
+        "created_at": "2026-04-04T11:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040386368040509631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1775833048493240320",
+              "start": 0,
+              "username": "kuukiwfn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSFQTnbcvf",
+              "end": 54,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2040386368040509631/photo/1",
+              "media_key": "3_2040386363267461120",
+              "start": 31,
+              "url": "https://t.co/YSFQTnbcvf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040386368040509631",
+        "in_reply_to_user_id": "1775833048493240320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040001897034371402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwfn 我们可以期待中国全面禁药然后制毒业大爆发 https://t.co/YSFQTnbcvf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775833048493240320",
+        "conversation_id": "2040001897034371402",
+        "created_at": "2026-04-03T09:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040001897034371402"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040001897034371402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃呃如果以后没药吃了真的只能买策划药了嘛（\n（如果都不让用了 那么是不是只能去冒着蹲号子的风险overdose了\n不过我还是我比较想知道xjp ccp倒台和没药吃这一天 哪一天会先到来☝️🤓（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "四月雨",
+        "id": "1755494652889661440",
+        "location": "人间",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038442200997265408/vibWzS-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 141,
+          "like_count": 3097,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1227
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T10:29:48.000Z",
+        "description": "✝️2010transgender 🏳️‍⚧️ 🖤\n 💊overdose lover 🩸喜欢非主流 🥰\n❤️ rebzyyx ,kets4eki..scenecore ..💉 \n🥰dm互fo 😋😋 |",
+        "id": "1775833048493240320",
+        "location": "kuuki小黒屋",
+        "name": "✝️kuuki✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028531881999036416/YxNVIIbZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 716,
+          "like_count": 31945,
+          "listed_count": 0,
+          "media_count": 678,
+          "tweet_count": 2507
+        },
+        "username": "kuukiwfn",
+        "verified": false
+      }
+    ]
+  }
+}

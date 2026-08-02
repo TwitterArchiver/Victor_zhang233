@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055608457026502656"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2055571843592171584",
+    "created_at": "2026-05-16T11:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T12:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055608459622777034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1829502489227575296",
+          "start": 0,
+          "username": "hajihajimo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gVfVY5g4ZJ",
+          "end": 38,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2055608459622777034/photo/1",
+          "media_key": "3_2055608457026502656",
+          "start": 15,
+          "url": "https://t.co/gVfVY5g4ZJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055608459622777034",
+    "in_reply_to_user_id": "1829502489227575296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055571843592171584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hajihajimo 依旧 https://t.co/gVfVY5g4ZJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_2055608457026502656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIb9ACZagAAXO5a.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055608457026502656"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2055571843592171584",
+        "created_at": "2026-05-16T11:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055608459622777034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829502489227575296",
+              "start": 0,
+              "username": "hajihajimo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gVfVY5g4ZJ",
+              "end": 38,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2055608459622777034/photo/1",
+              "media_key": "3_2055608457026502656",
+              "start": 15,
+              "url": "https://t.co/gVfVY5g4ZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055608459622777034",
+        "in_reply_to_user_id": "1829502489227575296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055571843592171584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hajihajimo 依旧 https://t.co/gVfVY5g4ZJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829502489227575296",
+        "conversation_id": "2055571843592171584",
+        "created_at": "2026-05-16T08:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T09:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055571843592171584"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055571843592171584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我被傻逼头眼了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "____好了宝宝，我心疼你，不管感情怎么使人麻木，遇到的人再不真诚，家庭，学习，工作状态再怎么样，你都要好好吃饭，去做一些积极开朗的事情，去被别人需要，人活着一定是要有什么精神寄托，我不是给你什么建议，幸福是个概念词，我只是希望你能好好生活，找到自己，跟自己的情绪好好相处，我能共情你",
+        "id": "1755494652889661440",
+        "location": "人间",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 159,
+          "like_count": 3736,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1397
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T12:52:50.000Z",
+        "description": "阴郁疯小孩|femboy|男|加q/v🚪67/91|不线下|各方面都不健康|烟鬼酒鬼|波奇|骚扰我",
+        "id": "1829502489227575296",
+        "location": "日耳曼尼亚",
+        "name": "施工作业🦐",
+        "pinned_tweet_id": "2043299349002891404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052322643735666688/LmM4GLAc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 323,
+          "like_count": 4126,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 1905
+        },
+        "username": "hajihajimo",
+        "verified": false
+      }
+    ]
+  }
+}

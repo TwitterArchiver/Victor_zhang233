@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2038423524176736692",
+    "created_at": "2026-03-30T02:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T03:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038436503307854035"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038436503307854035",
+    "in_reply_to_user_id": "1755494652889661440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038423524176736692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看来不得不睡了😴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2038423524176736692",
+        "created_at": "2026-03-30T02:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T03:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038436503307854035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038436503307854035",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038423524176736692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看来不得不睡了😴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2038423522327056384"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2038423524176736692",
+        "created_at": "2026-03-30T01:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T02:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038423524176736692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038423524176736692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡觉还是吃普瑞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "T^T / \n这里是Ashes / 生理男 / 性取向是null / 我不会写简介 / 已休学 / 该干点什么好呢？",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032502037242662912/m7BPbwdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 128,
+          "like_count": 2700,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1151
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

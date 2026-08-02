@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2067123900257812786",
+    "created_at": "2026-06-17T09:17:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067174712309174443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2014411515764334592",
+          "start": 0,
+          "username": "weepingrein"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067174712309174443",
+    "in_reply_to_user_id": "2014411515764334592",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067123900257812786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weepingrein What are the third and fourth albums?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "3_2067123893182025729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_mOo_WUAEcCfZ.jpg",
+        "width": 572
+      },
+      {
+        "height": 500,
+        "media_key": "3_2067123893622472704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_mOqoXAAAJ9U5.jpg",
+        "width": 500
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2067123893958021120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_mOr4XEAA6EMR.jpg",
+        "width": 1000
+      },
+      {
+        "height": 500,
+        "media_key": "3_2067123895606349824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_mOyBWkAA1ldq.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2067123900257812786",
+        "created_at": "2026-06-17T09:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067174712309174443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2014411515764334592",
+              "start": 0,
+              "username": "weepingrein"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067174712309174443",
+        "in_reply_to_user_id": "2014411515764334592",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067123900257812786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weepingrein What are the third and fourth albums?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067123893182025729",
+            "3_2067123893622472704",
+            "3_2067123893958021120",
+            "3_2067123895606349824"
+          ]
+        },
+        "author_id": "2014411515764334592",
+        "conversation_id": "2067123900257812786",
+        "created_at": "2026-06-17T05:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067123900257812786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8P1RdIcvhs",
+              "end": 83,
+              "expanded_url": "https://x.com/weepingrein/status/2067123900257812786/photo/1",
+              "media_key": "3_2067123893182025729",
+              "start": 60,
+              "url": "https://t.co/8P1RdIcvhs"
+            },
+            {
+              "display_url": "pic.x.com/8P1RdIcvhs",
+              "end": 83,
+              "expanded_url": "https://x.com/weepingrein/status/2067123900257812786/photo/1",
+              "media_key": "3_2067123893622472704",
+              "start": 60,
+              "url": "https://t.co/8P1RdIcvhs"
+            },
+            {
+              "display_url": "pic.x.com/8P1RdIcvhs",
+              "end": 83,
+              "expanded_url": "https://x.com/weepingrein/status/2067123900257812786/photo/1",
+              "media_key": "3_2067123893958021120",
+              "start": 60,
+              "url": "https://t.co/8P1RdIcvhs"
+            },
+            {
+              "display_url": "pic.x.com/8P1RdIcvhs",
+              "end": 83,
+              "expanded_url": "https://x.com/weepingrein/status/2067123900257812786/photo/1",
+              "media_key": "3_2067123895606349824",
+              "start": 60,
+              "url": "https://t.co/8P1RdIcvhs"
+            },
+            {
+              "display_url": "x.com/willneverguess…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/willneverguess2/status/2066593384769208472",
+              "start": 84,
+              "url": "https://t.co/jHqWL1J9bK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067123900257812786",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 1262,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066593384769208472",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "every single one of these albums destroy the rest I'm sorry https://t.co/8P1RdIcvhs https://t.co/jHqWL1J9bK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 337,
+          "like_count": 7041,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1989
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T18:56:04.000Z",
+        "description": "blackmetalhead loser with mental health issues and an eating disorder",
+        "id": "2014411515764334592",
+        "name": "alexi ᛏ 🇸🇪",
+        "pinned_tweet_id": "2063012249782931498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050590055362650112/prWLijBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 434,
+          "like_count": 6452,
+          "listed_count": 8,
+          "media_count": 947,
+          "tweet_count": 3811
+        },
+        "url": "",
+        "username": "weepingrein",
+        "verified": false
+      }
+    ]
+  }
+}

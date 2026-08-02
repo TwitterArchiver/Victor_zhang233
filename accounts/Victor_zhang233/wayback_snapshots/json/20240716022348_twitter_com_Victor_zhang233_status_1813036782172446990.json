@@ -1,0 +1,188 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1812634453875020257",
+    "created_at": "2024-07-16T02:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-16T03:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813036782172446990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1669055066576134157",
+          "start": 0,
+          "username": "BanboSundownup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813036782172446990",
+    "in_reply_to_user_id": "1669055066576134157",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812634453875020257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BanboSundownup 无产绷不住了🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1812634453875020257",
+        "created_at": "2024-07-16T02:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T03:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813036782172446990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1669055066576134157",
+              "start": 0,
+              "username": "BanboSundownup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813036782172446990",
+        "in_reply_to_user_id": "1669055066576134157",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812634453875020257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BanboSundownup 无产绷不住了🤣"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812634450234048513",
+            "3_1812634451014262784"
+          ]
+        },
+        "author_id": "1669055066576134157",
+        "conversation_id": "1812634453875020257",
+        "created_at": "2024-07-14T23:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T00:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812634453875020257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/UNMMFR6Xad",
+              "end": 49,
+              "expanded_url": "https://twitter.com/BanboSundownup/status/1812634453875020257/photo/1",
+              "media_key": "3_1812634450234048513",
+              "start": 26,
+              "url": "https://t.co/UNMMFR6Xad"
+            },
+            {
+              "display_url": "pic.twitter.com/UNMMFR6Xad",
+              "end": 49,
+              "expanded_url": "https://twitter.com/BanboSundownup/status/1812634453875020257/photo/1",
+              "media_key": "3_1812634451014262784",
+              "start": 26,
+              "url": "https://t.co/UNMMFR6Xad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812634453875020257",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 6084,
+          "like_count": 126,
+          "quote_count": 3,
+          "reply_count": 21,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "哦牛批还有这种无产阶级的，你们有这样的无产阶级吗🥰 https://t.co/UNMMFR6Xad"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这//白左/简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": ".. Лунный",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 38,
+          "like_count": 178,
+          "listed_count": 0,
+          "tweet_count": 229
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T18:52:03.000Z",
+        "description": "被我屏蔽的你可以理解为你赢了，去玩吧",
+        "id": "1669055066576134157",
+        "location": "井冈山革命根据地",
+        "name": "Sundownup",
+        "pinned_tweet_id": "1768903148142539204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810957796617375749/Qta_y4_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 101,
+          "like_count": 377,
+          "listed_count": 0,
+          "tweet_count": 1106
+        },
+        "username": "BanboSundownup",
+        "verified": false
+      }
+    ]
+  }
+}

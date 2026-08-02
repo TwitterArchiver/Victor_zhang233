@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1903062853868982362",
+    "created_at": "2025-03-22T08:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T09:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903364370958045312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1618104342451744771",
+          "start": 0,
+          "username": "bxinbshmxin11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903364370958045312",
+    "in_reply_to_user_id": "1618104342451744771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903299219034870209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bxinbshmxin11 😨😨😨我可不是绝命毒师"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1903299219034870209].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1903299219034870209",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1903299219034870209"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1903062853868982362",
+        "created_at": "2025-03-22T08:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T09:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903364370958045312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1618104342451744771",
+              "start": 0,
+              "username": "bxinbshmxin11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903364370958045312",
+        "in_reply_to_user_id": "1618104342451744771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903299219034870209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bxinbshmxin11 😨😨😨我可不是绝命毒师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/黑金属/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 坏人堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 63,
+          "like_count": 444,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 494
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T04:32:29.000Z",
+        "description": "There is no straight road in the world, be prepared to take a winding road",
+        "id": "1618104342451744771",
+        "location": "地球",
+        "name": "归戾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887784435267043328/aGgou6OT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 335,
+          "like_count": 7279,
+          "listed_count": 0,
+          "media_count": 326,
+          "tweet_count": 2159
+        },
+        "username": "bxinbshmxin11",
+        "verified": false
+      }
+    ]
+  }
+}

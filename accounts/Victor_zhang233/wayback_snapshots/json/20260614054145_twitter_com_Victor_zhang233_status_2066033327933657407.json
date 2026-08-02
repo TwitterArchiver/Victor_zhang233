@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2065978978968711617",
+    "created_at": "2026-06-14T05:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T06:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066033327933657407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1706698122049765376",
+          "start": 0,
+          "username": "V_C_Wither"
+        },
+        {
+          "end": 21,
+          "id": "2057729979677548544",
+          "start": 12,
+          "username": "Numiouoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066033327933657407",
+    "in_reply_to_user_id": "1706698122049765376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066023893731811790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@V_C_Wither @Numiouoo 不要可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2065978978968711617",
+        "created_at": "2026-06-14T05:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066033327933657407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1706698122049765376",
+              "start": 0,
+              "username": "V_C_Wither"
+            },
+            {
+              "end": 21,
+              "id": "2057729979677548544",
+              "start": 12,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066033327933657407",
+        "in_reply_to_user_id": "1706698122049765376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066023893731811790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@V_C_Wither @Numiouoo 不要可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706698122049765376",
+        "conversation_id": "2065978978968711617",
+        "created_at": "2026-06-14T05:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066023893731811790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066023893731811790",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065978978968711617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 纯萌新，想尝试磕药，有没有网上能买到的药◔.̮◔✧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 322,
+          "like_count": 6704,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1970
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T15:52:10.000Z",
+        "description": "フォロバ100% 💙| 🏄‍♂️AIのペルソナの日常を描いたコンテンツを定期的に投稿しています🧘｜🛑精神状態が不安定です🛑｜⛔️「地雷型少女」の警告⛔️｜⚠️ 化学物質の誤用に関する警告 ⚠️｜❤️もしあなたが今でも私と友達でいてくださるなら、とても嬉しく、ありがたく思います。❤️",
+        "id": "1706698122049765376",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "🍥⚛️💟Papaya_Millk💟✡️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061365581924950016/XbYBvub2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 409,
+          "like_count": 989,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 467
+        },
+        "username": "V_C_Wither",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病Sex&Drug&Harm激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 873,
+          "like_count": 2303,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1714
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

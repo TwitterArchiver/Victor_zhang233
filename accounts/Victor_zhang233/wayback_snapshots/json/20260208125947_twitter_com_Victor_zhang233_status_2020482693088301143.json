@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2020478312108216806",
+    "created_at": "2026-02-08T12:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T13:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020482693088301143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700948552078467072",
+          "start": 0,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020482693088301143",
+    "in_reply_to_user_id": "1700948552078467072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020478312108216806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_DBD 福建省会其实是泉州"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 259,
+        "media_key": "3_2020478309772230656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAouUVpbAAAuAbx.jpg",
+        "width": 260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2020478312108216806",
+        "created_at": "2026-02-08T12:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020482693088301143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020482693088301143",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020478312108216806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD 福建省会其实是泉州"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020478309772230656"
+          ]
+        },
+        "author_id": "1700948552078467072",
+        "conversation_id": "2020478312108216806",
+        "created_at": "2026-02-08T12:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020478312108216806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jw9CAqrvZN",
+              "end": 158,
+              "expanded_url": "https://x.com/Overdose_DBD/status/2020478312108216806/photo/1",
+              "media_key": "3_2020478309772230656",
+              "start": 135,
+              "url": "https://t.co/jw9CAqrvZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020478312108216806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的母亲是华北平原人，我的父亲是湘赣山地人，我从小长大在南宁市区。广西南宁是广西的首府省会，和广东广州和云南昆明一个级别。广西的首府省会不是桂林，就像山东的省会不是青岛，福建的省会不是厦门\n那些血统论人还地域论人的文盲趁早滚犊子吧，你连三十四省省会都数不清还来鸭叫鹅叫 https://t.co/jw9CAqrvZN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "林中落雨，秋前盛夏",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016888733715615747/2ZjaRw3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 105,
+          "like_count": 1706,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 858
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/ALu7jA3QLL\n有事请点击https://t.co/VRpZNWpEVl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/ALu7jA3QLL"
+              },
+              {
+                "display_url": "t.me/SuperGogogotou",
+                "end": 66,
+                "expanded_url": "https://t.me/SuperGogogotou",
+                "start": 43,
+                "url": "https://t.co/VRpZNWpEVl"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018362784418091009/P1EuyheT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4355,
+          "following_count": 59,
+          "like_count": 2,
+          "listed_count": 10,
+          "media_count": 685,
+          "tweet_count": 6781
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

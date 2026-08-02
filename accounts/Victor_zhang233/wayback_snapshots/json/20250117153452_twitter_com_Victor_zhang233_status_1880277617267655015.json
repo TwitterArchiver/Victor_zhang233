@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1692462076894322869",
+    "created_at": "2025-01-17T15:34:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T16:34:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880277617267655015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1283001843665104898",
+          "start": 0,
+          "username": "JDDDMX717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880277617267655015",
+    "in_reply_to_user_id": "1283001843665104898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880276384440021111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JDDDMX717 哦或，今天刚刚淘宝68入手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1692462076894322869",
+        "created_at": "2025-01-17T15:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T16:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880277617267655015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1283001843665104898",
+              "start": 0,
+              "username": "JDDDMX717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880277617267655015",
+        "in_reply_to_user_id": "1283001843665104898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880276384440021111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JDDDMX717 哦或，今天刚刚淘宝68入手"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1283001843665104898",
+        "conversation_id": "1692462076894322869",
+        "created_at": "2025-01-17T15:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T16:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880276384440021111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880276384440021111",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880276054247416133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 怎么这老帖子被顶上来了\n已经转到港服买完了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 56,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 397
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-14T11:34:22.000Z",
+        "description": "東方厨║Language: CN/EN║\n“以我残躯化烈火。我们永不消逝！”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/user/119068321",
+                "end": 23,
+                "expanded_url": "https://www.nicovideo.jp/user/119068321",
+                "start": 0,
+                "url": "https://t.co/TePfLqNy3s"
+              }
+            ]
+          }
+        },
+        "id": "1283001843665104898",
+        "location": "Ленинград, СССР",
+        "name": "シンプルな 大 冒険",
+        "pinned_tweet_id": "1860188320380432762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591696716062785536/N-iF3Awd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 525,
+          "like_count": 155266,
+          "listed_count": 5,
+          "media_count": 3154,
+          "tweet_count": 14760
+        },
+        "url": "https://t.co/TePfLqNy3s",
+        "username": "JDDDMX717",
+        "verified": false
+      }
+    ]
+  }
+}

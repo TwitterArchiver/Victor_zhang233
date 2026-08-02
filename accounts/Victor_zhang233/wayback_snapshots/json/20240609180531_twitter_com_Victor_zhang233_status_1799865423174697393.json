@@ -1,0 +1,231 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1799844963125203143",
+    "created_at": "2024-06-09T18:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T19:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799865423174697393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1712071013637427200",
+          "start": 0,
+          "username": "KawawaDiana8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799865423174697393",
+    "in_reply_to_user_id": "1712071013637427200",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799844963125203143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawawaDiana8964 100风"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1799844963125203143",
+        "created_at": "2024-06-09T18:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T19:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799865423174697393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1712071013637427200",
+              "start": 0,
+              "username": "KawawaDiana8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799865423174697393",
+        "in_reply_to_user_id": "1712071013637427200",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799844963125203143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawawaDiana8964 100风"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799844953851580416"
+          ]
+        },
+        "author_id": "1712071013637427200",
+        "conversation_id": "1799844963125203143",
+        "created_at": "2024-06-09T16:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T17:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799844963125203143"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "中推名人评分"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "历史人物评分"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/xoZSyDAOVO",
+              "end": 73,
+              "expanded_url": "https://twitter.com/KawawaDiana8964/status/1799844963125203143/photo/1",
+              "media_key": "3_1799844953851580416",
+              "start": 50,
+              "url": "https://t.co/xoZSyDAOVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799844963125203143",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2058,
+          "like_count": 51,
+          "quote_count": 2,
+          "reply_count": 74,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#中推名人评分 #历史人物评分\n给知名历史人物打分（0-100）\n第一期：毛泽东\n各位请评论区打分 https://t.co/xoZSyDAOVO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这//白左/简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "仿生人是否会梦见电子羊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 36,
+          "like_count": 118,
+          "listed_count": 0,
+          "tweet_count": 164
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-11T11:42:03.000Z",
+        "description": "嘉心糖🍓au/左下/在🇬🇧枝江魂/友所有政见，理性交流/🏳️‍⚧️🏳️‍🌈🇫🇮/FORZA INTER💙🖤/欢迎互fo/拒绝任何形式的对线和汴京/#中推名人评分 官方打分bot/#中推大选限定 枝江国际主席/@CamanoDiana444 @Cuindog57460 世界上的另外两个我",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 73,
+                "tag": "中推名人评分"
+              },
+              {
+                "end": 96,
+                "start": 89,
+                "tag": "中推大选限定"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 119,
+                "start": 104,
+                "username": "CamanoDiana444"
+              },
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Cuindog57460"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/672328094/",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/672328094/",
+                "start": 0,
+                "url": "https://t.co/Mb191i5zIe"
+              }
+            ]
+          }
+        },
+        "id": "1712071013637427200",
+        "location": "枝江国际ASI",
+        "name": "坂下蒂娜🇫🇮圣嘉然🍓",
+        "pinned_tweet_id": "1797565642511618078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782990546379902976/qacFXu5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2966,
+          "following_count": 1481,
+          "like_count": 17798,
+          "listed_count": 12,
+          "tweet_count": 6259
+        },
+        "url": "https://t.co/Mb191i5zIe",
+        "username": "KawawaDiana8964",
+        "verified": false
+      }
+    ]
+  }
+}

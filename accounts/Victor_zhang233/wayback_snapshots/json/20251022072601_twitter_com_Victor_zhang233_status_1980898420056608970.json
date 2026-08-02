@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980898394806669312"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "1980898420056608970",
+    "created_at": "2025-10-22T07:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T08:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980898420056608970"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xJJ7sysDtX",
+          "end": 28,
+          "expanded_url": "https://x.com/Victor_zhang233/status/1980898420056608970/photo/1",
+          "media_key": "3_1980898394806669312",
+          "start": 5,
+          "url": "https://t.co/xJJ7sysDtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980898420056608970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "随机刷新 https://t.co/xJJ7sysDtX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980898394806669312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G32QmEaX0AAEAKy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980898394806669312"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "1980898420056608970",
+        "created_at": "2025-10-22T07:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T08:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980898420056608970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xJJ7sysDtX",
+              "end": 28,
+              "expanded_url": "https://x.com/Victor_zhang233/status/1980898420056608970/photo/1",
+              "media_key": "3_1980898394806669312",
+              "start": 5,
+              "url": "https://t.co/xJJ7sysDtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980898420056608970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "随机刷新 https://t.co/xJJ7sysDtX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（// 高中生［endl］ \n只听自杀黑¿._ / \n我喜欢视奸你们^°^",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 94,
+          "like_count": 956,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 707
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038267176541732864"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2038267180769591628",
+    "created_at": "2026-03-29T14:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T15:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038267180769591628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ir4vmLdw8D",
+          "end": 31,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2038267180769591628/photo/1",
+          "media_key": "3_2038267176541732864",
+          "start": 8,
+          "url": "https://t.co/Ir4vmLdw8D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038267180769591628",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜报：我起床了 https://t.co/Ir4vmLdw8D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 369,
+        "media_key": "3_2038267176541732864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HElhMqcbwAA_Pb8.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038267176541732864"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2038267180769591628",
+        "created_at": "2026-03-29T14:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038267180769591628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ir4vmLdw8D",
+              "end": 31,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2038267180769591628/photo/1",
+              "media_key": "3_2038267176541732864",
+              "start": 8,
+              "url": "https://t.co/Ir4vmLdw8D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038267180769591628",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜报：我起床了 https://t.co/Ir4vmLdw8D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "T^T / \n这里是Ashes / 生理男 / 性取向是null / 我不会写简介 / 已休学 / 该干点什么好呢？",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032502037242662912/m7BPbwdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 126,
+          "like_count": 2668,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1155
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

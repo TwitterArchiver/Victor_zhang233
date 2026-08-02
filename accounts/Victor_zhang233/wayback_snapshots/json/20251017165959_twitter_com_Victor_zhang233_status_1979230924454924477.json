@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1979106266837586034",
+    "created_at": "2025-10-17T16:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T17:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979230924454924477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1860224342778609665",
+          "start": 0,
+          "username": "VonLinne2004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979230924454924477",
+    "in_reply_to_user_id": "1860224342778609665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979106266837586034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VonLinne2004 金属是实际上最好的音乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1979106266837586034",
+        "created_at": "2025-10-17T16:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T17:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979230924454924477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1860224342778609665",
+              "start": 0,
+              "username": "VonLinne2004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979230924454924477",
+        "in_reply_to_user_id": "1860224342778609665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979106266837586034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VonLinne2004 金属是实际上最好的音乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860224342778609665",
+        "conversation_id": "1979106266837586034",
+        "created_at": "2025-10-17T08:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T09:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979106266837586034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979106266837586034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 485,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有个朋友很喜欢听那种有很多噪音的电子合成音乐放松，把我整得精神衰弱了都。\n\n但是后来回忆了一下我也经常是听重金属音乐放松的，好像也没有好到哪里去。\n\n其实戴耳机才是重点，戴了无所谓放什么的。\n\n很多人爱听抖音那些吵死人的口水歌重点也在于外放，其实他们如果戴耳机了0人在意。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（//高中生［endl］\n^^只听自杀黑¿._\n我喜欢视奸你们",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 79,
+          "like_count": 724,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 645
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T07:30:29.000Z",
+        "description": "医专护士生冯琳奈的四号机，是一个很无聊的人。\n没那么日常有些严肃的内容在三号机@VonLinne2003\n\n❤️好姬友：@LING_bdnit\n🌟背景板插图的作者：@mo__zk31\n\n🙇🏻‍♀️一个很窝囊的人，你骂我或者挂我，我会无条件投降🏳️\n❤️一个喜欢一切可爱的人和美好的事物的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "VonLinne2003"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "LING_bdnit"
+              },
+              {
+                "end": 91,
+                "start": 82,
+                "username": "mo__zk31"
+              }
+            ]
+          }
+        },
+        "id": "1860224342778609665",
+        "location": "Greater Bay Area",
+        "name": "VonLinne(四号机)",
+        "pinned_tweet_id": "1978332550746497523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973035470683832320/rcr8WcoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 382,
+          "like_count": 39723,
+          "listed_count": 2,
+          "media_count": 499,
+          "tweet_count": 13595
+        },
+        "username": "VonLinne2004",
+        "verified": false
+      }
+    ]
+  }
+}

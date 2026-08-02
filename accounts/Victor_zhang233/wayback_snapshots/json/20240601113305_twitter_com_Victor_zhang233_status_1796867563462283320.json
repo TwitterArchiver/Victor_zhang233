@@ -1,0 +1,222 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1796157857601380613",
+    "created_at": "2024-06-01T11:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T12:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796867563462283320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1551123155908849664",
+          "start": 0,
+          "username": "Autodupenothing"
+        },
+        {
+          "end": 27,
+          "id": "1226850561057624064",
+          "start": 17,
+          "username": "hatadanna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796867563462283320",
+    "in_reply_to_user_id": "1551123155908849664",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796199767292477700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Autodupenothing @hatadanna 白色的没钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1796157857601380613",
+        "created_at": "2024-06-01T11:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T12:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796867563462283320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1551123155908849664",
+              "start": 0,
+              "username": "Autodupenothing"
+            },
+            {
+              "end": 27,
+              "id": "1226850561057624064",
+              "start": 17,
+              "username": "hatadanna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796867563462283320",
+        "in_reply_to_user_id": "1551123155908849664",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796199767292477700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Autodupenothing @hatadanna 白色的没钱"
+      },
+      {
+        "attachments": {},
+        "author_id": "1551123155908849664",
+        "conversation_id": "1796157857601380613",
+        "created_at": "2024-05-30T15:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T16:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796199767292477700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1226850561057624064",
+              "start": 0,
+              "username": "hatadanna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796199767292477700",
+        "in_reply_to_user_id": "1226850561057624064",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1249,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796157857601380613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hatadanna 还有这么大片空白，怎么不说是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这是一条简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、自由主义者（也许（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "中国",
+        "name": "Апрель",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 20,
+          "like_count": 96,
+          "listed_count": 0,
+          "tweet_count": 128
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-24T08:32:59.000Z",
+        "description": "🌌🌃🌆🌠BF:@miaowu075",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "miaowu075"
+              }
+            ]
+          }
+        },
+        "id": "1551123155908849664",
+        "location": "蔚蓝色的参宿七",
+        "name": "黎晓li💤",
+        "pinned_tweet_id": "1784787709204234515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693990843907211264/UeX2aw59_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 154,
+          "like_count": 5193,
+          "listed_count": 1,
+          "tweet_count": 1138
+        },
+        "username": "Autodupenothing",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T12:49:13.000Z",
+        "description": "he/him | 在失败中匍匐前行 | Et Omnia Vanitas.",
+        "id": "1226850561057624064",
+        "location": "梦里",
+        "name": "旗田安奈🍵",
+        "pinned_tweet_id": "1698299948578816158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691374845140082688/f2RPoY8q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8683,
+          "following_count": 3423,
+          "like_count": 9616,
+          "listed_count": 58,
+          "tweet_count": 5731
+        },
+        "username": "hatadanna",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015323948997894144"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2014862929514946671",
+    "created_at": "2026-01-25T07:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T08:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015323951841628252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1586332050528915457",
+          "start": 0,
+          "username": "lilaoshizuikeai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/geC9AVMvig",
+          "end": 40,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2015323951841628252/photo/1",
+          "media_key": "3_2015323948997894144",
+          "start": 17,
+          "url": "https://t.co/geC9AVMvig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015323951841628252",
+    "in_reply_to_user_id": "1586332050528915457",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014862929514946671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilaoshizuikeai https://t.co/geC9AVMvig"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 204,
+        "media_key": "3_2015323948997894144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_fedDdbYAAGiR4.jpg",
+        "width": 300
+      },
+      {
+        "height": 581,
+        "media_key": "3_2014862913886990336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Y7JR1XsAAOcLY.jpg",
+        "width": 1229
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015323948997894144"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2014862929514946671",
+        "created_at": "2026-01-25T07:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T08:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015323951841628252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1586332050528915457",
+              "start": 0,
+              "username": "lilaoshizuikeai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/geC9AVMvig",
+              "end": 40,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2015323951841628252/photo/1",
+              "media_key": "3_2015323948997894144",
+              "start": 17,
+              "url": "https://t.co/geC9AVMvig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015323951841628252",
+        "in_reply_to_user_id": "1586332050528915457",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014862929514946671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilaoshizuikeai https://t.co/geC9AVMvig"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014862913886990336"
+          ]
+        },
+        "author_id": "1586332050528915457",
+        "conversation_id": "2014862929514946671",
+        "created_at": "2026-01-24T00:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T01:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014862929514946671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJtRPqoN0I",
+              "end": 23,
+              "expanded_url": "https://x.com/lilaoshizuikeai/status/2014862929514946671/photo/1",
+              "media_key": "3_2014862913886990336",
+              "start": 0,
+              "url": "https://t.co/yJtRPqoN0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014862929514946671",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 152624,
+          "like_count": 1143,
+          "quote_count": 8,
+          "reply_count": 76,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yJtRPqoN0I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "重抑瑟瑟发抖中",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001408376811704320/27ExCAWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 90,
+          "like_count": 1524,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 805
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T12:20:25.000Z",
+        "description": "与你进退也共鸣",
+        "id": "1586332050528915457",
+        "location": "猴管",
+        "name": "Lee1ng",
+        "pinned_tweet_id": "1657814793439289346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004333954157989888/FRDtrJk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251786,
+          "following_count": 710,
+          "like_count": 5731,
+          "listed_count": 1335,
+          "media_count": 1399,
+          "tweet_count": 7201
+        },
+        "username": "lilaoshizuikeai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2043411282582475147",
+    "created_at": "2026-04-12T19:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T20:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043411282582475147"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043411282582475147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么时候死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2043411282582475147",
+        "created_at": "2026-04-12T19:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T20:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043411282582475147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043411282582475147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "你为你的圣父哭泣，但祂不会记住你的名讳...",
+        "id": "1755494652889661440",
+        "location": "人间",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043013737184120832/LxhgENoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 144,
+          "like_count": 3395,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1278
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

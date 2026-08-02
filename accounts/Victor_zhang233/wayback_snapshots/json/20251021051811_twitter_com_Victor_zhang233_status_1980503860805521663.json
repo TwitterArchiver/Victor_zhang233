@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980503857839878144"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "1980503860805521663",
+    "created_at": "2025-10-21T05:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T06:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980503860805521663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZvMXXIc1KT",
+          "end": 43,
+          "expanded_url": "https://x.com/Victor_zhang233/status/1980503860805521663/photo/1",
+          "media_key": "3_1980503857839878144",
+          "start": 20,
+          "url": "https://t.co/ZvMXXIc1KT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980503860805521663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "&lt;分享专辑&gt;\n尝试自愈中。 https://t.co/ZvMXXIc1KT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1980503857839878144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3wpw_rWMAAj1EJ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980503857839878144"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "1980503860805521663",
+        "created_at": "2025-10-21T05:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T06:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980503860805521663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZvMXXIc1KT",
+              "end": 43,
+              "expanded_url": "https://x.com/Victor_zhang233/status/1980503860805521663/photo/1",
+              "media_key": "3_1980503857839878144",
+              "start": 20,
+              "url": "https://t.co/ZvMXXIc1KT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980503860805521663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "&lt;分享专辑&gt;\n尝试自愈中。 https://t.co/ZvMXXIc1KT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（// 高中生［endl］ \n只听自杀黑¿._ / \n我喜欢视奸你们^°^",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 92,
+          "like_count": 890,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 685
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

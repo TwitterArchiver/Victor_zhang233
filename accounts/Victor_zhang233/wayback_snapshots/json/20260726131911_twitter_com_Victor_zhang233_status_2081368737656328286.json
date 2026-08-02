@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2081327034626879538",
+    "created_at": "2026-07-26T13:19:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T14:19:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081368737656328286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1522094771136831488",
+          "start": 0,
+          "username": "Raincandy_1937"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081368737656328286",
+    "in_reply_to_user_id": "1522094771136831488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081327034626879538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raincandy_1937 那很可爱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2081327034626879538",
+        "created_at": "2026-07-26T13:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081368737656328286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1522094771136831488",
+              "start": 0,
+              "username": "Raincandy_1937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081368737656328286",
+        "in_reply_to_user_id": "1522094771136831488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081327034626879538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raincandy_1937 那很可爱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2081327034626879538",
+        "created_at": "2026-07-26T10:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081327034626879538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LeeYooSun_/sta…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/LeeYooSun_/status/2081323136583422410",
+              "start": 70,
+              "url": "https://t.co/HjdfQMuYtA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081327034626879538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081323136583422410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想象一下。我是你对象。每天宅在家。\n什么也不做。也不吃饭。情绪总是崩溃。\n药瓶滚的哪里都是。等你下班。还带着一手臂的新伤。还伸手要抱要哄。 https://t.co/HjdfQMuYtA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 488,
+          "like_count": 10707,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 2427
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 1799,
+          "like_count": 17334,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 7546
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

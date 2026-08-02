@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1800039510501404849",
+    "created_at": "2024-06-11T16:10:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T17:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800561323237130662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769380729409130496",
+          "start": 0,
+          "username": "MaoTseTung93"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800561323237130662",
+    "in_reply_to_user_id": "1769380729409130496",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800039510501404849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaoTseTung93 共妻这笑话井冈山时期就有了😃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1800039510501404849",
+        "created_at": "2024-06-11T16:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T17:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800561323237130662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769380729409130496",
+              "start": 0,
+              "username": "MaoTseTung93"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800561323237130662",
+        "in_reply_to_user_id": "1769380729409130496",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800039510501404849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaoTseTung93 共妻这笑话井冈山时期就有了😃"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800039502830059520"
+          ]
+        },
+        "author_id": "1769380729409130496",
+        "conversation_id": "1800039510501404849",
+        "created_at": "2024-06-10T05:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T06:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800039510501404849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/qsDlrTPfbK",
+              "end": 41,
+              "expanded_url": "https://twitter.com/MaoTseTung93/status/1800039510501404849/photo/1",
+              "media_key": "3_1800039502830059520",
+              "start": 18,
+              "url": "https://t.co/qsDlrTPfbK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800039510501404849",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2600,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "公妻制是资产阶级安给共产主义的罪名 https://t.co/qsDlrTPfbK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这//白左/简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "仿生人是否会梦见电子羊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 36,
+          "like_count": 121,
+          "listed_count": 0,
+          "tweet_count": 173
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T15:10:23.000Z",
+        "description": "人民萬歲 ！戰無不勝的毛澤東思想萬歲！世界反帝反殖力量萬歲！無產階級文化大革命萬歲!Long Live the People！Long Live the Maoism ! Long Live the GPCR! Serve the People！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mzdbl.com",
+                "end": 23,
+                "expanded_url": "http://mzdbl.com",
+                "start": 0,
+                "url": "https://t.co/VaniW3kxSp"
+              }
+            ]
+          }
+        },
+        "id": "1769380729409130496",
+        "location": "不滅的物質存在於世間",
+        "name": "毛泽东",
+        "pinned_tweet_id": "1799855394774503881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799483173765828608/aXLFcxhx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 224,
+          "like_count": 1753,
+          "listed_count": 3,
+          "tweet_count": 1015
+        },
+        "url": "https://t.co/VaniW3kxSp",
+        "username": "MaoTseTung93",
+        "verified": false
+      }
+    ]
+  }
+}

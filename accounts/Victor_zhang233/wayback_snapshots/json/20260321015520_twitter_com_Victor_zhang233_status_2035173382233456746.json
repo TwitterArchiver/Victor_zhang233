@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2035173382233456746",
+    "created_at": "2026-03-21T01:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T02:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035173382233456746"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuukiwfn/statu…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/kuukiwfn/status/2035065752009805882",
+          "start": 23,
+          "url": "https://t.co/dWTXANhGrh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035173382233456746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035065752009805882",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😭😭😭为什么你们的帖子都有这么多人互动😭😭😭 https://t.co/dWTXANhGrh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2035173382233456746",
+        "created_at": "2026-03-21T01:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T02:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035173382233456746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuukiwfn/statu…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/kuukiwfn/status/2035065752009805882",
+              "start": 23,
+              "url": "https://t.co/dWTXANhGrh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035173382233456746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035065752009805882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭😭😭为什么你们的帖子都有这么多人互动😭😭😭 https://t.co/dWTXANhGrh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775833048493240320",
+        "conversation_id": "2035065752009805882",
+        "created_at": "2026-03-20T18:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T19:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035065752009805882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wt88047/status…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/wt88047/status/2034948576741400917",
+              "start": 23,
+              "url": "https://t.co/oNkcENPIZy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035065752009805882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 278,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034948576741400917",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭😭😭为什么你们的帖子都有这么多人互动😭😭😭 https://t.co/oNkcENPIZy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "祝福我的死亡",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032502037242662912/m7BPbwdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 112,
+          "like_count": 2179,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1012
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T10:29:48.000Z",
+        "description": "✝️2010transgender 🏳️‍⚧️ 🖤\n 💊overdose lover 🩸喜欢非主流 🥰\n❤️ rebzyyx ,kets4eki..scenecore ..💉 \n🥰dm互fo 😋😋 |",
+        "id": "1775833048493240320",
+        "location": "kuuki小黒屋",
+        "name": "✝️kuuki✝️",
+        "pinned_tweet_id": "2034666702399787443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028531881999036416/YxNVIIbZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 646,
+          "like_count": 29013,
+          "listed_count": 0,
+          "media_count": 589,
+          "tweet_count": 2138
+        },
+        "username": "kuukiwfn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1818270326800928955",
+    "created_at": "2024-07-31T09:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-31T10:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818576640718348369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1725486340542775296",
+          "start": 0,
+          "username": "myaukarova"
+        },
+        {
+          "end": 23,
+          "id": "1684788633797287936",
+          "start": 12,
+          "username": "Mualani_Ch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818576640718348369",
+    "in_reply_to_user_id": "1725486340542775296",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818576058150723750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myaukarova @Mualani_Ch 海盐也是盐（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1818270326800928955",
+        "created_at": "2024-07-31T09:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T10:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818576640718348369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1725486340542775296",
+              "start": 0,
+              "username": "myaukarova"
+            },
+            {
+              "end": 23,
+              "id": "1684788633797287936",
+              "start": 12,
+              "username": "Mualani_Ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818576640718348369",
+        "in_reply_to_user_id": "1725486340542775296",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818576058150723750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myaukarova @Mualani_Ch 海盐也是盐（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725486340542775296",
+        "conversation_id": "1818270326800928955",
+        "created_at": "2024-07-31T09:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T10:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818576058150723750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Mualani_Ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818576058150723750",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818270326800928955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mualani_Ch 这个是海盐，治疗鼻窦炎用的（确信）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这///简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": ".. лесе",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 36,
+          "like_count": 219,
+          "listed_count": 0,
+          "tweet_count": 263
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T12:09:48.000Z",
+        "description": "🍔🍔🍔",
+        "id": "1725486340542775296",
+        "location": "Anhui China",
+        "name": "Myaukarova🏳‍⚧🍔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775694013804457984/TEunrb63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 29,
+          "like_count": 20,
+          "listed_count": 0,
+          "tweet_count": 153
+        },
+        "username": "myaukarova",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "置顶推很重要还请先看下啦🩷|互fo|• @dongxuelianhaha|@Landscapy_Lover|@huahuojiang_|@firefly_khmer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "dongxuelianhaha"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "Landscapy_Lover"
+              },
+              {
+                "end": 67,
+                "start": 54,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "firefly_khmer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.miyoushe.com/ys?channel=viv…",
+                "end": 23,
+                "expanded_url": "https://m.miyoushe.com/ys?channel=vivo/#/article/55159494",
+                "start": 0,
+                "url": "https://t.co/8OO2ygA62S"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "纳塔/Natlan/ナタ",
+        "name": "🫧玛拉妮酱～",
+        "pinned_tweet_id": "1807074114362036302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815055772189069312/nWR1oHjs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7912,
+          "following_count": 7051,
+          "like_count": 41119,
+          "listed_count": 34,
+          "tweet_count": 7308
+        },
+        "url": "https://t.co/8OO2ygA62S",
+        "username": "Mualani_Ch",
+        "verified": false
+      }
+    ]
+  }
+}

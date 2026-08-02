@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070332445380259840"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2070332447628390581",
+    "created_at": "2026-06-26T02:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070332447628390581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xvsxfs4G1z",
+          "end": 27,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2070332447628390581/photo/1",
+          "media_key": "3_2070332445380259840",
+          "start": 4,
+          "url": "https://t.co/Xvsxfs4G1z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070332447628390581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新头像 https://t.co/Xvsxfs4G1z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 608,
+        "media_key": "3_2070332445380259840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtMY9XbMAAdSo1.jpg",
+        "width": 608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070332445380259840"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2070332447628390581",
+        "created_at": "2026-06-26T02:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070332447628390581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xvsxfs4G1z",
+              "end": 27,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2070332447628390581/photo/1",
+              "media_key": "3_2070332445380259840",
+              "start": 4,
+              "url": "https://t.co/Xvsxfs4G1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070332447628390581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新头像 https://t.co/Xvsxfs4G1z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 |\nDM欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Dekadens",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 403,
+          "like_count": 8219,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 2093
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1922407426306777324",
+    "created_at": "2025-05-16T08:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T09:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923296875685265642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1729675006047571968",
+          "start": 0,
+          "username": "dngxingcho26277"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923296875685265642",
+    "in_reply_to_user_id": "1729675006047571968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922407426306777324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dngxingcho26277 傻逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 993,
+        "media_key": "3_1922406973871685634",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq3C9RdbAAI6Ij3.jpg",
+        "width": 768
+      },
+      {
+        "height": 185,
+        "media_key": "3_1922407415070248962",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq3DW9DW0AIBU72.png",
+        "width": 273
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1922407426306777324",
+        "created_at": "2025-05-16T08:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T09:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923296875685265642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1729675006047571968",
+              "start": 0,
+              "username": "dngxingcho26277"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923296875685265642",
+        "in_reply_to_user_id": "1729675006047571968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922407426306777324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dngxingcho26277 傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922406973871685634",
+            "3_1922407415070248962"
+          ]
+        },
+        "author_id": "1729675006047571968",
+        "conversation_id": "1922407426306777324",
+        "created_at": "2025-05-13T21:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T22:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922407426306777324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ANCeZweg4",
+              "end": 159,
+              "expanded_url": "https://x.com/dngxingcho26277/status/1922407426306777324/photo/1",
+              "media_key": "3_1922406973871685634",
+              "start": 136,
+              "url": "https://t.co/0ANCeZweg4"
+            },
+            {
+              "display_url": "pic.x.com/0ANCeZweg4",
+              "end": 159,
+              "expanded_url": "https://x.com/dngxingcho26277/status/1922407426306777324/photo/1",
+              "media_key": "3_1922407415070248962",
+              "start": 136,
+              "url": "https://t.co/0ANCeZweg4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922407426306777324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 22401,
+          "like_count": 169,
+          "quote_count": 9,
+          "reply_count": 34,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "毛泽东要把中国变成一个文化大沙漠，这里没有文明，没有人性，没有温情，只有一群充满兽性的人头畜生，为他干活，作他血腥清洗的工具。在这一点上，毛泽东比希特勒、斯大林更极端。希特勒尚且允许一些非政治性的艺术存在，斯大林保存了俄国的古典文化。——摘自张戎《毛泽东鲜为人知的故事》 https://t.co/0ANCeZweg4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（/玉玉休学中/黑金属/高一//呃呃呃呃简介这样写没问题吧？（\n欢迎扩列和找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 怀人堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 68,
+          "like_count": 545,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 593
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T01:34:34.000Z",
+        "description": "",
+        "id": "1729675006047571968",
+        "name": "邓相超",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729678939788812289/-Up0csEB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2336,
+          "following_count": 751,
+          "like_count": 7517,
+          "listed_count": 16,
+          "media_count": 449,
+          "tweet_count": 7905
+        },
+        "username": "dngxingcho26277",
+        "verified": false
+      }
+    ]
+  }
+}

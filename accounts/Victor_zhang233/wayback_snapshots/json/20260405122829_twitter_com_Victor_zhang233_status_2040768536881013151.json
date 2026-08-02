@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2040589699044213203",
+    "created_at": "2026-04-05T12:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T13:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040768536881013151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2009908138174992384",
+          "start": 0,
+          "username": "ijustwannadie88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040768536881013151",
+    "in_reply_to_user_id": "2009908138174992384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040589699044213203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ijustwannadie88 哇这个好可爱啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2040589687442845696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFGhglxbMAA1lh1.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2040589687509909505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFGhgmBagAEdx8k.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2040589687463800833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFGhgl2a8AEBP8I.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2040589687493144576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFGhgl9asAA1u12.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2040589699044213203",
+        "created_at": "2026-04-05T12:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040768536881013151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2009908138174992384",
+              "start": 0,
+              "username": "ijustwannadie88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040768536881013151",
+        "in_reply_to_user_id": "2009908138174992384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040589699044213203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ijustwannadie88 哇这个好可爱啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040589687442845696",
+            "3_2040589687509909505",
+            "3_2040589687463800833",
+            "3_2040589687493144576"
+          ]
+        },
+        "author_id": "2009908138174992384",
+        "conversation_id": "2040589699044213203",
+        "created_at": "2026-04-05T00:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T01:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040589699044213203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f1dlagWCCM",
+              "end": 23,
+              "expanded_url": "https://x.com/ijustwannadie88/status/2040589699044213203/photo/1",
+              "media_key": "3_2040589687442845696",
+              "start": 0,
+              "url": "https://t.co/f1dlagWCCM"
+            },
+            {
+              "display_url": "pic.x.com/f1dlagWCCM",
+              "end": 23,
+              "expanded_url": "https://x.com/ijustwannadie88/status/2040589699044213203/photo/1",
+              "media_key": "3_2040589687509909505",
+              "start": 0,
+              "url": "https://t.co/f1dlagWCCM"
+            },
+            {
+              "display_url": "pic.x.com/f1dlagWCCM",
+              "end": 23,
+              "expanded_url": "https://x.com/ijustwannadie88/status/2040589699044213203/photo/1",
+              "media_key": "3_2040589687463800833",
+              "start": 0,
+              "url": "https://t.co/f1dlagWCCM"
+            },
+            {
+              "display_url": "pic.x.com/f1dlagWCCM",
+              "end": 23,
+              "expanded_url": "https://x.com/ijustwannadie88/status/2040589699044213203/photo/1",
+              "media_key": "3_2040589687493144576",
+              "start": 0,
+              "url": "https://t.co/f1dlagWCCM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040589699044213203",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/f1dlagWCCM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "四月雨",
+        "id": "1755494652889661440",
+        "location": "人间",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038442200997265408/vibWzS-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 142,
+          "like_count": 3119,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1230
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T08:42:49.000Z",
+        "description": "09精神病女孩 凉席妹 喜欢躺小花形状的烟疤 平时喜欢od这些\n互fo必回",
+        "id": "2009908138174992384",
+        "location": "Kanagawa-ken, Japan",
+        "name": "awsfcxdnhbbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021294041233833984/wNRFcmdj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 104,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 46
+        },
+        "username": "ijustwannadie88",
+        "verified": false
+      }
+    ]
+  }
+}

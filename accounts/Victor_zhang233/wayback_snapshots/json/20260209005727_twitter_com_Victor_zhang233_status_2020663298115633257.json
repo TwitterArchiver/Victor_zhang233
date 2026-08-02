@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2020385347939758364",
+    "created_at": "2026-02-09T00:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T01:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020663298115633257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1943532006723457026",
+          "start": 0,
+          "username": "zhi96886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020663298115633257",
+    "in_reply_to_user_id": "1943532006723457026",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020385347939758364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhi96886 绷不住了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2020385340457193472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAnZwz9bkAAd0ay.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2020385347939758364",
+        "created_at": "2026-02-09T00:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T01:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020663298115633257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1943532006723457026",
+              "start": 0,
+              "username": "zhi96886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020663298115633257",
+        "in_reply_to_user_id": "1943532006723457026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020385347939758364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhi96886 绷不住了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020385340457193472"
+          ]
+        },
+        "author_id": "1943532006723457026",
+        "conversation_id": "2020385347939758364",
+        "created_at": "2026-02-08T06:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T07:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020385347939758364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 71,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2018133833019965440/IXFT8rqY?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2018133833019965440/IXFT8rqY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 48,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/gzC7uC9b5n"
+            },
+            {
+              "display_url": "pic.x.com/pVFBXtqcPm",
+              "end": 95,
+              "expanded_url": "https://x.com/zhi96886/status/2020385347939758364/photo/1",
+              "media_key": "3_2020385340457193472",
+              "start": 72,
+              "url": "https://t.co/pVFBXtqcPm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020385347939758364",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 854,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @ @\n👰 配偶: @\n👶 孩子: @ @\n\n➡️ https://t.co/gzC7uC9b5n https://t.co/pVFBXtqcPm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "林中落雨，秋前盛夏",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016888733715615747/2ZjaRw3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 105,
+          "like_count": 1709,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 867
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T04:45:24.000Z",
+        "description": "acgn爱好者/支持社会民主主义/反独裁，反共/不理解支黑为什么用“支文”黑支/汉民族主义倾向/不喜欢骂人/粉红支黑滚/对历史感兴趣/反分裂/反激lgbt\n\n/新号，老号去年被反中魔怔人举报封了😭我基本上会回关\n\n如果你友好我就会友好🥰\n🚪:1145141919810😄\n小号:@mmj199747",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 139,
+                "username": "mmj199747"
+              }
+            ]
+          }
+        },
+        "id": "1943532006723457026",
+        "location": "永远不会变支黑也不会变成粉红",
+        "name": "知雲(8964)",
+        "pinned_tweet_id": "2002315293876482359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007459610979119104/kXiG7YH3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 1200,
+          "like_count": 9499,
+          "listed_count": 10,
+          "media_count": 543,
+          "tweet_count": 3776
+        },
+        "username": "zhi96886",
+        "verified": false
+      }
+    ]
+  }
+}

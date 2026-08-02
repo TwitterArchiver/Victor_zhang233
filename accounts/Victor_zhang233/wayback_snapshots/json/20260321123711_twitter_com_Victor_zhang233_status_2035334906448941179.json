@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2035219615371186540",
+    "created_at": "2026-03-21T12:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T13:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035334906448941179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1744267618947899393",
+          "start": 0,
+          "username": "MentorWong"
+        },
+        {
+          "end": 27,
+          "id": "1094805399239254016",
+          "start": 12,
+          "username": "Jordan97995944"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035334906448941179",
+    "in_reply_to_user_id": "1744267618947899393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035271732307824851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MentorWong @Jordan97995944 有维生素和纤维"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2035219615371186540",
+        "created_at": "2026-03-21T12:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T13:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035334906448941179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1744267618947899393",
+              "start": 0,
+              "username": "MentorWong"
+            },
+            {
+              "end": 27,
+              "id": "1094805399239254016",
+              "start": 12,
+              "username": "Jordan97995944"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035334906448941179",
+        "in_reply_to_user_id": "1744267618947899393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035271732307824851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MentorWong @Jordan97995944 有维生素和纤维"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744267618947899393",
+        "conversation_id": "2035219615371186540",
+        "created_at": "2026-03-21T08:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T09:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035271732307824851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1094805399239254016",
+              "start": 0,
+              "username": "Jordan97995944"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035271732307824851",
+        "in_reply_to_user_id": "1094805399239254016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 386,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035219615371186540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jordan97995944 土豆和紅薯,和米饭有什么本质区别？\n诚心请教"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "祝福我的死亡",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032502037242662912/m7BPbwdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 117,
+          "like_count": 2270,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1027
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T07:59:47.000Z",
+        "description": "Premium+ \nAI is money maker I guess!",
+        "id": "1744267618947899393",
+        "location": "Seoul, South Korea ",
+        "name": "SifuWong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851498412581273602/LMOuJG7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8515,
+          "following_count": 8404,
+          "like_count": 12401,
+          "listed_count": 11,
+          "media_count": 260,
+          "tweet_count": 43882
+        },
+        "username": "MentorWong",
+        "verified": true
+      },
+      {
+        "created_at": "2019-02-11T03:48:42.000Z",
+        "description": "Tesla重度投資者 愛網球 愛養生 獵女高手",
+        "id": "1094805399239254016",
+        "location": "Hong kong",
+        "name": "Jordan",
+        "pinned_tweet_id": "2012462270366835141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030541248747220992/7WPv95C1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8249,
+          "following_count": 2547,
+          "like_count": 1307,
+          "listed_count": 35,
+          "media_count": 2692,
+          "tweet_count": 13239
+        },
+        "username": "Jordan97995944",
+        "verified": true
+      }
+    ]
+  }
+}

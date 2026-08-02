@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2013667845771796714",
+    "created_at": "2026-01-21T07:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T08:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013880351442051445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1492808050461196288",
+          "start": 0,
+          "username": "Breaking_Lead_G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013880351442051445",
+    "in_reply_to_user_id": "1492808050461196288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013667845771796714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Breaking_Lead_G 安神胶囊（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2013667845771796714",
+        "created_at": "2026-01-21T07:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T08:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013880351442051445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1492808050461196288",
+              "start": 0,
+              "username": "Breaking_Lead_G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013880351442051445",
+        "in_reply_to_user_id": "1492808050461196288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013667845771796714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Breaking_Lead_G 安神胶囊（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492808050461196288",
+        "conversation_id": "2013667845771796714",
+        "created_at": "2026-01-20T17:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T18:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013667845771796714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013667845771796714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在什么非处方安眠药好点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "重抑瑟瑟发抖中",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001408376811704320/27ExCAWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 90,
+          "like_count": 1501,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 799
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T10:29:22.000Z",
+        "description": "你吃饭了吗？吃了？真好。没吃？快去吃吧。没有吃的？躺着吧。\n\n计算机科学可能很有趣，我不知道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "breakinglead.github.io",
+                "end": 23,
+                "expanded_url": "https://breakinglead.github.io/",
+                "start": 0,
+                "url": "https://t.co/sGcD4zcd43"
+              }
+            ]
+          }
+        },
+        "id": "1492808050461196288",
+        "location": "Xi'an",
+        "name": "千秋",
+        "pinned_tweet_id": "2009505060225732688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009908068763742211/nMj1rGML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 678,
+          "like_count": 1678,
+          "listed_count": 7,
+          "media_count": 685,
+          "tweet_count": 7234
+        },
+        "url": "https://t.co/sGcD4zcd43",
+        "username": "Breaking_Lead_G",
+        "verified": false
+      }
+    ]
+  }
+}

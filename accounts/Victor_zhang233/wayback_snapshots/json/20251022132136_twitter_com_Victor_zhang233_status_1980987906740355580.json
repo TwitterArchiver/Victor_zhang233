@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1978509326596628982",
+    "created_at": "2025-10-22T13:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T14:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980987906740355580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1822447334749614080",
+          "start": 0,
+          "username": "chenwai29719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980987906740355580",
+    "in_reply_to_user_id": "1822447334749614080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978509326596628982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenwai29719 这是什么软件"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978509317700734976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3UTvepaUAAqB7g.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1978509326596628982",
+        "created_at": "2025-10-22T13:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T14:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980987906740355580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1822447334749614080",
+              "start": 0,
+              "username": "chenwai29719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980987906740355580",
+        "in_reply_to_user_id": "1822447334749614080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978509326596628982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenwai29719 这是什么软件"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978509317700734976"
+          ]
+        },
+        "author_id": "1822447334749614080",
+        "conversation_id": "1978509326596628982",
+        "created_at": "2025-10-15T17:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T18:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978509326596628982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NDcI2tMk5D",
+              "end": 51,
+              "expanded_url": "https://x.com/chenwai29719/status/1978509326596628982/photo/1",
+              "media_key": "3_1978509317700734976",
+              "start": 28,
+              "url": "https://t.co/NDcI2tMk5D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978509326596628982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "试试一整盒普瑞。\n回家了往好处想意思就是可以搞大的了😋 https://t.co/NDcI2tMk5D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（// 高中生［endl］ 皮下男 / \n只听自杀黑¿._ / \n我喜欢视奸你们^°^",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 95,
+          "like_count": 1001,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 727
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T01:38:11.000Z",
+        "description": "07/infp/ftx/非二元/泛/adhd+asd/抑郁症焦虑症/化学极乐\n一般都会回fo，听点摇滚/金属",
+        "id": "1822447334749614080",
+        "name": "尘外",
+        "pinned_tweet_id": "1980068482650959937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945350840199634944/hOFuYJd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 71,
+          "like_count": 87,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 242
+        },
+        "username": "chenwai29719",
+        "verified": false
+      }
+    ]
+  }
+}

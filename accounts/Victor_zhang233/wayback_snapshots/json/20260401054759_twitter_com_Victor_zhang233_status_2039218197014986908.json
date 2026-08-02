@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039218193475178496"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2039218197014986908",
+    "created_at": "2026-04-01T05:47:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T06:47:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039218197014986908"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "music.163.com/album/3007711/…",
+          "end": 48,
+          "expanded_url": "http://music.163.com/album/3007711/?userid=6319689253",
+          "start": 25,
+          "status": 200,
+          "unwound_url": "https://music.163.com/album?id=3007711&userid=6319689253",
+          "url": "https://t.co/4rWoDj3TzW"
+        },
+        {
+          "display_url": "pic.x.com/UffO2vgGye",
+          "end": 83,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2039218197014986908/photo/1",
+          "media_key": "3_2039218193475178496",
+          "start": 60,
+          "url": "https://t.co/UffO2vgGye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039218197014986908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享Deadlife的专辑《Värdelös》: https://t.co/4rWoDj3TzW (来自@网易云音乐) https://t.co/UffO2vgGye"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 378,
+        "media_key": "3_2039218193475178496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzCJImaEAAiPxv.jpg",
+        "width": 378
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039218193475178496"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2039218197014986908",
+        "created_at": "2026-04-01T05:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039218197014986908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "music.163.com/album/3007711/…",
+              "end": 48,
+              "expanded_url": "http://music.163.com/album/3007711/?userid=6319689253",
+              "start": 25,
+              "status": 200,
+              "unwound_url": "https://music.163.com/album?id=3007711&userid=6319689253",
+              "url": "https://t.co/4rWoDj3TzW"
+            },
+            {
+              "display_url": "pic.x.com/UffO2vgGye",
+              "end": 83,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2039218197014986908/photo/1",
+              "media_key": "3_2039218193475178496",
+              "start": 60,
+              "url": "https://t.co/UffO2vgGye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039218197014986908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享Deadlife的专辑《Värdelös》: https://t.co/4rWoDj3TzW (来自@网易云音乐) https://t.co/UffO2vgGye"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "四月雨",
+        "id": "1755494652889661440",
+        "location": "人间",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038442200997265408/vibWzS-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 137,
+          "like_count": 2914,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1200
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

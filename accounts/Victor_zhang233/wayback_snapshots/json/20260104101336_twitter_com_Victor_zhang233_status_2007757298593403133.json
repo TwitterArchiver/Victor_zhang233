@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2007757298593403133",
+    "created_at": "2026-01-04T10:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T11:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007757298593403133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1700917352064561152",
+          "start": 3,
+          "username": "jing1234560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007757298593403133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007741885767729193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jing1234560: 我不缺爱 也不是我拥有很多爱的意思 只是单纯的不需要 不轻易依赖这种患得患失的感情 稍微胡思乱想一下都要炸了 我这种人谈恋爱、长期呆在家里要割腕割死 让我自生自灭吧 我也逐渐对大道理和无用处的关心脱敏了 越来越感受不到这些话的重量了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2007757298593403133",
+        "created_at": "2026-01-04T10:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T11:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007757298593403133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1700917352064561152",
+              "start": 3,
+              "username": "jing1234560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007757298593403133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007741885767729193",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jing1234560: 我不缺爱 也不是我拥有很多爱的意思 只是单纯的不需要 不轻易依赖这种患得患失的感情 稍微胡思乱想一下都要炸了 我这种人谈恋爱、长期呆在家里要割腕割死 让我自生自灭吧 我也逐渐对大道理和无用处的关心脱敏了 越来越感受不到这些话的重量了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700917352064561152",
+        "conversation_id": "2007741885767729193",
+        "created_at": "2026-01-04T09:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T10:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007741885767729193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007741885767729193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 587,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我不缺爱 也不是我拥有很多爱的意思 只是单纯的不需要 不轻易依赖这种患得患失的感情 稍微胡思乱想一下都要炸了 我这种人谈恋爱、长期呆在家里要割腕割死 让我自生自灭吧 我也逐渐对大道理和无用处的关心脱敏了 越来越感受不到这些话的重量了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001408376811704320/27ExCAWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 107,
+          "like_count": 1394,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 782
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T17:01:20.000Z",
+        "description": "🌈卧槽尼玛我的人生怎么变成县城小太妹了 过门请私信🚪88块钱 小号@xingyi1234560 推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "xingyi1234560"
+              }
+            ]
+          }
+        },
+        "id": "1700917352064561152",
+        "location": "在苞米地里务农",
+        "name": "恋痛症Z",
+        "pinned_tweet_id": "1998406402038272193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784554850753400832/oPoWwB4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5265,
+          "following_count": 122,
+          "like_count": 9817,
+          "listed_count": 8,
+          "media_count": 246,
+          "tweet_count": 4903
+        },
+        "username": "jing1234560",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2060399400372097127",
+    "created_at": "2026-05-29T16:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060399400372097127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2013237543110955008",
+          "start": 3,
+          "username": "sayxka_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060399400372097127",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060377741879541865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sayxka_: ⠀  ⢀⡤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n 　⢠⡏⠀⠀⠳⡄⠀⠀⠀⠀⠀   ⣀⣀⠀\n　 ⢸⠃⠀⠀⠀⢿⠀⠀⠀⠀  ⣼⠃⠀⠘⢧⠀⠀\n　 ⢸⡆⠀⠀⠀⠸⡆⠀⠀   ⣸⠃⠀⠀⠀⠈⢧⠀\n　 ⠈⣇⠀⠀⠀   ⣧⠀   ⠀⡏⠀⢦⠀⠀⠀⠸⡆ \n ⠀ 　⢹⡀⠀⠀⠀⢸⠀     ⢸…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060377735663669248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfuol1bUAAEUOR.jpg",
+        "width": 1464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2060399400372097127",
+        "created_at": "2026-05-29T16:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060399400372097127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2013237543110955008",
+              "start": 3,
+              "username": "sayxka_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060399400372097127",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060377741879541865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sayxka_: ⠀  ⢀⡤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n 　⢠⡏⠀⠀⠳⡄⠀⠀⠀⠀⠀   ⣀⣀⠀\n　 ⢸⠃⠀⠀⠀⢿⠀⠀⠀⠀  ⣼⠃⠀⠘⢧⠀⠀\n　 ⢸⡆⠀⠀⠀⠸⡆⠀⠀   ⣸⠃⠀⠀⠀⠈⢧⠀\n　 ⠈⣇⠀⠀⠀   ⣧⠀   ⠀⡏⠀⢦⠀⠀⠀⠸⡆ \n ⠀ 　⢹⡀⠀⠀⠀⢸⠀     ⢸…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060377735663669248"
+          ]
+        },
+        "author_id": "2013237543110955008",
+        "conversation_id": "2060377741879541865",
+        "created_at": "2026-05-29T15:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060377741879541865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nSJ3OBwGpB",
+              "end": 183,
+              "expanded_url": "https://x.com/sayxka_/status/2060377741879541865/photo/1",
+              "media_key": "3_2060377735663669248",
+              "start": 160,
+              "url": "https://t.co/nSJ3OBwGpB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060377741879541865",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 1372,
+          "like_count": 291,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "⠀  ⢀⡤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n 　⢠⡏⠀⠀⠳⡄⠀⠀⠀⠀⠀   ⣀⣀⠀\n　 ⢸⠃⠀⠀⠀⢿⠀⠀⠀⠀  ⣼⠃⠀⠘⢧⠀⠀\n　 ⢸⡆⠀⠀⠀⠸⡆⠀⠀   ⣸⠃⠀⠀⠀⠈⢧⠀\n　 ⠈⣇⠀⠀⠀   ⣧⠀   ⠀⡏⠀⢦⠀⠀⠀⠸⡆ \n ⠀ 　⢹⡀⠀⠀⠀⢸⠀     ⢸⠇⠀⠘⢧⡀⠀⣸⠃ \n⠀　 　⢳⠀⠀⠀⢸⡆     ⢸⠀⠀⠀⣼⠙⠋⠁ https://t.co/nSJ3OBwGpB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2059669582818721884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 243,
+          "like_count": 4871,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1646
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T13:10:16.000Z",
+        "description": "Main @i_loxe_u",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "i_loxe_u"
+              }
+            ]
+          }
+        },
+        "id": "2013237543110955008",
+        "location": "さやか",
+        "name": "໊",
+        "pinned_tweet_id": "2060377741879541865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058926544857526272/sgLLrCuf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 1,
+          "like_count": 394,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "username": "sayxka_",
+        "verified": false
+      }
+    ]
+  }
+}

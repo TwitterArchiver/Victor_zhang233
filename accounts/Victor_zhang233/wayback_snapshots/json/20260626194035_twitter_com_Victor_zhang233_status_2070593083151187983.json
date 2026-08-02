@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2070535278415237319",
+    "created_at": "2026-06-26T19:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T20:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070593083151187983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2061854323433226240",
+          "start": 0,
+          "username": "beiliutxcf"
+        },
+        {
+          "end": 26,
+          "id": "2053879822049320960",
+          "start": 12,
+          "username": "Berri_Biscuit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070593083151187983",
+    "in_reply_to_user_id": "2061854323433226240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070577003162485204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beiliutxcf @Berri_Biscuit 你妈什么时候死？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2070535278415237319",
+        "created_at": "2026-06-26T19:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T20:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070593083151187983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2061854323433226240",
+              "start": 0,
+              "username": "beiliutxcf"
+            },
+            {
+              "end": 26,
+              "id": "2053879822049320960",
+              "start": 12,
+              "username": "Berri_Biscuit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070593083151187983",
+        "in_reply_to_user_id": "2061854323433226240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070577003162485204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beiliutxcf @Berri_Biscuit 你妈什么时候死？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061854323433226240",
+        "conversation_id": "2070535278415237319",
+        "created_at": "2026-06-26T18:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070577003162485204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2053879822049320960",
+              "start": 0,
+              "username": "Berri_Biscuit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070577003162485204",
+        "in_reply_to_user_id": "2053879822049320960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070535278415237319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Berri_Biscuit 或许我们应该给你这个危险分子先枪毙掉🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 |\nDM欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Dekadens",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 406,
+          "like_count": 8282,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 2113
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T16:56:28.000Z",
+        "description": "心如猛虎，细嗅蔷薇",
+        "id": "2061854323433226240",
+        "location": "中国",
+        "name": "北流",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062121866215505920/d37I-WEg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 13,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "beiliutxcf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T16:49:36.000Z",
+        "description": "♡Stoner\n♡ cw: 53.35kg gw: 52kg ugw: 46kg\n♡no dni \n♡ultimate larp\n♡lvl 16\n♡Recovering from BED!!!! \n♡days binge free: 5",
+        "id": "2053879822049320960",
+        "location": "18.9",
+        "name": "Berri ♡ (is high)",
+        "pinned_tweet_id": "2053955980950483351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059764583158476805/FDp5xCDd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 217,
+          "like_count": 1796,
+          "listed_count": 3,
+          "media_count": 320,
+          "tweet_count": 1023
+        },
+        "url": "",
+        "username": "Berri_Biscuit",
+        "verified": false
+      }
+    ]
+  }
+}

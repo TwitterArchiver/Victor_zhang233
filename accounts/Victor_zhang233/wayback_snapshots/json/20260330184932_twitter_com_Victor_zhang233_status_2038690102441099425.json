@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2038398728588136854",
+    "created_at": "2026-03-30T18:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T19:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038690102441099425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1683441955194408960",
+          "start": 0,
+          "username": "hertmemu88165"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038690102441099425",
+    "in_reply_to_user_id": "1683441955194408960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038398728588136854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hertmemu88165 4,高中待家宅男"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2038398728588136854",
+        "created_at": "2026-03-30T18:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T19:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038690102441099425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1683441955194408960",
+              "start": 0,
+              "username": "hertmemu88165"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038690102441099425",
+        "in_reply_to_user_id": "1683441955194408960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038398728588136854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hertmemu88165 4,高中待家宅男"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683441955194408960",
+        "conversation_id": "2038398728588136854",
+        "created_at": "2026-03-29T23:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T00:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038398728588136854"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038398728588136854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 263386,
+          "like_count": 774,
+          "quote_count": 23,
+          "reply_count": 282,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "我总结了性压抑最严重的几个群体！快来看看吧！\n1.研究生\n2.留子\n3.健身佬\n4.有待补充"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "T^T / \n这里是Ashes / 生理男 / 性取向是null / 超级缺爱b / 我不会写简介 / 只听黑死敲 / 已休学 / 我很温良请和我玩",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038442200997265408/vibWzS-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 129,
+          "like_count": 2779,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1172
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T11:40:24.000Z",
+        "description": "这里大部分是我的碎碎念\n要和我说话能不能先给我看看牛牛，谢谢❤️\n没有要给你看我的逼的意思\n君子爱财，我是君子\n你骂我就是我对，我骂你还是我对",
+        "id": "1683441955194408960",
+        "location": "重庆",
+        "name": "hertmemu",
+        "pinned_tweet_id": "2038632372149850469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027642567362564096/Q_hCV7f-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 70,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 364
+        },
+        "username": "hertmemu88165",
+        "verified": false
+      }
+    ]
+  }
+}

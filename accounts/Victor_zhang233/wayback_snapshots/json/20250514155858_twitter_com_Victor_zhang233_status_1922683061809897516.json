@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1922490860681212217",
+    "created_at": "2025-05-14T15:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T16:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922683061809897516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "365259803",
+          "start": 0,
+          "username": "firearm__"
+        },
+        {
+          "end": 21,
+          "id": "1578364241362309120",
+          "start": 11,
+          "username": "wuren_Ltd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922683061809897516",
+    "in_reply_to_user_id": "365259803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922542432245199127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@firearm__ @wuren_Ltd 傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1922490860681212217",
+        "created_at": "2025-05-14T15:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T16:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922683061809897516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "365259803",
+              "start": 0,
+              "username": "firearm__"
+            },
+            {
+              "end": 21,
+              "id": "1578364241362309120",
+              "start": 11,
+              "username": "wuren_Ltd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922683061809897516",
+        "in_reply_to_user_id": "365259803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922542432245199127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@firearm__ @wuren_Ltd 傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "365259803",
+        "conversation_id": "1922490860681212217",
+        "created_at": "2025-05-14T06:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T07:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922542432245199127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1578364241362309120",
+              "start": 0,
+              "username": "wuren_Ltd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922542432245199127",
+        "in_reply_to_user_id": "1578364241362309120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9071,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922490860681212217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuren_Ltd 对假历史就该这态度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（/抑郁焦虑/黑金属/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎扩列和找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 坏人堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 64,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 567
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-31T03:47:22.000Z",
+        "description": "乐子魔怔人/追求普世价值/粉红，五毛，极左勿fo/兔友有害化处理",
+        "id": "365259803",
+        "location": "疯狂宇宙",
+        "name": "Gabriel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1279010310393696256/76Ba9-jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 409,
+          "like_count": 27314,
+          "listed_count": 4,
+          "media_count": 415,
+          "tweet_count": 15255
+        },
+        "username": "firearm__",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T12:39:05.000Z",
+        "description": "关于我在想什么 \n满洲人属 \n政治观点大约是坐标系平面卷成圆筒，原点与对点连线上的任意点 \n功德箱开放，快给我钱\n阿米娜唯一指定真身\n招梦2记：collective unconscious搭子 \n吉祥动物：🦉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wurenInc",
+                "end": 23,
+                "expanded_url": "https://t.me/wurenInc",
+                "start": 0,
+                "url": "https://t.co/EmkIiTTxZF"
+              }
+            ]
+          }
+        },
+        "id": "1578364241362309120",
+        "location": "龙转回",
+        "name": "无人",
+        "pinned_tweet_id": "1903319102053331337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906685483960475648/ruSPUz-4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28369,
+          "following_count": 1384,
+          "like_count": 17196,
+          "listed_count": 78,
+          "media_count": 766,
+          "tweet_count": 4036
+        },
+        "url": "https://t.co/EmkIiTTxZF",
+        "username": "wuren_Ltd",
+        "verified": false
+      }
+    ]
+  }
+}

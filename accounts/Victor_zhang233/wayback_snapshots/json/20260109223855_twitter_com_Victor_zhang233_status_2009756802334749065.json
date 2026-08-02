@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2009718597866889389",
+    "created_at": "2026-01-09T22:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T23:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009756802334749065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845844455095762944",
+          "start": 0,
+          "username": "Ankyo127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009756802334749065",
+    "in_reply_to_user_id": "1845844455095762944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009718597866889389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ankyo127 自暴自弃导致的？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009718580791640064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-P0ZrqWgAAngmq.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2009718597866889389",
+        "created_at": "2026-01-09T22:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T23:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009756802334749065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845844455095762944",
+              "start": 0,
+              "username": "Ankyo127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009756802334749065",
+        "in_reply_to_user_id": "1845844455095762944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009718597866889389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ankyo127 自暴自弃导致的？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009718580791640064"
+          ]
+        },
+        "author_id": "1845844455095762944",
+        "conversation_id": "2009718597866889389",
+        "created_at": "2026-01-09T20:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T21:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009718597866889389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NwUmogwaVQ",
+              "end": 23,
+              "expanded_url": "https://x.com/Ankyo127/status/2009718597866889389/photo/1",
+              "media_key": "3_2009718580791640064",
+              "start": 0,
+              "url": "https://t.co/NwUmogwaVQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009718597866889389",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NwUmogwaVQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001408376811704320/27ExCAWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 90,
+          "like_count": 1456,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 787
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T15:10:13.000Z",
+        "description": "桉秋(AQ)https://t.co/XJJrQNEEir🔊支持言论自由，不支持言论滥用，不攻击，不诽谤，理性讨论。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ankyo",
+                "end": 29,
+                "expanded_url": "https://ngl.link/ankyo",
+                "start": 6,
+                "url": "https://t.co/XJJrQNEEir"
+              }
+            ]
+          }
+        },
+        "id": "1845844455095762944",
+        "name": "Ankyo𖤐.🩷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971892817447526400/CWJp7sjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1877,
+          "following_count": 75,
+          "like_count": 464,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 420
+        },
+        "username": "Ankyo127",
+        "verified": false
+      }
+    ]
+  }
+}

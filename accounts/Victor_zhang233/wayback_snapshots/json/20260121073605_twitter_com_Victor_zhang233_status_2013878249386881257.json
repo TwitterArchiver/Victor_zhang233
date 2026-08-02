@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2013868366143058213",
+    "created_at": "2026-01-21T07:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T08:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013878249386881257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915984523546005505",
+          "start": 0,
+          "username": "kagechanwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013878249386881257",
+    "in_reply_to_user_id": "1915984523546005505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013868366143058213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagechanwww 加大剂量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2013868366143058213",
+        "created_at": "2026-01-21T07:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T08:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013878249386881257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915984523546005505",
+              "start": 0,
+              "username": "kagechanwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013878249386881257",
+        "in_reply_to_user_id": "1915984523546005505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013868366143058213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagechanwww 加大剂量"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915984523546005505",
+        "conversation_id": "2013868366143058213",
+        "created_at": "2026-01-21T06:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T07:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013868366143058213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013868366143058213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次想死都在怀疑是不是自己没吃药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "重抑瑟瑟发抖中",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001408376811704320/27ExCAWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 90,
+          "like_count": 1500,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 798
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T04:21:44.000Z",
+        "description": "BPD/BD/GAD 自残 负面情绪废话 欢迎同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn.pornhub.com",
+                "end": 23,
+                "expanded_url": "https://cn.pornhub.com/",
+                "start": 0,
+                "url": "https://t.co/hKRNCoJgfL"
+              }
+            ]
+          }
+        },
+        "id": "1915984523546005505",
+        "location": "地狱",
+        "name": "孤独な夜に溺れる",
+        "pinned_tweet_id": "2002298447081451989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005044114845212672/jKzBfgrq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 272,
+          "like_count": 2880,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 785
+        },
+        "url": "https://t.co/hKRNCoJgfL",
+        "username": "kagechanwww",
+        "verified": false
+      }
+    ]
+  }
+}

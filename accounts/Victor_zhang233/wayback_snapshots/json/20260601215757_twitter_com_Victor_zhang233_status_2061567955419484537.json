@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2061566207850143779",
+    "created_at": "2026-06-01T21:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T22:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061567955419484537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1989742696077168645",
+          "start": 0,
+          "username": "angel5554838581"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061567955419484537",
+    "in_reply_to_user_id": "1989742696077168645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061566207850143779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angel5554838581 会很痛苦的，，极其"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2061566207850143779",
+        "created_at": "2026-06-01T21:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T22:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061567955419484537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1989742696077168645",
+              "start": 0,
+              "username": "angel5554838581"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061567955419484537",
+        "in_reply_to_user_id": "1989742696077168645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061566207850143779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angel5554838581 会很痛苦的，，极其"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989742696077168645",
+        "conversation_id": "2061566207850143779",
+        "created_at": "2026-06-01T21:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T22:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061566207850143779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061566207850143779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "苯海索致死量是多少啊 我不想活了能搞到的只有苯海索金刚烷胺了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "抱歉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2059669582818721884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 274,
+          "like_count": 5400,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1663
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T17:10:13.000Z",
+        "description": "每天都很懵逼",
+        "id": "1989742696077168645",
+        "location": "Tokyo-to, Japan",
+        "name": "angel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989968123639013377/_RFJ8qJo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 25,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 151
+        },
+        "username": "angel5554838581",
+        "verified": false
+      }
+    ]
+  }
+}

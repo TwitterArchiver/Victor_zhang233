@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2036066632506970440",
+    "created_at": "2026-03-23T13:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T14:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036066632506970440"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bloodmeiii/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/bloodmeiii/status/2036038755543597321",
+          "start": 16,
+          "url": "https://t.co/Uba6qRgNhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036066632506970440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036038755543597321",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢叫别人妈妈其实是缺爱的表现 https://t.co/Uba6qRgNhi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2036066632506970440",
+        "created_at": "2026-03-23T13:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T14:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036066632506970440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bloodmeiii/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/bloodmeiii/status/2036038755543597321",
+              "start": 16,
+              "url": "https://t.co/Uba6qRgNhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036066632506970440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036038755543597321",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢叫别人妈妈其实是缺爱的表现 https://t.co/Uba6qRgNhi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599377355503726592",
+        "conversation_id": "2036038755543597321",
+        "created_at": "2026-03-23T11:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T12:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036038755543597321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036038755543597321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女友喜欢叫我妈妈怎么办？我一听到这两个字就萎了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "祝福我的死亡\n不对，人间是地狱\n所以真正的地狱在哪？",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032502037242662912/m7BPbwdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 119,
+          "like_count": 2406,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1082
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T12:17:45.000Z",
+        "description": "🍓莓🍓 \n07｜重抑中焦神经性贪食\n休学中｜我o我割我吐\n只回fo同类 🚪50\n我的存在本身就无意义",
+        "id": "1599377355503726592",
+        "name": "meiii",
+        "pinned_tweet_id": "2035325464471044216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035094006502453248/ZPlPHOva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 242,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 603
+        },
+        "username": "bloodmeiii",
+        "verified": false
+      }
+    ]
+  }
+}

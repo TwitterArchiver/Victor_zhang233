@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1981736473939546391",
+    "created_at": "2025-10-25T12:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T13:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982055797296345599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1980332728622149639",
+          "start": 0,
+          "username": "yu_yuan521"
+        },
+        {
+          "end": 24,
+          "id": "1676500088221478912",
+          "start": 12,
+          "username": "DOGYeah3376"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982055797296345599",
+    "in_reply_to_user_id": "1980332728622149639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982008798761140671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_yuan521 @DOGYeah3376 腻死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1981736473939546391",
+        "created_at": "2025-10-25T12:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T13:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982055797296345599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1980332728622149639",
+              "start": 0,
+              "username": "yu_yuan521"
+            },
+            {
+              "end": 24,
+              "id": "1676500088221478912",
+              "start": 12,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982055797296345599",
+        "in_reply_to_user_id": "1980332728622149639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982008798761140671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_yuan521 @DOGYeah3376 腻死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980332728622149639",
+        "conversation_id": "1981736473939546391",
+        "created_at": "2025-10-25T08:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T09:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982008798761140671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            },
+            {
+              "end": 29,
+              "id": "1676500088221478912",
+              "start": 17,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982008798761140671",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981738034702741710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 @DOGYeah3376 o了一盘红烧肉可行吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（// 高中生［endl］ 皮下男 / \n只听自杀黑¿._ / \n我喜欢视奸你们^°^",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 98,
+          "like_count": 1118,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 751
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T17:58:24.000Z",
+        "description": "インターネット社交恐怖症発作中ing... ｜小yu阴暗潮湿恶臭电波宅丑地雷系生理女一枚｜出门只为舞萌出勤｜求交友互fo｜本人聊天交友很友好不要怕我｜可私信找我聊天｜纯绿｜🚪88 199永久陪｜我是穷b请给我钱….",
+        "id": "1980332728622149639",
+        "location": "距离你8.3km",
+        "name": "青春神秘电波小yu不会遇见长发男",
+        "pinned_tweet_id": "1981980219172086135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980333045027573760/s9-4jLAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 6,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 114
+        },
+        "username": "yu_yuan521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979171735669719041/xwbTRqej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 1025,
+          "like_count": 55398,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 3634
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      }
+    ]
+  }
+}

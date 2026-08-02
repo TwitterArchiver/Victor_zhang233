@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2064600201814524175",
+    "created_at": "2026-06-12T07:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T08:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065330659674177954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1483726186991669250",
+          "start": 0,
+          "username": "DanTasKingdom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065330659674177954",
+    "in_reply_to_user_id": "1483726186991669250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065302264479379866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DanTasKingdom 看起来很好吃🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2064600201814524175",
+        "created_at": "2026-06-12T07:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065330659674177954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1483726186991669250",
+              "start": 0,
+              "username": "DanTasKingdom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065330659674177954",
+        "in_reply_to_user_id": "1483726186991669250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065302264479379866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DanTasKingdom 看起来很好吃🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1483726186991669250",
+        "conversation_id": "2064600201814524175",
+        "created_at": "2026-06-12T05:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065302264479379866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065302264479379866",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064600201814524175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 ndri类抗抑郁药150mg就起效，娱乐剂量和医用剂量极其相似的神药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 312,
+          "like_count": 6500,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1919
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-19T09:01:16.000Z",
+        "description": "喜歡有關藝術的一切",
+        "id": "1483726186991669250",
+        "name": "くろいタバコ",
+        "pinned_tweet_id": "1824664213555646491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036646525116506112/OCgXH5FQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 270,
+          "like_count": 83,
+          "listed_count": 5,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "DanTasKingdom",
+        "verified": false
+      }
+    ]
+  }
+}

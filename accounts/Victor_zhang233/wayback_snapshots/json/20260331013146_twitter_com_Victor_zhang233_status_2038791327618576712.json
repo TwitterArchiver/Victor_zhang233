@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2038423524176736692",
+    "created_at": "2026-03-31T01:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T02:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038791327618576712"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038791327618576712",
+    "in_reply_to_user_id": "1755494652889661440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038423524176736692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再睡一觉好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2038423524176736692",
+        "created_at": "2026-03-31T01:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038791327618576712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038791327618576712",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038423524176736692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再睡一觉好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2038423522327056384"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2038423524176736692",
+        "created_at": "2026-03-30T01:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T02:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038423524176736692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038423524176736692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡觉还是吃普瑞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "T^T / \n这里是Ashes / 生理男 / 性取向是null / 超级缺爱b / 我不会写简介 / 只听黑死敲 / 已休学 / 我很温良请和我玩",
+        "id": "1755494652889661440",
+        "location": "人间天国",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038442200997265408/vibWzS-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 131,
+          "like_count": 2822,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1182
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

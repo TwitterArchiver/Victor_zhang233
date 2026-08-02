@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1904668719739261144",
+    "created_at": "2025-04-01T08:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T09:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906994565518671973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1867754919362727937",
+          "start": 0,
+          "username": "ShinanoAzur"
+        },
+        {
+          "end": 20,
+          "id": "1731385710010421248",
+          "start": 13,
+          "username": "GN1776"
+        },
+        {
+          "end": 31,
+          "id": "1589203507852152832",
+          "start": 21,
+          "username": "JianLv117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906994565518671973",
+    "in_reply_to_user_id": "1867754919362727937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906250490893238626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShinanoAzur @GN1776 @JianLv117 傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1904668719739261144",
+        "created_at": "2025-04-01T08:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T09:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906994565518671973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1867754919362727937",
+              "start": 0,
+              "username": "ShinanoAzur"
+            },
+            {
+              "end": 20,
+              "id": "1731385710010421248",
+              "start": 13,
+              "username": "GN1776"
+            },
+            {
+              "end": 31,
+              "id": "1589203507852152832",
+              "start": 21,
+              "username": "JianLv117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906994565518671973",
+        "in_reply_to_user_id": "1867754919362727937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906250490893238626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShinanoAzur @GN1776 @JianLv117 傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867754919362727937",
+        "conversation_id": "1904668719739261144",
+        "created_at": "2025-03-30T07:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T08:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906250490893238626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            },
+            {
+              "end": 24,
+              "id": "1731385710010421248",
+              "start": 17,
+              "username": "GN1776"
+            },
+            {
+              "end": 35,
+              "id": "1589203507852152832",
+              "start": 25,
+              "username": "JianLv117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906250490893238626",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906219043545047380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 @GN1776 @JianLv117 谁问你了？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/抑郁焦虑/黑金属/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 坏人堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 67,
+          "like_count": 496,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 551
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-14T02:14:16.000Z",
+        "description": "日本語と英語が話せて、中国の豚殺しの達人、今遊んでいるゲームはmaimaiDX,CHUNITHM,Arcaea,Phigros,アズールレーン,ブルーアーカイブ，千恋萬花などのGalGameがあります，Yoyi神（法王）@L98808Lju，陛下（晴れた日の人形）@Romanorum_と一緒に寄り添う",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 110,
+                "username": "L98808Lju"
+              },
+              {
+                "end": 143,
+                "start": 132,
+                "username": "Romanorum_"
+              }
+            ]
+          }
+        },
+        "id": "1867754919362727937",
+        "location": "日本 东京都",
+        "name": "神秘の幻夢🇯🇵",
+        "pinned_tweet_id": "1903834228858786129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894370654889414662/zAyMb7hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 494,
+          "like_count": 2577,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 2092
+        },
+        "username": "ShinanoAzur",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T18:51:54.000Z",
+        "description": "我在无限中掠夺，同时也被无限掠夺 —————————I am plundering in infinity, and I am also plundered by infinity",
+        "id": "1731385710010421248",
+        "location": "Black Hole",
+        "name": "dark world",
+        "pinned_tweet_id": "1877772911932768339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779295503261552640/s2Ediz-j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 532,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 432
+        },
+        "username": "GN1776",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T10:30:25.000Z",
+        "description": "一个奇怪的人，人物志评分创始人 INTJ\n二次元 热爱与大家讨论交流 爱评论点赞❤️\n华北人\n可互关(需私信)\n逃生舱：@lyngxu3  \n搭档：@KawawaDiana8964\n朋友: @HANABIRIKAJIANG\n伙伴：@RealColidora3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "lyngxu3"
+              },
+              {
+                "end": 90,
+                "start": 74,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "HANABIRIKAJIANG"
+              },
+              {
+                "end": 129,
+                "start": 115,
+                "username": "RealColidora3"
+              }
+            ]
+          }
+        },
+        "id": "1589203507852152832",
+        "location": "新西兰（回复1和转推多为广告❛˓◞˂̵✧）",
+        "name": "简律",
+        "pinned_tweet_id": "1906893299102986631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873689474133274624/7nI7UtsB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14985,
+          "following_count": 912,
+          "like_count": 56276,
+          "listed_count": 59,
+          "media_count": 2710,
+          "tweet_count": 6803
+        },
+        "username": "JianLv117",
+        "verified": true
+      }
+    ]
+  }
+}

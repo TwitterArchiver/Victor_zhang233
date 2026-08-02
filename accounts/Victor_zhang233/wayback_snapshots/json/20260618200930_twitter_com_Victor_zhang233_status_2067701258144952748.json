@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2067589747602751982",
+    "created_at": "2026-06-18T20:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T21:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067701258144952748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1661148065749942272",
+          "start": 0,
+          "username": "MeiyiSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067701258144952748",
+    "in_reply_to_user_id": "1661148065749942272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067589747602751982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeiyiSama 什么？这不是走资，我们这个邓小平理论体积小方便携带，拆开一包，放水里就会摸石头过河，一戳就破，用来擦脚，擦脸，擦嘴都是很好用的，你看打开以后像茅台一样大小，放在小渔村里画圈就会变富，吸钱性很强的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067589740866732032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGN6i2agAA7Y4y.jpg",
+        "width": 1254
+      },
+      {
+        "height": 1030,
+        "media_key": "3_2067589740904558592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGN6i_bsAAB68X.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2067589747602751982",
+        "created_at": "2026-06-18T20:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T21:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067701258144952748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1661148065749942272",
+              "start": 0,
+              "username": "MeiyiSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067701258144952748",
+        "in_reply_to_user_id": "1661148065749942272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067589747602751982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeiyiSama 什么？这不是走资，我们这个邓小平理论体积小方便携带，拆开一包，放水里就会摸石头过河，一戳就破，用来擦脚，擦脸，擦嘴都是很好用的，你看打开以后像茅台一样大小，放在小渔村里画圈就会变富，吸钱性很强的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067589740866732032",
+            "3_2067589740904558592"
+          ]
+        },
+        "author_id": "1661148065749942272",
+        "conversation_id": "2067589747602751982",
+        "created_at": "2026-06-18T12:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067589747602751982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xIc4lSBpaZ",
+              "end": 165,
+              "expanded_url": "https://x.com/MeiyiSama/status/2067589747602751982/photo/1",
+              "media_key": "3_2067589740866732032",
+              "start": 142,
+              "url": "https://t.co/xIc4lSBpaZ"
+            },
+            {
+              "display_url": "pic.x.com/xIc4lSBpaZ",
+              "end": 165,
+              "expanded_url": "https://x.com/MeiyiSama/status/2067589747602751982/photo/1",
+              "media_key": "3_2067589740904558592",
+              "start": 142,
+              "url": "https://t.co/xIc4lSBpaZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067589747602751982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3002,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看来以后邓碾平伟大个人崇拜✌🏻👴前面还要加上总发明师总设计师未获诺奖的科学家\n邓碾平死了就是死了 骨灰洒太平洋了 没有什么死后去找天皇和孙中山和哈耶克 就是死了 死的很惨 \n没有邓小平你血汗工厂国内都没有也进不去，你连墙都没有签证都不用办，邓碾平极右封建特权路线是亡族主义，卖国汉奸 https://t.co/xIc4lSBpaZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 |\nDM欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 372,
+          "like_count": 7295,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2055
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-23T23:12:24.000Z",
+        "description": "1935出生于吉林长春，1950参加中国人民解放军并参加抗美援朝。1951加入中国共产党。复员后到上海入第十七棉纺织厂当工人。后于保卫科任干事。1966响应伟大领袖毛主席号召推翻上海市委反动统治打响夺权第一枪，并在党十大上成功当选副主席。 1976粉碎走资派妄图复辟资本主义的阴谋诡计，在党十一大当选中华人民共和国主席。",
+        "id": "1661148065749942272",
+        "location": "中华人民共和国北京市西城区中南海",
+        "name": "王洪文",
+        "pinned_tweet_id": "1849506577570726220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800529443313848321/pBGkVoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 71,
+          "like_count": 785,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 2558
+        },
+        "url": "",
+        "username": "MeiyiSama",
+        "verified": false
+      }
+    ]
+  }
+}

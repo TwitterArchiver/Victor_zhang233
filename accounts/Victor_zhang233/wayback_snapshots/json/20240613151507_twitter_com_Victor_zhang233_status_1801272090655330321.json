@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1800881751482585246",
+    "created_at": "2024-06-13T15:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T16:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801272090655330321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1683440309768708096",
+          "start": 0,
+          "username": "3596675596com"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801272090655330321",
+    "in_reply_to_user_id": "1683440309768708096",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800881751482585246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3596675596com 不应该先打到民进？🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1800881751482585246",
+        "created_at": "2024-06-13T15:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T16:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801272090655330321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1683440309768708096",
+              "start": 0,
+              "username": "3596675596com"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801272090655330321",
+        "in_reply_to_user_id": "1683440309768708096",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800881751482585246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3596675596com 不应该先打到民进？🤔"
+      },
+      {
+        "attachments": {},
+        "author_id": "1683440309768708096",
+        "conversation_id": "1800881751482585246",
+        "created_at": "2024-06-12T13:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T14:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800881751482585246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800881751482585246",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1573,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "彻底打趴国民党反动派\n居然成了大陆人、民进党铁杆支持者、日本人为数不多的共识\n我是强烈支持民进党和日本人联手打趴百年烂党国民党\n只要你们能打趴百年烂党，你们就是大陆统一台湾的功臣。因为你们帮大陆扫清统一台湾最大的阻力。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这//白左/简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": ".. Лунный",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 34,
+          "like_count": 126,
+          "listed_count": 0,
+          "tweet_count": 188
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T11:34:02.000Z",
+        "description": "入则无法家拂士 ， 出则无敌国外患者 ， 国恒亡 。 然后知生于忧患而死于安乐也。",
+        "id": "1683440309768708096",
+        "location": "广东",
+        "name": "沙漠之狐隆美尔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711085365518553088/EnO3Jhv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5739,
+          "following_count": 853,
+          "like_count": 8840,
+          "listed_count": 79,
+          "tweet_count": 20926
+        },
+        "username": "3596675596com",
+        "verified": true
+      }
+    ]
+  }
+}

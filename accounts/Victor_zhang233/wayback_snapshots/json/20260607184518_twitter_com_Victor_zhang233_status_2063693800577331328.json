@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2063599388170322038",
+    "created_at": "2026-06-07T18:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T19:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063693800577331328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1856662470146039808",
+          "start": 0,
+          "username": "misono_sho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063693800577331328",
+    "in_reply_to_user_id": "1856662470146039808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063599388170322038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misono_sho 换头像了诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2063599388170322038",
+        "created_at": "2026-06-07T18:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063693800577331328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1856662470146039808",
+              "start": 0,
+              "username": "misono_sho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063693800577331328",
+        "in_reply_to_user_id": "1856662470146039808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063599388170322038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misono_sho 换头像了诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856662470146039808",
+        "conversation_id": "2063599388170322038",
+        "created_at": "2026-06-07T12:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063599388170322038"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063599388170322038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我明天、、嗯、、唉、好想嗑药，我现在头特别疼呀、\n头疼呀、\n特别特别疼呀、胃还很撑、那个减肥针太牛逼了但是我又特别馋、\n今天吃了烤肉。我现在还想吃个拌面\n七百多卡，诶这样吧，作为我下个星期唯一的饭，然后下个星期就不吃了，吃了也吐掉怎么样\n好耶！（净给自己找借口吃东西）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 310,
+          "like_count": 6201,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1853
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T11:37:14.000Z",
+        "description": "..ip大阪\n日语苦手\n所以可能会打中文或者用翻译器\n很怪的话请原谅\n🥺🥺(⁠≧⁠▽⁠≦⁠)\n互fo大欢迎\n有啥想问的https://t.co/mrTm5xhM1p\n看到了就回，喜欢你们\nDM可以哟~想发什么都可以哦\n因为我真的很闲😚\n無言フォローいいよ♡",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/misonosho",
+                "end": 82,
+                "expanded_url": "https://ngl.link/misonosho",
+                "start": 59,
+                "url": "https://t.co/mrTm5xhM1p"
+              }
+            ]
+          }
+        },
+        "id": "1856662470146039808",
+        "location": "常住大阪谢谢",
+        "name": "美園笙",
+        "pinned_tweet_id": "2037728140387287240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063627462035308544/YSiwwbCc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 80,
+          "like_count": 7590,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 461
+        },
+        "username": "misono_sho",
+        "verified": false
+      }
+    ]
+  }
+}

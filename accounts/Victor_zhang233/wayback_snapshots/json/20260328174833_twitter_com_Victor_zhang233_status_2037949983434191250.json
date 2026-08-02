@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037949980053495808"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2037949983434191250",
+    "created_at": "2026-03-28T17:48:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T18:48:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037949983434191250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wH7J9Rdphv",
+          "end": 28,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2037949983434191250/photo/1",
+          "media_key": "3_2037949980053495808",
+          "start": 5,
+          "url": "https://t.co/wH7J9Rdphv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037949983434191250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "何任务😶 https://t.co/wH7J9Rdphv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2037949980053495808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEhAtZcaYAATETV.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037949980053495808"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037949983434191250",
+        "created_at": "2026-03-28T17:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T18:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037949983434191250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wH7J9Rdphv",
+              "end": 28,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2037949983434191250/photo/1",
+              "media_key": "3_2037949980053495808",
+              "start": 5,
+              "url": "https://t.co/wH7J9Rdphv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037949983434191250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何任务😶 https://t.co/wH7J9Rdphv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "T^T",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032502037242662912/m7BPbwdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 124,
+          "like_count": 2628,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1134
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

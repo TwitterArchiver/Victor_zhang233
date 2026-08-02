@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2062689665233383773",
+    "created_at": "2026-06-05T13:14:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062885822198693889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1972970846194180096",
+          "start": 0,
+          "username": "xuelingqiansha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062885822198693889",
+    "in_reply_to_user_id": "1972970846194180096",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062883912742023179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuelingqiansha 🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2062689665233383773",
+        "created_at": "2026-06-05T13:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062885822198693889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1972970846194180096",
+              "start": 0,
+              "username": "xuelingqiansha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062885822198693889",
+        "in_reply_to_user_id": "1972970846194180096",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062883912742023179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuelingqiansha 🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972970846194180096",
+        "conversation_id": "2062689665233383773",
+        "created_at": "2026-06-05T13:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062883912742023179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062883912742023179",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062689665233383773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 我支持"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2062538556367917348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062155233384615936/pl3fVQYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 300,
+          "like_count": 6051,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1827
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T10:24:49.000Z",
+        "description": "05.2.20/hrt:24.5.16(已经是大龄药娘哩)/家长管不了党/长的一般/不会伪音(好难)/大学生一枚/学校:新疆 家:辽宁/不打算srs,就这样过一辈子/180大只(嘻嘻)/抖m/讨厌被骗(超级超级讨厌)/同类互fo,随时欢迎找我玩捏",
+        "id": "1972970846194180096",
+        "name": "雪澪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062878865501155328/bqTiL-ye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 33,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "xuelingqiansha",
+        "verified": false
+      }
+    ]
+  }
+}

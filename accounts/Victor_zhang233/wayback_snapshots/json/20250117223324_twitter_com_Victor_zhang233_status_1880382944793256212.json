@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1880185749355786646",
+    "created_at": "2025-01-17T22:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T23:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880382944793256212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "712064456377892864",
+          "start": 0,
+          "username": "Got_BoostMK9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880382944793256212",
+    "in_reply_to_user_id": "712064456377892864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880185749355786646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Got_BoostMK9 建议换成电子78"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1880185749355786646",
+        "created_at": "2025-01-17T22:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T23:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880382944793256212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "712064456377892864",
+              "start": 0,
+              "username": "Got_BoostMK9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880382944793256212",
+        "in_reply_to_user_id": "712064456377892864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880185749355786646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Got_BoostMK9 建议换成电子78"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "712064456377892864",
+        "conversation_id": "1880185749355786646",
+        "created_at": "2025-01-17T09:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T10:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880185749355786646"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880185749355786646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 941,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男人什么时候才能进化到看到爱的人才会勃起的功能啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 56,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 420
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-21T23:52:50.000Z",
+        "description": "学习在女明星家里被抓的导师|\n电线杆的狗 |Deng,Hijo de puta |斯大林死全家|学习卢卡纳马卡精神",
+        "id": "712064456377892864",
+        "location": "中国",
+        "name": "真左",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880173627003301888/qcwILxBw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 271,
+          "like_count": 21081,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 3288
+        },
+        "username": "Got_BoostMK9",
+        "verified": false
+      }
+    ]
+  }
+}

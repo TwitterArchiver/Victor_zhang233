@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1881651785439531123",
+    "created_at": "2025-01-21T11:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T12:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881660849728991407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881660849728991407",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881651785439531123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 什么胡萝卜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1881651785439531123",
+        "created_at": "2025-01-21T11:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T12:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881660849728991407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881660849728991407",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881651785439531123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 什么胡萝卜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881650534123544576",
+            "3_1881650602729738240",
+            "3_1881650611386777600"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1881651785439531123",
+        "created_at": "2025-01-21T10:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T11:31:56.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881650933794517280",
+          "1881651580245860469",
+          "1881651785439531123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ozy878bH2D",
+              "end": 122,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1881651785439531123/photo/1",
+              "media_key": "3_1881650534123544576",
+              "start": 99,
+              "url": "https://t.co/Ozy878bH2D"
+            },
+            {
+              "display_url": "pic.x.com/Ozy878bH2D",
+              "end": 122,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1881651785439531123/photo/1",
+              "media_key": "3_1881650602729738240",
+              "start": 99,
+              "url": "https://t.co/Ozy878bH2D"
+            },
+            {
+              "display_url": "pic.x.com/Ozy878bH2D",
+              "end": 122,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1881651785439531123/photo/1",
+              "media_key": "3_1881650611386777600",
+              "start": 99,
+              "url": "https://t.co/Ozy878bH2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881651785439531123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为了让害怕反腐清洗而不作为的官员们重拾干劲，习近平：一些错误是可以接受的。\n 华尔街日报：习近平正加大反腐力度，这场斗争让受处分的官员数量再创新高，其副作用是，许多官员因害怕受到惩罚而不敢做事。\n 为了帮助官员们重拾干劲，重振停滞不前的经济，习近平还传递了一个信息：一些错误是可以接受的。他对中共的指示是：执行严格的纪律不应助长畏首畏尾的气氛，这种气氛会削弱曾经推动中国经济崛起的锐意进取的精神。\n 习近平说，应该“严管和厚爱结合”，以“激励干部开拓进取、干事创业”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 20598,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "为了让害怕反腐清洗而不作为的官员们重拾干劲，习近平：一些错误是可以接受的。\n 华尔街日报：习近平正加大反腐力度，这场斗争让受处分的官员数量再创新高，其副作用是，许多官员因害怕受到惩罚而不敢做事。… https://t.co/Ozy878bH2D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 坏人堂",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 62,
+          "like_count": 446,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 483
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1880963258401837459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908592,
+          "following_count": 923,
+          "like_count": 5629,
+          "listed_count": 8005,
+          "media_count": 22345,
+          "tweet_count": 28640
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

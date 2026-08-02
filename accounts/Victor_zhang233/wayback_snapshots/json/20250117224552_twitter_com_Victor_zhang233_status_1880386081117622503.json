@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1879340850008002563",
+    "created_at": "2025-01-17T22:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T23:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880386081117622503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1809967403931168768",
+          "start": 0,
+          "username": "bZgLAkA6ib9272"
+        },
+        {
+          "end": 32,
+          "id": "1580943218908069888",
+          "start": 16,
+          "username": "luoshalusenbao7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880386081117622503",
+    "in_reply_to_user_id": "1809967403931168768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880121927987253681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bZgLAkA6ib9272 @luoshalusenbao7 我超，这都有铁男"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1879340850008002563",
+        "created_at": "2025-01-17T22:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T23:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880386081117622503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1809967403931168768",
+              "start": 0,
+              "username": "bZgLAkA6ib9272"
+            },
+            {
+              "end": 32,
+              "id": "1580943218908069888",
+              "start": 16,
+              "username": "luoshalusenbao7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880386081117622503",
+        "in_reply_to_user_id": "1809967403931168768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880121927987253681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bZgLAkA6ib9272 @luoshalusenbao7 我超，这都有铁男"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809967403931168768",
+        "conversation_id": "1879340850008002563",
+        "created_at": "2025-01-17T05:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T06:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880121927987253681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1580943218908069888",
+              "start": 0,
+              "username": "luoshalusenbao7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880121927987253681",
+        "in_reply_to_user_id": "1580943218908069888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879340926356865497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshalusenbao7 刷知乎混军圈不至于一点史料都看不见，知乎上针对苏联的史料的真实度比b站要好上不少，妈的，b站那个逼样的，对于苏联的研究可以说是胡说八道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 57,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 425
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T15:07:25.000Z",
+        "description": "",
+        "id": "1809967403931168768",
+        "name": "铁铠冥魂·莫得凯撒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809967543408607232/MXw5sFoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 284,
+          "like_count": 791,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 443
+        },
+        "username": "bZgLAkA6ib9272",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T15:26:56.000Z",
+        "description": "我们必将消灭这建立在流沙之上虚假的秩序，我来过，我又来到，我还将重临！社会主义或野蛮！\n\n卢关搭子：@gyrozeppeli8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "gyrozeppeli8964"
+              }
+            ]
+          }
+        },
+        "id": "1580943218908069888",
+        "location": "斯巴达克同盟",
+        "name": "Rosa Luxemburg（parody）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838523272427900928/jhJeMDAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2686,
+          "following_count": 2570,
+          "like_count": 49561,
+          "listed_count": 10,
+          "media_count": 22,
+          "tweet_count": 2251
+        },
+        "username": "luoshalusenbao7",
+        "verified": false
+      }
+    ]
+  }
+}

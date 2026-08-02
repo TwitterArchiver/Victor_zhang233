@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1880473647535779860",
+    "created_at": "2025-01-18T17:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T18:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880665495176954244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1524172789497798656",
+          "start": 0,
+          "username": "Lancyftbluebird"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880665495176954244",
+    "in_reply_to_user_id": "1524172789497798656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880473647535779860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lancyftbluebird byd蜘蛛女皇到处跑是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1880473647535779860",
+        "created_at": "2025-01-18T17:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T18:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880665495176954244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1524172789497798656",
+              "start": 0,
+              "username": "Lancyftbluebird"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880665495176954244",
+        "in_reply_to_user_id": "1524172789497798656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880473647535779860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lancyftbluebird byd蜘蛛女皇到处跑是吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880473633719775232",
+            "3_1880473637360472064",
+            "3_1880473641168900096",
+            "3_1880473644817854464"
+          ]
+        },
+        "author_id": "1524172789497798656",
+        "conversation_id": "1880473647535779860",
+        "created_at": "2025-01-18T04:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T05:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880473647535779860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6tMR4HiQ56",
+              "end": 89,
+              "expanded_url": "https://x.com/Lancyftbluebird/status/1880473647535779860/photo/1",
+              "media_key": "3_1880473633719775232",
+              "start": 66,
+              "url": "https://t.co/6tMR4HiQ56"
+            },
+            {
+              "display_url": "pic.x.com/6tMR4HiQ56",
+              "end": 89,
+              "expanded_url": "https://x.com/Lancyftbluebird/status/1880473647535779860/photo/1",
+              "media_key": "3_1880473637360472064",
+              "start": 66,
+              "url": "https://t.co/6tMR4HiQ56"
+            },
+            {
+              "display_url": "pic.x.com/6tMR4HiQ56",
+              "end": 89,
+              "expanded_url": "https://x.com/Lancyftbluebird/status/1880473647535779860/photo/1",
+              "media_key": "3_1880473641168900096",
+              "start": 66,
+              "url": "https://t.co/6tMR4HiQ56"
+            },
+            {
+              "display_url": "pic.x.com/6tMR4HiQ56",
+              "end": 89,
+              "expanded_url": "https://x.com/Lancyftbluebird/status/1880473647535779860/photo/1",
+              "media_key": "3_1880473644817854464",
+              "start": 66,
+              "url": "https://t.co/6tMR4HiQ56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880473647535779860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 91450,
+          "like_count": 441,
+          "quote_count": 5,
+          "reply_count": 36,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "崩了😯有红薯问美国网友怎么看亚伦布什内尔😯美国网友：这谁啊我不知道😯\n\n对面也慢慢看到墙了😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯 https://t.co/6tMR4HiQ56"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 59,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 444
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-10T23:41:38.000Z",
+        "description": "",
+        "id": "1524172789497798656",
+        "name": "Lancy是小落爪呀（退休版）",
+        "pinned_tweet_id": "1556322070580957184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700103280410697728/CLP2HTvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3151,
+          "following_count": 679,
+          "like_count": 18930,
+          "listed_count": 24,
+          "media_count": 2974,
+          "tweet_count": 15395
+        },
+        "username": "Lancyftbluebird",
+        "verified": false
+      }
+    ]
+  }
+}

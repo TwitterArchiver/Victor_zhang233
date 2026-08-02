@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1881553142925693388",
+    "created_at": "2025-01-21T11:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T12:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881660690924277971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1607339114508214275",
+          "start": 0,
+          "username": "gm18c_3354"
+        },
+        {
+          "end": 21,
+          "id": "1601058898597023744",
+          "start": 12,
+          "username": "yidouxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881660690924277971",
+    "in_reply_to_user_id": "1607339114508214275",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881653075804631339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gm18c_3354 @yidouxin 👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1881553142925693388",
+        "created_at": "2025-01-21T11:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T12:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881660690924277971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1607339114508214275",
+              "start": 0,
+              "username": "gm18c_3354"
+            },
+            {
+              "end": 21,
+              "id": "1601058898597023744",
+              "start": 12,
+              "username": "yidouxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881660690924277971",
+        "in_reply_to_user_id": "1607339114508214275",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881653075804631339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gm18c_3354 @yidouxin 👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607339114508214275",
+        "conversation_id": "1881553142925693388",
+        "created_at": "2025-01-21T10:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T11:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881653075804631339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601058898597023744",
+              "start": 0,
+              "username": "yidouxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881653075804631339",
+        "in_reply_to_user_id": "1601058898597023744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881553142925693388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yidouxin 网左想找革命骚母狗了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 坏人堂",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 62,
+          "like_count": 446,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 482
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T11:34:50.000Z",
+        "description": "我是国棉18厂保卫科主任：王哄温，在1977年被话果分骗去坏人堂开会时被捕，1992年趋势。\n2022年多次转生至现X捏喵\n邓小平你寿司罢！",
+        "id": "1607339114508214275",
+        "location": "中华苏维埃共和国-延安",
+        "name": "国棉18厂保卫科主任•王哄温•活左转世第二世☭",
+        "pinned_tweet_id": "1643539024823595008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745664382963703808/Bgvlcm9__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 135,
+          "like_count": 64725,
+          "listed_count": 10,
+          "media_count": 410,
+          "tweet_count": 9529
+        },
+        "username": "gm18c_3354",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-09T03:39:32.000Z",
+        "description": "叫我Chris就好，也可以叫我小寺.需要互fo可以私信，看到就会回",
+        "id": "1601058898597023744",
+        "location": "怀仁堂",
+        "name": "Christian.K.Wick",
+        "pinned_tweet_id": "1880613633056796926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880613209398509568/HXzkUnCD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 730,
+          "like_count": 7122,
+          "listed_count": 3,
+          "media_count": 843,
+          "tweet_count": 4342
+        },
+        "username": "yidouxin",
+        "verified": false
+      }
+    ]
+  }
+}

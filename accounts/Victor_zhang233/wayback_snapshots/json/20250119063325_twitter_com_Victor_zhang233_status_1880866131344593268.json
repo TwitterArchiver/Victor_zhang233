@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1880611799671902307",
+    "created_at": "2025-01-19T06:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T07:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880866131344593268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1556713726169923585",
+          "start": 0,
+          "username": "ibelulo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880866131344593268",
+    "in_reply_to_user_id": "1556713726169923585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880611799671902307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ibelulo 上次见过的这种矛盾复合体是左脚踩右脚飞天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1880611799671902307",
+        "created_at": "2025-01-19T06:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T07:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880866131344593268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1556713726169923585",
+              "start": 0,
+              "username": "ibelulo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880866131344593268",
+        "in_reply_to_user_id": "1556713726169923585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880611799671902307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ibelulo 上次见过的这种矛盾复合体是左脚踩右脚飞天"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880611767807557632"
+          ]
+        },
+        "author_id": "1556713726169923585",
+        "conversation_id": "1880611799671902307",
+        "created_at": "2025-01-18T13:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T14:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880611799671902307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C8gfvm3lm4",
+              "end": 158,
+              "expanded_url": "https://x.com/ibelulo/status/1880611799671902307/photo/1",
+              "media_key": "3_1880611767807557632",
+              "start": 135,
+              "url": "https://t.co/C8gfvm3lm4"
+            },
+            {
+              "display_url": "x.com/manakaao68/sta…",
+              "end": 182,
+              "expanded_url": "https://twitter.com/manakaao68/status/1880467487613153676",
+              "start": 159,
+              "url": "https://t.co/TK1bDyljgC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880611799671902307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1506,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880467487613153676",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "答案是阎锡山思想，因为阎锡山缝合了军国主义、民族主义、无政府主义、民主制、资本主义、共产主义、个人主义、帝国主义、世界主义、家长制、乌托邦社会主义，以及社会达尔文主义和儒家思想，并结合了俾斯麦罗斯福孙中山等人的实践路径，真正意义上做到了把他那个时代的左中右全缝合的人。 https://t.co/C8gfvm3lm4 https://t.co/TK1bDyljgC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 60,
+          "like_count": 444,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 456
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T18:47:48.000Z",
+        "description": "毁灭与重生",
+        "id": "1556713726169923585",
+        "location": "阜姆自由邦",
+        "name": "无拘无束",
+        "pinned_tweet_id": "1756244994912895307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848196341190594560/dAKJIuEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 511,
+          "like_count": 124846,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 2481
+        },
+        "username": "ibelulo",
+        "verified": false
+      }
+    ]
+  }
+}

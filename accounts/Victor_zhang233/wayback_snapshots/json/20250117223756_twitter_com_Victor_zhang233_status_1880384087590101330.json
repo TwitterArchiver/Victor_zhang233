@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880384084683153408"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "1880255336080421369",
+    "created_at": "2025-01-17T22:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T23:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880384087590101330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "722848046321508352",
+          "start": 0,
+          "username": "woyongdehuawei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bymZb1lLvM",
+          "end": 48,
+          "expanded_url": "https://x.com/Victor_zhang233/status/1880384087590101330/photo/1",
+          "media_key": "3_1880384084683153408",
+          "start": 25,
+          "url": "https://t.co/bymZb1lLvM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880384087590101330",
+    "in_reply_to_user_id": "722848046321508352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880255336080421369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woyongdehuawei 孩子们，就是这样 https://t.co/bymZb1lLvM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 777,
+        "media_key": "3_1880384084683153408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghh3XMDWYAAnDSl.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880384084683153408"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "1880255336080421369",
+        "created_at": "2025-01-17T22:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T23:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880384087590101330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "722848046321508352",
+              "start": 0,
+              "username": "woyongdehuawei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bymZb1lLvM",
+              "end": 48,
+              "expanded_url": "https://x.com/Victor_zhang233/status/1880384087590101330/photo/1",
+              "media_key": "3_1880384084683153408",
+              "start": 25,
+              "url": "https://t.co/bymZb1lLvM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880384087590101330",
+        "in_reply_to_user_id": "722848046321508352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880255336080421369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woyongdehuawei 孩子们，就是这样 https://t.co/bymZb1lLvM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1880255316618604545"
+          ]
+        },
+        "author_id": "722848046321508352",
+        "conversation_id": "1880255336080421369",
+        "created_at": "2025-01-17T14:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T15:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880255336080421369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E93lsws9ki",
+              "end": 68,
+              "expanded_url": "https://x.com/woyongdehuawei/status/1880255336080421369/video/1",
+              "media_key": "7_1880255316618604545",
+              "start": 45,
+              "url": "https://t.co/E93lsws9ki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880255336080421369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2265,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿\n\n1月13日，山西太原，太原富士康工人工资一个月两千多，工人要求加班，提升工资 https://t.co/E93lsws9ki"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 56,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 421
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-20T18:02:58.000Z",
+        "description": "Christian/British Patriot/Conservatives/中国叛逃公职人员/YT：https://t.co/GrFL00gP7a Discord：https://t.co/f0Zs060Gmm 投稿邮箱：lundunbagong@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@woyongdehuawei",
+                "end": 75,
+                "expanded_url": "http://www.youtube.com/@woyongdehuawei",
+                "start": 52,
+                "url": "https://t.co/GrFL00gP7a"
+              },
+              {
+                "display_url": "discord.gg/GKP2WG7ABx",
+                "end": 107,
+                "expanded_url": "https://discord.gg/GKP2WG7ABx",
+                "start": 84,
+                "url": "https://t.co/f0Zs060Gmm"
+              }
+            ]
+          }
+        },
+        "id": "722848046321508352",
+        "location": "乌鲁木齐中路，London",
+        "name": "清丝老师谈治国理政",
+        "pinned_tweet_id": "1744308099131871366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829410849577938944/lduE7qLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78062,
+          "following_count": 847,
+          "like_count": 23392,
+          "listed_count": 321,
+          "media_count": 5864,
+          "tweet_count": 22274
+        },
+        "username": "woyongdehuawei",
+        "verified": true
+      }
+    ]
+  }
+}

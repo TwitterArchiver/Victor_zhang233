@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2036447696790364274",
+    "created_at": "2026-03-24T20:36:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T21:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036542739668431054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1715696168209125376",
+          "start": 0,
+          "username": "majiajia_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036542739668431054",
+    "in_reply_to_user_id": "1715696168209125376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036447696790364274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@majiajia_ 还是推特戾气重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2036447696790364274",
+        "created_at": "2026-03-24T20:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T21:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036542739668431054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1715696168209125376",
+              "start": 0,
+              "username": "majiajia_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036542739668431054",
+        "in_reply_to_user_id": "1715696168209125376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036447696790364274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@majiajia_ 还是推特戾气重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715696168209125376",
+        "conversation_id": "2036447696790364274",
+        "created_at": "2026-03-24T14:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T15:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036447696790364274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036447696790364274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 357134,
+          "like_count": 1970,
+          "quote_count": 19,
+          "reply_count": 276,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "看了讣告，说句很多人不爱听的话：\n\n张雪峰不是一位教育工作者，他对中国的教育事业也毫无贡献。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "T^T",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032502037242662912/m7BPbwdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 116,
+          "like_count": 2485,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1105
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-21T11:47:44.000Z",
+        "description": "大学で中国政治のゼミを持ってます。外国人は怖くない。発言は所属組織とは一切関係ない。YouTube频道：一線学社https://t.co/w1PoJxIaEg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ForefrontSoci…",
+                "end": 79,
+                "expanded_url": "https://www.youtube.com/@ForefrontSociety",
+                "start": 56,
+                "url": "https://t.co/w1PoJxIaEg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ForefrontSoci…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@ForefrontSociety",
+                "start": 0,
+                "url": "https://t.co/w1PoJxIaEg"
+              }
+            ]
+          }
+        },
+        "id": "1715696168209125376",
+        "location": "Tokyo-to, Japan",
+        "name": "Forefront Society",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715696368113881088/0tJVZuro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5289,
+          "following_count": 527,
+          "like_count": 635,
+          "listed_count": 33,
+          "media_count": 806,
+          "tweet_count": 1952
+        },
+        "url": "https://t.co/w1PoJxIaEg",
+        "username": "majiajia_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2069915995184259456",
+    "created_at": "2026-06-25T04:33:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T05:33:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070002459263766691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2066389067080867840",
+          "start": 0,
+          "username": "Huhuixh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070002459263766691",
+    "in_reply_to_user_id": "2066389067080867840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069915995184259456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huhuixh 会变傻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2069915995184259456",
+        "created_at": "2026-06-25T04:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070002459263766691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2066389067080867840",
+              "start": 0,
+              "username": "Huhuixh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070002459263766691",
+        "in_reply_to_user_id": "2066389067080867840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069915995184259456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huhuixh 会变傻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066389067080867840",
+        "conversation_id": "2069915995184259456",
+        "created_at": "2026-06-24T22:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T23:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069915995184259456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069915995184259456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安嗑多了会怎样，感觉太频繁就变鸡了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 |\nDM欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 401,
+          "like_count": 8142,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2077
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T05:16:21.000Z",
+        "description": "＝hh，第一世@Huhiosc3x 想回评论就用这个号，互关可以无脑关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Huhiosc3x"
+              }
+            ]
+          }
+        },
+        "id": "2066389067080867840",
+        "name": "Hihi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067539424863494144/OMV6hjJC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 29,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "Huhuixh",
+        "verified": false
+      }
+    ]
+  }
+}

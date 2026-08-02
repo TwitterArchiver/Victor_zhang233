@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2015817419789373746",
+    "created_at": "2026-01-27T17:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T18:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016195325946679486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1558634618739474432",
+          "start": 0,
+          "username": "Meico_Meico"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016195325946679486",
+    "in_reply_to_user_id": "1558634618739474432",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016192571425345944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meico_Meico 55"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2015817419789373746",
+        "created_at": "2026-01-27T17:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T18:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016195325946679486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1558634618739474432",
+              "start": 0,
+              "username": "Meico_Meico"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016195325946679486",
+        "in_reply_to_user_id": "1558634618739474432",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016192571425345944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meico_Meico 55"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558634618739474432",
+        "conversation_id": "2015817419789373746",
+        "created_at": "2026-01-27T16:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T17:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016192571425345944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016192571425345944",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016121115110998399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 44"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "这是哪里？",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001408376811704320/27ExCAWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 88,
+          "like_count": 1540,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 808
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T02:01:31.000Z",
+        "description": "我喜欢谁谁就是对的（喜）      。。。 。。。       \n\n女/缺爱/缺钱/脾气极其暴躁",
+        "id": "1558634618739474432",
+        "location": "🚪0.01",
+        "name": "90000万🍥",
+        "pinned_tweet_id": "2005927260734280187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999054539853324288/rT17Tlgp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 143,
+          "like_count": 12991,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1947
+        },
+        "username": "Meico_Meico",
+        "verified": false
+      }
+    ]
+  }
+}

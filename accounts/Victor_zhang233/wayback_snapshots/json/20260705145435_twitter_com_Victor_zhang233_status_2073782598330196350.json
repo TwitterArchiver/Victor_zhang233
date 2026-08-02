@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2073689323229299038",
+    "created_at": "2026-07-05T14:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073782598330196350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1112053664468873216",
+          "start": 0,
+          "username": "Ghada87685873"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073782598330196350",
+    "in_reply_to_user_id": "1112053664468873216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073779585620103215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ghada87685873 你很特别 你是我见过最特别的女孩你身上有一种很特殊的孤独感 别人都看不出来 但我知道虽然你表面是开心的 但内心是孤独的 是破碎的 对了 看看腿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2073689323229299038",
+        "created_at": "2026-07-05T14:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073782598330196350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1112053664468873216",
+              "start": 0,
+              "username": "Ghada87685873"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073782598330196350",
+        "in_reply_to_user_id": "1112053664468873216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073779585620103215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ghada87685873 你很特别 你是我见过最特别的女孩你身上有一种很特殊的孤独感 别人都看不出来 但我知道虽然你表面是开心的 但内心是孤独的 是破碎的 对了 看看腿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1112053664468873216",
+        "conversation_id": "2073689323229299038",
+        "created_at": "2026-07-05T14:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073779585620103215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073779585620103215",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073689323229299038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 你很特别 你是我见过最特别的女孩你身上有一种很特殊的孤独感 别人都看不出来 但我知道虽然你表面是开心的 但内心是孤独的 是破碎的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 | \n这是哪里。。？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 433,
+          "like_count": 9076,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 2177
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-30T18:07:09.000Z",
+        "description": "永远中二病的男生，永远18岁至仁至善的魔王\n无心理疾病，抗压能力超强，恶习是抽烟",
+        "id": "1112053664468873216",
+        "name": "家桐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061624364273913856/s8Deephq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 318,
+          "like_count": 3459,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 417
+        },
+        "url": "",
+        "username": "Ghada87685873",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038310477022003200"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2038310480335577256",
+    "created_at": "2026-03-29T17:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T18:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038310480335577256"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HGc09HMkEv",
+          "end": 57,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2038310480335577256/photo/1",
+          "media_key": "3_2038310477022003200",
+          "start": 34,
+          "url": "https://t.co/HGc09HMkEv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038310480335577256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "合味道bigcup海鲜风味测评\n好咸，而且大桶容易吃不完\n3/5👎 https://t.co/HGc09HMkEv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038310477022003200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEmIlFTagAAhQzO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038310477022003200"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2038310480335577256",
+        "created_at": "2026-03-29T17:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038310480335577256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HGc09HMkEv",
+              "end": 57,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2038310480335577256/photo/1",
+              "media_key": "3_2038310477022003200",
+              "start": 34,
+              "url": "https://t.co/HGc09HMkEv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038310480335577256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "合味道bigcup海鲜风味测评\n好咸，而且大桶容易吃不完\n3/5👎 https://t.co/HGc09HMkEv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "T^T / \n这里是Ashes / 生理男 / 性取向是null / 我不会写简介 / 已休学 / 该干点什么好呢？",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032502037242662912/m7BPbwdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 127,
+          "like_count": 2677,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1159
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

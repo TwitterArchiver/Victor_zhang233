@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1978111816296550812",
+    "created_at": "2025-10-17T15:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T16:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979201896465469728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1889531342943322112",
+          "start": 0,
+          "username": "WOWshiyingqi"
+        },
+        {
+          "end": 28,
+          "id": "1948316478832549888",
+          "start": 14,
+          "username": "Estrellat0724"
+        },
+        {
+          "end": 41,
+          "id": "1854091917338021888",
+          "start": 29,
+          "username": "ZLINK243424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979201896465469728",
+    "in_reply_to_user_id": "1889531342943322112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978645668651815293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WOWshiyingqi @Estrellat0724 @ZLINK243424 我国还处在社会主义初级阶段😄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1978111816296550812",
+        "created_at": "2025-10-17T15:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T16:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979201896465469728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1889531342943322112",
+              "start": 0,
+              "username": "WOWshiyingqi"
+            },
+            {
+              "end": 28,
+              "id": "1948316478832549888",
+              "start": 14,
+              "username": "Estrellat0724"
+            },
+            {
+              "end": 41,
+              "id": "1854091917338021888",
+              "start": 29,
+              "username": "ZLINK243424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979201896465469728",
+        "in_reply_to_user_id": "1889531342943322112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978645668651815293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WOWshiyingqi @Estrellat0724 @ZLINK243424 我国还处在社会主义初级阶段😄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889531342943322112",
+        "conversation_id": "1978111816296550812",
+        "created_at": "2025-10-16T02:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T03:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978645668651815293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1948316478832549888",
+              "start": 0,
+              "username": "Estrellat0724"
+            },
+            {
+              "end": 27,
+              "id": "1854091917338021888",
+              "start": 15,
+              "username": "ZLINK243424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978645668651815293",
+        "in_reply_to_user_id": "1948316478832549888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2914,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978641340645920901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Estrellat0724 @ZLINK243424 这么庞大的劳动人口，怎么劳动法？国情不支持这是基本事实，但是只要能转嫁压力，就可以可以把苦让别人吃，好处给自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（//高中生［endl］\n^^只听自杀黑¿._",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 75,
+          "like_count": 715,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 637
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T04:26:06.000Z",
+        "description": "人非圣贤 孰能无过 看我的其他观点之前，请先看完我置顶的内容。。。。微信公众号：我有个朋友想说话 这是我的女朋友@kisyu_7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 56,
+                "username": "kisyu_7"
+              }
+            ]
+          }
+        },
+        "id": "1889531342943322112",
+        "name": "适应期",
+        "pinned_tweet_id": "1957361397022773661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966052738544054275/8bigiKf__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7812,
+          "following_count": 71,
+          "like_count": 106,
+          "listed_count": 166,
+          "media_count": 202,
+          "tweet_count": 825
+        },
+        "username": "WOWshiyingqi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T09:37:13.000Z",
+        "description": "马克思主义🚩｜毛泽东思想📕｜国际主义🌏｜INTP-A｜非二元性别规范⚧｜一切权力归苏维埃🗳️｜民主计划经济📈｜无产阶级专政⚒️｜平权主义✊｜民族平等🫱🏼‍🫲🏿｜知识公有化🏴‍☠️｜撒旦在人间的代理人｜支持跨性别反资本主义的恐怖分子",
+        "id": "1948316478832549888",
+        "name": "☭辉夜🚩🇵🇸🇺🇦🏳️‍🌈",
+        "pinned_tweet_id": "1965452991458410836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966025501316943872/DC4oMC_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 811,
+          "like_count": 2471,
+          "listed_count": 5,
+          "media_count": 173,
+          "tweet_count": 2981
+        },
+        "username": "Estrellat0724",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T09:22:40.000Z",
+        "description": "",
+        "id": "1854091917338021888",
+        "location": "Westbrook，Night City",
+        "name": "Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959096909538435072/wGTn5XPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 198,
+          "like_count": 11918,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 2490
+        },
+        "username": "ZLINK243424",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2075974938281083354",
+    "created_at": "2026-07-11T21:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T22:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076051507850650106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1938232468076957698",
+          "start": 0,
+          "username": "1yuki475740"
+        },
+        {
+          "end": 28,
+          "id": "1762178935012610048",
+          "start": 13,
+          "username": "rLMj8iYK5v3459"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076051507850650106",
+    "in_reply_to_user_id": "1938232468076957698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076050868785578312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1yuki475740 @rLMj8iYK5v3459 羡慕解离\n我清醒的时候只能被鞭挞14小时😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2076050868785578312].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2076050868785578312",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2076050868785578312"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2075974938281083354",
+        "created_at": "2026-07-11T21:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T22:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076051507850650106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1938232468076957698",
+              "start": 0,
+              "username": "1yuki475740"
+            },
+            {
+              "end": 28,
+              "id": "1762178935012610048",
+              "start": 13,
+              "username": "rLMj8iYK5v3459"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076051507850650106",
+        "in_reply_to_user_id": "1938232468076957698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076050868785578312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1yuki475740 @rLMj8iYK5v3459 羡慕解离\n我清醒的时候只能被鞭挞14小时😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him | 药物欣快重度依赖 | \n这是哪里。。？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 458,
+          "like_count": 9693,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2275
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T13:47:00.000Z",
+        "description": "𝖆 𝖈𝖔𝖗𝖕𝖘𝖊\n        𝕴 ❤️ 𝕿𝖗𝖆𝖓𝖘𝖞𝖑𝖛𝖆𝖓𝖎𝖆",
+        "id": "1938232468076957698",
+        "location": "𝖍𝖊𝖆𝖛𝖊𝖓",
+        "name": "Yuki",
+        "pinned_tweet_id": "2061617482830590458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053797917572665344/CsS3QgTW_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 112,
+          "like_count": 1784,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 497
+        },
+        "url": "",
+        "username": "1yuki475740",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T18:13:04.000Z",
+        "description": "可以叫我梦境！友跨顺女，中焦中抑，可以找我聊天喵，直fo就是眼熟你喜欢你😽",
+        "id": "1762178935012610048",
+        "name": "🦋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071690011079237633/Ias3-Tz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 95,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 551
+        },
+        "url": "",
+        "username": "rLMj8iYK5v3459",
+        "verified": false
+      }
+    ]
+  }
+}

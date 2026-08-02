@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1903864209169096704"
+      ],
+      "media_source_tweet_id": [
+        "1903864216647537121"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "1905327683128676743",
+    "created_at": "2025-03-27T18:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T19:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905327683128676743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1592805077101596675",
+          "start": 3,
+          "username": "ATRIyatuoliQAQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rQGCZIiPik",
+          "end": 48,
+          "expanded_url": "https://x.com/ATRIyatuoliQAQ/status/1903864216647537121/photo/1",
+          "media_key": "3_1903864209169096704",
+          "start": 25,
+          "url": "https://t.co/rQGCZIiPik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905327683128676743",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903864216647537121",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ATRIyatuoliQAQ: 崛起，， https://t.co/rQGCZIiPik"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 748,
+        "media_key": "3_1903864209169096704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmviaUAaoAA5PbA.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903864209169096704"
+          ],
+          "media_source_tweet_id": [
+            "1903864216647537121"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "1905327683128676743",
+        "created_at": "2025-03-27T18:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T19:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905327683128676743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1592805077101596675",
+              "start": 3,
+              "username": "ATRIyatuoliQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rQGCZIiPik",
+              "end": 48,
+              "expanded_url": "https://x.com/ATRIyatuoliQAQ/status/1903864216647537121/photo/1",
+              "media_key": "3_1903864209169096704",
+              "start": 25,
+              "url": "https://t.co/rQGCZIiPik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905327683128676743",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903864216647537121",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ATRIyatuoliQAQ: 崛起，， https://t.co/rQGCZIiPik"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903864209169096704"
+          ]
+        },
+        "author_id": "1592805077101596675",
+        "conversation_id": "1903864216647537121",
+        "created_at": "2025-03-23T17:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T18:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903864216647537121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rQGCZIiPik",
+              "end": 28,
+              "expanded_url": "https://x.com/ATRIyatuoliQAQ/status/1903864216647537121/photo/1",
+              "media_key": "3_1903864209169096704",
+              "start": 5,
+              "url": "https://t.co/rQGCZIiPik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903864216647537121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 62285,
+          "like_count": 1005,
+          "quote_count": 3,
+          "reply_count": 49,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "崛起，， https://t.co/rQGCZIiPik"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/抑郁焦虑/黑金属/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 坏人堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 67,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 540
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T09:01:49.000Z",
+        "description": "图书馆https://t.co/Lx59YcC6Kw\n\n工农解放社https://t.co/23vodA5Hdp\n\n解放社官网https://t.co/olZqI96sMB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mlmzy1949",
+                "end": 26,
+                "expanded_url": "https://t.me/mlmzy1949",
+                "start": 3,
+                "url": "https://t.co/Lx59YcC6Kw"
+              },
+              {
+                "display_url": "t.me/WPEC2025",
+                "end": 56,
+                "expanded_url": "https://t.me/WPEC2025",
+                "start": 33,
+                "url": "https://t.co/23vodA5Hdp"
+              },
+              {
+                "display_url": "cmlmuf.ngo.us",
+                "end": 86,
+                "expanded_url": "http://cmlmuf.ngo.us",
+                "start": 63,
+                "url": "https://t.co/olZqI96sMB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ci-ic.org",
+                "end": 23,
+                "expanded_url": "https://ci-ic.org/",
+                "start": 0,
+                "url": "https://t.co/RcP305d4Zx"
+              }
+            ]
+          }
+        },
+        "id": "1592805077101596675",
+        "location": "继续革命，永不投降",
+        "name": "椿宫🍥",
+        "pinned_tweet_id": "1904199341318852627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902006545447313408/iISXwgB9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235,
+          "following_count": 2054,
+          "like_count": 57558,
+          "listed_count": 14,
+          "media_count": 548,
+          "tweet_count": 12521
+        },
+        "url": "https://t.co/RcP305d4Zx",
+        "username": "ATRIyatuoliQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

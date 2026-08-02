@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1861438076779905321",
+    "created_at": "2024-11-28T11:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T12:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862103765706240494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1840969359197683712",
+          "start": 0,
+          "username": "MCshuihanX"
+        },
+        {
+          "end": 28,
+          "id": "1573663582994444289",
+          "start": 12,
+          "username": "guojiazongshuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862103765706240494",
+    "in_reply_to_user_id": "1840969359197683712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861650004856725848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MCshuihanX @guojiazongshuji 绷不住了😆😆😆😆😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1861438076779905321",
+        "created_at": "2024-11-28T11:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T12:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862103765706240494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1840969359197683712",
+              "start": 0,
+              "username": "MCshuihanX"
+            },
+            {
+              "end": 28,
+              "id": "1573663582994444289",
+              "start": 12,
+              "username": "guojiazongshuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862103765706240494",
+        "in_reply_to_user_id": "1840969359197683712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861650004856725848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MCshuihanX @guojiazongshuji 绷不住了😆😆😆😆😆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861650000956006401"
+          ]
+        },
+        "author_id": "1840969359197683712",
+        "conversation_id": "1861438076779905321",
+        "created_at": "2024-11-27T05:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T06:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861650004856725848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1573663582994444289",
+              "start": 0,
+              "username": "guojiazongshuji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qtHKXlOEGX",
+              "end": 48,
+              "expanded_url": "https://x.com/MCshuihanX/status/1861650004856725848/photo/1",
+              "media_key": "3_1861650000956006401",
+              "start": 25,
+              "url": "https://t.co/qtHKXlOEGX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861650004856725848",
+        "in_reply_to_user_id": "1573663582994444289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2118,
+          "like_count": 113,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861438076779905321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guojiazongshuji 被逮到的推油: https://t.co/qtHKXlOEGX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这///简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、可能是网左（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 53,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 368
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T04:18:12.000Z",
+        "description": "和平主义者，反对战争\n15歲|抖M|双性恋|偏0\n目前在开发前列腺，练阿拉伯挤奶和PC肌\n偶尔涉及政治，中立态度，支持民主",
+        "id": "1840969359197683712",
+        "location": "朝鮮|平壤",
+        "name": "MC水函",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840969439317278721/CbxPBC8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 71,
+          "like_count": 7692,
+          "listed_count": 0,
+          "media_count": 579,
+          "tweet_count": 1123
+        },
+        "username": "MCshuihanX",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T13:20:19.000Z",
+        "description": "推特第一素质用户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h5.cctvnews.cctv.com/szdh2023/index…",
+                "end": 23,
+                "expanded_url": "https://h5.cctvnews.cctv.com/szdh2023/index.html",
+                "start": 0,
+                "url": "https://t.co/X75VIaIJ9Z"
+              }
+            ]
+          }
+        },
+        "id": "1573663582994444289",
+        "location": "江苏省-徐州市-丰县",
+        "name": "苏苏❄️冬眠模式🌙",
+        "pinned_tweet_id": "1805803184604299514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861810707869868033/RMlkPCHd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8647,
+          "following_count": 510,
+          "like_count": 55623,
+          "listed_count": 26,
+          "media_count": 216,
+          "tweet_count": 875
+        },
+        "url": "https://t.co/X75VIaIJ9Z",
+        "username": "guojiazongshuji",
+        "verified": false
+      }
+    ]
+  }
+}

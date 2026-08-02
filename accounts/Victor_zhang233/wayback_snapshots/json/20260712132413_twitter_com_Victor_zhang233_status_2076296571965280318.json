@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2076154959561666726",
+    "created_at": "2026-07-12T13:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T14:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076296571965280318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1942081492508905473",
+          "start": 0,
+          "username": "EchoMio2011"
+        },
+        {
+          "end": 25,
+          "id": "1808726116842229762",
+          "start": 13,
+          "username": "ahuang70378"
+        },
+        {
+          "end": 36,
+          "id": "1758324617838788608",
+          "start": 26,
+          "username": "axzamyzed"
+        },
+        {
+          "end": 47,
+          "id": "1901101174339891203",
+          "start": 37,
+          "username": "Rikka8964"
+        },
+        {
+          "end": 64,
+          "id": "1885557129588948992",
+          "start": 48,
+          "username": "85240609891_1st"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076296571965280318",
+    "in_reply_to_user_id": "1942081492508905473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076154959561666726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EchoMio2011 @ahuang70378 @axzamyzed @Rikka8964 @85240609891_1st 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 807,
+        "media_key": "3_2076154955946147842",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_77rfWQAIqMPe.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2076154959561666726",
+        "created_at": "2026-07-12T13:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076296571965280318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1942081492508905473",
+              "start": 0,
+              "username": "EchoMio2011"
+            },
+            {
+              "end": 25,
+              "id": "1808726116842229762",
+              "start": 13,
+              "username": "ahuang70378"
+            },
+            {
+              "end": 36,
+              "id": "1758324617838788608",
+              "start": 26,
+              "username": "axzamyzed"
+            },
+            {
+              "end": 47,
+              "id": "1901101174339891203",
+              "start": 37,
+              "username": "Rikka8964"
+            },
+            {
+              "end": 64,
+              "id": "1885557129588948992",
+              "start": 48,
+              "username": "85240609891_1st"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076296571965280318",
+        "in_reply_to_user_id": "1942081492508905473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076154959561666726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EchoMio2011 @ahuang70378 @axzamyzed @Rikka8964 @85240609891_1st 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076154955946147842"
+          ]
+        },
+        "author_id": "1942081492508905473",
+        "conversation_id": "2076154959561666726",
+        "created_at": "2026-07-12T04:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076154959561666726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1808726116842229762",
+              "start": 22,
+              "username": "ahuang70378"
+            },
+            {
+              "end": 45,
+              "id": "1758324617838788608",
+              "start": 35,
+              "username": "axzamyzed"
+            },
+            {
+              "end": 62,
+              "id": "1901101174339891203",
+              "start": 52,
+              "username": "Rikka8964"
+            },
+            {
+              "end": 85,
+              "id": "1755494652889661440",
+              "start": 69,
+              "username": "Victor_zhang233"
+            },
+            {
+              "end": 102,
+              "id": "1885557129588948992",
+              "start": 86,
+              "username": "85240609891_1st"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RtJhCh7suQ",
+              "end": 163,
+              "expanded_url": "https://x.com/EchoMio2011/status/2076154959561666726/photo/1",
+              "media_key": "3_2076154955946147842",
+              "start": 140,
+              "url": "https://t.co/RtJhCh7suQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076154959561666726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @ahuang70378 @axzamyzed\n👰 配偶: @Rikka8964\n👶 孩子: @Victor_zhang233 @85240609891_1st\n\n➡️ infinitetweet[dot]me/family-tree https://t.co/RtJhCh7suQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him | 药物欣快重度依赖 | \n这是哪里。。？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 463,
+          "like_count": 9738,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 2283
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T04:41:35.000Z",
+        "description": "16岁 准高一喵 男生 身高163 / 55kg \n二次元+玩游戏+会点电脑+会发生活\n支持🏳️‍⚧️   不吃糖 不割手)  求抱抱💕\n邮箱:ABC20111222@outlook.com",
+        "id": "1942081492508905473",
+        "location": "冰岛",
+        "name": "𝕬𝖎𝖒𝖊𝖗¹☭🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071166294414524416/wJ-BJ88a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 509,
+          "like_count": 870,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 309
+        },
+        "url": "",
+        "username": "EchoMio2011",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T04:54:56.000Z",
+        "description": "06/192cm/70kg\n男娘\n虽然我不收门槛，但阿皇也是要恰饭的，接点广很正常",
+        "id": "1808726116842229762",
+        "location": "-18cm",
+        "name": "阿皇",
+        "pinned_tweet_id": "2074384911151120488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980074616212140032/3YPK1Eqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6927,
+          "following_count": 2254,
+          "like_count": 2408,
+          "listed_count": 35,
+          "media_count": 468,
+          "tweet_count": 2318
+        },
+        "url": "",
+        "username": "ahuang70378",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4095,
+          "following_count": 929,
+          "like_count": 14414,
+          "listed_count": 12,
+          "media_count": 3325,
+          "tweet_count": 9051
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-16T02:40:29.000Z",
+        "description": "准高二 | 不涉政 | 求fo\n生产日期：2010.3.3  https://t.co/FrOSuaKkbb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Rikka-8964.github.io",
+                "end": 54,
+                "expanded_url": "http://Rikka-8964.github.io",
+                "start": 31,
+                "url": "https://t.co/FrOSuaKkbb"
+              }
+            ]
+          }
+        },
+        "id": "1901101174339891203",
+        "name": "Rikka🇹🇼🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901101234679148545/Q-icoBkL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 131,
+          "like_count": 2680,
+          "listed_count": 0,
+          "media_count": 324,
+          "tweet_count": 1134
+        },
+        "url": "",
+        "username": "Rikka8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T05:14:52.000Z",
+        "description": "民國派OK\n港英派OK\n最喜歡AWP\n反對威權主義\nHK仔\n自由資本主義 OK\n自由/民主社會主義 OK\n自由共產主義 OK\n🇮🇷🇺🇦🇺🇸🇨🇦🇦🇺🇳🇿🇬🇧🇯🇵🇰🇷🇹🇼🇪🇺🇮🇱🇭🇰🎗️\n祈求民主與自由萬世都不朽\n一位邏輯學者\n活著必須革命 心高氣傲 哪裏去不到",
+        "id": "1885557129588948992",
+        "location": " Republic of China - Hong Kong",
+        "name": "🔫Arctic Warfare Police 北極戰警",
+        "pinned_tweet_id": "2075196163725344825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075029229423742976/d4GQ9rlE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2800,
+          "following_count": 7380,
+          "like_count": 18403,
+          "listed_count": 6,
+          "media_count": 930,
+          "tweet_count": 5329
+        },
+        "url": "",
+        "username": "85240609891_1st",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019290237290364928"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2019290241342009626",
+    "created_at": "2026-02-05T06:01:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T07:01:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019290241342009626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 36,
+          "id": "1916434358917033984",
+          "start": 22,
+          "username": "BlackTrapTrip"
+        },
+        {
+          "end": 47,
+          "id": "1659962043460354050",
+          "start": 37,
+          "username": "SalviaSWC"
+        },
+        {
+          "end": 66,
+          "id": "1428041553608527873",
+          "start": 54,
+          "username": "xingling_xl"
+        },
+        {
+          "end": 82,
+          "id": "1431691236436418564",
+          "start": 73,
+          "username": "FLCLSSSS"
+        },
+        {
+          "end": 95,
+          "id": "1484488362182467584",
+          "start": 83,
+          "username": "f_fannie427"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infinitetweet.me/family-tree?la…",
+          "end": 123,
+          "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2018133833019965440/IXFT8rqY?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2018133833019965440/IXFT8rqY?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 100,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "url": "https://t.co/LUcIaCdusL"
+        },
+        {
+          "display_url": "pic.x.com/yrrDT4Zc29",
+          "end": 147,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2019290241342009626/photo/1",
+          "media_key": "3_2019290237290364928",
+          "start": 124,
+          "url": "https://t.co/yrrDT4Zc29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019290241342009626",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @BlackTrapTrip @SalviaSWC\n👰 配偶: @xingling_xl\n👶 孩子: @FLCLSSSS @f_fannie427\n\n➡️ https://t.co/LUcIaCdusL https://t.co/yrrDT4Zc29"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2019290237290364928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAX1xawbQAAVNy5.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019290237290364928"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2019290241342009626",
+        "created_at": "2026-02-05T06:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T07:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019290241342009626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1916434358917033984",
+              "start": 22,
+              "username": "BlackTrapTrip"
+            },
+            {
+              "end": 47,
+              "id": "1659962043460354050",
+              "start": 37,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 66,
+              "id": "1428041553608527873",
+              "start": 54,
+              "username": "xingling_xl"
+            },
+            {
+              "end": 82,
+              "id": "1431691236436418564",
+              "start": 73,
+              "username": "FLCLSSSS"
+            },
+            {
+              "end": 95,
+              "id": "1484488362182467584",
+              "start": 83,
+              "username": "f_fannie427"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 123,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2018133833019965440/IXFT8rqY?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2018133833019965440/IXFT8rqY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 100,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/LUcIaCdusL"
+            },
+            {
+              "display_url": "pic.x.com/yrrDT4Zc29",
+              "end": 147,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2019290241342009626/photo/1",
+              "media_key": "3_2019290237290364928",
+              "start": 124,
+              "url": "https://t.co/yrrDT4Zc29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019290241342009626",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @BlackTrapTrip @SalviaSWC\n👰 配偶: @xingling_xl\n👶 孩子: @FLCLSSSS @f_fannie427\n\n➡️ https://t.co/LUcIaCdusL https://t.co/yrrDT4Zc29"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "林中落雨，秋前盛夏",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016888733715615747/2ZjaRw3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 94,
+          "like_count": 1653,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 849
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T10:09:04.000Z",
+        "description": "=黑阱/Kuroi｜同类互fo欢迎｜she/her❗️非常雷男性称呼｜泛性恋｜纯看黄的不要关注我｜Individualist Anarchism但不键政｜uncensored #shtwt #odtwt #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 94,
+                "start": 88,
+                "tag": "shtwt"
+              },
+              {
+                "end": 101,
+                "start": 95,
+                "tag": "odtwt"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/blacktraptrip",
+                "end": 23,
+                "expanded_url": "https://ngl.link/blacktraptrip",
+                "start": 0,
+                "url": "https://t.co/2gFjzyw5py"
+              }
+            ]
+          }
+        },
+        "id": "1916434358917033984",
+        "location": "无🚪不接不卖任何",
+        "name": "黒阱／👁️／STONED",
+        "pinned_tweet_id": "2018898278058795017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019241923777642496/7qiWSBwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 144,
+          "like_count": 959,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1533
+        },
+        "url": "https://t.co/2gFjzyw5py",
+        "username": "BlackTrapTrip",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨计算机💻丨虚无主义者🥺丨\n\n会发各种东西🎲丨非必要不键政🏳️丨不卖药🚫丨欢迎任何人🌈丨包容各种做法☮丨互fo🉑哦🥰如果没回fo的话，请私信哦📬丨\n\n脑婆:@DXM8964LXM\n\n丨Say Know to Drugs 💊丨知识无罪📚丨😼👍⬇请关注FreeODwiki喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 0,
+                "url": "https://t.co/ki2TerCSXa"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2623,
+          "following_count": 791,
+          "like_count": 18509,
+          "listed_count": 9,
+          "media_count": 257,
+          "tweet_count": 5223
+        },
+        "url": "https://t.co/ki2TerCSXa",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-18T17:10:20.000Z",
+        "description": "可能是个自己的树洞｜INFP｜简体中文（母语）｜English(IELTS 6.0)｜日本語(JLPT N2)｜会回fo｜🇯🇵日本への留学を準備する｜自傷OD致歉",
+        "id": "1428041553608527873",
+        "location": "Holy Terra",
+        "name": "STAR🌟0#南河三",
+        "pinned_tweet_id": "1971305588354437128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007830536564412416/HHMYGqU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 888,
+          "like_count": 3939,
+          "listed_count": 15,
+          "media_count": 96,
+          "tweet_count": 913
+        },
+        "username": "xingling_xl",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-28T18:53:12.000Z",
+        "description": "虚无主义/\n事生理男/\n死去的躯壳/\n亚空间幽灵/\n四折是哥哥/\n请对玉藻温柔点/\n爱人是三三三水/\n嗯对零三年老人/\nINFP-T 4w5 or 9w1/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "love4z.cn",
+                "end": 23,
+                "expanded_url": "https://love4z.cn",
+                "start": 0,
+                "url": "https://t.co/PhhvCFbQij"
+              }
+            ]
+          }
+        },
+        "id": "1431691236436418564",
+        "location": "地狱",
+        "name": "四折光曲",
+        "pinned_tweet_id": "2012703995215941880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999059479212785664/Tgds2j7F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 60,
+          "like_count": 17047,
+          "listed_count": 0,
+          "media_count": 659,
+          "tweet_count": 3864
+        },
+        "url": "https://t.co/PhhvCFbQij",
+        "username": "FLCLSSSS",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-21T11:30:25.000Z",
+        "description": "状态稳定，可能傻与冒失\n丑 穷 可以称呼为427",
+        "id": "1484488362182467584",
+        "location": "云",
+        "name": "云匿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813214060995092480/kRdI87E2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 723,
+          "like_count": 2540,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 540
+        },
+        "username": "f_fannie427",
+        "verified": false
+      }
+    ]
+  }
+}

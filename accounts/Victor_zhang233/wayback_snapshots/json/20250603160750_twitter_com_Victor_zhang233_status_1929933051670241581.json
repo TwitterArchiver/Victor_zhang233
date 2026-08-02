@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1929619386329149824",
+    "created_at": "2025-06-03T16:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T17:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929933051670241581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1879461046764949504",
+          "start": 0,
+          "username": "aBg47snpZc54891"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929933051670241581",
+    "in_reply_to_user_id": "1879461046764949504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929619386329149824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aBg47snpZc54891 给我刷到什么玩意了😰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1890,
+        "media_key": "3_1929619376619376642",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsdimXcb0AInNzT.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1929619386329149824",
+        "created_at": "2025-06-03T16:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T17:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929933051670241581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1879461046764949504",
+              "start": 0,
+              "username": "aBg47snpZc54891"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929933051670241581",
+        "in_reply_to_user_id": "1879461046764949504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929619386329149824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aBg47snpZc54891 给我刷到什么玩意了😰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929619376619376642"
+          ]
+        },
+        "author_id": "1879461046764949504",
+        "conversation_id": "1929619386329149824",
+        "created_at": "2025-06-02T19:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T20:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929619386329149824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WEPdY4F2mW",
+              "end": 70,
+              "expanded_url": "https://x.com/aBg47snpZc54891/status/1929619386329149824/photo/1",
+              "media_key": "3_1929619376619376642",
+              "start": 47,
+              "url": "https://t.co/WEPdY4F2mW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929619386329149824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 509,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么会有人长这样？鼻子没有耳朵没有下巴没有脖子没有 连肩膀都没有 半点人型都没有……我真服了 https://t.co/WEPdY4F2mW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（/休学中/黑金属/高一//呃呃呃呃简介这样写没问题吧？（\n欢迎扩列和找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 怀人堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 73,
+          "like_count": 594,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 610
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T09:30:23.000Z",
+        "description": "“HONG”，代表着浪漫、热烈、进取和革命。",
+        "id": "1879461046764949504",
+        "name": "126号线",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887622435962560517/tlXaJhcf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 115,
+          "like_count": 1599,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 409
+        },
+        "username": "aBg47snpZc54891",
+        "verified": false
+      }
+    ]
+  }
+}

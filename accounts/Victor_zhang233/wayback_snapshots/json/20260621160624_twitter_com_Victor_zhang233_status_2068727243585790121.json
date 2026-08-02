@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068727240922419200"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2068727243585790121",
+    "created_at": "2026-06-21T16:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T17:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068727243585790121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZmcSDBGOHk",
+          "end": 30,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2068727243585790121/photo/1",
+          "media_key": "3_2068727240922419200",
+          "start": 7,
+          "url": "https://t.co/ZmcSDBGOHk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068727243585790121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要找人聊天 https://t.co/ZmcSDBGOHk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068727240922419200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWYdwxa0AAC98V.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068727240922419200"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2068727243585790121",
+        "created_at": "2026-06-21T16:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068727243585790121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZmcSDBGOHk",
+              "end": 30,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2068727243585790121/photo/1",
+              "media_key": "3_2068727240922419200",
+              "start": 7,
+              "url": "https://t.co/ZmcSDBGOHk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068727243585790121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要找人聊天 https://t.co/ZmcSDBGOHk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 |\nDM欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 394,
+          "like_count": 7705,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1996
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

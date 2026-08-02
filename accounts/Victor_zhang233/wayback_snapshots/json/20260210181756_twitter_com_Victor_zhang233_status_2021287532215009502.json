@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2021287532215009502",
+    "created_at": "2026-02-10T18:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T19:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021287532215009502"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021287532215009502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好了宝宝，我心疼你，不管感情怎么使人麻木，遇到的人再不真诚，家庭，学习，工作状态再怎么样，你都要好好吃饭，去做一些积极开朗的事情，去被别人需要，人活着一定是要有什么精神寄托，我不是给你什么建议，幸福是个概念词，我只是希望你能好好生活，找到自己，跟自己的情绪好好相处，我能共情你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2021287532215009502",
+        "created_at": "2026-02-10T18:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T19:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021287532215009502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021287532215009502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好了宝宝，我心疼你，不管感情怎么使人麻木，遇到的人再不真诚，家庭，学习，工作状态再怎么样，你都要好好吃饭，去做一些积极开朗的事情，去被别人需要，人活着一定是要有什么精神寄托，我不是给你什么建议，幸福是个概念词，我只是希望你能好好生活，找到自己，跟自己的情绪好好相处，我能共情你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "林中落雨，秋前盛夏",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016888733715615747/2ZjaRw3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 79,
+          "like_count": 1736,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 880
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

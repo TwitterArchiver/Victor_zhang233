@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2060978587424178280",
+    "created_at": "2026-05-31T07:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T08:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060980810451472755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047499889094123520",
+          "start": 0,
+          "username": "yn_xxxjkjk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060980810451472755",
+    "in_reply_to_user_id": "2047499889094123520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060978587424178280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yn_xxxjkjk cos用的吧？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1496,
+        "media_key": "3_2060978583854862336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoRGjxbUAAcx-C.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2060978587424178280",
+        "created_at": "2026-05-31T07:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060980810451472755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047499889094123520",
+              "start": 0,
+              "username": "yn_xxxjkjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060980810451472755",
+        "in_reply_to_user_id": "2047499889094123520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060978587424178280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yn_xxxjkjk cos用的吧？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060978583854862336"
+          ]
+        },
+        "author_id": "2047499889094123520",
+        "conversation_id": "2060978587424178280",
+        "created_at": "2026-05-31T06:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060978587424178280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/adIkXMR5Ly",
+              "end": 70,
+              "expanded_url": "https://x.com/yn_xxxjkjk/status/2060978587424178280/photo/1",
+              "media_key": "3_2060978583854862336",
+              "start": 47,
+              "url": "https://t.co/adIkXMR5Ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060978587424178280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发明这种东西的人是不是傻逼啊？弄个自残的伤疤当纹身贴是怎么回事儿？贴个纹身贴算是怎么回事儿？ https://t.co/adIkXMR5Ly"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "抱歉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2059669582818721884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 261,
+          "like_count": 5111,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1676
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T02:16:39.000Z",
+        "description": "@xxx_jjkk 的逃生舱\n都会回fol的\n3.0 @ynxxx_jjkk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "xxx_jjkk"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "ynxxx_jjkk"
+              }
+            ]
+          }
+        },
+        "id": "2047499889094123520",
+        "name": "旖旎2.0",
+        "pinned_tweet_id": "2060247040177943030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047500366259064833/k5dhVApk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 150,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 58
+        },
+        "username": "yn_xxxjkjk",
+        "verified": false
+      }
+    ]
+  }
+}

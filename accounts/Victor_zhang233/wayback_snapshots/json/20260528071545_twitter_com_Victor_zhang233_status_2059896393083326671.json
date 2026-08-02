@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059895586036621312"
+      ],
+      "media_source_tweet_id": [
+        "2059895938811154434"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2059896393083326671",
+    "created_at": "2026-05-28T07:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T08:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059896393083326671"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 37,
+          "tag": "普瑞巴林"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "od"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "275063990",
+          "start": 3,
+          "username": "bahafid22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uA8RtX7cdN",
+          "end": 71,
+          "expanded_url": "https://x.com/bahafid22/status/2059895938811154434/photo/1",
+          "media_key": "3_2059895586036621312",
+          "start": 48,
+          "url": "https://t.co/uA8RtX7cdN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059896393083326671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059895938811154434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bahafid22: 谁知道这个日版pr25mg的第一次o怎么o #普瑞巴林  ＃od https://t.co/uA8RtX7cdN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2059895586036621312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY4HygboAAHMkb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059895586036621312"
+          ],
+          "media_source_tweet_id": [
+            "2059895938811154434"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059896393083326671",
+        "created_at": "2026-05-28T07:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059896393083326671"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "普瑞巴林"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "od"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "275063990",
+              "start": 3,
+              "username": "bahafid22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uA8RtX7cdN",
+              "end": 71,
+              "expanded_url": "https://x.com/bahafid22/status/2059895938811154434/photo/1",
+              "media_key": "3_2059895586036621312",
+              "start": 48,
+              "url": "https://t.co/uA8RtX7cdN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059896393083326671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059895938811154434",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bahafid22: 谁知道这个日版pr25mg的第一次o怎么o #普瑞巴林  ＃od https://t.co/uA8RtX7cdN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059895586036621312"
+          ]
+        },
+        "author_id": "275063990",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059895938811154434",
+        "created_at": "2026-05-28T07:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059895938811154434"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "普瑞巴林"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "od"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uA8RtX7cdN",
+              "end": 56,
+              "expanded_url": "https://x.com/bahafid22/status/2059895938811154434/photo/1",
+              "media_key": "3_2059895586036621312",
+              "start": 33,
+              "url": "https://t.co/uA8RtX7cdN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059895938811154434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谁知道这个日版pr25mg的第一次o怎么o #普瑞巴林  ＃od https://t.co/uA8RtX7cdN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2059669582818721884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 230,
+          "like_count": 4650,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1616
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-31T15:19:50.000Z",
+        "description": "=荔枝 可以叫我荔枝\n18 /162/95\n自伤/od/\n52好友位\n88好友位=朋友圈开放\n188以上=陪聊偶尔会主动找你\n252以上=语言+日常纯绿聊天\n520以上=电子女友一周可以找我定制视频\n道具钱请自备\n1314以上你是我主人+线下八折线下纯绿色/半绿188以上咨询哦！",
+        "id": "275063990",
+        "name": "loneliness",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056564405983387648/2xzxt3OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 11,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 31
+        },
+        "username": "bahafid22",
+        "verified": false
+      }
+    ]
+  }
+}

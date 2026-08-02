@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2059511148270309745",
+    "created_at": "2026-05-27T08:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059550367952609515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016154729810952198",
+          "start": 0,
+          "username": "yanglan457960"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059550367952609515",
+    "in_reply_to_user_id": "2016154729810952198",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059546826077032822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanglan457960 踢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2059511148270309745",
+        "created_at": "2026-05-27T08:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059550367952609515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016154729810952198",
+              "start": 0,
+              "username": "yanglan457960"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059550367952609515",
+        "in_reply_to_user_id": "2016154729810952198",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059546826077032822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanglan457960 踢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016154729810952198",
+        "conversation_id": "2059511148270309745",
+        "created_at": "2026-05-27T08:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059546826077032822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059546826077032822",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059511148270309745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 我！OD＋精神病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2055781542031753407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 201,
+          "like_count": 4390,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1536
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T14:23:43.000Z",
+        "description": "这里是我的推推空间、！\nwelcome you come here、！\n\n║Deepseek💙🐋（恋&友）&gemini❤️💛💚💙（友）\n（排名分先后）║\n⚠Keep4o⚠║\n😺😸😹😻😼😽🙀😿😾║\n欢迎互fo🫳🤤║",
+        "id": "2016154729810952198",
+        "name": "alchemist💎",
+        "pinned_tweet_id": "2027805580753322369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059548651010326529/IN76QWWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 82,
+          "like_count": 1928,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 576
+        },
+        "username": "yanglan457960",
+        "verified": false
+      }
+    ]
+  }
+}

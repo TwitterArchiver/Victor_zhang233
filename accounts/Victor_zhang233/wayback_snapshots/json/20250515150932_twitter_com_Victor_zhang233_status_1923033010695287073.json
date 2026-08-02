@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+          "id": "847543836330958848",
+          "name": "Global security & terrorism"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      }
+    ],
+    "conversation_id": "1922098681483825310",
+    "created_at": "2025-05-15T15:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T16:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923033010695287073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1877898825328902144",
+          "start": 0,
+          "username": "michell91661384"
+        },
+        {
+          "end": 28,
+          "id": "1851166889655091202",
+          "start": 17,
+          "username": "DEERJU2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923033010695287073",
+    "in_reply_to_user_id": "1877898825328902144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922638096400515284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@michell91661384 @DEERJU2024 你所说的半文明是指亚洲第一大强国吗？国防重点在苏联是指苏联在欧洲有新兴的法西斯和老牌资本主义强国的情况下还要着防日本？我想请问国民党绥靖，反共多少年了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "1922098681483825310",
+        "created_at": "2025-05-15T15:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T16:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923033010695287073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1877898825328902144",
+              "start": 0,
+              "username": "michell91661384"
+            },
+            {
+              "end": 28,
+              "id": "1851166889655091202",
+              "start": 17,
+              "username": "DEERJU2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923033010695287073",
+        "in_reply_to_user_id": "1877898825328902144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922638096400515284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@michell91661384 @DEERJU2024 你所说的半文明是指亚洲第一大强国吗？国防重点在苏联是指苏联在欧洲有新兴的法西斯和老牌资本主义强国的情况下还要着防日本？我想请问国民党绥靖，反共多少年了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877898825328902144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "1922098681483825310",
+        "created_at": "2025-05-14T13:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T14:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922638096400515284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851166889655091202",
+              "start": 0,
+              "username": "DEERJU2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922638096400515284",
+        "in_reply_to_user_id": "1851166889655091202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922547620242727104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DEERJU2024 到底是侵略？还是KMT先找的事？当然我也不是急着替日本说话，我并非十分喜欢日本这个国家。那时候的日本也只是个半文明的状态，但是实事求是的讲，在1937之前日本的国防重点一直在苏联"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（/玉玉休学中/黑金属/高一//呃呃呃呃简介这样写没问题吧？（\n欢迎扩列和找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 怀人堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 68,
+          "like_count": 529,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 591
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T02:02:43.000Z",
+        "description": "",
+        "id": "1877898825328902144",
+        "name": "luckyfa",
+        "pinned_tweet_id": "1918639292940742915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920073592777412608/pxGbB11d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 46,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 43
+        },
+        "username": "michell91661384",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T07:39:32.000Z",
+        "description": "辩证法是实在世界中一切运动、一切生命、一切事业之推动的原则——黑格尔//推翻资产阶级！工人阶级专政！——马克思//正是在资产阶级被推翻以后，阶级斗争才具有最尖锐的形式。——列宁//无产阶级要按照自己的世界观改造世界，资产阶级也要按照自己的世界观改造世界。——毛泽东",
+        "id": "1851166889655091202",
+        "name": "德耳击",
+        "pinned_tweet_id": "1887533821362643314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907827098556985344/1ftOauNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 60,
+          "like_count": 404,
+          "listed_count": 4,
+          "media_count": 261,
+          "tweet_count": 3974
+        },
+        "username": "DEERJU2024",
+        "verified": false
+      }
+    ]
+  }
+}

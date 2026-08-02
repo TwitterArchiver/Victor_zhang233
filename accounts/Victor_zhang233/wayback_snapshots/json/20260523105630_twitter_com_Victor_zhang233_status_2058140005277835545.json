@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2058140005277835545",
+    "created_at": "2026-05-23T10:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T11:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058140005277835545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2057330468874526720",
+          "start": 3,
+          "username": "b1efengwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058140005277835545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058138928528703934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @b1efengwo: 求求各位互fo帮我转转呜呜呜我真的很想你们😭♥️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2058140005277835545",
+        "created_at": "2026-05-23T10:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058140005277835545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2057330468874526720",
+              "start": 3,
+              "username": "b1efengwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058140005277835545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058138928528703934",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @b1efengwo: 求求各位互fo帮我转转呜呜呜我真的很想你们😭♥️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057330468874526720",
+        "conversation_id": "2058138928528703934",
+        "created_at": "2026-05-23T10:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058138928528703934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058138928528703934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "求求各位互fo帮我转转呜呜呜我真的很想你们😭♥️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2055781542031753407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 182,
+          "like_count": 4142,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1476
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T05:21:46.000Z",
+        "description": "我也忘了是几代目了💦",
+        "id": "2057330468874526720",
+        "name": "Mercy 不要封我求你了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057331116739358720/HYfrK5eO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 54,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "b1efengwo",
+        "verified": false
+      }
+    ]
+  }
+}

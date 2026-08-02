@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2062202003548221706",
+    "created_at": "2026-06-04T13:16:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T14:16:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062523866229231644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1735863771896180736",
+          "start": 0,
+          "username": "SkyHorizontc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062523866229231644",
+    "in_reply_to_user_id": "1735863771896180736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062390132838367693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SkyHorizontc 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2062202003548221706",
+        "created_at": "2026-06-04T13:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062523866229231644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735863771896180736",
+              "start": 0,
+              "username": "SkyHorizontc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062523866229231644",
+        "in_reply_to_user_id": "1735863771896180736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062390132838367693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SkyHorizontc 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735863771896180736",
+        "conversation_id": "2062202003548221706",
+        "created_at": "2026-06-04T04:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062390132838367693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062390132838367693",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062202003548221706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 生日快乐呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "无名小卒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2059669582818721884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062155233384615936/pl3fVQYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 291,
+          "like_count": 5751,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1752
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T03:26:04.000Z",
+        "description": "喜欢小南梁",
+        "id": "1735863771896180736",
+        "name": "SkyHorizon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058106278808080384/dNxAPLvx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 65,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 231
+        },
+        "username": "SkyHorizontc",
+        "verified": false
+      }
+    ]
+  }
+}

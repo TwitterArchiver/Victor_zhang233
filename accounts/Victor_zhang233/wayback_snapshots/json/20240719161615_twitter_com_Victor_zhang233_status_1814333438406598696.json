@@ -1,0 +1,217 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1813967712668033086",
+    "created_at": "2024-07-19T16:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-19T17:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814333438406598696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684788633797287936",
+          "start": 0,
+          "username": "Mualani_Ch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814333438406598696",
+    "in_reply_to_user_id": "1684788633797287936",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813967712668033086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mualani_Ch 纳粹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1813967712668033086",
+        "created_at": "2024-07-19T16:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T17:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814333438406598696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Mualani_Ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814333438406598696",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813967712668033086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mualani_Ch 纳粹"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1813967709199323136"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1813967712668033086",
+        "created_at": "2024-07-18T16:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T17:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813967712668033086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/7bJ0pMABvV",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Mualani_Ch/status/1813967712668033086/photo/1",
+              "media_key": "3_1813967709199323136",
+              "start": 3,
+              "url": "https://t.co/7bJ0pMABvV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813967712668033086",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 130128,
+          "like_count": 489,
+          "quote_count": 29,
+          "reply_count": 975,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "脑残 https://t.co/7bJ0pMABvV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这//白左/简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": ".. Лунный",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 38,
+          "like_count": 179,
+          "listed_count": 0,
+          "tweet_count": 232
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "歡迎互fo•🇹🇼•友🏳️‍⚧️🏳️‍🌈@dongxuelianhaha/@Landscapy_Lover/@71V2WZ6PTj86844/@firefly_khmer。習慣性按讚，如果看到我給你不喜歡的人按了個贊，別急著封鎖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "dongxuelianhaha"
+              },
+              {
+                "end": 52,
+                "start": 36,
+                "username": "Landscapy_Lover"
+              },
+              {
+                "end": 69,
+                "start": 53,
+                "username": "71V2WZ6PTj86844"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "firefly_khmer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.miyoushe.com/ys?channel=viv…",
+                "end": 23,
+                "expanded_url": "https://m.miyoushe.com/ys?channel=vivo/#/article/55159494",
+                "start": 0,
+                "url": "https://t.co/8OO2ygA62S"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "納塔/Natlan/ナタ",
+        "name": "🫧瑪拉妮醬～",
+        "pinned_tweet_id": "1814160544263471174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813439082116378624/xaVNsmjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6336,
+          "following_count": 5765,
+          "like_count": 37433,
+          "listed_count": 25,
+          "tweet_count": 6793
+        },
+        "url": "https://t.co/8OO2ygA62S",
+        "username": "Mualani_Ch",
+        "verified": false
+      }
+    ]
+  }
+}

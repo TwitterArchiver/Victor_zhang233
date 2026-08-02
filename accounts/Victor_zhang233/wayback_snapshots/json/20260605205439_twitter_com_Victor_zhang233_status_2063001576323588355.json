@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2062986888034586678",
+    "created_at": "2026-06-05T20:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T21:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063001576323588355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2013863981132455937",
+          "start": 0,
+          "username": "candle0099"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063001576323588355",
+    "in_reply_to_user_id": "2013863981132455937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063000476682166575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@candle0099 而且我无法理解为什么你的情绪是完全冲着我的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2062986888034586678",
+        "created_at": "2026-06-05T20:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T21:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063001576323588355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2013863981132455937",
+              "start": 0,
+              "username": "candle0099"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063001576323588355",
+        "in_reply_to_user_id": "2013863981132455937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063000476682166575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@candle0099 而且我无法理解为什么你的情绪是完全冲着我的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013863981132455937",
+        "conversation_id": "2062986888034586678",
+        "created_at": "2026-06-05T20:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T21:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063000476682166575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063000476682166575",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062986888034586678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 不会管理就别建呗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2062538556367917348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 300,
+          "like_count": 6083,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1838
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T06:39:32.000Z",
+        "description": "9",
+        "id": "2013863981132455937",
+        "location": "在你心里",
+        "name": "烛芯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050699347675820032/Gn0z3DuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 108,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 90
+        },
+        "username": "candle0099",
+        "verified": false
+      }
+    ]
+  }
+}

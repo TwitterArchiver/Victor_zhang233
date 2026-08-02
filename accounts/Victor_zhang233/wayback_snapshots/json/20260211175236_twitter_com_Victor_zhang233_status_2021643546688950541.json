@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2021643542364553371",
+    "created_at": "2026-02-11T17:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T18:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021643546688950541"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021643546688950541",
+    "in_reply_to_user_id": "1755494652889661440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021643542364553371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "But mainly I want to kill everyone else and then myself，\n但最主要的是我想杀了其他人...然后是我自己。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2021643533258768384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA5SFRZawAAEod9.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2021643542364553371",
+        "created_at": "2026-02-11T17:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T18:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021643546688950541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021643546688950541",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021643542364553371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "But mainly I want to kill everyone else and then myself，\n但最主要的是我想杀了其他人...然后是我自己。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021643533258768384"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2021643542364553371",
+        "created_at": "2026-02-11T17:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T18:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021643542364553371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fu0ECuaMvE",
+              "end": 196,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2021643542364553371/photo/1",
+              "media_key": "3_2021643533258768384",
+              "start": 173,
+              "url": "https://t.co/Fu0ECuaMvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021643542364553371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I want to understand people，\n我想了解别人，\nInstead of feeding of their misery，\n而不是以他们的痛苦为食，\nI want to help those in need，\n我想帮助那些需要帮助的人，\nNot **** it up for every nigga，\n而不是把他们都搞砸， https://t.co/Fu0ECuaMvE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "林中落雨，秋前盛夏",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016888733715615747/2ZjaRw3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 79,
+          "like_count": 1739,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 882
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

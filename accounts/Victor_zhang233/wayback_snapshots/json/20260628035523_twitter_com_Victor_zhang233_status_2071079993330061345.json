@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2070899217867153412",
+    "created_at": "2026-06-28T03:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T04:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071079993330061345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1843325725694476288",
+          "start": 0,
+          "username": "Ba1L0veU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071079993330061345",
+    "in_reply_to_user_id": "1843325725694476288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070899217867153412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ba1L0veU 请问这种同学在哪里领"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2070899217867153412].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2070899217867153412",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2070899217867153412"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2070899217867153412",
+        "created_at": "2026-06-28T03:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T04:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071079993330061345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1843325725694476288",
+              "start": 0,
+              "username": "Ba1L0veU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071079993330061345",
+        "in_reply_to_user_id": "1843325725694476288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070899217867153412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ba1L0veU 请问这种同学在哪里领"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 |\nDM欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Dekadens",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 410,
+          "like_count": 8399,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 2139
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T16:21:30.000Z",
+        "description": "白白/Prs   欢迎互fo🦔没回请私信！                                                                 号被幽灵ban了回复发不出来。很诡异。欢迎DM～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ba1l0veu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ba1l0veu",
+                "start": 0,
+                "url": "https://t.co/XmXaKpvitI"
+              }
+            ]
+          }
+        },
+        "id": "1843325725694476288",
+        "location": "❤️",
+        "name": "白白🍀(被迫低浮上",
+        "pinned_tweet_id": "2040738512937652488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040822086462312448/0uUM_IQp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 637,
+          "like_count": 4096,
+          "listed_count": 0,
+          "media_count": 308,
+          "tweet_count": 2077
+        },
+        "url": "https://t.co/XmXaKpvitI",
+        "username": "Ba1L0veU",
+        "verified": false
+      }
+    ]
+  }
+}

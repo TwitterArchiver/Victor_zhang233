@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2038394401945497979",
+    "created_at": "2026-03-30T02:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T03:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038441219609743541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1966445060872093696",
+          "start": 0,
+          "username": "woshiamio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038441219609743541",
+    "in_reply_to_user_id": "1966445060872093696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038394401945497979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshiamio 对"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2038394392411832320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEnU5mfbAAA-wD5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2038394401945497979",
+        "created_at": "2026-03-30T02:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T03:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038441219609743541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1966445060872093696",
+              "start": 0,
+              "username": "woshiamio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038441219609743541",
+        "in_reply_to_user_id": "1966445060872093696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038394401945497979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshiamio 对"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038394392411832320"
+          ]
+        },
+        "author_id": "1966445060872093696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038394401945497979",
+        "created_at": "2026-03-29T23:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T00:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038394401945497979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YxBoWRTIHF",
+              "end": 58,
+              "expanded_url": "https://x.com/woshiamio/status/2038394401945497979/photo/1",
+              "media_key": "3_2038394392411832320",
+              "start": 35,
+              "url": "https://t.co/YxBoWRTIHF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038394401945497979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 322,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我很尊重每一个画师创作的作品\n但是我觉得ch这个圈子真的很弱智😅 https://t.co/YxBoWRTIHF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "T^T / \n这里是Ashes / 生理男 / 性取向是null / 超级缺爱b / 我不会写简介 / 已休学 / 该干点什么好呢？",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "无法自尽之人 #Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032502037242662912/m7BPbwdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 128,
+          "like_count": 2708,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1153
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T10:13:57.000Z",
+        "description": "客服小祥,随时待命！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/65498414",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/65498414",
+                "start": 0,
+                "url": "https://t.co/40ZHppBx24"
+              }
+            ]
+          }
+        },
+        "id": "1966445060872093696",
+        "location": "距您2.8km",
+        "name": "阿mi",
+        "pinned_tweet_id": "2005156467763229043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012232123739254784/zGVmSTgB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 749,
+          "like_count": 25074,
+          "listed_count": 2,
+          "media_count": 435,
+          "tweet_count": 1333
+        },
+        "url": "https://t.co/40ZHppBx24",
+        "username": "woshiamio",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2059957363910521008",
+    "created_at": "2026-05-28T15:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060020980563558421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2054962838867750913",
+          "start": 0,
+          "username": "Lerman_Pavia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060020980563558421",
+    "in_reply_to_user_id": "2054962838867750913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059968324855845167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lerman_Pavia 谢谢你喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2059957363910521008",
+        "created_at": "2026-05-28T15:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060020980563558421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2054962838867750913",
+              "start": 0,
+              "username": "Lerman_Pavia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060020980563558421",
+        "in_reply_to_user_id": "2054962838867750913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059968324855845167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lerman_Pavia 谢谢你喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054962838867750913",
+        "conversation_id": "2059957363910521008",
+        "created_at": "2026-05-28T12:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059968324855845167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059968324855845167",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059957363910521008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 如果真的要拿枪自杀的话，不要用枪顶着自己的下巴或者太阳穴，这两种死法太蠢了，而且极其有可能不致命（比方说打太阳穴，新手一旦手抖的话，子弹可能会打穿眼睛或者前额叶，但就是不死），吞枪是最好的选择，因为子弹会打碎脑干，可以顷刻间让人失去一切意识XD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2059669582818721884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 236,
+          "like_count": 4686,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1636
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T16:31:44.000Z",
+        "description": "“铅云漫尽雪与霜，帕维亚前战声响”\n这里是帕维亚！是中国人哦（PRC）\n算得上是个精神普鲁士人（或者你就当我单纯对1648-1918的德意志地区历史感兴趣也好），名字的来源是一五二五年的帕维亚会战——出警逮捕法国国王ing。",
+        "id": "2054962838867750913",
+        "location": "无忧宫",
+        "name": "Lerman vor Pavia",
+        "pinned_tweet_id": "2057370157421380029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054962991251025920/HosJr4CM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 33,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 182
+        },
+        "username": "Lerman_Pavia",
+        "verified": false
+      }
+    ]
+  }
+}

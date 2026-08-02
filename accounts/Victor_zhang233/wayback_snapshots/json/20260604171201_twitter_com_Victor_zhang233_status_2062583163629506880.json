@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062583160613777408"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2062583163629506880",
+    "created_at": "2026-06-04T17:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T18:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062583163629506880"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fxyXKcpiHE",
+          "end": 32,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2062583163629506880/photo/1",
+          "media_key": "3_2062583160613777408",
+          "start": 9,
+          "url": "https://t.co/fxyXKcpiHE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062583163629506880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今晚药效格外强裂 https://t.co/fxyXKcpiHE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2062583160613777408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_EdOAWMAActln.jpg",
+        "width": 479
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062583160613777408"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2062583163629506880",
+        "created_at": "2026-06-04T17:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062583163629506880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fxyXKcpiHE",
+              "end": 32,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2062583163629506880/photo/1",
+              "media_key": "3_2062583160613777408",
+              "start": 9,
+              "url": "https://t.co/fxyXKcpiHE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062583163629506880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚药效格外强裂 https://t.co/fxyXKcpiHE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2062538556367917348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062155233384615936/pl3fVQYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 297,
+          "like_count": 5929,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1802
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

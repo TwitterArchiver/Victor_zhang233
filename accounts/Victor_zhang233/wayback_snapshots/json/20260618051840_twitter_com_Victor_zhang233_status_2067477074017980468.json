@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067477069546799104",
+        "3_2067477069542707200"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2067477074017980468",
+    "created_at": "2026-06-18T05:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T06:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067477074017980468"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WlMI8ayyF7",
+          "end": 40,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2067477074017980468/photo/1",
+          "media_key": "3_2067477069546799104",
+          "start": 17,
+          "url": "https://t.co/WlMI8ayyF7"
+        },
+        {
+          "display_url": "pic.x.com/WlMI8ayyF7",
+          "end": 40,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2067477074017980468/photo/1",
+          "media_key": "3_2067477069542707200",
+          "start": 17,
+          "url": "https://t.co/WlMI8ayyF7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067477074017980468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好奇怪的形容。。漱口水是什么味道 https://t.co/WlMI8ayyF7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1389,
+        "media_key": "3_2067477069546799104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEncNeaQAA8Ego.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1226,
+        "media_key": "3_2067477069542707200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEncNdb0AAvLcx.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067477069546799104",
+            "3_2067477069542707200"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2067477074017980468",
+        "created_at": "2026-06-18T05:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067477074017980468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WlMI8ayyF7",
+              "end": 40,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2067477074017980468/photo/1",
+              "media_key": "3_2067477069546799104",
+              "start": 17,
+              "url": "https://t.co/WlMI8ayyF7"
+            },
+            {
+              "display_url": "pic.x.com/WlMI8ayyF7",
+              "end": 40,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2067477074017980468/photo/1",
+              "media_key": "3_2067477069542707200",
+              "start": 17,
+              "url": "https://t.co/WlMI8ayyF7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067477074017980468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇怪的形容。。漱口水是什么味道 https://t.co/WlMI8ayyF7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 360,
+          "like_count": 7150,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 2021
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

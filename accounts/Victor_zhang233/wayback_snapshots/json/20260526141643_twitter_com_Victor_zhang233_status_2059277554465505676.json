@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059277549155610624"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2059277554465505676",
+    "created_at": "2026-05-26T14:16:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059277554465505676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1482816755605118979",
+          "start": 0,
+          "username": "nikgeneburn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gw0E9IEzKX",
+          "end": 95,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2059277554465505676/photo/1",
+          "media_key": "3_2059277549155610624",
+          "start": 72,
+          "url": "https://t.co/Gw0E9IEzKX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059277554465505676",
+    "in_reply_to_user_id": "1482816755605118979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@nikgeneburn 尼基塔你告诉我为什么一个纯pve游戏要花14分钟匹配\n这就好像尼基塔小时候在母亲子宫里打滚结果要出生（动词）14分钟 https://t.co/Gw0E9IEzKX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2059277549155610624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQGBTtbcAAgjdv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059277549155610624"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059277554465505676",
+        "created_at": "2026-05-26T14:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059277554465505676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1482816755605118979",
+              "start": 0,
+              "username": "nikgeneburn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gw0E9IEzKX",
+              "end": 95,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2059277554465505676/photo/1",
+              "media_key": "3_2059277549155610624",
+              "start": 72,
+              "url": "https://t.co/Gw0E9IEzKX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059277554465505676",
+        "in_reply_to_user_id": "1482816755605118979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@nikgeneburn 尼基塔你告诉我为什么一个纯pve游戏要花14分钟匹配\n这就好像尼基塔小时候在母亲子宫里打滚结果要出生（动词）14分钟 https://t.co/Gw0E9IEzKX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2055781542031753407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 198,
+          "like_count": 4334,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1519
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-16T20:47:34.000Z",
+        "description": "yep, that's me. // @bstategames @cor3corp Head of the Studio // @tarkov @tarkovarena @fragorder Game director // geneburn music",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "bstategames"
+              },
+              {
+                "end": 41,
+                "start": 32,
+                "username": "cor3corp"
+              },
+              {
+                "end": 71,
+                "start": 64,
+                "username": "tarkov"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "tarkovarena"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "fragorder"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nikgeneburn/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nikgeneburn/",
+                "start": 0,
+                "url": "https://t.co/8uGc3XS1St"
+              }
+            ]
+          }
+        },
+        "id": "1482816755605118979",
+        "name": "Nikita Buyanov",
+        "pinned_tweet_id": "2043755251623440672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942604335642214400/Gu9Ad59K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356049,
+          "following_count": 5,
+          "like_count": 924,
+          "listed_count": 421,
+          "media_count": 595,
+          "tweet_count": 1870
+        },
+        "url": "https://t.co/8uGc3XS1St",
+        "username": "nikgeneburn",
+        "verified": true
+      }
+    ]
+  }
+}

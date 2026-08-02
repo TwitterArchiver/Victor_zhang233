@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2019003521962799521",
+    "created_at": "2026-02-04T20:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T21:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019151557410046025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1266194760651337728",
+          "start": 0,
+          "username": "Aulosta0101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019151557410046025",
+    "in_reply_to_user_id": "1266194760651337728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019003521962799521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aulosta0101 晚安。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019003477998047234",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATw91JaEAIDvXS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2019003521962799521",
+        "created_at": "2026-02-04T20:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T21:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019151557410046025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1266194760651337728",
+              "start": 0,
+              "username": "Aulosta0101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019151557410046025",
+        "in_reply_to_user_id": "1266194760651337728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019003521962799521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aulosta0101 晚安。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019003477998047234"
+          ]
+        },
+        "author_id": "1266194760651337728",
+        "conversation_id": "2019003521962799521",
+        "created_at": "2026-02-04T11:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T12:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019003521962799521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uzLngEseRK",
+              "end": 40,
+              "expanded_url": "https://x.com/Aulosta0101/status/2019003521962799521/photo/1",
+              "media_key": "3_2019003477998047234",
+              "start": 17,
+              "url": "https://t.co/uzLngEseRK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019003521962799521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 30371,
+          "like_count": 641,
+          "quote_count": 3,
+          "reply_count": 81,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "如果我醒来了，我就会去尝试上吊。 https://t.co/uzLngEseRK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "林中落雨，秋前盛夏",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016888733715615747/2ZjaRw3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 91,
+          "like_count": 1639,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 844
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-29T02:29:24.000Z",
+        "description": "低浮上｜20↑成人 DBD🔪👻/OW🪷中文⭕ENG⭕\n如果需要知道的话我是沙弗莱｜INFP｜极光岛系统｜osdd-1b｜od｜大量负面内容｜玉玉角铝爆炸中｜喜欢和我互动的所有人",
+        "id": "1266194760651337728",
+        "name": "Tsavorite26",
+        "pinned_tweet_id": "2018631865926922647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975460367687147520/F_U_PkP3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 328,
+          "like_count": 1323,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 221
+        },
+        "username": "Aulosta0101",
+        "verified": false
+      }
+    ]
+  }
+}

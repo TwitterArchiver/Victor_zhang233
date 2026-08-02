@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2076909552973365396",
+    "created_at": "2026-07-14T20:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T21:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077131744785121474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1976023364956553217",
+          "start": 0,
+          "username": "8964tana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077131744785121474",
+    "in_reply_to_user_id": "1976023364956553217",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076925314048180276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964tana 😋😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2076909552973365396",
+        "created_at": "2026-07-14T20:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T21:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077131744785121474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1976023364956553217",
+              "start": 0,
+              "username": "8964tana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077131744785121474",
+        "in_reply_to_user_id": "1976023364956553217",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076925314048180276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964tana 😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976023364956553217",
+        "conversation_id": "2076909552973365396",
+        "created_at": "2026-07-14T07:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076925314048180276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076925314048180276",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076909552973365396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 香草你了能不能聊聊原生家庭😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him | 药物欣快重度依赖 | \n这是哪里。。？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 469,
+          "like_count": 9988,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 2324
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T20:34:48.000Z",
+        "description": "19y / MTX /",
+        "id": "1976023364956553217",
+        "location": "🌍",
+        "name": "Προκύων",
+        "pinned_tweet_id": "2060946919770464407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068104428591464448/dBTXMdyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 18,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "8964tana",
+        "verified": false
+      }
+    ]
+  }
+}

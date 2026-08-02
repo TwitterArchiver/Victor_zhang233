@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1880460533960437776",
+    "created_at": "2025-01-18T11:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T12:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880582753827365020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1641812125789069313",
+          "start": 0,
+          "username": "_chitong_"
+        },
+        {
+          "end": 14,
+          "id": "6670412",
+          "start": 11,
+          "username": "yx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880582753827365020",
+    "in_reply_to_user_id": "1641812125789069313",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880460533960437776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_chitong_ @yx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1880460533960437776",
+        "created_at": "2025-01-18T11:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T12:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880582753827365020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641812125789069313",
+              "start": 0,
+              "username": "_chitong_"
+            },
+            {
+              "end": 14,
+              "id": "6670412",
+              "start": 11,
+              "username": "yx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880582753827365020",
+        "in_reply_to_user_id": "1641812125789069313",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880460533960437776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_chitong_ @yx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641812125789069313",
+        "conversation_id": "1880460533960437776",
+        "created_at": "2025-01-18T03:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T04:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880460533960437776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880460533960437776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 8200,
+          "like_count": 140,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "感觉男孩子真的好惨…\n给睾酮控制着，性饥渴的时候会难受得要不要的…但是又没有发泄的对象\n\n等到有发泄对象的时候，几分钟就完事了…给对方嫌弃死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 57,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 433
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T14:38:18.000Z",
+        "description": "善用block与mute😇",
+        "id": "1641812125789069313",
+        "name": "🍦tong🍦",
+        "pinned_tweet_id": "1810338576888172648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680886682575568896/Zkl9mDOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 665,
+          "like_count": 16748,
+          "listed_count": 1,
+          "media_count": 379,
+          "tweet_count": 5830
+        },
+        "username": "_chitong_",
+        "verified": false
+      },
+      {
+        "created_at": "2007-06-08T14:53:21.000Z",
+        "description": "",
+        "id": "6670412",
+        "name": "xy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729367074739286016/KmQqGyI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 66,
+          "like_count": 83,
+          "listed_count": 4,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "username": "yx",
+        "verified": false
+      }
+    ]
+  }
+}

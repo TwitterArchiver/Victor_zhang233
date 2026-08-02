@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1879911530709622858",
+    "created_at": "2025-01-17T22:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T23:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880384928287977509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1683440309768708096",
+          "start": 0,
+          "username": "3596675596com"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880384928287977509",
+    "in_reply_to_user_id": "1683440309768708096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879911530709622858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3596675596com 盲猜评论区一堆大张伟狂热粉丝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1879911530709622858",
+        "created_at": "2025-01-17T22:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T23:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880384928287977509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1683440309768708096",
+              "start": 0,
+              "username": "3596675596com"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880384928287977509",
+        "in_reply_to_user_id": "1683440309768708096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879911530709622858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3596675596com 盲猜评论区一堆大张伟狂热粉丝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879910890218348545"
+          ]
+        },
+        "author_id": "1683440309768708096",
+        "conversation_id": "1879911530709622858",
+        "created_at": "2025-01-16T15:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T16:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879911530709622858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DUHBqMwVXP",
+              "end": 66,
+              "expanded_url": "https://x.com/3596675596com/status/1879911530709622858/photo/1",
+              "media_key": "3_1879910890218348545",
+              "start": 43,
+              "url": "https://t.co/DUHBqMwVXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879911530709622858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 24025,
+          "like_count": 233,
+          "quote_count": 2,
+          "reply_count": 64,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我知道有些人不太喜欢黑人\n\n但别搞得太明显好吧\n\n你们不喜欢大不了点不感兴趣然后划走 https://t.co/DUHBqMwVXP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 56,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 423
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T11:34:02.000Z",
+        "description": "十分期待，使用伯纳德·劳·蒙哥马利头像与ID的对手出现",
+        "id": "1683440309768708096",
+        "location": "广东",
+        "name": "沙漠之狐 埃尔温·隆美尔",
+        "pinned_tweet_id": "1859643786835657004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809519964937940996/ZJFFVFAW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12104,
+          "following_count": 1050,
+          "like_count": 14826,
+          "listed_count": 111,
+          "media_count": 2352,
+          "tweet_count": 31755
+        },
+        "username": "3596675596com",
+        "verified": true
+      }
+    ]
+  }
+}

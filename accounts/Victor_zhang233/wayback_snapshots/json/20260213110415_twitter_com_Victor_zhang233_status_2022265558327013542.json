@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2022265558327013542",
+    "created_at": "2026-02-13T11:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T12:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022265558327013542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1873582469854949376",
+          "start": 3,
+          "username": "shikonnotama999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022265558327013542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022092792567410991",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shikonnotama999: 我就喜欢那种不混圈 整日神神叨叨的活在自己的世界的单机地雷女 和她们深入交流真的挺好玩的 并且也不用听圈内那些无聊的事…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2022265558327013542",
+        "created_at": "2026-02-13T11:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022265558327013542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1873582469854949376",
+              "start": 3,
+              "username": "shikonnotama999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022265558327013542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022092792567410991",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shikonnotama999: 我就喜欢那种不混圈 整日神神叨叨的活在自己的世界的单机地雷女 和她们深入交流真的挺好玩的 并且也不用听圈内那些无聊的事…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873582469854949376",
+        "conversation_id": "2022092792567410991",
+        "created_at": "2026-02-12T23:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T00:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022092792567410991"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022092792567410991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4622,
+          "like_count": 126,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我就喜欢那种不混圈 整日神神叨叨的活在自己的世界的单机地雷女 和她们深入交流真的挺好玩的 并且也不用听圈内那些无聊的事…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "林中落雨，秋前盛夏",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016888733715615747/2ZjaRw3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 79,
+          "like_count": 1759,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 881
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T04:10:58.000Z",
+        "description": "我喜欢和淡淡的人交流 私信只回口令 一直问拉黑",
+        "id": "1873582469854949376",
+        "location": "🚪288/520/1314^ ^.",
+        "name": "愈美湯力水oO",
+        "pinned_tweet_id": "2019526992228741478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007098307173048320/lHWZnHB0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 98,
+          "like_count": 801,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 145
+        },
+        "username": "shikonnotama999",
+        "verified": false
+      }
+    ]
+  }
+}

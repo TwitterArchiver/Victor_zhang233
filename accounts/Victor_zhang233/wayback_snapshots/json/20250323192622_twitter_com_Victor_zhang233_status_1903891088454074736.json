@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1903883174180008162",
+    "created_at": "2025-03-23T19:26:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T20:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903891088454074736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1824124541456830464",
+          "start": 0,
+          "username": "MPNjjuHMlG55724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903891088454074736",
+    "in_reply_to_user_id": "1824124541456830464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903883174180008162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MPNjjuHMlG55724 羡慕，，我也想要(⁠T⁠T⁠)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1903883174180008162",
+        "created_at": "2025-03-23T19:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T20:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903891088454074736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1824124541456830464",
+              "start": 0,
+              "username": "MPNjjuHMlG55724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903891088454074736",
+        "in_reply_to_user_id": "1824124541456830464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903883174180008162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MPNjjuHMlG55724 羡慕，，我也想要(⁠T⁠T⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824124541456830464",
+        "conversation_id": "1903883174180008162",
+        "created_at": "2025-03-23T18:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T19:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903883174180008162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903883174180008162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在的男友也割手，虽然是网恋，但是太好了我可以幻想两个人一起割手了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/抑郁焦虑/黑金属/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 坏人堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 66,
+          "like_count": 467,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 509
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T16:43:05.000Z",
+        "description": "女生\n大陆人\n上学所以会很少上推特",
+        "id": "1824124541456830464",
+        "location": "火星",
+        "name": "8964婤周",
+        "pinned_tweet_id": "1841705844515471819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900239097329029120/6WSUnNC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 204,
+          "like_count": 2306,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1053
+        },
+        "username": "MPNjjuHMlG55724",
+        "verified": false
+      }
+    ]
+  }
+}

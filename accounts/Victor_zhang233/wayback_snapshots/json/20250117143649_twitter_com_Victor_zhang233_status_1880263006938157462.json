@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880263001959206912"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "1879193997970927616",
+    "created_at": "2025-01-17T14:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T15:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880263006938157462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1394739921026371585",
+          "start": 0,
+          "username": "RTSG_Main"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dbAt9bnWKH",
+          "end": 43,
+          "expanded_url": "https://x.com/Victor_zhang233/status/1880263006938157462/photo/1",
+          "media_key": "3_1880263001959206912",
+          "start": 20,
+          "url": "https://t.co/dbAt9bnWKH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880263006938157462",
+    "in_reply_to_user_id": "1394739921026371585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879193997970927616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RTSG_Main 快点翻译它孩子们 https://t.co/dbAt9bnWKH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1880263001959206912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhgJPPwWkAA6oG3.jpg",
+        "width": 1025
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880263001959206912"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "1879193997970927616",
+        "created_at": "2025-01-17T14:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T15:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880263006938157462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1394739921026371585",
+              "start": 0,
+              "username": "RTSG_Main"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dbAt9bnWKH",
+              "end": 43,
+              "expanded_url": "https://x.com/Victor_zhang233/status/1880263006938157462/photo/1",
+              "media_key": "3_1880263001959206912",
+              "start": 20,
+              "url": "https://t.co/dbAt9bnWKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880263006938157462",
+        "in_reply_to_user_id": "1394739921026371585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879193997970927616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RTSG_Main 快点翻译它孩子们 https://t.co/dbAt9bnWKH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879193991951859712"
+          ]
+        },
+        "author_id": "1394739921026371585",
+        "conversation_id": "1879193997970927616",
+        "created_at": "2025-01-14T15:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T16:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879193997970927616"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "rednote",
+              "probability": 0.6,
+              "start": 33,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LtULBDePNe",
+              "end": 64,
+              "expanded_url": "https://x.com/RTSG_Main/status/1879193997970927616/photo/1",
+              "media_key": "3_1879193991951859712",
+              "start": 41,
+              "url": "https://t.co/LtULBDePNe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879193997970927616",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 322,
+          "impression_count": 257030,
+          "like_count": 5614,
+          "quote_count": 40,
+          "reply_count": 116,
+          "retweet_count": 454
+        },
+        "reply_settings": "everyone",
+        "text": "Every American after downloading rednote https://t.co/LtULBDePNe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 56,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 384
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-18T19:43:26.000Z",
+        "description": "Primus inter pares - RTSG Research collective - Follow @RTSG_News",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "RTSG_News"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rtsg.media",
+                "end": 23,
+                "expanded_url": "https://www.rtsg.media",
+                "start": 0,
+                "url": "https://t.co/gG74YmTnyO"
+              }
+            ]
+          }
+        },
+        "id": "1394739921026371585",
+        "location": "Worldwide",
+        "name": "RTSG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794356123627044865/7T5PkWR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16793,
+          "following_count": 212,
+          "like_count": 11097,
+          "listed_count": 149,
+          "media_count": 910,
+          "tweet_count": 4212
+        },
+        "url": "https://t.co/gG74YmTnyO",
+        "username": "RTSG_Main",
+        "verified": true
+      }
+    ]
+  }
+}

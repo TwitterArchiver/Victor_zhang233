@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082026876416233472"
+      ],
+      "media_source_tweet_id": [
+        "2082026897345749242"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2082030577067475191",
+    "created_at": "2026-07-28T09:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082030577067475191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1720585683184857088",
+          "start": 3,
+          "username": "xiaoqi3377"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A5NZL8NkfA",
+          "end": 39,
+          "expanded_url": "https://x.com/xiaoqi3377/status/2082026897345749242/photo/1",
+          "media_key": "3_2082026876416233472",
+          "start": 16,
+          "url": "https://t.co/A5NZL8NkfA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082030577067475191",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082026897345749242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoqi3377: https://t.co/A5NZL8NkfA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_2082026876416233472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTYab2bEAAsUNv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082026876416233472"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2082026897345749242",
+        "created_at": "2026-07-28T08:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082026897345749242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A5NZL8NkfA",
+              "end": 23,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2082026897345749242/photo/1",
+              "media_key": "3_2082026876416233472",
+              "start": 0,
+              "url": "https://t.co/A5NZL8NkfA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082026897345749242",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/A5NZL8NkfA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082026876416233472"
+          ],
+          "media_source_tweet_id": [
+            "2082026897345749242"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2082030577067475191",
+        "created_at": "2026-07-28T09:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082030577067475191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1720585683184857088",
+              "start": 3,
+              "username": "xiaoqi3377"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A5NZL8NkfA",
+              "end": 39,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2082026897345749242/photo/1",
+              "media_key": "3_2082026876416233472",
+              "start": 16,
+              "url": "https://t.co/A5NZL8NkfA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082030577067475191",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082026897345749242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoqi3377: https://t.co/A5NZL8NkfA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 493,
+          "like_count": 10868,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 2452
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2079485954696561008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 174,
+          "like_count": 751,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 798
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

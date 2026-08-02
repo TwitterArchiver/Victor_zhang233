@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039209392118394880",
+        "3_2039209393024356352",
+        "3_2039209392118390784",
+        "3_2039209393028505600"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2039209398976008238",
+    "created_at": "2026-04-01T05:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T06:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039209398976008238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wz07dStaIR",
+          "end": 23,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2039209398976008238/photo/1",
+          "media_key": "3_2039209392118394880",
+          "start": 0,
+          "url": "https://t.co/wz07dStaIR"
+        },
+        {
+          "display_url": "pic.x.com/wz07dStaIR",
+          "end": 23,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2039209398976008238/photo/1",
+          "media_key": "3_2039209393024356352",
+          "start": 0,
+          "url": "https://t.co/wz07dStaIR"
+        },
+        {
+          "display_url": "pic.x.com/wz07dStaIR",
+          "end": 23,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2039209398976008238/photo/1",
+          "media_key": "3_2039209392118390784",
+          "start": 0,
+          "url": "https://t.co/wz07dStaIR"
+        },
+        {
+          "display_url": "pic.x.com/wz07dStaIR",
+          "end": 23,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2039209398976008238/photo/1",
+          "media_key": "3_2039209393028505600",
+          "start": 0,
+          "url": "https://t.co/wz07dStaIR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039209398976008238",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/wz07dStaIR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 794,
+        "media_key": "3_2039209392118394880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEy6I0_bcAA6krp.jpg",
+        "width": 960
+      },
+      {
+        "height": 552,
+        "media_key": "3_2039209393024356352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEy6I4XbUAAADlj.jpg",
+        "width": 736
+      },
+      {
+        "height": 576,
+        "media_key": "3_2039209392118390784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEy6I0_bYAAfxnU.jpg",
+        "width": 576
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2039209393028505600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEy6I4YaoAAWO2E.jpg",
+        "width": 669
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039209392118394880",
+            "3_2039209393024356352",
+            "3_2039209392118390784",
+            "3_2039209393028505600"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039209398976008238",
+        "created_at": "2026-04-01T05:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039209398976008238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wz07dStaIR",
+              "end": 23,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2039209398976008238/photo/1",
+              "media_key": "3_2039209392118394880",
+              "start": 0,
+              "url": "https://t.co/wz07dStaIR"
+            },
+            {
+              "display_url": "pic.x.com/wz07dStaIR",
+              "end": 23,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2039209398976008238/photo/1",
+              "media_key": "3_2039209393024356352",
+              "start": 0,
+              "url": "https://t.co/wz07dStaIR"
+            },
+            {
+              "display_url": "pic.x.com/wz07dStaIR",
+              "end": 23,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2039209398976008238/photo/1",
+              "media_key": "3_2039209392118390784",
+              "start": 0,
+              "url": "https://t.co/wz07dStaIR"
+            },
+            {
+              "display_url": "pic.x.com/wz07dStaIR",
+              "end": 23,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2039209398976008238/photo/1",
+              "media_key": "3_2039209393028505600",
+              "start": 0,
+              "url": "https://t.co/wz07dStaIR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039209398976008238",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wz07dStaIR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "四月雨",
+        "id": "1755494652889661440",
+        "location": "人间",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038442200997265408/vibWzS-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 135,
+          "like_count": 2905,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1196
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

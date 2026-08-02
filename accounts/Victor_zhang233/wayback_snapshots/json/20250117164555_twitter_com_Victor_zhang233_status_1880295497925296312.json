@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1879888950955020635",
+    "created_at": "2025-01-17T16:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T17:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880295497925296312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1153921233445986304",
+          "start": 0,
+          "username": "shirumesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880295497925296312",
+    "in_reply_to_user_id": "1153921233445986304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879888950955020635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shirumesu 你知道吗：传言二战洗头佬的军队都是溜冰的🐱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1879888950955020635",
+        "created_at": "2025-01-17T16:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T17:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880295497925296312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1153921233445986304",
+              "start": 0,
+              "username": "shirumesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880295497925296312",
+        "in_reply_to_user_id": "1153921233445986304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879888950955020635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirumesu 你知道吗：传言二战洗头佬的军队都是溜冰的🐱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153921233445986304",
+        "conversation_id": "1879888950955020635",
+        "created_at": "2025-01-16T13:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T14:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879888950955020635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879888950955020635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 626,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无端想到的，虽然我互关有人o但我还是想说，我其实挺讨厌烟酒od的，对我而言就是广义吸毒\n\n但是有一种情况我一直都是保留，那就是为了工作提高效率，甚至是某国家的通过吸毒做到72h无休急行军，退役后一身劳疾的运动员要赞颂，为了国家奉献自己的要赞颂，那么他们呢…？有空纪录片看看他们状态好了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 56,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 409
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T06:53:55.000Z",
+        "description": "我oc，希露梅斯·莉莉丝·菲利欧露，巡礼魔女，愿歌赫姆的星光永不消逝/是infp～/私信闲聊树洞都欢迎吧？/因为需要“正在关注”时间线，不一定回fo抱歉！（要回fo可以说！）/祝你开心～",
+        "id": "1153921233445986304",
+        "location": "卡梅利亚大森林远郊",
+        "name": "希露梅斯",
+        "pinned_tweet_id": "1846484419571519622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869417660737548288/hIoqCtVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 35,
+          "like_count": 10477,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 5774
+        },
+        "username": "shirumesu",
+        "verified": false
+      }
+    ]
+  }
+}

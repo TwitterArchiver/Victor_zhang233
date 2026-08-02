@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1978509326596628982",
+    "created_at": "2025-10-22T13:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T14:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980994996833800635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1960749327980355594",
+          "start": 0,
+          "username": "bing20001228023"
+        },
+        {
+          "end": 30,
+          "id": "1822447334749614080",
+          "start": 17,
+          "username": "chenwai29719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980994996833800635",
+    "in_reply_to_user_id": "1755494652889661440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980994231155224894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bing20001228023 @chenwai29719 有没有网址什么的发个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1978509326596628982",
+        "created_at": "2025-10-22T13:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T14:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980994996833800635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1960749327980355594",
+              "start": 0,
+              "username": "bing20001228023"
+            },
+            {
+              "end": 30,
+              "id": "1822447334749614080",
+              "start": 17,
+              "username": "chenwai29719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980994996833800635",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980994231155224894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing20001228023 @chenwai29719 有没有网址什么的发个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1978509326596628982",
+        "created_at": "2025-10-22T13:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T14:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980994231155224894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1960749327980355594",
+              "start": 0,
+              "username": "bing20001228023"
+            },
+            {
+              "end": 30,
+              "id": "1822447334749614080",
+              "start": 17,
+              "username": "chenwai29719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980994231155224894",
+        "in_reply_to_user_id": "1960749327980355594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980989397521846302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing20001228023 @chenwai29719 找不到诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（// 高中生［endl］ 皮下男 / \n只听自杀黑¿._ / \n我喜欢视奸你们^°^",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 96,
+          "like_count": 1003,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 729
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T17:01:02.000Z",
+        "description": "我想去天国 恋人@skst1453",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "skst1453"
+              }
+            ]
+          }
+        },
+        "id": "1960749327980355594",
+        "location": "shenzhen",
+        "name": "bing200010",
+        "pinned_tweet_id": "1979447057116205440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960977437723963393/Xfb_r54X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 381,
+          "like_count": 9719,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 224
+        },
+        "username": "bing20001228023",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T01:38:11.000Z",
+        "description": "07/infp/ftx/非二元/泛/adhd+asd/抑郁症焦虑症/化学极乐\n一般都会回fo，听点摇滚/金属",
+        "id": "1822447334749614080",
+        "name": "尘外",
+        "pinned_tweet_id": "1980068482650959937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945350840199634944/hOFuYJd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 71,
+          "like_count": 87,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 242
+        },
+        "username": "chenwai29719",
+        "verified": false
+      }
+    ]
+  }
+}

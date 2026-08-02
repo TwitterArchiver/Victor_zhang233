@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2063615009947804012",
+    "created_at": "2026-06-07T17:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T18:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063679263274942670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1938232468076957698",
+          "start": 0,
+          "username": "1yuki475740"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063679263274942670",
+    "in_reply_to_user_id": "1938232468076957698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063615009947804012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@1yuki475740 我最近也这样，也可能是夏天来了吧。？😳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2063615009947804012",
+        "created_at": "2026-06-07T17:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063679263274942670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1938232468076957698",
+              "start": 0,
+              "username": "1yuki475740"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063679263274942670",
+        "in_reply_to_user_id": "1938232468076957698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063615009947804012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@1yuki475740 我最近也这样，也可能是夏天来了吧。？😳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938232468076957698",
+        "conversation_id": "2063615009947804012",
+        "created_at": "2026-06-07T13:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063615009947804012"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063615009947804012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我很好奇我现在的兴奋状态会不会是转双相了，最近买了一大堆用不上的东西，虽然宿舍早就没空间放下更多东西了😾甚至社交能量高了，睡觉也老是醒，而且老是想大喊大叫，躁得要命，别告诉我是听金属乐听的（WTF😾）（不要啊😭明天去医院复查，希望变得健全一点点了😭）虽然感觉医院也没用吧到底治好啥了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 310,
+          "like_count": 6187,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1853
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T13:47:00.000Z",
+        "description": "𝖆 𝖈𝖔𝖗𝖕𝖘𝖊\n        𝕴 ❤️ 𝕿𝖗𝖆𝖓𝖘𝖞𝖑𝖛𝖆𝖓𝖎𝖆",
+        "id": "1938232468076957698",
+        "location": "𝖍𝖊𝖆𝖛𝖊𝖓",
+        "name": "Yuki",
+        "pinned_tweet_id": "2061617482830590458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053797917572665344/CsS3QgTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 74,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 73
+        },
+        "username": "1yuki475740",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036545333979701248"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2036545336982831596",
+    "created_at": "2026-03-24T20:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T21:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036545336982831596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ps9NPaSyGH",
+          "end": 35,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2036545336982831596/photo/1",
+          "media_key": "3_2036545333979701248",
+          "start": 12,
+          "url": "https://t.co/Ps9NPaSyGH"
+        },
+        {
+          "display_url": "x.com/chengeshuo666/…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/chengeshuo666/status/2036313857086689578",
+          "start": 36,
+          "url": "https://t.co/YbWjVjwG0m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036545336982831596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036313857086689578",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看完评论区理解斯大林了 https://t.co/Ps9NPaSyGH https://t.co/YbWjVjwG0m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2036545333979701248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HENDMPDW4AACciu.jpg",
+        "width": 640
+      },
+      {
+        "height": 2008,
+        "media_key": "3_2036313501371867137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEJwVzSaIAEID4L.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036545333979701248"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2036545336982831596",
+        "created_at": "2026-03-24T20:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T21:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036545336982831596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ps9NPaSyGH",
+              "end": 35,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2036545336982831596/photo/1",
+              "media_key": "3_2036545333979701248",
+              "start": 12,
+              "url": "https://t.co/Ps9NPaSyGH"
+            },
+            {
+              "display_url": "x.com/chengeshuo666/…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/chengeshuo666/status/2036313857086689578",
+              "start": 36,
+              "url": "https://t.co/YbWjVjwG0m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036545336982831596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036313857086689578",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看完评论区理解斯大林了 https://t.co/Ps9NPaSyGH https://t.co/YbWjVjwG0m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036313501371867137"
+          ]
+        },
+        "author_id": "1355717461451005953",
+        "conversation_id": "2036313857086689578",
+        "created_at": "2026-03-24T05:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T06:25:46.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036313504282714193",
+          "2036313857086689578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wMdAhNR3Zf",
+              "end": 82,
+              "expanded_url": "https://x.com/chengeshuo666/status/2036313857086689578/photo/1",
+              "media_key": "3_2036313501371867137",
+              "start": 59,
+              "url": "https://t.co/wMdAhNR3Zf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036313857086689578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 240699,
+          "like_count": 404,
+          "quote_count": 14,
+          "reply_count": 218,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "一位女脱口秀演员嘲讽保尔柯察金：“当我看那个书名的一瞬间，我就知道这男的真的一无所有，那本书叫做钢铁是怎样炼成的。” https://t.co/wMdAhNR3Zf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "T^T",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032502037242662912/m7BPbwdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 116,
+          "like_count": 2490,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1107
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-31T03:20:19.000Z",
+        "description": "反对极端女权主义\n只为男性权益发声\n备用号：@chengeshuo\n欢迎私信投稿和交流。\n感谢兄弟们的支持和信任。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "chengeshuo"
+              }
+            ]
+          }
+        },
+        "id": "1355717461451005953",
+        "location": "Hong Kong",
+        "name": "陈哥说",
+        "pinned_tweet_id": "2017569092031709500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725454110076624896/EFPTmVpR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12048,
+          "following_count": 1471,
+          "like_count": 100,
+          "listed_count": 24,
+          "media_count": 1094,
+          "tweet_count": 1673
+        },
+        "username": "chengeshuo666",
+        "verified": true
+      }
+    ]
+  }
+}

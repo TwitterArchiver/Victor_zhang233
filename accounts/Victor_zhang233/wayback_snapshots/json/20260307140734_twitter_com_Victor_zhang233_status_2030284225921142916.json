@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2030209215311351844",
+    "created_at": "2026-03-07T14:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T15:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030284225921142916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1484488362182467584",
+          "start": 0,
+          "username": "f_fannie427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030284225921142916",
+    "in_reply_to_user_id": "1484488362182467584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030228704811737495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@f_fannie427 但是开得到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2030209215311351844",
+        "created_at": "2026-03-07T14:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T15:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030284225921142916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1484488362182467584",
+              "start": 0,
+              "username": "f_fannie427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030284225921142916",
+        "in_reply_to_user_id": "1484488362182467584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030228704811737495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@f_fannie427 但是开得到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484488362182467584",
+        "conversation_id": "2030209215311351844",
+        "created_at": "2026-03-07T10:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T11:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030228704811737495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030228704811737495",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030209215311351844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 贵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029881776781545474/2N7O6T8Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 86,
+          "like_count": 1951,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 935
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-21T11:30:25.000Z",
+        "description": "状态稳定 傻小孩 丑 穷 很冒失",
+        "id": "1484488362182467584",
+        "location": "云",
+        "name": "云匿427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026613117493587969/cKMcsiEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 757,
+          "like_count": 3078,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 663
+        },
+        "username": "f_fannie427",
+        "verified": false
+      }
+    ]
+  }
+}

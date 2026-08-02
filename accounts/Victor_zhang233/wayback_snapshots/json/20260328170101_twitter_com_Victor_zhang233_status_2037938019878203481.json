@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2037922877421551857",
+    "created_at": "2026-03-28T17:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T18:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037938019878203481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1929466337245675520",
+          "start": 0,
+          "username": "Ngtyuri233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037938019878203481",
+    "in_reply_to_user_id": "1929466337245675520",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037935313067397599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ngtyuri233 o.O"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2037922877421551857",
+        "created_at": "2026-03-28T17:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T18:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037938019878203481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1929466337245675520",
+              "start": 0,
+              "username": "Ngtyuri233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037938019878203481",
+        "in_reply_to_user_id": "1929466337245675520",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037935313067397599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ngtyuri233 o.O"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929466337245675520",
+        "conversation_id": "2037922877421551857",
+        "created_at": "2026-03-28T16:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T17:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037935313067397599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037935313067397599",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037922877421551857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 补药攻击我…（哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "T^T",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032502037242662912/m7BPbwdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 124,
+          "like_count": 2630,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1133
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T09:13:37.000Z",
+        "description": "愛されたい\n （Language：中文/日本語/English） / DM👌 / 互fo👌 / 09 男高中生 / 对象@yuriano3479\n 提问箱：\nhttps://t.co/i6gH2O8U4v",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "yuriano3479"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yuriafries",
+                "end": 102,
+                "expanded_url": "https://ngl.link/yuriafries",
+                "start": 79,
+                "url": "https://t.co/i6gH2O8U4v"
+              }
+            ]
+          }
+        },
+        "id": "1929466337245675520",
+        "location": "🚪15 仅好友位+陪聊 可以听我弹琴 需要请DM",
+        "name": "薯条恶魔杀人事件🍟😈",
+        "pinned_tweet_id": "2037061283607175498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024431590525571072/zaE8hMw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 73,
+          "like_count": 2429,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 790
+        },
+        "username": "Ngtyuri233",
+        "verified": false
+      }
+    ]
+  }
+}

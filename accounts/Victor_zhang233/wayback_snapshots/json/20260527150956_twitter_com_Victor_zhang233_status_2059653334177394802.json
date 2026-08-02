@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2059638171730870654",
+    "created_at": "2026-05-27T15:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059653334177394802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2025870004793856000",
+          "start": 0,
+          "username": "Loop_yy0130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059653334177394802",
+    "in_reply_to_user_id": "2025870004793856000",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059638171730870654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Loop_yy0130 bug"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2442,
+        "media_key": "3_2059638160192372736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVN_ogbAAA9kVb.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2059638171730870654",
+        "created_at": "2026-05-27T15:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059653334177394802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2025870004793856000",
+              "start": 0,
+              "username": "Loop_yy0130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059653334177394802",
+        "in_reply_to_user_id": "2025870004793856000",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059638171730870654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Loop_yy0130 bug"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059638160192372736"
+          ]
+        },
+        "author_id": "2025870004793856000",
+        "conversation_id": "2059638171730870654",
+        "created_at": "2026-05-27T14:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059638171730870654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tfrLnHm3U4",
+              "end": 42,
+              "expanded_url": "https://x.com/Loop_yy0130/status/2059638171730870654/photo/1",
+              "media_key": "3_2059638160192372736",
+              "start": 19,
+              "url": "https://t.co/tfrLnHm3U4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059638171730870654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1727,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是啥子情况。\n我互关呢。我粉尸呢。 https://t.co/tfrLnHm3U4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2059552209222689082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 220,
+          "like_count": 4486,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1576
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T09:47:16.000Z",
+        "description": "一个爱发牢骚de小乐乐😂...\n全世界倒数第一绷得住的女孩。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/loop_yy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/loop_yy",
+                "start": 0,
+                "url": "https://t.co/ZuRTIwzvS4"
+              }
+            ]
+          }
+        },
+        "id": "2025870004793856000",
+        "location": "地狱",
+        "name": "Loooooopyyy_",
+        "pinned_tweet_id": "2058959836193382473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056613547787067392/03fOhuyh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 0,
+          "like_count": 2247,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 1558
+        },
+        "url": "https://t.co/ZuRTIwzvS4",
+        "username": "Loop_yy0130",
+        "verified": false
+      }
+    ]
+  }
+}

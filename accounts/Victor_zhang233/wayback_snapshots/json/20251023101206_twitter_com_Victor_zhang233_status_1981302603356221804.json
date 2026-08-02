@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1981302603356221804",
+    "created_at": "2025-10-23T10:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T11:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981302603356221804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1889313848668090368",
+          "start": 3,
+          "username": "Yyyyy_pog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981302603356221804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981002636251046351",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yyyyy_pog: 实际上，我一般不会主动找人聊天，除非找到了和此人相关的事情需要交流的时候。我认为大多数情况下聊天是没必要的。\n我一般的社交模式是：别人找我聊天就回应，自己几乎不会主动找人。\n我不清楚聊天这件事到底是在干什么，和大多数人进行闲聊只会让我感到很累，一直…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1981302603356221804",
+        "created_at": "2025-10-23T10:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T11:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981302603356221804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1889313848668090368",
+              "start": 3,
+              "username": "Yyyyy_pog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981302603356221804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981002636251046351",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yyyyy_pog: 实际上，我一般不会主动找人聊天，除非找到了和此人相关的事情需要交流的时候。我认为大多数情况下聊天是没必要的。\n我一般的社交模式是：别人找我聊天就回应，自己几乎不会主动找人。\n我不清楚聊天这件事到底是在干什么，和大多数人进行闲聊只会让我感到很累，一直…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "1981002636251046351",
+        "created_at": "2025-10-22T14:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T15:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981002636251046351"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981002636251046351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 118,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实际上，我一般不会主动找人聊天，除非找到了和此人相关的事情需要交流的时候。我认为大多数情况下聊天是没必要的。\n我一般的社交模式是：别人找我聊天就回应，自己几乎不会主动找人。\n我不清楚聊天这件事到底是在干什么，和大多数人进行闲聊只会让我感到很累，一直要在意他人说了什么，自己要回什么。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（// 高中生［endl］ 皮下男 / \n只听自杀黑¿._ / \n我喜欢视奸你们^°^",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 98,
+          "like_count": 1014,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 732
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜ 多意识体｜ 彩虹系统｜号主是目前的主导y总｜身体09 ｜我o我割｜我有精神病｜友跨｜非二元性别｜可爱小狗@DOGYeah3376",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "DOGYeah3376"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "Yyyyy🎗️",
+        "pinned_tweet_id": "1953327762875285875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967070319178293248/dpcldNoc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 150,
+          "like_count": 24420,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 2322
+        },
+        "username": "Yyyyy_pog",
+        "verified": false
+      }
+    ]
+  }
+}

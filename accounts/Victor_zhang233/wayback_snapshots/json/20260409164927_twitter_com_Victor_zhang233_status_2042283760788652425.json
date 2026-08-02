@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2042254678021566600",
+    "created_at": "2026-04-09T16:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042283760788652425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1869225418286637056",
+          "start": 0,
+          "username": "Li_chuangwang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042283760788652425",
+    "in_reply_to_user_id": "1869225418286637056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042254678021566600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Li_chuangwang 感觉不如「一刀划手臂上脖子吃醋了」😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2042254678021566600",
+        "created_at": "2026-04-09T16:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042283760788652425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1869225418286637056",
+              "start": 0,
+              "username": "Li_chuangwang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042283760788652425",
+        "in_reply_to_user_id": "1869225418286637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042254678021566600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Li_chuangwang 感觉不如「一刀划手臂上脖子吃醋了」😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869225418286637056",
+        "conversation_id": "2042254678021566600",
+        "created_at": "2026-04-09T14:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042254678021566600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042254678021566600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道会不会被骂，感觉广州禁毒那个视频算是抖友里相对温和客观的了😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "上帝愛世人",
+        "id": "1755494652889661440",
+        "location": "人间",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038442200997265408/vibWzS-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 145,
+          "like_count": 3271,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1244
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T03:37:40.000Z",
+        "description": "我连腐烂也不够有趣",
+        "id": "1869225418286637056",
+        "name": "以实玛利",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963303128390053888/XBgW69w6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 57,
+          "like_count": 2791,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 182
+        },
+        "username": "Li_chuangwang",
+        "verified": false
+      }
+    ]
+  }
+}

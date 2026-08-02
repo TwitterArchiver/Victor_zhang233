@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007537236393508864"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2007429413571567912",
+    "created_at": "2026-01-03T19:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T20:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007537239707005348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1864468641305251844",
+          "start": 0,
+          "username": "AkaNpc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E5cfdEo8jj",
+          "end": 31,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2007537239707005348/photo/1",
+          "media_key": "3_2007537236393508864",
+          "start": 8,
+          "url": "https://t.co/E5cfdEo8jj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007537239707005348",
+    "in_reply_to_user_id": "1864468641305251844",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007429413571567912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkaNpc https://t.co/E5cfdEo8jj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2007537236393508864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9w0euiawAArFSu.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007537236393508864"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2007429413571567912",
+        "created_at": "2026-01-03T19:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T20:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007537239707005348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1864468641305251844",
+              "start": 0,
+              "username": "AkaNpc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E5cfdEo8jj",
+              "end": 31,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2007537239707005348/photo/1",
+              "media_key": "3_2007537236393508864",
+              "start": 8,
+              "url": "https://t.co/E5cfdEo8jj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007537239707005348",
+        "in_reply_to_user_id": "1864468641305251844",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007429413571567912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkaNpc https://t.co/E5cfdEo8jj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864468641305251844",
+        "conversation_id": "2007429413571567912",
+        "created_at": "2026-01-03T12:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T13:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007429413571567912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007429413571567912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 38166,
+          "like_count": 531,
+          "quote_count": 24,
+          "reply_count": 125,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "你就是没讯息才一直刷推"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001408376811704320/27ExCAWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 106,
+          "like_count": 1388,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 776
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T00:35:51.000Z",
+        "description": "做S会笑场，做M会还手☁️全是网上段子&日常美食🍽️ 唯一大号｜小号@AkaNpc2｜仅此两号慎防受骗 ☺︎｜｜粤/国｜叫我小曼就好🗿｜📸｜🎧｜保持禮貌 唔該 ｜‼️置顶锁评推广自行分辨‼️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 34,
+                "username": "AkaNpc2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/album/4m5WJ461…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/album/4m5WJ461G2KsDfjTwKarF8?si=qFKUWWJ2TSe-tNV_ELwQtQ",
+                "start": 0,
+                "url": "https://t.co/Oy9GMmbvRm"
+              }
+            ]
+          }
+        },
+        "id": "1864468641305251844",
+        "location": "CK律師樓｜置顶锁评推广请自辨🤖｜🚪77",
+        "name": "曼醬⋆౨ৎ˚⟡˖ ࣪",
+        "pinned_tweet_id": "2007479516877459793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006710835981520896/LJnA8faK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12126,
+          "following_count": 137,
+          "like_count": 10754,
+          "listed_count": 18,
+          "media_count": 160,
+          "tweet_count": 3076
+        },
+        "url": "https://t.co/Oy9GMmbvRm",
+        "username": "AkaNpc",
+        "verified": false
+      }
+    ]
+  }
+}

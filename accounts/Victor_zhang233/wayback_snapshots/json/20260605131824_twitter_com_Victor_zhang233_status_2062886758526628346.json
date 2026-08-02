@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2062723973948031037",
+    "created_at": "2026-06-05T13:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062886758526628346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688556439865090048",
+          "start": 0,
+          "username": "ysn42231385235"
+        },
+        {
+          "end": 24,
+          "id": "1944253255124504576",
+          "start": 16,
+          "username": "L92579L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062886758526628346",
+    "in_reply_to_user_id": "1688556439865090048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062886455995945339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysn42231385235 @L92579L 没绷住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2062723973948031037",
+        "created_at": "2026-06-05T13:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062886758526628346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688556439865090048",
+              "start": 0,
+              "username": "ysn42231385235"
+            },
+            {
+              "end": 24,
+              "id": "1944253255124504576",
+              "start": 16,
+              "username": "L92579L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062886758526628346",
+        "in_reply_to_user_id": "1688556439865090048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062886455995945339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysn42231385235 @L92579L 没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688556439865090048",
+        "conversation_id": "2062723973948031037",
+        "created_at": "2026-06-05T13:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062886455995945339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1944253255124504576",
+              "start": 0,
+              "username": "L92579L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062886455995945339",
+        "in_reply_to_user_id": "1944253255124504576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062886284155396433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L92579L 我是公狗男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2062538556367917348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062155233384615936/pl3fVQYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 300,
+          "like_count": 6060,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1828
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T14:23:45.000Z",
+        "description": "请称呼我月誓就好！                                                            \n男的，od狗音游狗光棒狗。我没有啥道德感只想操逼，上网只是性压抑和想冲浪还有发泄情绪。本质上是一个开心的傻子，可爱小妹妹可以私信我 (*^▽^*)",
+        "id": "1688556439865090048",
+        "location": "想认识更多朋友 互fo欢迎",
+        "name": "ミエナイ",
+        "pinned_tweet_id": "2026775867977007254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062582170120855552/o_wJwRLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 552,
+          "like_count": 8064,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 2509
+        },
+        "username": "ysn42231385235",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T04:31:25.000Z",
+        "description": "14，學生/喜愛數碼与電子遊戲🎮，主要玩音game和fps類，平常會發發遊戲日常和回復推文/中文，日本語、English/无精神疾病，不搞黨爭話題。",
+        "id": "1944253255124504576",
+        "location": "Taipei City, Taiwan",
+        "name": "Lynn4331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062683910451134464/4KY-ORn6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 38,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 420
+        },
+        "username": "L92579L",
+        "verified": true
+      }
+    ]
+  }
+}

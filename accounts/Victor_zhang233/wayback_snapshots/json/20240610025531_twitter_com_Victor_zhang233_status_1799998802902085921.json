@@ -1,0 +1,248 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1799497575671955925",
+    "created_at": "2024-06-10T02:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T03:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799998802902085921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753647103770050560",
+          "start": 0,
+          "username": "Nchzh184280"
+        },
+        {
+          "end": 26,
+          "id": "1395565481361219584",
+          "start": 13,
+          "username": "liuguangchui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799998802902085921",
+    "in_reply_to_user_id": "1753647103770050560",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799700297306226965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nchzh184280 @liuguangchui 老🐱算了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1799497575671955925",
+        "created_at": "2024-06-10T02:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T03:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799998802902085921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1753647103770050560",
+              "start": 0,
+              "username": "Nchzh184280"
+            },
+            {
+              "end": 26,
+              "id": "1395565481361219584",
+              "start": 13,
+              "username": "liuguangchui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799998802902085921",
+        "in_reply_to_user_id": "1753647103770050560",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799700297306226965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nchzh184280 @liuguangchui 老🐱算了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1753647103770050560",
+        "conversation_id": "1799497575671955925",
+        "created_at": "2024-06-09T07:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T08:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799700297306226965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1395565481361219584",
+              "start": 0,
+              "username": "liuguangchui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799700297306226965",
+        "in_reply_to_user_id": "1395565481361219584",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799497575671955925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuguangchui 不應該是毛澤東、鄧小平、江澤民、李克強、劉少奇嗎？🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这//白左/简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "仿生人是否会梦见电子羊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 36,
+          "like_count": 120,
+          "listed_count": 0,
+          "tweet_count": 165
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T05:10:44.000Z",
+        "description": "新中國開國十大元帥之一，先後任國務院副總理、中共中央副主席、國防部部長、中共中央軍委第一副主席等重要職務。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xijinpingdashabi.com",
+                "end": 23,
+                "expanded_url": "http://xijinpingdashabi.com",
+                "start": 0,
+                "url": "https://t.co/vJ3DRlcN1N"
+              }
+            ]
+          }
+        },
+        "id": "1753647103770050560",
+        "location": "中華人民共和國",
+        "name": "林彪",
+        "pinned_tweet_id": "1799702591603134757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799074066290401280/BenADxyA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 91,
+          "like_count": 2106,
+          "listed_count": 0,
+          "tweet_count": 760
+        },
+        "url": "https://t.co/vJ3DRlcN1N",
+        "username": "Nchzh184280",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T02:22:16.000Z",
+        "description": "先了解“零敲牛皮糖”“597.9”什麼意思！\n再了解什么是“中国式现代化”\n坚决拥护支持新时代中国特色社会主义\n\n防走失fo：@LQniupitang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "LQniupitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "https://www.xuexi.cn/",
+                "start": 0,
+                "url": "https://t.co/JFVpOCK9Pk"
+              }
+            ]
+          }
+        },
+        "id": "1395565481361219584",
+        "location": "中国贵州省遵义市红花岗区子尹路96号",
+        "name": "零敲牛皮糖597.9",
+        "pinned_tweet_id": "1799457858586841553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783187915767754755/E82kqo8R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14736,
+          "following_count": 1081,
+          "like_count": 20221,
+          "listed_count": 77,
+          "tweet_count": 21625
+        },
+        "url": "https://t.co/JFVpOCK9Pk",
+        "username": "liuguangchui",
+        "verified": true
+      }
+    ]
+  }
+}

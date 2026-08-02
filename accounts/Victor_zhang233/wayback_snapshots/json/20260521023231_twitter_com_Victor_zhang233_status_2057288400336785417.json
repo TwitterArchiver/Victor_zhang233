@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057195254781222912"
+      ],
+      "media_source_tweet_id": [
+        "2057195261664080250"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057288400336785417",
+    "created_at": "2026-05-21T02:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T03:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057288400336785417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2042276998668525573",
+          "start": 3,
+          "username": "SakurabaAya514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mk8jo7eeqj",
+          "end": 63,
+          "expanded_url": "https://x.com/SakurabaAya514/status/2057195261664080250/photo/1",
+          "media_key": "3_2057195254781222912",
+          "start": 40,
+          "url": "https://t.co/mk8jo7eeqj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057288400336785417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057195261664080250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakurabaAya514: bro以为精神药品能治愈自己的心理障碍 https://t.co/mk8jo7eeqj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1083,
+        "media_key": "3_2057195254781222912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIygL0raoAAb5lB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057195254781222912"
+          ],
+          "media_source_tweet_id": [
+            "2057195261664080250"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057288400336785417",
+        "created_at": "2026-05-21T02:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T03:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057288400336785417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2042276998668525573",
+              "start": 3,
+              "username": "SakurabaAya514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mk8jo7eeqj",
+              "end": 63,
+              "expanded_url": "https://x.com/SakurabaAya514/status/2057195261664080250/photo/1",
+              "media_key": "3_2057195254781222912",
+              "start": 40,
+              "url": "https://t.co/mk8jo7eeqj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057288400336785417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057195261664080250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakurabaAya514: bro以为精神药品能治愈自己的心理障碍 https://t.co/mk8jo7eeqj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057195254781222912"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057195261664080250",
+        "created_at": "2026-05-20T20:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T21:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057195261664080250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mk8jo7eeqj",
+              "end": 43,
+              "expanded_url": "https://x.com/SakurabaAya514/status/2057195261664080250/photo/1",
+              "media_key": "3_2057195254781222912",
+              "start": 20,
+              "url": "https://t.co/mk8jo7eeqj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057195261664080250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 439,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "bro以为精神药品能治愈自己的心理障碍 https://t.co/mk8jo7eeqj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "____好了宝宝，我心疼你，不管感情怎么使人麻木，遇到的人再不真诚，家庭，学习，工作状态再怎么样，你都要好好吃饭，去做一些积极开朗的事情，去被别人需要，人活着一定是要有什么精神寄托，我不是给你什么建议，幸福是个概念词，我只是希望你能好好生活，找到自己，跟自己的情绪好好相处，我能共情你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 167,
+          "like_count": 3968,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1458
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "来自中国大陆/东方project/古明地こいし激推/Arcaea/舞萌DX/中二节奏/键政嘉豪/运动嘉豪/可互fo/LGBTQ+🏳️‍🌈友好\n主要在X上网冲浪评论搞抽象为主，发帖主要是日常生活和碎碎念\n拝啓、私の怨念へ",
+        "id": "2042276998668525573",
+        "name": "桜羽アヤ",
+        "pinned_tweet_id": "2052075129140834573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055385614082797569/AilgBjUp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 221,
+          "like_count": 2888,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 965
+        },
+        "username": "SakurabaAya514",
+        "verified": false
+      }
+    ]
+  }
+}

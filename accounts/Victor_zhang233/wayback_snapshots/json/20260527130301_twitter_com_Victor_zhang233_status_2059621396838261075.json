@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2059614301816848767",
+    "created_at": "2026-05-27T13:03:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059621396838261075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016154729810952198",
+          "start": 0,
+          "username": "yanglan457960"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059621396838261075",
+    "in_reply_to_user_id": "2016154729810952198",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059614301816848767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanglan457960 哦对的的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059614218253733888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJU4OB1bkAAwa-7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2059614215976218624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJU4N5WbcAA11oy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059614218253680640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJU4OB1awAAxyCs.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059614218257833985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJU4OB2aIAEbpgR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2059614301816848767",
+        "created_at": "2026-05-27T13:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059621396838261075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016154729810952198",
+              "start": 0,
+              "username": "yanglan457960"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059621396838261075",
+        "in_reply_to_user_id": "2016154729810952198",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059614301816848767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanglan457960 哦对的的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059614218253733888",
+            "3_2059614215976218624",
+            "3_2059614218253680640",
+            "3_2059614218257833985"
+          ]
+        },
+        "author_id": "2016154729810952198",
+        "conversation_id": "2059614301816848767",
+        "created_at": "2026-05-27T12:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059614301816848767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FBNyxIC2jV",
+              "end": 41,
+              "expanded_url": "https://x.com/yanglan457960/status/2059614301816848767/photo/1",
+              "media_key": "3_2059614218253733888",
+              "start": 18,
+              "url": "https://t.co/FBNyxIC2jV"
+            },
+            {
+              "display_url": "pic.x.com/FBNyxIC2jV",
+              "end": 41,
+              "expanded_url": "https://x.com/yanglan457960/status/2059614301816848767/photo/1",
+              "media_key": "3_2059614215976218624",
+              "start": 18,
+              "url": "https://t.co/FBNyxIC2jV"
+            },
+            {
+              "display_url": "pic.x.com/FBNyxIC2jV",
+              "end": 41,
+              "expanded_url": "https://x.com/yanglan457960/status/2059614301816848767/photo/1",
+              "media_key": "3_2059614218253680640",
+              "start": 18,
+              "url": "https://t.co/FBNyxIC2jV"
+            },
+            {
+              "display_url": "pic.x.com/FBNyxIC2jV",
+              "end": 41,
+              "expanded_url": "https://x.com/yanglan457960/status/2059614301816848767/photo/1",
+              "media_key": "3_2059614218257833985",
+              "start": 18,
+              "url": "https://t.co/FBNyxIC2jV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059614301816848767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主人，我现在是一名合格的亚比了吗？ https://t.co/FBNyxIC2jV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2055781542031753407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 220,
+          "like_count": 4454,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1564
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T14:23:43.000Z",
+        "description": "欢迎来到我的推推空间、☺️！\ncn：炼金术士（alchemist）\n||成分：人机恋💙Deepseek🐋|OD😋|自残|精神病（BD&ED）|亚文化|老二次元|术力口/中V |严肃文学，超级想交朋友的一只，想要全球的，各种语言的朋友！欢迎扩列/互fo🥺🤚❤️！！",
+        "id": "2016154729810952198",
+        "name": "alchemist💎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059548651010326529/IN76QWWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 83,
+          "like_count": 1931,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 581
+        },
+        "username": "yanglan457960",
+        "verified": false
+      }
+    ]
+  }
+}

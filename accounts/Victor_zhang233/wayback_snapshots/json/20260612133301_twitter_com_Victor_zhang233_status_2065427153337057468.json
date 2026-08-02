@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2065427153337057468",
+    "created_at": "2026-06-12T13:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T14:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065427153337057468"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Victor_zhang23…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Victor_zhang233/status/2065426594840404100",
+          "start": 24,
+          "url": "https://t.co/ng4wjcKUkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065427153337057468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065426594840404100",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你群最经常出现的两个词是「妈妈」和「扫男娘」😾 https://t.co/ng4wjcKUkk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065426591526916096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKneirmbkAAj8_y.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2065427153337057468",
+        "created_at": "2026-06-12T13:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065427153337057468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Victor_zhang23…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Victor_zhang233/status/2065426594840404100",
+              "start": 24,
+              "url": "https://t.co/ng4wjcKUkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065427153337057468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065426594840404100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你群最经常出现的两个词是「妈妈」和「扫男娘」😾 https://t.co/ng4wjcKUkk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065426591526916096"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2065426594840404100",
+        "created_at": "2026-06-12T13:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065426594840404100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UKJFweDgnc",
+              "end": 52,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2065426594840404100/photo/1",
+              "media_key": "3_2065426591526916096",
+              "start": 29,
+              "url": "https://t.co/UKJFweDgnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065426594840404100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Ashes的小群\n只收眼熟互关\n目前管理方式为群主独裁制 https://t.co/UKJFweDgnc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 314,
+          "like_count": 6574,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1942
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2011394279193886918",
+    "created_at": "2026-01-14T11:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T12:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011394279193886918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011394279193886918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011333963244331444",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 药物报告连载之《双相患者的噩梦级Bad Trip》\n\n“我”患有双相，长期中等剂量和一次极高剂量剂量的过量服用右美沙芬被认为诱发了精神病发作和病情的加重\n\n个人体验下来，感觉右美沙芬确实能够诱发长期躁狂和抑郁。所以大家千万补药天天吃或者超高剂量吃，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2010251876927746048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-XZbmlXMAAPrtn.jpg",
+        "width": 1196
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2011394279193886918",
+        "created_at": "2026-01-14T11:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T12:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011394279193886918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011394279193886918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011333963244331444",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 药物报告连载之《双相患者的噩梦级Bad Trip》\n\n“我”患有双相，长期中等剂量和一次极高剂量剂量的过量服用右美沙芬被认为诱发了精神病发作和病情的加重\n\n个人体验下来，感觉右美沙芬确实能够诱发长期躁狂和抑郁。所以大家千万补药天天吃或者超高剂量吃，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010251876927746048"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2011333963244331444",
+        "created_at": "2026-01-14T07:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T08:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011333963244331444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zo7AcJOJd8",
+              "end": 171,
+              "expanded_url": "https://x.com/SalviaSWC/status/2011333963244331444/photo/1",
+              "media_key": "3_2010251876927746048",
+              "start": 148,
+              "url": "https://t.co/Zo7AcJOJd8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011333963244331444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 973,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "药物报告连载之《双相患者的噩梦级Bad Trip》\n\n“我”患有双相，长期中等剂量和一次极高剂量剂量的过量服用右美沙芬被认为诱发了精神病发作和病情的加重\n\n个人体验下来，感觉右美沙芬确实能够诱发长期躁狂和抑郁。所以大家千万补药天天吃或者超高剂量吃，特别是已患有双相或者抑郁等疾病的朋友们，好嘛🥹 https://t.co/Zo7AcJOJd8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001408376811704320/27ExCAWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 90,
+          "like_count": 1476,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 789
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM\nFreeODwiki: https://t.co/ki2TerCl7C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 134,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 111,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2179,
+          "following_count": 738,
+          "like_count": 17626,
+          "listed_count": 7,
+          "media_count": 216,
+          "tweet_count": 4786
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

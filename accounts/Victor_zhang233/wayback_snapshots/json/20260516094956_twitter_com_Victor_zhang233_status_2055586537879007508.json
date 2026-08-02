@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055523971895001088"
+      ],
+      "media_source_tweet_id": [
+        "2055523983051936007"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055586537879007508",
+    "created_at": "2026-05-16T09:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T10:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055586537879007508"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 21,
+          "tag": "历史上的今天"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1714510407006851072",
+          "start": 3,
+          "username": "hhhhhhhhhh68887"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VYjoRYdt6m",
+          "end": 84,
+          "expanded_url": "https://x.com/hhhhhhhhhh68887/status/2055523983051936007/photo/1",
+          "media_key": "3_2055523971895001088",
+          "start": 61,
+          "url": "https://t.co/VYjoRYdt6m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055586537879007508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055523983051936007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hhhhhhhhhh68887: #历史上的今天 无产阶级文化大革命，1966年5月16日—1976年10月6日 https://t.co/VYjoRYdt6m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1149,
+        "media_key": "3_2055523971895001088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIawKWwaAAAEPo0.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055523971895001088"
+          ],
+          "media_source_tweet_id": [
+            "2055523983051936007"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055586537879007508",
+        "created_at": "2026-05-16T09:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055586537879007508"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 21,
+              "tag": "历史上的今天"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1714510407006851072",
+              "start": 3,
+              "username": "hhhhhhhhhh68887"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VYjoRYdt6m",
+              "end": 84,
+              "expanded_url": "https://x.com/hhhhhhhhhh68887/status/2055523983051936007/photo/1",
+              "media_key": "3_2055523971895001088",
+              "start": 61,
+              "url": "https://t.co/VYjoRYdt6m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055586537879007508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055523983051936007",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hhhhhhhhhh68887: #历史上的今天 无产阶级文化大革命，1966年5月16日—1976年10月6日 https://t.co/VYjoRYdt6m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055523971895001088"
+          ]
+        },
+        "author_id": "1714510407006851072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055523983051936007",
+        "created_at": "2026-05-16T05:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055523983051936007"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "历史上的今天"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VYjoRYdt6m",
+              "end": 63,
+              "expanded_url": "https://x.com/hhhhhhhhhh68887/status/2055523983051936007/photo/1",
+              "media_key": "3_2055523971895001088",
+              "start": 40,
+              "url": "https://t.co/VYjoRYdt6m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055523983051936007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1215,
+          "like_count": 66,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "#历史上的今天 无产阶级文化大革命，1966年5月16日—1976年10月6日 https://t.co/VYjoRYdt6m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "____好了宝宝，我心疼你，不管感情怎么使人麻木，遇到的人再不真诚，家庭，学习，工作状态再怎么样，你都要好好吃饭，去做一些积极开朗的事情，去被别人需要，人活着一定是要有什么精神寄托，我不是给你什么建议，幸福是个概念词，我只是希望你能好好生活，找到自己，跟自己的情绪好好相处，我能共情你",
+        "id": "1755494652889661440",
+        "location": "人间",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 158,
+          "like_count": 3722,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1389
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T05:15:24.000Z",
+        "description": "希腊裔法国人、未来主义者、超现实主义诗人、残酷戏剧创造者、法兰西护国主与极速弥赛亚。\n\n放弃和弥漫的虚无作斗争吧...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/sharedfiles/fi…",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2587855526",
+                "start": 0,
+                "url": "https://t.co/M2EioLD2t1"
+              }
+            ]
+          }
+        },
+        "id": "1714510407006851072",
+        "location": "“太阳”",
+        "name": "⚡️安托南•阿尔托Antonin Artaud🇫🇷",
+        "pinned_tweet_id": "1821412705938629078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053222646314401792/TEFjqA7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 805,
+          "like_count": 22022,
+          "listed_count": 2,
+          "media_count": 1002,
+          "tweet_count": 9404
+        },
+        "url": "https://t.co/M2EioLD2t1",
+        "username": "hhhhhhhhhh68887",
+        "verified": false
+      }
+    ]
+  }
+}

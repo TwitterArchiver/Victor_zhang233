@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2057777681182421156",
+    "created_at": "2026-05-22T12:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T13:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057803726401012172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899082105977462784",
+          "start": 0,
+          "username": "Nullemptyset"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057803726401012172",
+    "in_reply_to_user_id": "1899082105977462784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057777681182421156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nullemptyset 依旧吃饭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2057777678518976512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6x5WLaAAAjxfR.jpg",
+        "width": 759
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2057777681182421156",
+        "created_at": "2026-05-22T12:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057803726401012172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899082105977462784",
+              "start": 0,
+              "username": "Nullemptyset"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057803726401012172",
+        "in_reply_to_user_id": "1899082105977462784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057777681182421156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nullemptyset 依旧吃饭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057777678518976512"
+          ]
+        },
+        "author_id": "1899082105977462784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057777681182421156",
+        "created_at": "2026-05-22T10:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057777681182421156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LON9SplMzY",
+              "end": 35,
+              "expanded_url": "https://x.com/Nullemptyset/status/2057777681182421156/photo/1",
+              "media_key": "3_2057777678518976512",
+              "start": 12,
+              "url": "https://t.co/LON9SplMzY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057777681182421156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "50t加巴喷丁咖啡送服 https://t.co/LON9SplMzY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2055781542031753407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 173,
+          "like_count": 4076,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1471
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T12:57:20.000Z",
+        "description": "＝空集，可称呼为 小空｜自伤｜od｜不聊黄不鉴证不无差别骂人｜同类互fo",
+        "id": "1899082105977462784",
+        "location": "虚无",
+        "name": "∅",
+        "pinned_tweet_id": "2026614334399590789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055714073132838912/cbPjWj9k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 62,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 187
+        },
+        "username": "Nullemptyset",
+        "verified": false
+      }
+    ]
+  }
+}

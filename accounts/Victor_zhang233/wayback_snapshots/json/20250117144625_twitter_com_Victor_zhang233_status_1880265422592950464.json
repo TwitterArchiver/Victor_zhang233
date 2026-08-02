@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1879461550068826427",
+    "created_at": "2025-01-17T14:46:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T15:46:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880265422592950464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1815690907532079104",
+          "start": 0,
+          "username": "DengMolu104"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880265422592950464",
+    "in_reply_to_user_id": "1815690907532079104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879461550068826427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DengMolu104 警告⚠：以下内容可能让你感到不适\n傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1879461550068826427",
+        "created_at": "2025-01-17T14:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T15:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880265422592950464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1815690907532079104",
+              "start": 0,
+              "username": "DengMolu104"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880265422592950464",
+        "in_reply_to_user_id": "1815690907532079104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879461550068826427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DengMolu104 警告⚠：以下内容可能让你感到不适\n傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1879041780274126848"
+          ],
+          "media_source_tweet_id": [
+            "1879041900176679084"
+          ]
+        },
+        "author_id": "1815690907532079104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1879461550068826427",
+        "created_at": "2025-01-15T09:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T10:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879461550068826427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U4cDDIOYzh",
+              "end": 106,
+              "expanded_url": "https://x.com/Y3dvVnBptIvx4lc/status/1879041900176679084/video/1",
+              "media_key": "7_1879041780274126848",
+              "start": 83,
+              "url": "https://t.co/U4cDDIOYzh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879461550068826427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 279903,
+          "like_count": 375,
+          "quote_count": 5,
+          "reply_count": 14,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "反共博物馆---日本“中華西太后”展示出许多让小粉红恐惧的反共话题，很有创造性，真正做到了反抗的艺术！\n全世界独一无二的餐饮店，让小粉红不敢直视，让共匪暴跳如雷！\n\nhttps://t.co/U4cDDIOYzh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 56,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 392
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T10:10:41.000Z",
+        "description": "作家writer，人权捍卫者，生于90年代，为了躲避中共的追捕而逃亡他国，已出版批判中国的禁书《失魂世界》，支持我哦，购买链接https://t.co/Eu31lh5gN8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.com/%E5%A4%B1%E9%A…",
+                "end": 86,
+                "expanded_url": "https://www.amazon.com/%E5%A4%B1%E9%AD%82%E4%B8%96%E7%95%8C-Chinese-Liting-Deng/dp/1683724569",
+                "start": 63,
+                "url": "https://t.co/Eu31lh5gN8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.com/-/es/%E5%A4%B1…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.com/-/es/%E5%A4%B1%E9%AD%82%E4%B8%96%E7%95%8C-Chinese-Liting-Deng/dp/1683724569",
+                "start": 0,
+                "url": "https://t.co/vE6TUtLscz"
+              }
+            ]
+          }
+        },
+        "id": "1815690907532079104",
+        "name": "邓丽婷是茉露",
+        "pinned_tweet_id": "1877457333787218308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856676365535510528/3nEDS41T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6840,
+          "following_count": 22,
+          "like_count": 5074,
+          "listed_count": 11,
+          "media_count": 668,
+          "tweet_count": 2392
+        },
+        "url": "https://t.co/vE6TUtLscz",
+        "username": "DengMolu104",
+        "verified": false
+      }
+    ]
+  }
+}

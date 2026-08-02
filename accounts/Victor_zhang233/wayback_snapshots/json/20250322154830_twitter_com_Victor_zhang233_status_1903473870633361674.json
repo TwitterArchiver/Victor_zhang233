@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1903472936167883103",
+    "created_at": "2025-03-22T15:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T16:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903473870633361674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1851166889655091202",
+          "start": 0,
+          "username": "DEERJU2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903473870633361674",
+    "in_reply_to_user_id": "1851166889655091202",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903472936167883103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DEERJU2024 绷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1903472929704460288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmp-i2abQAA_Lup.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1903472936167883103",
+        "created_at": "2025-03-22T15:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T16:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903473870633361674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851166889655091202",
+              "start": 0,
+              "username": "DEERJU2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903473870633361674",
+        "in_reply_to_user_id": "1851166889655091202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903472936167883103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DEERJU2024 绷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903472929704460288"
+          ]
+        },
+        "author_id": "1851166889655091202",
+        "conversation_id": "1903472936167883103",
+        "created_at": "2025-03-22T15:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T16:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903472936167883103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mhspVYGRSi",
+              "end": 23,
+              "expanded_url": "https://x.com/DEERJU2024/status/1903472936167883103/photo/1",
+              "media_key": "3_1903472929704460288",
+              "start": 0,
+              "url": "https://t.co/mhspVYGRSi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903472936167883103",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mhspVYGRSi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/抑郁焦虑/黑金属/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 坏人堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 65,
+          "like_count": 465,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 505
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T07:39:32.000Z",
+        "description": "辩证法是实在世界中一切运动、一切生命、一切事业之推动的原则——黑格尔//推翻资产阶级！工人阶级专政！——马克思//正是在资产阶级被推翻以后，阶级斗争才具有最尖锐的形式。——列宁//无产阶级要按照自己的世界观改造世界，资产阶级也要按照自己的世界观改造世界。——毛泽东",
+        "id": "1851166889655091202",
+        "name": "德耳击",
+        "pinned_tweet_id": "1887533821362643314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901325113213288448/up6aF7Y2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 50,
+          "like_count": 307,
+          "listed_count": 5,
+          "media_count": 175,
+          "tweet_count": 2670
+        },
+        "username": "DEERJU2024",
+        "verified": false
+      }
+    ]
+  }
+}

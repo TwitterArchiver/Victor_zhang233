@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2059511148270309745",
+    "created_at": "2026-05-27T09:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059565150579921231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "4336528692",
+          "start": 0,
+          "username": "Reyyy18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059565150579921231",
+    "in_reply_to_user_id": "4336528692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059562931332006188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reyyy18 晶哥别钓了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2059511148270309745",
+        "created_at": "2026-05-27T09:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059565150579921231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "4336528692",
+              "start": 0,
+              "username": "Reyyy18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059565150579921231",
+        "in_reply_to_user_id": "4336528692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059562931332006188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reyyy18 晶哥别钓了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4336528692",
+        "conversation_id": "2059511148270309745",
+        "created_at": "2026-05-27T09:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059562931332006188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059562931332006188",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059511148270309745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 晶哥别钓了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2055781542031753407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 208,
+          "like_count": 4401,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1547
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-23T18:29:13.000Z",
+        "description": "我他妈上推就是来看黄推的！那些从墙内搬屎的和lgbt刷到一个屏蔽一个\n偶尔逗逗幽默蛙蛙",
+        "id": "4336528692",
+        "location": "-13cm",
+        "name": "Felyne丶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875102966245720064/kY5eXXOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 508,
+          "like_count": 3664,
+          "listed_count": 2,
+          "media_count": 407,
+          "tweet_count": 2201
+        },
+        "username": "Reyyy18",
+        "verified": false
+      }
+    ]
+  }
+}

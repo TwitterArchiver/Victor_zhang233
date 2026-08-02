@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1922531351489581255",
+    "created_at": "2025-05-15T14:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T15:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923029458836959552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1595110379851419648",
+          "start": 0,
+          "username": "XiaoGuoDing1997"
+        },
+        {
+          "end": 27,
+          "id": "1598887005722509313",
+          "start": 17,
+          "username": "WujbYzxvb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923029458836959552",
+    "in_reply_to_user_id": "1595110379851419648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922622776793260287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoGuoDing1997 @WujbYzxvb 大势已去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1922531351489581255",
+        "created_at": "2025-05-15T14:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T15:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923029458836959552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1595110379851419648",
+              "start": 0,
+              "username": "XiaoGuoDing1997"
+            },
+            {
+              "end": 27,
+              "id": "1598887005722509313",
+              "start": 17,
+              "username": "WujbYzxvb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923029458836959552",
+        "in_reply_to_user_id": "1595110379851419648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922622776793260287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoGuoDing1997 @WujbYzxvb 大势已去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595110379851419648",
+        "conversation_id": "1922531351489581255",
+        "created_at": "2025-05-14T11:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T12:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922622776793260287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1598887005722509313",
+              "start": 0,
+              "username": "WujbYzxvb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922622776793260287",
+        "in_reply_to_user_id": "1598887005722509313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3920,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922531351489581255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WujbYzxvb 自杀的动机是什么？毫无根据。以云鹤的性格，宁可把牢底坐穿，也决不会自杀！大概率是被人暗杀的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（/玉玉休学中/黑金属/高一//呃呃呃呃简介这样写没问题吧？（\n欢迎扩列和找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 怀人堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 67,
+          "like_count": 525,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 587
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T17:42:28.000Z",
+        "description": "在广西电影制片厂发动了百色起义，在油画上参加了遵义会议，在八一电影制片厂指挥了淮海战役，在电视剧《换了人间》里支持出兵朝鲜，在电视剧《海棠依旧》里支持两弹一星建设，在电视剧《我们的法兰西岁月》里组建旅欧支部😊【感觉上推有点儿浪费时间，先暂时告一段落，有机会再见，推友们】",
+        "id": "1595110379851419648",
+        "location": "牛棚",
+        "name": "小果叮(Byebye)",
+        "pinned_tweet_id": "1920468658087698477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918439965077483520/rYW0fvAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 45,
+          "like_count": 2370,
+          "listed_count": 5,
+          "media_count": 272,
+          "tweet_count": 1067
+        },
+        "username": "XiaoGuoDing1997",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T03:49:17.000Z",
+        "description": "゚゙゚゙゚在坚冰覆盖北海的时候，我看见了怒放的梅花",
+        "id": "1598887005722509313",
+        "name": "゚゙゚゙゚​",
+        "pinned_tweet_id": "1901556405192319258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869956884423421956/deUoUVMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 4386,
+          "like_count": 20277,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 1005
+        },
+        "username": "WujbYzxvb",
+        "verified": false
+      }
+    ]
+  }
+}

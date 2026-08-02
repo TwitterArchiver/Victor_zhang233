@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2008138605882118403",
+    "created_at": "2026-01-06T20:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T21:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008631990275502466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845844455095762944",
+          "start": 0,
+          "username": "Ankyo127"
+        },
+        {
+          "end": 24,
+          "id": "1673944656998965249",
+          "start": 10,
+          "username": "dontleavemomo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008631990275502466",
+    "in_reply_to_user_id": "1845844455095762944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008609299959013566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ankyo127 @dontleavemomo 贴吧发帖子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2008138605882118403",
+        "created_at": "2026-01-06T20:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T21:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008631990275502466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845844455095762944",
+              "start": 0,
+              "username": "Ankyo127"
+            },
+            {
+              "end": 24,
+              "id": "1673944656998965249",
+              "start": 10,
+              "username": "dontleavemomo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008631990275502466",
+        "in_reply_to_user_id": "1845844455095762944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008609299959013566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ankyo127 @dontleavemomo 贴吧发帖子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845844455095762944",
+        "conversation_id": "2008138605882118403",
+        "created_at": "2026-01-06T18:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T19:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008609299959013566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1673944656998965249",
+              "start": 0,
+              "username": "dontleavemomo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008609299959013566",
+        "in_reply_to_user_id": "1673944656998965249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008138605882118403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dontleavemomo 怎么联系到这种赏金猎人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001408376811704320/27ExCAWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 92,
+          "like_count": 1426,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 788
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T15:10:13.000Z",
+        "description": "桉秋(AQ)https://t.co/XJJrQNEEir🔊支持言论自由，不支持言论滥用，不攻击，不诽谤，理性讨论。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ankyo",
+                "end": 29,
+                "expanded_url": "https://ngl.link/ankyo",
+                "start": 6,
+                "url": "https://t.co/XJJrQNEEir"
+              }
+            ]
+          }
+        },
+        "id": "1845844455095762944",
+        "name": "Ankyo𖤐.🩷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971892817447526400/CWJp7sjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 74,
+          "like_count": 448,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 412
+        },
+        "username": "Ankyo127",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-28T06:41:32.000Z",
+        "description": "日常碎碎念  推止于推  梦想是成为包租婆",
+        "id": "1673944656998965249",
+        "name": "momo大王",
+        "pinned_tweet_id": "2002684503664509391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952222502111121408/ESkaEc0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19993,
+          "following_count": 82,
+          "like_count": 1852,
+          "listed_count": 58,
+          "media_count": 97,
+          "tweet_count": 1009
+        },
+        "username": "dontleavemomo",
+        "verified": false
+      }
+    ]
+  }
+}

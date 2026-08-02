@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1978500706387542250",
+    "created_at": "2025-10-15T16:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T17:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978500706387542250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1484072544009347072",
+          "start": 3,
+          "username": "BelovedUren8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978500706387542250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976525730113872361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BelovedUren8964: 作为小县城唯一喝过司藤水的人，我的眼神里总是透着同龄人不懂的瞳孔放大。每次入夜后变形突然剧烈，我都会望向黑暗低语：“20:11 剧烈变形”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1978500706387542250",
+        "created_at": "2025-10-15T16:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T17:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978500706387542250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1484072544009347072",
+              "start": 3,
+              "username": "BelovedUren8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978500706387542250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976525730113872361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BelovedUren8964: 作为小县城唯一喝过司藤水的人，我的眼神里总是透着同龄人不懂的瞳孔放大。每次入夜后变形突然剧烈，我都会望向黑暗低语：“20:11 剧烈变形”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484072544009347072",
+        "conversation_id": "1976525730113872361",
+        "created_at": "2025-10-10T05:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T06:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976525730113872361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976525730113872361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3634,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "作为小县城唯一喝过司藤水的人，我的眼神里总是透着同龄人不懂的瞳孔放大。每次入夜后变形突然剧烈，我都会望向黑暗低语：“20:11 剧烈变形”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（//黑金属/高中生//呃呃呃呃简介这样写没问题吧？（",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 75,
+          "like_count": 694,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 634
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T07:57:36.000Z",
+        "description": "叫我雨怜，我是善良猫猫。 无性别者/💊oder 我支持为OD正名/这还用说吗，我是汉奸哪🇯🇵 / #台湾は国です🇹🇼 / 反男反女反跨反人类反一切/支那人没有一个是无辜的/Soulmate 真正的知音 忘れられないの:@Psych_Angel_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 49,
+                "tag": "台湾は国です"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 122,
+                "start": 109,
+                "username": "Psych_Angel_"
+              }
+            ]
+          }
+        },
+        "id": "1484072544009347072",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "滨边雨怜会成为真正的传奇",
+        "pinned_tweet_id": "1808346704829468916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940854805343125504/iG-giSXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 485,
+          "like_count": 4450,
+          "listed_count": 1,
+          "media_count": 336,
+          "tweet_count": 3263
+        },
+        "username": "BelovedUren8964",
+        "verified": false
+      }
+    ]
+  }
+}

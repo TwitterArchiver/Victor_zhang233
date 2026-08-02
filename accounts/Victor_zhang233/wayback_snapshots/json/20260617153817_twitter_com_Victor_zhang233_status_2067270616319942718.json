@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2067248608605585805",
+    "created_at": "2026-06-17T15:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067270616319942718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2056015134812946432",
+          "start": 0,
+          "username": "Fanjfao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067270616319942718",
+    "in_reply_to_user_id": "2056015134812946432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067264041853079697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fanjfao 晶格别钓了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2067248608605585805",
+        "created_at": "2026-06-17T15:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067270616319942718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2056015134812946432",
+              "start": 0,
+              "username": "Fanjfao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067270616319942718",
+        "in_reply_to_user_id": "2056015134812946432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067264041853079697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fanjfao 晶格别钓了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056015134812946432",
+        "conversation_id": "2067248608605585805",
+        "created_at": "2026-06-17T15:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067264041853079697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067264041853079697",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067248608605585805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 找o友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 338,
+          "like_count": 7073,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2006
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T14:14:10.000Z",
+        "description": "",
+        "id": "2056015134812946432",
+        "name": "Fan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066935019940032512/4YDN237S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 7,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 10
+        },
+        "username": "Fanjfao",
+        "verified": false
+      }
+    ]
+  }
+}

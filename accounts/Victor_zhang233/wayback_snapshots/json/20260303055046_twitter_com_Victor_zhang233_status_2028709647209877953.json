@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2028475738169426378",
+    "created_at": "2026-03-03T05:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T06:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028709647209877953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2006707388053860365",
+          "start": 0,
+          "username": "cqbr2375"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028709647209877953",
+    "in_reply_to_user_id": "2006707388053860365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028475738169426378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cqbr2375 可以睡久一点了😴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2028475735678062592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaX7yyXEAASCbz.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2028475738169426378",
+        "created_at": "2026-03-03T05:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T06:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028709647209877953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2006707388053860365",
+              "start": 0,
+              "username": "cqbr2375"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028709647209877953",
+        "in_reply_to_user_id": "2006707388053860365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028475738169426378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cqbr2375 可以睡久一点了😴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028475735678062592"
+          ]
+        },
+        "author_id": "2006707388053860365",
+        "conversation_id": "2028475738169426378",
+        "created_at": "2026-03-02T14:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028475738169426378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xoM7bjkZHW",
+              "end": 53,
+              "expanded_url": "https://x.com/cqbr2375/status/2028475738169426378/photo/1",
+              "media_key": "3_2028475735678062592",
+              "start": 30,
+              "url": "https://t.co/xoM7bjkZHW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028475738169426378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请假了两周，but不开心，只是从在学校受折磨变成在家受折磨 https://t.co/xoM7bjkZHW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "林中落雨",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Hypothermia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028198324504084480/mHOJiWWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 82,
+          "like_count": 1861,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 913
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-01T12:41:49.000Z",
+        "description": "术力口/YOASOBI/喜好百合耽美/PJSK/🏳️‍⚧️🍥🧊💊\n无证含糖/依恋极端/睡眠紊乱/诊断重度抑郁/焦虑/ o普瑞等各种/改花刀",
+        "id": "2006707388053860365",
+        "name": "ぬ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025185213026848768/a_SZf2CL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 36,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 31
+        },
+        "username": "cqbr2375",
+        "verified": false
+      }
+    ]
+  }
+}

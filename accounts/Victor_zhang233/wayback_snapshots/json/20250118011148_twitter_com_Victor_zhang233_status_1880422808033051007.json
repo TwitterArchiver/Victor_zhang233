@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1879885507632705674",
+    "created_at": "2025-01-18T01:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T02:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880422808033051007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1607339114508214275",
+          "start": 0,
+          "username": "gm18c_3354"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880422808033051007",
+    "in_reply_to_user_id": "1607339114508214275",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879885507632705674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gm18c_3354 11111！5！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1879885507632705674",
+        "created_at": "2025-01-18T01:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T02:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880422808033051007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1607339114508214275",
+              "start": 0,
+              "username": "gm18c_3354"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880422808033051007",
+        "in_reply_to_user_id": "1607339114508214275",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879885507632705674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gm18c_3354 11111！5！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607339114508214275",
+        "conversation_id": "1879885507632705674",
+        "created_at": "2025-01-16T13:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T14:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879885507632705674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/9mmballpoint/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/9mmballpoint/status/1879279261351391626",
+              "start": 10,
+              "url": "https://t.co/PvhT1S6Mxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879885507632705674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 196,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879279261351391626",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一棍打碎你的港独梦 https://t.co/PvhT1S6Mxi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 57,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 427
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T11:34:50.000Z",
+        "description": "我是国棉18厂保卫科主任：王哄温，在1977年被话果分骗去坏人堂开会时被捕，1992年趋势。\n2022年多次转生至现X捏喵\n邓小平你寿司罢！",
+        "id": "1607339114508214275",
+        "location": "中华苏维埃共和国-延安",
+        "name": "国棉18厂保卫科主任•王哄温•活左转世第二世☭",
+        "pinned_tweet_id": "1643539024823595008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745664382963703808/Bgvlcm9__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 135,
+          "like_count": 64007,
+          "listed_count": 10,
+          "media_count": 406,
+          "tweet_count": 9454
+        },
+        "username": "gm18c_3354",
+        "verified": false
+      }
+    ]
+  }
+}

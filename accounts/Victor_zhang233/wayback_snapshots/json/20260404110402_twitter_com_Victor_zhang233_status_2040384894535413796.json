@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2040304683089375319",
+    "created_at": "2026-04-04T11:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T12:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040384894535413796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1815649539057201152",
+          "start": 0,
+          "username": "NankyuSeiichi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040384894535413796",
+    "in_reply_to_user_id": "1815649539057201152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040304683089375319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NankyuSeiichi 就以食品一类来说，一次就拿高级白云山三十五条，普瑞巴林糖六十盒，右美沙芬罐头二十多瓶。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1302,
+        "media_key": "3_2040304670196068352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFCeSZybcAAdOnq.jpg",
+        "width": 1736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2040304683089375319",
+        "created_at": "2026-04-04T11:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040384894535413796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815649539057201152",
+              "start": 0,
+              "username": "NankyuSeiichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040384894535413796",
+        "in_reply_to_user_id": "1815649539057201152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040304683089375319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NankyuSeiichi 就以食品一类来说，一次就拿高级白云山三十五条，普瑞巴林糖六十盒，右美沙芬罐头二十多瓶。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040304670196068352"
+          ]
+        },
+        "author_id": "1815649539057201152",
+        "conversation_id": "2040304683089375319",
+        "created_at": "2026-04-04T05:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T06:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040304683089375319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/71xiLMkdE3",
+              "end": 163,
+              "expanded_url": "https://x.com/NankyuSeiichi/status/2040304683089375319/photo/1",
+              "media_key": "3_2040304670196068352",
+              "start": 140,
+              "url": "https://t.co/71xiLMkdE3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040304683089375319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1660,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "南宫清一生活作风糜烂、思想西化，仅用药一方面来说，他崇洋媚外，非进口药不吃，公然宣称“进口药才是好东西”，为了处理自己的睡眠问题，不惜亲自前往三级甲等医院，点名要求医生开具法国“赛诺菲”品牌酒石酸唑吡坦片的处方，仅一次开药，就要拿走整整一盒药物，这简直就是肆意妄为、无法无天了！ https://t.co/71xiLMkdE3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "四月雨",
+        "id": "1755494652889661440",
+        "location": "人间",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038442200997265408/vibWzS-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 141,
+          "like_count": 3094,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1226
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "我对象@yeol_lisu/加速南墙、历史决议、混乱控制、敬畏之心",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "yeol_lisu"
+              }
+            ]
+          }
+        },
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1931922221225890292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898775251515023361/2MoJxyeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 1372,
+          "like_count": 33222,
+          "listed_count": 3,
+          "media_count": 748,
+          "tweet_count": 9591
+        },
+        "username": "NankyuSeiichi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2082868213411672532",
+    "created_at": "2026-07-30T19:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T20:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082906778631827876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2017265599890550784",
+          "start": 0,
+          "username": "wasabi431735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082906778631827876",
+    "in_reply_to_user_id": "2017265599890550784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082868213411672532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabi431735 容易在浴室滑倒（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1684,
+        "media_key": "3_2082868206218481664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfVmRmbkAACAKp.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2082868213411672532",
+        "created_at": "2026-07-30T19:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T20:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082906778631827876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2017265599890550784",
+              "start": 0,
+              "username": "wasabi431735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082906778631827876",
+        "in_reply_to_user_id": "2017265599890550784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082868213411672532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabi431735 容易在浴室滑倒（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082868206218481664"
+          ]
+        },
+        "author_id": "2017265599890550784",
+        "conversation_id": "2082868213411672532",
+        "created_at": "2026-07-30T16:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082868213411672532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7cdGoDXQkV",
+              "end": 62,
+              "expanded_url": "https://x.com/wasabi431735/status/2082868213411672532/photo/1",
+              "media_key": "3_2082868206218481664",
+              "start": 39,
+              "url": "https://t.co/7cdGoDXQkV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082868213411672532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃了四十几t加巴喷丁 以为泡澡会舒适 结果给我泡晕了 宝宝们 吃了不能泡澡呀 https://t.co/7cdGoDXQkV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 495,
+          "like_count": 11109,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2528
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-30T15:56:26.000Z",
+        "description": "活在阳光下的老鼠人",
+        "id": "2017265599890550784",
+        "name": "wasabi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071631040549122048/Na8Jd86n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 16,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "wasabi431735",
+        "verified": false
+      }
+    ]
+  }
+}

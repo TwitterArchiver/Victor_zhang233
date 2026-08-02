@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2074120102744842317",
+    "created_at": "2026-07-06T22:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T23:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074266341528498551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1646649180033794048",
+          "start": 0,
+          "username": "prmkq_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074266341528498551",
+    "in_reply_to_user_id": "1646649180033794048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074120102744842317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@prmkq_ 有这种好事？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2074120102744842317",
+        "created_at": "2026-07-06T22:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T23:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074266341528498551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1646649180033794048",
+              "start": 0,
+              "username": "prmkq_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074266341528498551",
+        "in_reply_to_user_id": "1646649180033794048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074120102744842317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@prmkq_ 有这种好事？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646649180033794048",
+        "conversation_id": "2074120102744842317",
+        "created_at": "2026-07-06T13:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074120102744842317"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074120102744842317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 266,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "网上看看虚拟的得了，现实中真遇到那种过度干涉你生活的人还是今早远离吧，吓死人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 | \n这是哪里。。？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 440,
+          "like_count": 9241,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 2201
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T22:59:09.000Z",
+        "description": "未经授权，不允许搬运我的作品到任何平台。如果被我知道了不论你在哪个平台我都会找到你。\n@qkmrp_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "qkmrp_"
+              }
+            ]
+          }
+        },
+        "id": "1646649180033794048",
+        "location": "低浮上",
+        "name": "prmkq",
+        "pinned_tweet_id": "2072962797017964873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069797518595215360/NuMR6xUE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1612,
+          "following_count": 92,
+          "like_count": 3427,
+          "listed_count": 6,
+          "media_count": 197,
+          "tweet_count": 3607
+        },
+        "url": "",
+        "username": "prmkq_",
+        "verified": false
+      }
+    ]
+  }
+}

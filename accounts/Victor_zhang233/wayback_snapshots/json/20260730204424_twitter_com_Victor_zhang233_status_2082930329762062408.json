@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2082788160761983463",
+    "created_at": "2026-07-30T20:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T21:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082930329762062408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055213883967819776",
+          "start": 0,
+          "username": "Nortronsophia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082930329762062408",
+    "in_reply_to_user_id": "2055213883967819776",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082924935421599813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nortronsophia hyw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2082788160761983463",
+        "created_at": "2026-07-30T20:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T21:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082930329762062408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055213883967819776",
+              "start": 0,
+              "username": "Nortronsophia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082930329762062408",
+        "in_reply_to_user_id": "2055213883967819776",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082924935421599813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nortronsophia hyw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055213883967819776",
+        "conversation_id": "2082788160761983463",
+        "created_at": "2026-07-30T20:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T21:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082924935421599813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082924935421599813",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082920909065871426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 熬傻了说是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 495,
+          "like_count": 11117,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 2532
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T09:09:57.000Z",
+        "description": "仅仅靠爱就能拯救一个人的想法还是太自以为是了",
+        "id": "2055213883967819776",
+        "name": "嘛的我前任叫索菲亚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055214213677887488/MlveklYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 94,
+          "like_count": 560,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 170
+        },
+        "url": "",
+        "username": "Nortronsophia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2077707842862063850",
+    "created_at": "2026-07-16T23:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T00:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077898435039261161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823987651655127040",
+          "start": 0,
+          "username": "ookoukibob"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20778…",
+          "end": 35,
+          "expanded_url": "https://x.com/i/status/2077812437362053158",
+          "start": 12,
+          "url": "https://t.co/3D6BN8UnPq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077898435039261161",
+    "in_reply_to_user_id": "1823987651655127040",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077812437362053158",
+        "type": "quoted"
+      },
+      {
+        "id": "2077707842862063850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ookoukibob https://t.co/3D6BN8UnPq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2077707842862063850",
+        "created_at": "2026-07-16T23:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T00:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077898435039261161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823987651655127040",
+              "start": 0,
+              "username": "ookoukibob"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20778…",
+              "end": 35,
+              "expanded_url": "https://x.com/i/status/2077812437362053158",
+              "start": 12,
+              "url": "https://t.co/3D6BN8UnPq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077898435039261161",
+        "in_reply_to_user_id": "1823987651655127040",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077812437362053158",
+            "type": "quoted"
+          },
+          {
+            "id": "2077707842862063850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ookoukibob https://t.co/3D6BN8UnPq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649467740086996992",
+        "conversation_id": "2077812437362053158",
+        "created_at": "2026-07-16T17:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T18:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077812437362053158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/martinosemil/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/martinosemil/status/2077423881250623899",
+              "start": 30,
+              "url": "https://t.co/9uCCQKVnz2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077812437362053158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2408,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077423881250623899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看得我也想学医了，可以在手术台上随便摸女性乳房想想就硬了啊 https://t.co/9uCCQKVnz2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823987651655127040",
+        "conversation_id": "2077707842862063850",
+        "created_at": "2026-07-16T10:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077707842862063850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qziyn463297/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/qziyn463297/status/2077691686118170879",
+              "start": 2,
+              "url": "https://t.co/Lx47kUTCIi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077707842862063850",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077691686118170879",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "典 https://t.co/Lx47kUTCIi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him | 药物欣快重度依赖 | \n这是哪里。。？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 474,
+          "like_count": 10276,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 2353
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T07:38:48.000Z",
+        "description": "伪娘享受者｜PDW现役编辑｜狂热の日麻雀士\nBass🎸&Drum🥁&Winds🪈\n27fall🇳🇱🇦🇺 English/中文OK  \n查成分互fo LGBTQ+Friendly🏳️‍⚧️🏳️‍🌈\nTelegram频道https://t.co/hCjhUdZOZv\n站点链接🔗https://t.co/msb6Dyz0O4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ookoukibobchan…",
+                "end": 131,
+                "expanded_url": "https://t.me/ookoukibobchannel",
+                "start": 108,
+                "url": "https://t.co/hCjhUdZOZv"
+              },
+              {
+                "display_url": "psydrugs.org",
+                "end": 160,
+                "expanded_url": "http://psydrugs.org",
+                "start": 137,
+                "url": "https://t.co/msb6Dyz0O4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ookoukibob57851",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ookoukibob57851",
+                "start": 0,
+                "url": "https://t.co/e3w2WOGZ0Y"
+              }
+            ]
+          }
+        },
+        "id": "1823987651655127040",
+        "location": "Toshima-ku, Tokyo",
+        "name": "OokoukiBob",
+        "pinned_tweet_id": "1971912857026547937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010081830209241089/w8z8AzRj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 738,
+          "like_count": 1141,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 631
+        },
+        "url": "https://t.co/e3w2WOGZ0Y",
+        "username": "ookoukibob",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T17:39:03.000Z",
+        "description": "",
+        "id": "1649467740086996992",
+        "name": "abjjzjhtg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901149357145219072/fFKkyOBc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 70,
+          "like_count": 3,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "qziyn463297",
+        "verified": false
+      }
+    ]
+  }
+}

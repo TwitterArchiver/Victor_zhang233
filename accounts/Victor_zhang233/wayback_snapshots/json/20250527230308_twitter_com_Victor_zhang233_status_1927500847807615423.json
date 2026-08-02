@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1926896863220736349",
+    "created_at": "2025-05-27T23:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T00:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927500847807615423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1388524448534335488",
+          "start": 0,
+          "username": "Qin14215836"
+        },
+        {
+          "end": 28,
+          "id": "1528879867546062849",
+          "start": 13,
+          "username": "chenjingzhe333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927500847807615423",
+    "in_reply_to_user_id": "1388524448534335488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927271140973592869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qin14215836 @chenjingzhe333 ？学修正主义脑子学傻了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1073,
+        "media_key": "3_1927271133293821952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr8K4nXXwAAcTyM.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1926896863220736349",
+        "created_at": "2025-05-27T23:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T00:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927500847807615423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1388524448534335488",
+              "start": 0,
+              "username": "Qin14215836"
+            },
+            {
+              "end": 28,
+              "id": "1528879867546062849",
+              "start": 13,
+              "username": "chenjingzhe333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927500847807615423",
+        "in_reply_to_user_id": "1388524448534335488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927271140973592869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qin14215836 @chenjingzhe333 ？学修正主义脑子学傻了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927271133293821952"
+          ]
+        },
+        "author_id": "1388524448534335488",
+        "conversation_id": "1926896863220736349",
+        "created_at": "2025-05-27T07:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T08:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927271140973592869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1528879867546062849",
+              "start": 0,
+              "username": "chenjingzhe333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5h3GL6ixzR",
+              "end": 56,
+              "expanded_url": "https://x.com/Qin14215836/status/1927271140973592869/photo/1",
+              "media_key": "3_1927271133293821952",
+              "start": 33,
+              "url": "https://t.co/5h3GL6ixzR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927271140973592869",
+        "in_reply_to_user_id": "1528879867546062849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 261,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926896863220736349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenjingzhe333 一切都是林立果没炸死毛泽东的后果 https://t.co/5h3GL6ixzR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（/休学中/黑金属/高一//呃呃呃呃简介这样写没问题吧？（\n欢迎扩列和找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 怀人堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 72,
+          "like_count": 580,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 603
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-01T16:03:30.000Z",
+        "description": "",
+        "id": "1388524448534335488",
+        "location": "克莱登大学 新资本主义及马克思主义现代化研究中心",
+        "name": "Qin",
+        "pinned_tweet_id": "1806274605713387707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1388524720333545475/tcoG8cIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 188,
+          "like_count": 7578,
+          "listed_count": 2,
+          "media_count": 587,
+          "tweet_count": 7854
+        },
+        "username": "Qin14215836",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-23T23:25:48.000Z",
+        "description": "我们怎么办",
+        "id": "1528879867546062849",
+        "name": "🍁七七七七七",
+        "pinned_tweet_id": "1602993474378567680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775912656547016705/RGkKRis2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14995,
+          "following_count": 470,
+          "like_count": 35765,
+          "listed_count": 32,
+          "media_count": 83,
+          "tweet_count": 4329
+        },
+        "username": "chenjingzhe333",
+        "verified": false
+      }
+    ]
+  }
+}

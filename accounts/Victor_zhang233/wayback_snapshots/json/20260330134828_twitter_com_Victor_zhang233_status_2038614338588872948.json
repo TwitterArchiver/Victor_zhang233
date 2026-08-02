@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2038572908025614744",
+    "created_at": "2026-03-30T13:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038614338588872948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1929466337245675520",
+          "start": 0,
+          "username": "Ngtyuri233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038614338588872948",
+    "in_reply_to_user_id": "1929466337245675520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038572908025614744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ngtyuri233 就是无（黄）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2038572908025614744",
+        "created_at": "2026-03-30T13:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038614338588872948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1929466337245675520",
+              "start": 0,
+              "username": "Ngtyuri233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038614338588872948",
+        "in_reply_to_user_id": "1929466337245675520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038572908025614744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ngtyuri233 就是无（黄）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929466337245675520",
+        "conversation_id": "2038572908025614744",
+        "created_at": "2026-03-30T11:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038572908025614744"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038572908025614744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们那些门槛圈术语到底是什么意思呀。？\n“绿”到底是什么……有什么特殊指代吗……？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "T^T / \n这里是Ashes / 生理男 / 性取向是null / 超级缺爱b / 我不会写简介 / 已休学 / 我很温良请和我玩",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "无法自尽之人 #Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038442200997265408/vibWzS-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 128,
+          "like_count": 2733,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1163
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T09:13:37.000Z",
+        "description": "愛されたい\n （Language：中文/日本語/English） / DM👌 / 互fo👌 / 09 男高中生 / 对象@yuriano3479\n 提问箱：\nhttps://t.co/PbjSHSj7uk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "yuriano3479"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yuriafries",
+                "end": 102,
+                "expanded_url": "https://ngl.link/yuriafries",
+                "start": 79,
+                "url": "https://t.co/PbjSHSj7uk"
+              }
+            ]
+          }
+        },
+        "id": "1929466337245675520",
+        "location": "不管是谁也好请救救我",
+        "name": "薯条恶魔杀人事件🍟😈",
+        "pinned_tweet_id": "2037061283607175498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024431590525571072/zaE8hMw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 91,
+          "like_count": 2898,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 912
+        },
+        "username": "Ngtyuri233",
+        "verified": false
+      }
+    ]
+  }
+}

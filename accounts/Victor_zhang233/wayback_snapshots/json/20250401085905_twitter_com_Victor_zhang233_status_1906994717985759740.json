@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1906653603336511500",
+    "created_at": "2025-04-01T08:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T09:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906994717985759740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1804030356934492160",
+          "start": 0,
+          "username": "old_fish_lost"
+        },
+        {
+          "end": 25,
+          "id": "1854099041396899840",
+          "start": 15,
+          "username": "4698pjxbs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906994717985759740",
+    "in_reply_to_user_id": "1804030356934492160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906929366824894746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@old_fish_lost @4698pjxbs 太不现实了但是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1906653603336511500",
+        "created_at": "2025-04-01T08:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T09:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906994717985759740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1804030356934492160",
+              "start": 0,
+              "username": "old_fish_lost"
+            },
+            {
+              "end": 25,
+              "id": "1854099041396899840",
+              "start": 15,
+              "username": "4698pjxbs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906994717985759740",
+        "in_reply_to_user_id": "1804030356934492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906929366824894746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@old_fish_lost @4698pjxbs 太不现实了但是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804030356934492160",
+        "conversation_id": "1906653603336511500",
+        "created_at": "2025-04-01T04:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T05:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906929366824894746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1854099041396899840",
+              "start": 0,
+              "username": "4698pjxbs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906929366824894746",
+        "in_reply_to_user_id": "1854099041396899840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906653603336511500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4698pjxbs 赞同，我认为100%的遗产税是有必要的，私有制是一种对人类追寻无阶级自由的剽窃，人类完全可以以更自由的政治经济文化分配中，各取所需各尽所能。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/抑郁焦虑/黑金属/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 坏人堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 67,
+          "like_count": 497,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 552
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T05:55:40.000Z",
+        "description": "上个账号为Anglerfish_LJC     mtf🏳️‍⚧️。\n与自由和无产阶级共治共进的参与者。\n我们，因自由与平等以共治结成一体，我们，既是安那其！\n\n正在规划前往凯尔盖朗岛，登岛进行长期探险旅游，以完成小说内容。",
+        "id": "1804030356934492160",
+        "location": "格尔木",
+        "name": "无政府原子能主义者洁茜卡归来🏴🚩，x是这样的，安友等着封号就好，私募马一🐉考虑的就很多了。",
+        "pinned_tweet_id": "1832776732195344586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869004884663820288/Lpwe_L6V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 324,
+          "like_count": 2361,
+          "listed_count": 0,
+          "media_count": 593,
+          "tweet_count": 3144
+        },
+        "username": "old_fish_lost",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T09:52:30.000Z",
+        "description": "135左派，246右派，星期天乐子人",
+        "id": "1854099041396899840",
+        "name": "张春桥🇵🇸🇧🇷🇿🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903039280609628162/lVwPVHtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 499,
+          "like_count": 5792,
+          "listed_count": 6,
+          "media_count": 74,
+          "tweet_count": 2898
+        },
+        "username": "4698pjxbs",
+        "verified": false
+      }
+    ]
+  }
+}

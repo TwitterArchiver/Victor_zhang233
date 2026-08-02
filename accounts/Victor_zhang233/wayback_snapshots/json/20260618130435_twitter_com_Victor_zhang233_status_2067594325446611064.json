@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2067594325446611064",
+    "created_at": "2026-06-18T13:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067594325446611064"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Victor_zhang23…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Victor_zhang233/status/2067593063401439686",
+          "start": 21,
+          "url": "https://t.co/ZNLgf1PzCB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067594325446611064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067593063401439686",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又挂了\nmdkilla打的7n39\nTT https://t.co/ZNLgf1PzCB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2067593060507369472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGQ7xeawAAIdki.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2067594325446611064",
+        "created_at": "2026-06-18T13:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067594325446611064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Victor_zhang23…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Victor_zhang233/status/2067593063401439686",
+              "start": 21,
+              "url": "https://t.co/ZNLgf1PzCB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067594325446611064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067593063401439686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又挂了\nmdkilla打的7n39\nTT https://t.co/ZNLgf1PzCB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067593060507369472"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067593063401439686",
+        "created_at": "2026-06-18T12:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067593063401439686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gSeGmB9uap",
+              "end": 37,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2067593063401439686/photo/1",
+              "media_key": "3_2067593060507369472",
+              "start": 14,
+              "url": "https://t.co/gSeGmB9uap"
+            },
+            {
+              "display_url": "x.com/Victor_zhang23…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/Victor_zhang233/status/2067587814137684142",
+              "start": 38,
+              "url": "https://t.co/xpPyTCx9bv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067593063401439686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067587814137684142",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "挂了\n换把枪\n愤怒的玩电脑 https://t.co/gSeGmB9uap https://t.co/xpPyTCx9bv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 367,
+          "like_count": 7221,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 2036
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

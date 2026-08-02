@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2007505304054051134",
+    "created_at": "2026-01-03T18:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T19:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007521229834727492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845844455095762944",
+          "start": 0,
+          "username": "Ankyo127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007521229834727492",
+    "in_reply_to_user_id": "1845844455095762944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007505304054051134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ankyo127 许愿"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12205,
+        "height": 720,
+        "media_key": "13_2007505239738621953",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2007505239738621953/img/r-KG288fKtQcW-yw.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007505239738621953/vid/avc1/320x320/YpCg7KI-7O6JnNM2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007505239738621953/vid/avc1/540x540/dpNJzwkTqzSDaZIN.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007505239738621953/vid/avc1/720x720/K0SKPgnqm4XMic6t.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2007505239738621953/pl/9lklkWLhKumjq-wV.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2007505304054051134",
+        "created_at": "2026-01-03T18:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T19:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007521229834727492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845844455095762944",
+              "start": 0,
+              "username": "Ankyo127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007521229834727492",
+        "in_reply_to_user_id": "1845844455095762944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007505304054051134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ankyo127 许愿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007505239738621953"
+          ]
+        },
+        "author_id": "1845844455095762944",
+        "conversation_id": "2007505304054051134",
+        "created_at": "2026-01-03T17:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T18:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007505304054051134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vjVBm5NYS9",
+              "end": 71,
+              "expanded_url": "https://x.com/Ankyo127/status/2007505304054051134/video/1",
+              "media_key": "13_2007505239738621953",
+              "start": 48,
+              "url": "https://t.co/vjVBm5NYS9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007505304054051134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是能破我防的💀🤌🏻\n我就是小团体里最后被踢出去的那个😭我也想要bro😭谁来当我的bro😭😭😭 https://t.co/vjVBm5NYS9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001408376811704320/27ExCAWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 106,
+          "like_count": 1384,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 776
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T15:10:13.000Z",
+        "description": "桉秋(AQ)https://t.co/XJJrQNEEir🔊支持言论自由，不支持言论滥用，不攻击，不诽谤，理性讨论。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ankyo",
+                "end": 29,
+                "expanded_url": "https://ngl.link/ankyo",
+                "start": 6,
+                "url": "https://t.co/XJJrQNEEir"
+              }
+            ]
+          }
+        },
+        "id": "1845844455095762944",
+        "name": "Ankyo𖤐.🩷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971892817447526400/CWJp7sjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1877,
+          "following_count": 70,
+          "like_count": 442,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 409
+        },
+        "username": "Ankyo127",
+        "verified": false
+      }
+    ]
+  }
+}

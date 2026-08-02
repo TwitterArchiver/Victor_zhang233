@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2069555773928264009",
+    "created_at": "2026-06-25T04:19:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T05:19:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069998943963058190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1674492147079483393",
+          "start": 0,
+          "username": "DA98764"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069998943963058190",
+    "in_reply_to_user_id": "1674492147079483393",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069975075571519912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DA98764 🤯🤯🤯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2069555773928264009",
+        "created_at": "2026-06-25T04:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069998943963058190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1674492147079483393",
+              "start": 0,
+              "username": "DA98764"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069998943963058190",
+        "in_reply_to_user_id": "1674492147079483393",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069975075571519912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DA98764 🤯🤯🤯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674492147079483393",
+        "conversation_id": "2069555773928264009",
+        "created_at": "2026-06-25T02:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T03:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069975075571519912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069975075571519912",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069555773928264009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 草，我是真的每天都这样吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 |\nDM欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 401,
+          "like_count": 8131,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2074
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-29T18:57:01.000Z",
+        "description": "是个只会散播负能量的肮脏垃圾",
+        "id": "1674492147079483393",
+        "name": "D",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051858746863951872/DjWCG7La_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 106,
+          "like_count": 2139,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1160
+        },
+        "url": "",
+        "username": "DA98764",
+        "verified": false
+      }
+    ]
+  }
+}

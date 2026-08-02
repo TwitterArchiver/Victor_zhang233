@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1880809762000150566",
+    "created_at": "2025-01-19T02:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T03:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880809762000150566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1058187164",
+          "start": 3,
+          "username": "yyffnn1963"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880809762000150566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880193111038755144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yyffnn1963: 如何评价毛泽东之后的中国实际领导人，每个人都有自已的看法，我随便一说，邓小平最大的功劳是将中国转型为一个追求经济发展的国家，代价就是将中国变成腐败成风道德沦丧的混乱社会。江泽民时期相对较邓小平时代理性一些，除了继续发展经济，兼顾了国家安全，保留了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1880809762000150566",
+        "created_at": "2025-01-19T02:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T03:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880809762000150566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1058187164",
+              "start": 3,
+              "username": "yyffnn1963"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880809762000150566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880193111038755144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yyffnn1963: 如何评价毛泽东之后的中国实际领导人，每个人都有自已的看法，我随便一说，邓小平最大的功劳是将中国转型为一个追求经济发展的国家，代价就是将中国变成腐败成风道德沦丧的混乱社会。江泽民时期相对较邓小平时代理性一些，除了继续发展经济，兼顾了国家安全，保留了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1058187164",
+        "conversation_id": "1880193111038755144",
+        "created_at": "2025-01-17T09:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T10:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880193111038755144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880193111038755144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 421,
+          "impression_count": 728381,
+          "like_count": 1228,
+          "quote_count": 10,
+          "reply_count": 114,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "如何评价毛泽东之后的中国实际领导人，每个人都有自已的看法，我随便一说，邓小平最大的功劳是将中国转型为一个追求经济发展的国家，代价就是将中国变成腐败成风道德沦丧的混乱社会。江泽民时期相对较邓小平时代理性一些，除了继续发展经济，兼顾了国家安全，保留了一些军工企业，清除法轮功组织，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 59,
+          "like_count": 444,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 451
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-03T16:24:29.000Z",
+        "description": "",
+        "id": "1058187164",
+        "name": "yuwenlong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/344513261567097315/5e16752a928a20a8b54a6677d8cb2ab0_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268,
+          "following_count": 607,
+          "like_count": 623,
+          "listed_count": 13,
+          "media_count": 18,
+          "tweet_count": 27876
+        },
+        "username": "yyffnn1963",
+        "verified": false
+      }
+    ]
+  }
+}

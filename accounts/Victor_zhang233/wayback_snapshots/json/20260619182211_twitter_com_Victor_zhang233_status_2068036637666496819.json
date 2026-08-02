@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2067953426583916667",
+    "created_at": "2026-06-19T18:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T19:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068036637666496819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1486946165937651716",
+          "start": 0,
+          "username": "IZUNA347"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068036637666496819",
+    "in_reply_to_user_id": "1486946165937651716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067953426583916667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IZUNA347 打了两年游戏。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2067953426583916667",
+        "created_at": "2026-06-19T18:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068036637666496819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1486946165937651716",
+              "start": 0,
+              "username": "IZUNA347"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068036637666496819",
+        "in_reply_to_user_id": "1486946165937651716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067953426583916667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IZUNA347 打了两年游戏。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486946165937651716",
+        "conversation_id": "2067953426583916667",
+        "created_at": "2026-06-19T12:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067953426583916667"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067953426583916667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想休学了 感觉休学的诱惑好大 我试试用住院的借口去休学在家打游戏叭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 |\nDM欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 378,
+          "like_count": 7419,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2083
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-28T06:16:23.000Z",
+        "description": "HE/HIM🏳️‍🌈-SHTWT 988TWT",
+        "id": "1486946165937651716",
+        "name": "izuna",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055029378954792960/W3zEJTZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 214,
+          "like_count": 7290,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1299
+        },
+        "url": "",
+        "username": "IZUNA347",
+        "verified": false
+      }
+    ]
+  }
+}

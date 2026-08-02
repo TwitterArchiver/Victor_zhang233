@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2059590671615611098",
+    "created_at": "2026-05-27T13:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059625044733472837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1530212344026251265",
+          "start": 0,
+          "username": "Useless_Sora_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059625044733472837",
+    "in_reply_to_user_id": "1530212344026251265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059590671615611098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Useless_Sora_ 尼基塔去淘宝上买了个自锁就做出了韦哥（破冰船boss"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2059590671615611098",
+        "created_at": "2026-05-27T13:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059625044733472837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1530212344026251265",
+              "start": 0,
+              "username": "Useless_Sora_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059625044733472837",
+        "in_reply_to_user_id": "1530212344026251265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059590671615611098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Useless_Sora_ 尼基塔去淘宝上买了个自锁就做出了韦哥（破冰船boss"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530212344026251265",
+        "conversation_id": "2059590671615611098",
+        "created_at": "2026-05-27T11:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059590671615611098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059590671615611098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这破冰船真的是人玩的？三个笨贼进去三次死了三次，只有一次用温压筒炸死了轮机室的BD剩下两局都被见面斩杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2055781542031753407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 220,
+          "like_count": 4461,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1565
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-27T15:40:36.000Z",
+        "description": "🖥️PC gaming & random military art / Furry dino /❗R18（G）内容注意🩸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/4zUrscq",
+                "end": 23,
+                "expanded_url": "https://b23.tv/4zUrscq",
+                "start": 0,
+                "url": "https://t.co/nEMcztRmIp"
+              }
+            ]
+          }
+        },
+        "id": "1530212344026251265",
+        "location": "🇨🇳",
+        "name": "擎空酱⚡︎ 🦖",
+        "pinned_tweet_id": "2053161523300942310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004167673039802374/MNGcuP4f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5008,
+          "following_count": 1554,
+          "like_count": 62636,
+          "listed_count": 11,
+          "media_count": 3946,
+          "tweet_count": 31698
+        },
+        "url": "https://t.co/nEMcztRmIp",
+        "username": "Useless_Sora_",
+        "verified": false
+      }
+    ]
+  }
+}

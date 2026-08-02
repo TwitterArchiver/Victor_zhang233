@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1988354531735073266",
+    "created_at": "2025-11-13T17:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T18:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989028152337891460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1735328474934706176",
+          "start": 0,
+          "username": "Makinotouruko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989028152337891460",
+    "in_reply_to_user_id": "1735328474934706176",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988354531735073266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Makinotouruko nobody"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1988354531735073266",
+        "created_at": "2025-11-13T17:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T18:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989028152337891460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1735328474934706176",
+              "start": 0,
+              "username": "Makinotouruko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989028152337891460",
+        "in_reply_to_user_id": "1735328474934706176",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988354531735073266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makinotouruko nobody"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735328474934706176",
+        "conversation_id": "1988354531735073266",
+        "created_at": "2025-11-11T21:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T22:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988354531735073266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988354531735073266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能把我从这样无穷无尽的不安和孤独中解放出来呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "点击填写简介",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 101,
+          "like_count": 1221,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 753
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-14T15:58:55.000Z",
+        "description": "橘猫硬件实验室主创 曾经自认是ISFP但是测出了INTJ 5w4/常驻珠三角",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Makinotooruko",
+                "end": 23,
+                "expanded_url": "http://t.me/Makinotooruko",
+                "start": 0,
+                "url": "https://t.co/OG6fIDb8JQ"
+              }
+            ]
+          }
+        },
+        "id": "1735328474934706176",
+        "name": "Makino",
+        "pinned_tweet_id": "1974499087216173209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888197682927374336/kqtpp-C0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 605,
+          "like_count": 22193,
+          "listed_count": 2,
+          "media_count": 503,
+          "tweet_count": 4724
+        },
+        "url": "https://t.co/OG6fIDb8JQ",
+        "username": "Makinotouruko",
+        "verified": false
+      }
+    ]
+  }
+}

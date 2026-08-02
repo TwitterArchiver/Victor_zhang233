@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2037025993509245026",
+    "created_at": "2026-03-26T22:28:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T23:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037295721939157309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1994355362108166144",
+          "start": 0,
+          "username": "Suyuan19760909"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037295721939157309",
+    "in_reply_to_user_id": "1994355362108166144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037025993509245026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suyuan19760909 看完评论区理解毛泽东了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2037025993509245026",
+        "created_at": "2026-03-26T22:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T23:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037295721939157309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1994355362108166144",
+              "start": 0,
+              "username": "Suyuan19760909"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037295721939157309",
+        "in_reply_to_user_id": "1994355362108166144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037025993509245026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suyuan19760909 看完评论区理解毛泽东了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994355362108166144",
+        "conversation_id": "2037025993509245026",
+        "created_at": "2026-03-26T04:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037025993509245026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/6PBqg6FWzk5HkR…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/6PBqg6FWzk5HkRi/status/2036688858600116541",
+              "start": 25,
+              "url": "https://t.co/oEBeFVcxaJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037025993509245026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7061,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036688858600116541",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正确的方法是中修与民国都路边，真正的共产党回来😋 https://t.co/oEBeFVcxaJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "T^T",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032502037242662912/m7BPbwdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 119,
+          "like_count": 2531,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1099
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-28T10:39:21.000Z",
+        "description": "让我们面对现实，让我们忠于理想\n毛主义📕，共产主义者☭，继续革命 \n计划经济 无产阶级专政下民主\n小号喵@pamelar2hubub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 52,
+                "username": "pamelar2hubub"
+              }
+            ]
+          }
+        },
+        "id": "1994355362108166144",
+        "location": "延安",
+        "name": "夙愿☭📕🇨🇳",
+        "pinned_tweet_id": "2037146789267316986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035274726529277955/MITvwVQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 126,
+          "like_count": 2422,
+          "listed_count": 4,
+          "media_count": 71,
+          "tweet_count": 668
+        },
+        "username": "Suyuan19760909",
+        "verified": false
+      }
+    ]
+  }
+}

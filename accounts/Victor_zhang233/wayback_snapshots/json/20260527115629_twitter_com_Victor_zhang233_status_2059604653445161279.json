@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2059604653445161279",
+    "created_at": "2026-05-27T11:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T12:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059604653445161279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2059523716820901888",
+          "start": 3,
+          "username": "8964_U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059604653445161279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059527985775165551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964_U: 老号又被吃了，依然发抽奖，抽奖奖励为在售神秘物质1t，具体看简介，参与方式点赞转发关注，100fo抽出，并抽出10R*5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2059604653445161279",
+        "created_at": "2026-05-27T11:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059604653445161279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2059523716820901888",
+              "start": 3,
+              "username": "8964_U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059604653445161279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059527985775165551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964_U: 老号又被吃了，依然发抽奖，抽奖奖励为在售神秘物质1t，具体看简介，参与方式点赞转发关注，100fo抽出，并抽出10R*5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059523716820901888",
+        "conversation_id": "2059527985775165551",
+        "created_at": "2026-05-27T06:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059527985775165551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059527985775165551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 68,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "老号又被吃了，依然发抽奖，抽奖奖励为在售神秘物质1t，具体看简介，参与方式点赞转发关注，100fo抽出，并抽出10R*5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2055781542031753407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 212,
+          "like_count": 4437,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1557
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-27T06:35:37.000Z",
+        "description": "※只是旅行者罢了，把我说过的一切都当做梦呓吧※\n※无性别\n※#odtwt※\n※#shtwt※\n※TG:HsHnFR※\n※我始终如一※\n永远纪念@Inks_chain @Chain_Inks@8964_R\n4homet，兴奋剂售卖中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 45,
+                "start": 39,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "Inks_chain"
+              }
+            ]
+          }
+        },
+        "id": "2059523716820901888",
+        "name": "ヰ世界优泠#参宿七#九周目",
+        "pinned_tweet_id": "2059527985775165551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059525651624001536/_PH6hs6z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 4,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "8964_U",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2057129799508750371",
+    "created_at": "2026-05-21T00:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T01:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057258697857147024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899082105977462784",
+          "start": 0,
+          "username": "Nullemptyset"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057258697857147024",
+    "in_reply_to_user_id": "1899082105977462784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057129799508750371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nullemptyset 咖啡因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2057129799508750371",
+        "created_at": "2026-05-21T00:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T01:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057258697857147024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899082105977462784",
+              "start": 0,
+              "username": "Nullemptyset"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057258697857147024",
+        "in_reply_to_user_id": "1899082105977462784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057129799508750371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nullemptyset 咖啡因"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899082105977462784",
+        "conversation_id": "2057129799508750371",
+        "created_at": "2026-05-20T16:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057129799508750371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057129799508750371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们有啥临时提精神的药推荐吗！想参加活动玩一整天到凌晨，但是我一般到傍晚就撑不住了很困。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "____好了宝宝，我心疼你，不管感情怎么使人麻木，遇到的人再不真诚，家庭，学习，工作状态再怎么样，你都要好好吃饭，去做一些积极开朗的事情，去被别人需要，人活着一定是要有什么精神寄托，我不是给你什么建议，幸福是个概念词，我只是希望你能好好生活，找到自己，跟自己的情绪好好相处，我能共情你",
+        "id": "1755494652889661440",
+        "location": "人间",
+        "name": "Ashes✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 167,
+          "like_count": 3960,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1456
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T12:57:20.000Z",
+        "description": "＝空集，可称呼为 小空｜生理女心理非二元｜自毁倾向｜不聊黄不鉴证不无差别骂人｜同类互fo",
+        "id": "1899082105977462784",
+        "location": "虚无",
+        "name": "∅",
+        "pinned_tweet_id": "2026614334399590789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055714073132838912/cbPjWj9k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 60,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 185
+        },
+        "username": "Nullemptyset",
+        "verified": false
+      }
+    ]
+  }
+}

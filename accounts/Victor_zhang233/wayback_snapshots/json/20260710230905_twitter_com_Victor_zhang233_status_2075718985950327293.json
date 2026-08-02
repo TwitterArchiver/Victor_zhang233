@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2075718985950327293",
+    "created_at": "2026-07-10T23:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T00:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075718985950327293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1902888249653334016",
+          "start": 3,
+          "username": "Misak1Kusanagi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075718985950327293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075713964290564108",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Misak1Kusanagi1: 我好累好累好累好累好累好累好累好累 我没有精力干任何事情 我渴望被人爱 我整天都不知道自己在干啥 我的前途一眼就能望到头。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2075718985950327293",
+        "created_at": "2026-07-10T23:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T00:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075718985950327293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1902888249653334016",
+              "start": 3,
+              "username": "Misak1Kusanagi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075718985950327293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075713964290564108",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Misak1Kusanagi1: 我好累好累好累好累好累好累好累好累 我没有精力干任何事情 我渴望被人爱 我整天都不知道自己在干啥 我的前途一眼就能望到头。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902888249653334016",
+        "conversation_id": "2075713964290564108",
+        "created_at": "2026-07-10T22:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T23:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075713964290564108"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075713964290564108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我好累好累好累好累好累好累好累好累 我没有精力干任何事情 我渴望被人爱 我整天都不知道自己在干啥 我的前途一眼就能望到头。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 | \n这是哪里。。？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 450,
+          "like_count": 9593,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 2261
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T01:02:03.000Z",
+        "description": "♂/负能/欢迎扩/4i/重郁重焦/08高三/mai舟崩什么的都沾一点",
+        "id": "1902888249653334016",
+        "name": "pomelo",
+        "pinned_tweet_id": "2070945673294598445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587225020301312/9qykg60z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 305,
+          "like_count": 3166,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 385
+        },
+        "url": "",
+        "username": "Misak1Kusanagi1",
+        "verified": false
+      }
+    ]
+  }
+}

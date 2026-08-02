@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1799047997139116309",
+    "created_at": "2024-06-08T06:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T07:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799326200214823100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1693156996156137472",
+          "start": 0,
+          "username": "chuangyu114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799326200214823100",
+    "in_reply_to_user_id": "1693156996156137472",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799047997139116309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuangyu114514 「共匪复活记」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1799047997139116309",
+        "created_at": "2024-06-08T06:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T07:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799326200214823100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1693156996156137472",
+              "start": 0,
+              "username": "chuangyu114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799326200214823100",
+        "in_reply_to_user_id": "1693156996156137472",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799047997139116309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuangyu114514 「共匪复活记」"
+      },
+      {
+        "attachments": {},
+        "author_id": "1693156996156137472",
+        "conversation_id": "1799047997139116309",
+        "created_at": "2024-06-07T11:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T12:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799047997139116309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1799009181120471421",
+              "start": 4,
+              "url": "https://t.co/KQiKsDJHfr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799047997139116309",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1092,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799009181120471421",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "举少了 https://t.co/KQiKsDJHfr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这是一条简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "中国",
+        "name": "仿生人是否会梦见电子羊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 29,
+          "like_count": 111,
+          "listed_count": 0,
+          "tweet_count": 146
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-20T07:04:40.000Z",
+        "description": "革命派",
+        "id": "1693156996156137472",
+        "location": "闖狱妙妙屋",
+        "name": "闖狱",
+        "pinned_tweet_id": "1790893101952696603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797796176445464576/ztmd5qfp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1961,
+          "following_count": 809,
+          "like_count": 92988,
+          "listed_count": 16,
+          "tweet_count": 18323
+        },
+        "username": "chuangyu114514",
+        "verified": false
+      }
+    ]
+  }
+}

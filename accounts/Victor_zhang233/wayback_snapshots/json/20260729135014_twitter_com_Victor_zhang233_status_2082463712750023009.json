@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2082410825177068026",
+    "created_at": "2026-07-29T13:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T14:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082463712750023009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2039070542389792769",
+          "start": 0,
+          "username": "QiMeng0502"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082463712750023009",
+    "in_reply_to_user_id": "2039070542389792769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082410825177068026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiMeng0502 看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2082410825177068026",
+        "created_at": "2026-07-29T13:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082463712750023009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2039070542389792769",
+              "start": 0,
+              "username": "QiMeng0502"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082463712750023009",
+        "in_reply_to_user_id": "2039070542389792769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082410825177068026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiMeng0502 看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039070542389792769",
+        "conversation_id": "2082410825177068026",
+        "created_at": "2026-07-29T10:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082410825177068026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082410825177068026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操你妈的抖音给腿照推流"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 493,
+          "like_count": 10942,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 2468
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T20:03:58.000Z",
+        "description": "纯爱赛高\nSub\n我只是一个向往柏拉图的小女孩",
+        "id": "2039070542389792769",
+        "name": "Qimeng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082410668565905408/FmxW-tTY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 24,
+          "like_count": 379,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "QiMeng0502",
+        "verified": false
+      }
+    ]
+  }
+}

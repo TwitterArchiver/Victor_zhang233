@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2038017142537499030",
+    "created_at": "2026-03-28T22:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T23:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038022260288835811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1929466337245675520",
+          "start": 0,
+          "username": "Ngtyuri233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038022260288835811",
+    "in_reply_to_user_id": "1929466337245675520",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038021468420997195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ngtyuri233 🫂🫂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2038021468420997195].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2038021468420997195",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2038021468420997195"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2038017142537499030",
+        "created_at": "2026-03-28T22:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T23:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038022260288835811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1929466337245675520",
+              "start": 0,
+              "username": "Ngtyuri233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038022260288835811",
+        "in_reply_to_user_id": "1929466337245675520",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038021468420997195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ngtyuri233 🫂🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "T^T",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032502037242662912/m7BPbwdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 124,
+          "like_count": 2648,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1148
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T09:13:37.000Z",
+        "description": "愛されたい\n （Language：中文/日本語/English） / DM👌 / 互fo👌 / 09 男高中生 / 对象@yuriano3479\n 提问箱：\nhttps://t.co/PbjSHSj7uk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "yuriano3479"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yuriafries",
+                "end": 102,
+                "expanded_url": "https://ngl.link/yuriafries",
+                "start": 79,
+                "url": "https://t.co/PbjSHSj7uk"
+              }
+            ]
+          }
+        },
+        "id": "1929466337245675520",
+        "location": "不管是谁也好请救救我",
+        "name": "薯条恶魔杀人事件🍟😈",
+        "pinned_tweet_id": "2037061283607175498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024431590525571072/zaE8hMw0_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 73,
+          "like_count": 2488,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 810
+        },
+        "username": "Ngtyuri233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2068036891434483914",
+    "created_at": "2026-06-19T18:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T19:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068038297784570147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1985696936046051330",
+          "start": 0,
+          "username": "whitelightroses"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068038297784570147",
+    "in_reply_to_user_id": "1985696936046051330",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068037721659249014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitelightroses 可是我九月要复学了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2068036891434483914",
+        "created_at": "2026-06-19T18:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068038297784570147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1985696936046051330",
+              "start": 0,
+              "username": "whitelightroses"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068038297784570147",
+        "in_reply_to_user_id": "1985696936046051330",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068037721659249014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitelightroses 可是我九月要复学了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985696936046051330",
+        "conversation_id": "2068036891434483914",
+        "created_at": "2026-06-19T18:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068037721659249014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068037721659249014",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068036891434483914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 摸摸你😭只能等精神状态稳定了再考虑慢慢戒断吧………"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 |\nDM欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 379,
+          "like_count": 7426,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2086
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T13:14:38.000Z",
+        "description": "星間｜干渉｜融解｜輪廻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "whiteroses.edu",
+                "end": 23,
+                "expanded_url": "http://whiteroses.edu",
+                "start": 0,
+                "url": "https://t.co/60c6G2hl4b"
+              }
+            ]
+          }
+        },
+        "id": "1985696936046051330",
+        "location": "white.roses",
+        "name": "𝓛𝔂𝓷𝓷泠（劝人休学/OD/紫餐第一人）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061179361513078784/C_ypQRQh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 79,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 228
+        },
+        "url": "https://t.co/60c6G2hl4b",
+        "username": "whitelightroses",
+        "verified": false
+      }
+    ]
+  }
+}

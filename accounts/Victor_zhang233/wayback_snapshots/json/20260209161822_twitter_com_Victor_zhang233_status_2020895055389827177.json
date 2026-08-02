@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2020894298749948219",
+    "created_at": "2026-02-09T16:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T17:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020895055389827177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1492808050461196288",
+          "start": 0,
+          "username": "Breaking_Lead_G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020895055389827177",
+    "in_reply_to_user_id": "1492808050461196288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020894298749948219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Breaking_Lead_G 原来是这个od吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2020894282954256384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuopKgbMAAepU6.jpg",
+        "width": 1344
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2020894282958454784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuopKhbQAAgZme.jpg",
+        "width": 1344
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2020894282958372864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuopKhaAAAXIwc.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2020894298749948219",
+        "created_at": "2026-02-09T16:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T17:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020895055389827177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1492808050461196288",
+              "start": 0,
+              "username": "Breaking_Lead_G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020895055389827177",
+        "in_reply_to_user_id": "1492808050461196288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020894298749948219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Breaking_Lead_G 原来是这个od吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020894282954256384",
+            "3_2020894282958454784",
+            "3_2020894282958372864"
+          ]
+        },
+        "author_id": "1492808050461196288",
+        "conversation_id": "2020894298749948219",
+        "created_at": "2026-02-09T16:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T17:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020894298749948219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fAuA86CPLo",
+              "end": 34,
+              "expanded_url": "https://x.com/Breaking_Lead_G/status/2020894298749948219/photo/1",
+              "media_key": "3_2020894282954256384",
+              "start": 11,
+              "url": "https://t.co/fAuA86CPLo"
+            },
+            {
+              "display_url": "pic.x.com/fAuA86CPLo",
+              "end": 34,
+              "expanded_url": "https://x.com/Breaking_Lead_G/status/2020894298749948219/photo/1",
+              "media_key": "3_2020894282958454784",
+              "start": 11,
+              "url": "https://t.co/fAuA86CPLo"
+            },
+            {
+              "display_url": "pic.x.com/fAuA86CPLo",
+              "end": 34,
+              "expanded_url": "https://x.com/Breaking_Lead_G/status/2020894298749948219/photo/1",
+              "media_key": "3_2020894282958372864",
+              "start": 11,
+              "url": "https://t.co/fAuA86CPLo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020894298749948219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为od被请去喝茶了 https://t.co/fAuA86CPLo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "林中落雨，秋前盛夏",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016888733715615747/2ZjaRw3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 78,
+          "like_count": 1730,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 879
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T10:29:22.000Z",
+        "description": "我要转生技术营销号。\n\n个人开发者，喜欢函数式编程，古典音乐和神秘感。\n\n所有神奇内容转小号发布",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "breakinglead.github.io",
+                "end": 23,
+                "expanded_url": "https://breakinglead.github.io/",
+                "start": 0,
+                "url": "https://t.co/sGcD4zcKTB"
+              }
+            ]
+          }
+        },
+        "id": "1492808050461196288",
+        "location": "Xi'an",
+        "name": "千秋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009908068763742211/nMj1rGML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 685,
+          "like_count": 1682,
+          "listed_count": 8,
+          "media_count": 689,
+          "tweet_count": 7328
+        },
+        "url": "https://t.co/sGcD4zcKTB",
+        "username": "Breaking_Lead_G",
+        "verified": false
+      }
+    ]
+  }
+}

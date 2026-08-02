@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2076880332394291376",
+    "created_at": "2026-07-14T05:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T06:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076903398759436612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2008420775204896768",
+          "start": 0,
+          "username": "saki7999"
+        },
+        {
+          "end": 20,
+          "id": "2066715278873088000",
+          "start": 10,
+          "username": "AliceMeWu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076903398759436612",
+    "in_reply_to_user_id": "2008420775204896768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076902864731971615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saki7999 @AliceMeWu 不我想说的是\n物竞天择，适者生存"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2076880332394291376",
+        "created_at": "2026-07-14T05:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076903398759436612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "saki7999"
+            },
+            {
+              "end": 20,
+              "id": "2066715278873088000",
+              "start": 10,
+              "username": "AliceMeWu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076903398759436612",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076902864731971615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saki7999 @AliceMeWu 不我想说的是\n物竞天择，适者生存"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2076880332394291376",
+        "created_at": "2026-07-14T05:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076902864731971615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            },
+            {
+              "end": 27,
+              "id": "2066715278873088000",
+              "start": 17,
+              "username": "AliceMeWu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076902864731971615",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076895257875378451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 @AliceMeWu 其实是角斗场，不是我死就是他死，，，，很压抑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him | 药物欣快重度依赖 | \n这是哪里。。？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 469,
+          "like_count": 9953,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2314
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "人啊，幸福的活下去吧",
+        "id": "2008420775204896768",
+        "name": "岐哥，梦想哭了",
+        "pinned_tweet_id": "2076621919206396121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 91,
+          "like_count": 2588,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 2564
+        },
+        "url": "",
+        "username": "saki7999",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-16T02:52:43.000Z",
+        "description": "我的人生充满了痛苦 16⬆️OD ZC ZS 精神疾病 休学中 我是女生 这是我第4个号了 我没有什么朋友 对不起不加墙内呀 被盒过有心理阴影谢谢宝宝们理解😭想和同类互fo🥹",
+        "id": "2066715278873088000",
+        "name": "アイレス🦴",
+        "pinned_tweet_id": "2069465574938390584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071797410100379648/8bPabf67_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 154,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "AliceMeWu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1821531248315220333",
+    "created_at": "2024-08-09T11:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T12:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821870848967598088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1695400014959595520",
+          "start": 0,
+          "username": "lijiang0721"
+        },
+        {
+          "end": 24,
+          "id": "1576791571831422976",
+          "start": 13,
+          "username": "linjiyewei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821870848967598088",
+    "in_reply_to_user_id": "1695400014959595520",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821569847270265258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lijiang0721 @linjiyewei 这辈子有了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1821531248315220333",
+        "created_at": "2024-08-09T11:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T12:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821870848967598088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1695400014959595520",
+              "start": 0,
+              "username": "lijiang0721"
+            },
+            {
+              "end": 24,
+              "id": "1576791571831422976",
+              "start": 13,
+              "username": "linjiyewei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821870848967598088",
+        "in_reply_to_user_id": "1695400014959595520",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821569847270265258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijiang0721 @linjiyewei 这辈子有了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821569842845286400"
+          ]
+        },
+        "author_id": "1695400014959595520",
+        "conversation_id": "1821531248315220333",
+        "created_at": "2024-08-08T15:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T16:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821569847270265258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1576791571831422976",
+              "start": 0,
+              "username": "linjiyewei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/69mukhedgw",
+              "end": 35,
+              "expanded_url": "https://twitter.com/lijiang0721/status/1821569847270265258/photo/1",
+              "media_key": "3_1821569842845286400",
+              "start": 12,
+              "url": "https://t.co/69MukHedGw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821569847270265258",
+        "in_reply_to_user_id": "1576791571831422976",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 393,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821531248315220333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linjiyewei https://t.co/69MukHedGw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这///简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": ".. лесе",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 34,
+          "like_count": 230,
+          "listed_count": 0,
+          "tweet_count": 278
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T11:37:24.000Z",
+        "description": "微键政🗳️/友跨🏳️‍⚧️/还是Minecraft大佬⛏️/VOCALOID狂热者🎵/见习P主🎤/摄影爱好者📷",
+        "id": "1695400014959595520",
+        "location": "距离您约6.4km",
+        "name": "离酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804904157956169728/GnHrqIk9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 203,
+          "like_count": 2578,
+          "listed_count": 0,
+          "tweet_count": 332
+        },
+        "username": "lijiang0721",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-03T04:29:55.000Z",
+        "description": "來自中華人民共和國🇨🇳香港特別行政區🇭🇰今年十四，在上海讀書，數理化偏好。熱愛War Thunder、Genshin Impact。好友@MuShi114514小號@Lyney1949,@Venti1949",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "MuShi114514"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Lyney1949"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "Venti1949"
+              }
+            ]
+          }
+        },
+        "id": "1576791571831422976",
+        "location": "中華人民共和國🇨🇳香港特別行政區🇭🇰",
+        "name": "林績業為🇨🇳🇭🇰",
+        "pinned_tweet_id": "1821389743978127747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735063617471684608/tKwHLjCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2212,
+          "following_count": 580,
+          "like_count": 12294,
+          "listed_count": 29,
+          "tweet_count": 4587
+        },
+        "username": "linjiyewei",
+        "verified": false
+      }
+    ]
+  }
+}

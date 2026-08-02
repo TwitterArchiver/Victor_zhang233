@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2073455022273400973",
+    "created_at": "2026-07-04T17:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T18:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073455022273400973"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nagaikisetsu/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/nagaikisetsu/status/2073453703282188676",
+          "start": 7,
+          "url": "https://t.co/0sGMzvb3vI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073455022273400973",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073453703282188676",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "幻象中的世界 https://t.co/0sGMzvb3vI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2073455022273400973",
+        "created_at": "2026-07-04T17:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073455022273400973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nagaikisetsu/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/nagaikisetsu/status/2073453703282188676",
+              "start": 7,
+              "url": "https://t.co/0sGMzvb3vI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073455022273400973",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073453703282188676",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幻象中的世界 https://t.co/0sGMzvb3vI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797831340987195392",
+        "conversation_id": "2073453703282188676",
+        "created_at": "2026-07-04T17:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073453703282188676"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073453703282188676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃我是说，为什么我不能同时做你的姐姐、朋友、恋人、心理医生、妈妈和主人呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 | \n这是哪里。。？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Dekadens",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 431,
+          "like_count": 8908,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 2144
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T03:23:07.000Z",
+        "description": "好厉害，你简直是后悔的天才",
+        "id": "1797831340987195392",
+        "name": "我变成这样都是你们害的",
+        "pinned_tweet_id": "1948671608551604689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073444860007510016/zGlZvSiF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 120,
+          "like_count": 5259,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "nagaikisetsu",
+        "verified": false
+      }
+    ]
+  }
+}

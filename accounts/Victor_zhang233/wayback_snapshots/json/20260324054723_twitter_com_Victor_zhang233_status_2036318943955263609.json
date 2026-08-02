@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2036245735948296418",
+    "created_at": "2026-03-24T05:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T06:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036318943955263609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2034487540527587328",
+          "start": 0,
+          "username": "Lain1984326"
+        },
+        {
+          "end": 27,
+          "id": "1790448736629301248",
+          "start": 13,
+          "username": "xijinping_bot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036318943955263609",
+    "in_reply_to_user_id": "2034487540527587328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036291281182445995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lain1984326 @xijinping_bot 你这话敢自己再读一遍吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2036245735948296418",
+        "created_at": "2026-03-24T05:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T06:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036318943955263609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2034487540527587328",
+              "start": 0,
+              "username": "Lain1984326"
+            },
+            {
+              "end": 27,
+              "id": "1790448736629301248",
+              "start": 13,
+              "username": "xijinping_bot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036318943955263609",
+        "in_reply_to_user_id": "2034487540527587328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036291281182445995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lain1984326 @xijinping_bot 你这话敢自己再读一遍吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034487540527587328",
+        "conversation_id": "2036245735948296418",
+        "created_at": "2026-03-24T03:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036291281182445995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1790448736629301248",
+              "start": 0,
+              "username": "xijinping_bot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036291281182445995",
+        "in_reply_to_user_id": "1790448736629301248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036245735948296418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinping_bot 给我看压抑了，想嗦主席大大的牛子😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "T^T",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032502037242662912/m7BPbwdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 119,
+          "like_count": 2445,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1093
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T04:30:11.000Z",
+        "description": "我只存于他人记忆之中...\n\n民主社会主义 | Meme | 百合 | 战犯 | 极客 | Python学习中 | \nDemocratic Socialism | Meme | Yuri | HOI4 | Geek | Python Learner |",
+        "id": "2034487540527587328",
+        "location": "Tokyo, Japan",
+        "name": "玲音𝕷𝖆𝖎𝖓🌹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035402849946120192/Fd9v0DxO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 168,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 198
+        },
+        "username": "Lain1984326",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T18:27:07.000Z",
+        "description": "朝闻道，夕死可矣/异端毛派/📕🔪/主人@mizuki_bot @Pomb0ring @shigure07288 星努@shigure07288 @Ceciliahyve @shigure07288 @SocDemCNBunny /本账所有言论由葱娘酱和猫在雷指使、发布，本人毫不知情/激化矛盾，全面加速",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "mizuki_bot"
+              },
+              {
+                "end": 41,
+                "start": 31,
+                "username": "Pomb0ring"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "shigure07288"
+              },
+              {
+                "end": 71,
+                "start": 58,
+                "username": "shigure07288"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Ceciliahyve"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "shigure07288"
+              },
+              {
+                "end": 113,
+                "start": 99,
+                "username": "SocDemCNBunny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xijinping_bot",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xijinping_bot",
+                "start": 0,
+                "url": "https://t.co/Tm583EY5ti"
+              }
+            ]
+          }
+        },
+        "id": "1790448736629301248",
+        "location": "毛主席纪念堂，愿文明的春风吹走西伯利亚的严寒",
+        "name": "羽泽东🚩🇮🇷——苏系基本盘 斯大林的丈夫",
+        "pinned_tweet_id": "2035857012366643509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031303065001926656/OAZEIhGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1770,
+          "following_count": 1490,
+          "like_count": 18770,
+          "listed_count": 8,
+          "media_count": 740,
+          "tweet_count": 15372
+        },
+        "url": "https://t.co/Tm583EY5ti",
+        "username": "xijinping_bot",
+        "verified": false
+      }
+    ]
+  }
+}

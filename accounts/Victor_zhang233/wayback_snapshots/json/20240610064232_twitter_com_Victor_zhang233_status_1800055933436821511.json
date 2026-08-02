@@ -1,0 +1,223 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1799984087169474902",
+    "created_at": "2024-06-10T06:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T07:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800055933436821511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753647103770050560",
+          "start": 0,
+          "username": "Nchzh184280"
+        },
+        {
+          "end": 27,
+          "id": "1255683752191234048",
+          "start": 13,
+          "username": "sugar63544232"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800055933436821511",
+    "in_reply_to_user_id": "1753647103770050560",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800024053241327951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nchzh184280 @sugar63544232 哦？我qq被封了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1799984087169474902",
+        "created_at": "2024-06-10T06:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T07:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800055933436821511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1753647103770050560",
+              "start": 0,
+              "username": "Nchzh184280"
+            },
+            {
+              "end": 27,
+              "id": "1255683752191234048",
+              "start": 13,
+              "username": "sugar63544232"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800055933436821511",
+        "in_reply_to_user_id": "1753647103770050560",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800024053241327951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nchzh184280 @sugar63544232 哦？我qq被封了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1753647103770050560",
+        "conversation_id": "1799984087169474902",
+        "created_at": "2024-06-10T04:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T05:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800024053241327951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1255683752191234048",
+              "start": 0,
+              "username": "sugar63544232"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800024053241327951",
+        "in_reply_to_user_id": "1255683752191234048",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 568,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799984087169474902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sugar63544232 宣傳正能量怎麼還會被拘留呢？🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这//白左/简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "仿生人是否会梦见电子羊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 36,
+          "like_count": 120,
+          "listed_count": 0,
+          "tweet_count": 166
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T05:10:44.000Z",
+        "description": "新中國開國十大元帥之一，先後任國務院副總理、中共中央副主席、國防部部長、中共中央軍委第一副主席等重要職務。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sbxijinping.com",
+                "end": 23,
+                "expanded_url": "http://sbxijinping.com",
+                "start": 0,
+                "url": "https://t.co/UzHHFADprX"
+              }
+            ]
+          }
+        },
+        "id": "1753647103770050560",
+        "location": "中華人民共和國",
+        "name": "林彪",
+        "pinned_tweet_id": "1799702591603134757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800025048838991872/BldixRvM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 91,
+          "like_count": 2193,
+          "listed_count": 0,
+          "tweet_count": 790
+        },
+        "url": "https://t.co/UzHHFADprX",
+        "username": "Nchzh184280",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-30T02:22:07.000Z",
+        "description": "pi全球布道，邀请码Tjm691116。电话13212390018 。89年大一入狱三年； 99年被陷害坐牢一年； 2013年6、4前江西南康市国保监视居住七天； 14年因声援秦永敏被重庆万州区国保训诫； 18年3月邀网友杭州赏樱花被杭州国保拘留并驱逐； 18年12月被川渝两地国保训诫",
+        "id": "1255683752191234048",
+        "name": "唐浩铭字隆兵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706870111502471168/9qCqvvU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11600,
+          "following_count": 8898,
+          "like_count": 5709,
+          "listed_count": 15,
+          "tweet_count": 13246
+        },
+        "username": "sugar63544232",
+        "verified": false
+      }
+    ]
+  }
+}

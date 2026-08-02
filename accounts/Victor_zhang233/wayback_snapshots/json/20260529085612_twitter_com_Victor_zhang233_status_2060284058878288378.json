@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2060284058878288378",
+    "created_at": "2026-05-29T08:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060284058878288378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1837114188046684161",
+          "start": 3,
+          "username": "winterfruit_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060284058878288378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035826386976506361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @winterfruit_1: 我觉得你是一个傻蛋，好了，不跟你废话了，我得去OD了，今天的目标是吃到第4000片右美沙芬，吃不到就不睡觉。\n你自个儿在地球上慢慢割手，慢慢昏死，慢慢缓过来吧！记住，七月别来火星，来了我也不见你，因为我要去火星另一边OD，没空搭理你这个废物…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2060284058878288378",
+        "created_at": "2026-05-29T08:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060284058878288378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1837114188046684161",
+              "start": 3,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060284058878288378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035826386976506361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @winterfruit_1: 我觉得你是一个傻蛋，好了，不跟你废话了，我得去OD了，今天的目标是吃到第4000片右美沙芬，吃不到就不睡觉。\n你自个儿在地球上慢慢割手，慢慢昏死，慢慢缓过来吧！记住，七月别来火星，来了我也不见你，因为我要去火星另一边OD，没空搭理你这个废物…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2035826386976506361",
+        "created_at": "2026-03-22T21:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T22:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035826386976506361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035826386976506361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2496,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得你是一个傻蛋，好了，不跟你废话了，我得去OD了，今天的目标是吃到第4000片右美沙芬，吃不到就不睡觉。\n你自个儿在地球上慢慢割手，慢慢昏死，慢慢缓过来吧！记住，七月别来火星，来了我也不见你，因为我要去火星另一边OD，没空搭理你这个废物！拜拜！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2059669582818721884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 244,
+          "like_count": 4805,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1647
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2614,
+          "following_count": 1473,
+          "like_count": 42201,
+          "listed_count": 6,
+          "media_count": 1835,
+          "tweet_count": 12525
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

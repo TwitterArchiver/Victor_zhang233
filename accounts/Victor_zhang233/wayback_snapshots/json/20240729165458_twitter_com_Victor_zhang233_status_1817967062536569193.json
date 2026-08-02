@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1817885009614979560",
+    "created_at": "2024-07-29T16:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-29T17:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817967062536569193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1592805077101596675",
+          "start": 0,
+          "username": "lerosase8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817967062536569193",
+    "in_reply_to_user_id": "1592805077101596675",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817885009614979560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lerosase8964 焦虑症且抑郁症患者：你好😀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1817885009614979560",
+        "created_at": "2024-07-29T16:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T17:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817967062536569193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1592805077101596675",
+              "start": 0,
+              "username": "lerosase8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817967062536569193",
+        "in_reply_to_user_id": "1592805077101596675",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817885009614979560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lerosase8964 焦虑症且抑郁症患者：你好😀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592805077101596675",
+        "conversation_id": "1817885009614979560",
+        "created_at": "2024-07-29T11:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T12:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817885009614979560"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1817885009614979560",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1028,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "抑郁症：你很累，什么都不想做，躺在床上就好了\n焦虑症：你多躺一秒都是在浪费时间，快去看书看文章\n\n我要听谁的啊😵‍💫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这///简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": ".. лесе",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 38,
+          "like_count": 210,
+          "listed_count": 0,
+          "tweet_count": 259
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T09:01:49.000Z",
+        "description": "马列毛主义/中度抑郁焦虑/🇺🇦🇵🇸🏳️‍🌈🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "longlivemarxleninmaoism.online",
+                "end": 23,
+                "expanded_url": "https://longlivemarxleninmaoism.online",
+                "start": 0,
+                "url": "https://t.co/QQIdbwR5f4"
+              }
+            ]
+          }
+        },
+        "id": "1592805077101596675",
+        "location": "中華人民共和國（1949-1976）",
+        "name": "椿宫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817157807155879936/Wxnb1iEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 1089,
+          "like_count": 12008,
+          "listed_count": 11,
+          "tweet_count": 4300
+        },
+        "url": "https://t.co/QQIdbwR5f4",
+        "username": "lerosase8964",
+        "verified": false
+      }
+    ]
+  }
+}

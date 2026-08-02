@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1847270834664055002",
+    "created_at": "2024-10-18T13:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-18T14:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847270834664055002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1817115470736293889",
+          "start": 3,
+          "username": "8964jiaoxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847270834664055002",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847102766071599482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964jiaoxi: 一共简直就是一个乙游大世界💕\n💙想要成熟稳重，双开门有周恩来💙\n💜想要幽默不失风趣有毛泽东💜\n💚想要香香软软能一口吃掉的小正太有邓小平💚\n❤️如果想要我们的老公姐还有王洪文❤️\n💗要我说，你们毛左吃的也真是太好了吧💘\n🎁今天我已经垂直入坑了🎉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1847270834664055002",
+        "created_at": "2024-10-18T13:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T14:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847270834664055002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1817115470736293889",
+              "start": 3,
+              "username": "8964jiaoxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847270834664055002",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847102766071599482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964jiaoxi: 一共简直就是一个乙游大世界💕\n💙想要成熟稳重，双开门有周恩来💙\n💜想要幽默不失风趣有毛泽东💜\n💚想要香香软软能一口吃掉的小正太有邓小平💚\n❤️如果想要我们的老公姐还有王洪文❤️\n💗要我说，你们毛左吃的也真是太好了吧💘\n🎁今天我已经垂直入坑了🎉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817115470736293889",
+        "conversation_id": "1847102766071599482",
+        "created_at": "2024-10-18T02:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T03:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847102766071599482"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1847102766071599482",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2059,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "一共简直就是一个乙游大世界💕\n💙想要成熟稳重，双开门有周恩来💙\n💜想要幽默不失风趣有毛泽东💜\n💚想要香香软软能一口吃掉的小正太有邓小平💚\n❤️如果想要我们的老公姐还有王洪文❤️\n💗要我说，你们毛左吃的也真是太好了吧💘\n🎁今天我已经垂直入坑了🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这///简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、可能是网左（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 46,
+          "like_count": 320,
+          "listed_count": 0,
+          "tweet_count": 334
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T08:31:17.000Z",
+        "description": "07高三/isfp/新左派/史同人/革命女权/支持lgbt/支持🇺🇦🇵🇸/社会主义多党制/不排斥毛霍安托西/泛左互fo",
+        "id": "1817115470736293889",
+        "location": "桃花源",
+        "name": "艽蒠",
+        "pinned_tweet_id": "1817116413364195565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817115656439103489/krVMWwmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 538,
+          "like_count": 10391,
+          "listed_count": 0,
+          "tweet_count": 1387
+        },
+        "username": "8964jiaoxi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1817115315110600828",
+    "created_at": "2024-07-28T05:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T06:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817439452282704219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1492484292106244096",
+          "start": 0,
+          "username": "linna_aowu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817439452282704219",
+    "in_reply_to_user_id": "1492484292106244096",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817115315110600828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linna_aowu 海边的曼彻斯特"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1817115315110600828",
+        "created_at": "2024-07-28T05:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T06:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817439452282704219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1492484292106244096",
+              "start": 0,
+              "username": "linna_aowu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817439452282704219",
+        "in_reply_to_user_id": "1492484292106244096",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817115315110600828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linna_aowu 海边的曼彻斯特"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1817115303974707200"
+          ]
+        },
+        "author_id": "1492484292106244096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1817115315110600828",
+        "created_at": "2024-07-27T08:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T09:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817115315110600828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/iM0sICKHt1",
+              "end": 41,
+              "expanded_url": "https://twitter.com/linna_aowu/status/1817115315110600828/photo/1",
+              "media_key": "3_1817115303974707200",
+              "start": 18,
+              "url": "https://t.co/iM0sICKHt1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817115315110600828",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 134582,
+          "like_count": 675,
+          "quote_count": 7,
+          "reply_count": 468,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "看到这条的人推一部电影/一本书给我 https://t.co/iM0sICKHt1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这///简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": ".. лесе",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 37,
+          "like_count": 197,
+          "listed_count": 0,
+          "tweet_count": 247
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T13:02:48.000Z",
+        "description": "冲浪 不约 🚪520",
+        "id": "1492484292106244096",
+        "location": "在诗歌里     ",
+        "name": "请允许我做你的主人",
+        "pinned_tweet_id": "1537778316194631681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739487035738447872/adMc9sof_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64630,
+          "following_count": 57,
+          "like_count": 8541,
+          "listed_count": 179,
+          "tweet_count": 10866
+        },
+        "username": "linna_aowu",
+        "verified": false
+      }
+    ]
+  }
+}

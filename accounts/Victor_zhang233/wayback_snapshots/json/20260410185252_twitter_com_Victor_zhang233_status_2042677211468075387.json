@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2042659192545374683",
+    "created_at": "2026-04-10T18:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T19:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042677211468075387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1869225418286637056",
+          "start": 0,
+          "username": "Li_chuangwang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042677211468075387",
+    "in_reply_to_user_id": "1869225418286637056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042659192545374683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Li_chuangwang 这是什么歌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2042659192545374683",
+        "created_at": "2026-04-10T18:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042677211468075387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1869225418286637056",
+              "start": 0,
+              "username": "Li_chuangwang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042677211468075387",
+        "in_reply_to_user_id": "1869225418286637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042659192545374683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Li_chuangwang 这是什么歌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869225418286637056",
+        "conversation_id": "2042659192545374683",
+        "created_at": "2026-04-10T17:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042659192545374683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042659192545374683",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“От Волги до Енисея，\n从伏尔加河到叶尼塞河，\nБразилия, моя Бразилия，\n巴西，我的巴西”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "你为你的圣父哭泣，但祂不会记住你的名姓...",
+        "id": "1755494652889661440",
+        "location": "人间",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038442200997265408/vibWzS-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 144,
+          "like_count": 3309,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1248
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T03:37:40.000Z",
+        "description": "我连腐烂也不够有趣",
+        "id": "1869225418286637056",
+        "name": "以实玛利",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963303128390053888/XBgW69w6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 58,
+          "like_count": 2844,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 189
+        },
+        "username": "Li_chuangwang",
+        "verified": false
+      }
+    ]
+  }
+}

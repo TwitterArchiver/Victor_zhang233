@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1813534956234404320",
+    "created_at": "2024-07-17T14:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-17T15:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813588558822998417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1790448736629301248",
+          "start": 0,
+          "username": "xijinping_bot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813588558822998417",
+    "in_reply_to_user_id": "1790448736629301248",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813534956234404320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinping_bot 键盘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1813534956234404320",
+        "created_at": "2024-07-17T14:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T15:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813588558822998417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1790448736629301248",
+              "start": 0,
+              "username": "xijinping_bot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813588558822998417",
+        "in_reply_to_user_id": "1790448736629301248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813534956234404320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinping_bot 键盘"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1813534951553314816"
+          ]
+        },
+        "author_id": "1790448736629301248",
+        "conversation_id": "1813534956234404320",
+        "created_at": "2024-07-17T11:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T12:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813534956234404320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/qUhNhRvBNH",
+              "end": 49,
+              "expanded_url": "https://twitter.com/xijinping_bot/status/1813534956234404320/photo/1",
+              "media_key": "3_1813534951553314816",
+              "start": 26,
+              "url": "https://t.co/qUhNhRvBNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813534956234404320",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12196,
+          "like_count": 128,
+          "quote_count": 6,
+          "reply_count": 155,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们打出jp出现的是什么？我这属实是入心入脑入魂了 https://t.co/qUhNhRvBNH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这//白左/简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": ".. Лунный",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 38,
+          "like_count": 180,
+          "listed_count": 0,
+          "tweet_count": 230
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T18:27:07.000Z",
+        "description": "欢迎互fo/可以不点名或点名批判某人，欢迎大家投稿，助力中推绿色网络建设/本帐号即会正常发文，也会接受投稿，接受投稿时会标明数字序号/无意冒犯所有被隔空批判和谩骂的人/反串我的畜生@aoxiongdiguo5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "aoxiongdiguo5"
+              }
+            ]
+          }
+        },
+        "id": "1790448736629301248",
+        "location": "毛主席纪念堂",
+        "name": "点名批评bot",
+        "pinned_tweet_id": "1810679775180296518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810679177789526016/Sjf_aiEM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 741,
+          "like_count": 5028,
+          "listed_count": 1,
+          "tweet_count": 3842
+        },
+        "username": "xijinping_bot",
+        "verified": false
+      }
+    ]
+  }
+}

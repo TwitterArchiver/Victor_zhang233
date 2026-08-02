@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007549464811278336"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2007466454619201617",
+    "created_at": "2026-01-03T20:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T21:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007549468934320405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1986828541930119168",
+          "start": 0,
+          "username": "shigure07288"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FHmuxLnq0k",
+          "end": 37,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2007549468934320405/photo/1",
+          "media_key": "3_2007549464811278336",
+          "start": 14,
+          "url": "https://t.co/FHmuxLnq0k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007549468934320405",
+    "in_reply_to_user_id": "1986828541930119168",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007466454619201617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shigure07288 https://t.co/FHmuxLnq0k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2007549464811278336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9w_mg8aEAAY2fW.jpg",
+        "width": 2252
+      },
+      {
+        "height": 888,
+        "media_key": "3_2007466393403609088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9v0DH1bUAADVt3.jpg",
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007549464811278336"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2007466454619201617",
+        "created_at": "2026-01-03T20:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T21:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007549468934320405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1986828541930119168",
+              "start": 0,
+              "username": "shigure07288"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FHmuxLnq0k",
+              "end": 37,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2007549468934320405/photo/1",
+              "media_key": "3_2007549464811278336",
+              "start": 14,
+              "url": "https://t.co/FHmuxLnq0k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007549468934320405",
+        "in_reply_to_user_id": "1986828541930119168",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007466454619201617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shigure07288 https://t.co/FHmuxLnq0k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007466393403609088"
+          ]
+        },
+        "author_id": "1986828541930119168",
+        "conversation_id": "2007466454619201617",
+        "created_at": "2026-01-03T14:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T15:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007466454619201617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nn90NvvJuw",
+              "end": 30,
+              "expanded_url": "https://x.com/shigure07288/status/2007466454619201617/photo/1",
+              "media_key": "3_2007466393403609088",
+              "start": 7,
+              "url": "https://t.co/Nn90NvvJuw"
+            },
+            {
+              "display_url": "x.com/HXD3D_8028/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/HXD3D_8028/status/2007457367953215812",
+              "start": 31,
+              "url": "https://t.co/3tvDrAZZ6X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007466454619201617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7127,
+          "like_count": 117,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007457367953215812",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你学了什么？ https://t.co/Nn90NvvJuw https://t.co/3tvDrAZZ6X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001408376811704320/27ExCAWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 106,
+          "like_count": 1390,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 779
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "“于是我们高呼道：革命死了，革命万岁！”\n📕🌈Non binary|They|INTP-A|Maoism|Democratic Socialism|Left-wing populism|Anti-capitalism|Egalitarianism|Anti-radfem|Trans-friendly",
+        "id": "1986828541930119168",
+        "name": "時雨☭🚩",
+        "pinned_tweet_id": "2004470065887117362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000105141819822081/jcOymgO0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 483,
+          "like_count": 1267,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 1750
+        },
+        "username": "shigure07288",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1905583100970578007",
+    "created_at": "2025-03-28T11:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T12:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905588215399989505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1654908701772496896",
+          "start": 0,
+          "username": "TsumetaiAme514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905588215399989505",
+    "in_reply_to_user_id": "1654908701772496896",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905583100970578007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TsumetaiAme514 😨😨😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1905583100970578007",
+        "created_at": "2025-03-28T11:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T12:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905588215399989505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1654908701772496896",
+              "start": 0,
+              "username": "TsumetaiAme514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905588215399989505",
+        "in_reply_to_user_id": "1654908701772496896",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905583100970578007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TsumetaiAme514 😨😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654908701772496896",
+        "conversation_id": "1905583100970578007",
+        "created_at": "2025-03-28T11:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T12:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905583100970578007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905583100970578007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要被强对流整死了\n昨天中午出门的时候还是32°\n就隔了三小时就降到11°\n穿着夏装的我直接被冻成人棍了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/抑郁焦虑/黑金属/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 坏人堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 67,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 543
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-06T17:59:27.000Z",
+        "description": "",
+        "id": "1654908701772496896",
+        "location": "No.200 People Avenue, Shanghai",
+        "name": "Tsumetai Ame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893678023758454784/vO6S0LFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4310,
+          "following_count": 1081,
+          "like_count": 19113,
+          "listed_count": 8,
+          "media_count": 256,
+          "tweet_count": 3198
+        },
+        "username": "TsumetaiAme514",
+        "verified": false
+      }
+    ]
+  }
+}

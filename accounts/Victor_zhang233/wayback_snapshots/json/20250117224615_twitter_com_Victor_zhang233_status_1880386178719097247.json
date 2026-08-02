@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1879340850008002563",
+    "created_at": "2025-01-17T22:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T23:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880386178719097247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1580943218908069888",
+          "start": 0,
+          "username": "luoshalusenbao7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880386178719097247",
+    "in_reply_to_user_id": "1580943218908069888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879340926356865497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoshalusenbao7 讲的不错，多来点，关注了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1879340850008002563",
+        "created_at": "2025-01-17T22:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T23:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880386178719097247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1580943218908069888",
+              "start": 0,
+              "username": "luoshalusenbao7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880386178719097247",
+        "in_reply_to_user_id": "1580943218908069888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879340926356865497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshalusenbao7 讲的不错，多来点，关注了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580943218908069888",
+        "conversation_id": "1879340850008002563",
+        "created_at": "2025-01-15T01:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T02:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879340926356865497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879340926356865497",
+        "in_reply_to_user_id": "1580943218908069888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2495,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879340850008002563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就像你刷了一整天的B站知乎，看似了解了不少东西，然而由于这些媒介本身的特性以及其背后几乎并不涉及论证过程以及方法论，你不了解这个观点是如何被生产出来的，而只是被动的接受这些结论性的观点，本质上来讲你只是在消费而并非在思考，你刷一个月的知乎也不如踏踏实实地看一本书带来的收获要大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 57,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 426
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T15:26:56.000Z",
+        "description": "我们必将消灭这建立在流沙之上虚假的秩序，我来过，我又来到，我还将重临！社会主义或野蛮！\n\n卢关搭子：@gyrozeppeli8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "gyrozeppeli8964"
+              }
+            ]
+          }
+        },
+        "id": "1580943218908069888",
+        "location": "斯巴达克同盟",
+        "name": "Rosa Luxemburg（parody）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838523272427900928/jhJeMDAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2686,
+          "following_count": 2570,
+          "like_count": 49561,
+          "listed_count": 10,
+          "media_count": 22,
+          "tweet_count": 2251
+        },
+        "username": "luoshalusenbao7",
+        "verified": false
+      }
+    ]
+  }
+}

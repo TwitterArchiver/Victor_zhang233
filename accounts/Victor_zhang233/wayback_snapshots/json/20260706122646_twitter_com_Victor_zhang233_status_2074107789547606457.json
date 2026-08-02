@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2074107789547606457",
+    "created_at": "2026-07-06T12:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T13:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074107789547606457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1969724121027407872",
+          "start": 2,
+          "username": "Acidrain_ame"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Victor_zhang23…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Victor_zhang233/status/2073814233482215853",
+          "start": 19,
+          "url": "https://t.co/EaUT8bjxQr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074107789547606457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073814233482215853",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实@acidrain_ame是原创 https://t.co/EaUT8bjxQr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 338,
+        "media_key": "3_2073814224976121856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMerDNHakAATovb.jpg",
+        "width": 672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2074107789547606457",
+        "created_at": "2026-07-06T12:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074107789547606457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1969724121027407872",
+              "start": 2,
+              "username": "Acidrain_ame"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Victor_zhang23…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Victor_zhang233/status/2073814233482215853",
+              "start": 19,
+              "url": "https://t.co/EaUT8bjxQr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074107789547606457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073814233482215853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实@acidrain_ame是原创 https://t.co/EaUT8bjxQr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073814224976121856"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2073814233482215853",
+        "created_at": "2026-07-05T17:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073814233482215853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7kMWq5RIj6",
+              "end": 23,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2073814233482215853/photo/1",
+              "media_key": "3_2073814224976121856",
+              "start": 0,
+              "url": "https://t.co/7kMWq5RIj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073814233482215853",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2264,
+          "like_count": 64,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7kMWq5RIj6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 | \n这是哪里。。？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 439,
+          "like_count": 9211,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 2197
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T11:23:28.000Z",
+        "description": "",
+        "id": "1969724121027407872",
+        "name": "Acid",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074107781448359936/7l2UY25Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 71,
+          "like_count": 2209,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "Acidrain_ame",
+        "verified": false
+      }
+    ]
+  }
+}

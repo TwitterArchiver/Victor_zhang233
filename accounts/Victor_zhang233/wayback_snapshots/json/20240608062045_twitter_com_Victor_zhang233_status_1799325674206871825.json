@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1799236537118527697",
+    "created_at": "2024-06-08T06:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T07:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799325674206871825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1685694034747248640",
+          "start": 0,
+          "username": "lainlain8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799325674206871825",
+    "in_reply_to_user_id": "1685694034747248640",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799236537118527697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lainlain8964 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1799236537118527697",
+        "created_at": "2024-06-08T06:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T07:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799325674206871825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1685694034747248640",
+              "start": 0,
+              "username": "lainlain8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799325674206871825",
+        "in_reply_to_user_id": "1685694034747248640",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799236537118527697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lainlain8964 😨"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799236529229115392"
+          ]
+        },
+        "author_id": "1685694034747248640",
+        "conversation_id": "1799236537118527697",
+        "created_at": "2024-06-08T00:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T01:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799236537118527697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/RwZHDa1SHU",
+              "end": 27,
+              "expanded_url": "https://twitter.com/lainlain8964/status/1799236537118527697/photo/1",
+              "media_key": "3_1799236529229115392",
+              "start": 4,
+              "url": "https://t.co/RwZHDa1SHU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799236537118527697",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1166,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好 https://t.co/RwZHDa1SHU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这是一条简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "中国",
+        "name": "仿生人是否会梦见电子羊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 29,
+          "like_count": 111,
+          "listed_count": 0,
+          "tweet_count": 144
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T16:49:23.000Z",
+        "description": "一切只為炒作服務",
+        "id": "1685694034747248640",
+        "location": "Aroace｜Agender",
+        "name": "莎樂美歸來🚩看中推圈土崩瓦解 莎家軍重生之日已經到來",
+        "pinned_tweet_id": "1786699262170128594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788213309009022977/3JYjWeWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 399,
+          "like_count": 13969,
+          "listed_count": 3,
+          "tweet_count": 7910
+        },
+        "username": "lainlain8964",
+        "verified": false
+      }
+    ]
+  }
+}

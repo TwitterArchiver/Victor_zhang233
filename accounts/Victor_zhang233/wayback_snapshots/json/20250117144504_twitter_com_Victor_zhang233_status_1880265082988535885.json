@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1879555024340271269",
+    "created_at": "2025-01-17T14:45:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T15:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880265082988535885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1824124541456830464",
+          "start": 0,
+          "username": "MPNjjuHMlG55724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880265082988535885",
+    "in_reply_to_user_id": "1824124541456830464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879555024340271269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MPNjjuHMlG55724 穿个凉袖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1879555024340271269",
+        "created_at": "2025-01-17T14:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T15:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880265082988535885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1824124541456830464",
+              "start": 0,
+              "username": "MPNjjuHMlG55724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880265082988535885",
+        "in_reply_to_user_id": "1824124541456830464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879555024340271269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MPNjjuHMlG55724 穿个凉袖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824124541456830464",
+        "conversation_id": "1879555024340271269",
+        "created_at": "2025-01-15T15:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T16:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879555024340271269"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879555024340271269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "夏天穿短袖的时候我该怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 56,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 392
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T16:43:05.000Z",
+        "description": "喜欢听华语/日语，偶尔听一些国摇（我其实对这些并不是很了解，我仅仅是听歌而已）\n普通大陆国中生\nI have a CD player",
+        "id": "1824124541456830464",
+        "location": "火星最大的刀片厂",
+        "name": "婤琳",
+        "pinned_tweet_id": "1879513835671015491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879343724661977088/iBge-mfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 137,
+          "like_count": 1127,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 770
+        },
+        "username": "MPNjjuHMlG55724",
+        "verified": false
+      }
+    ]
+  }
+}

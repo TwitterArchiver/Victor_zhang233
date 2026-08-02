@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1980881394038644828",
+    "created_at": "2025-10-22T06:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T07:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980881394038644828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1758152770560159744",
+          "start": 3,
+          "username": "xnhcy1126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980881394038644828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980814861513965621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xnhcy1126: 喜欢湿漉漉的角色。忧愁的可悲的无可救药的，或有可能是偏执的克制的崩溃的，就算擦肩而过也能感到那种淡淡潮湿与哀伤，他人生的雨季一直在绵延，渗到骨骼里面，让灵魂泛滥起甩不干净的霉斑。你说他快落泪了吗，可他看过来，却温柔地笑了。 https://t.co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1276,
+        "media_key": "3_1980814849845125120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G31EnHLWYAAKv4x.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1980881394038644828",
+        "created_at": "2025-10-22T06:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T07:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980881394038644828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1758152770560159744",
+              "start": 3,
+              "username": "xnhcy1126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980881394038644828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980814861513965621",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xnhcy1126: 喜欢湿漉漉的角色。忧愁的可悲的无可救药的，或有可能是偏执的克制的崩溃的，就算擦肩而过也能感到那种淡淡潮湿与哀伤，他人生的雨季一直在绵延，渗到骨骼里面，让灵魂泛滥起甩不干净的霉斑。你说他快落泪了吗，可他看过来，却温柔地笑了。 https://t.co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980814849845125120"
+          ]
+        },
+        "author_id": "1758152770560159744",
+        "conversation_id": "1980814861513965621",
+        "created_at": "2025-10-22T01:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T02:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980814861513965621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VhVXYr7bTG",
+              "end": 135,
+              "expanded_url": "https://x.com/xnhcy1126/status/1980814861513965621/photo/1",
+              "media_key": "3_1980814849845125120",
+              "start": 112,
+              "url": "https://t.co/VhVXYr7bTG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980814861513965621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢湿漉漉的角色。忧愁的可悲的无可救药的，或有可能是偏执的克制的崩溃的，就算擦肩而过也能感到那种淡淡潮湿与哀伤，他人生的雨季一直在绵延，渗到骨骼里面，让灵魂泛滥起甩不干净的霉斑。你说他快落泪了吗，可他看过来，却温柔地笑了。 https://t.co/VhVXYr7bTG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（// 高中生［endl］ \n只听自杀黑¿._ / \n我喜欢视奸你们^°^",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 93,
+          "like_count": 942,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 703
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T15:34:29.000Z",
+        "description": "泥嚎我是初桜 | mtx | 赛博八字isfp | 碎碎念当朋友圈发 | 欢迎私信互关扩列 | 愿看到这句话的人会永远幸福w",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mohanan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mohanan2",
+                "start": 0,
+                "url": "https://t.co/joIWD0tqyx"
+              }
+            ]
+          }
+        },
+        "id": "1758152770560159744",
+        "location": "站在世界中心呼唤爱💌",
+        "name": "汐华初流桜🍥",
+        "pinned_tweet_id": "1945491284204122119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976620950155390976/oJVaexe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 974,
+          "like_count": 18,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 414
+        },
+        "url": "https://t.co/joIWD0tqyx",
+        "username": "xnhcy1126",
+        "verified": false
+      }
+    ]
+  }
+}

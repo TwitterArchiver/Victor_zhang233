@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1979777162543767855",
+    "created_at": "2025-10-19T05:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T06:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979777162543767855"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1979777162543767855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "梦到了大屠杀，像地痞街区那样，最开始是每一个人，后来是每一个警察，因为弹药不够了（记得放过了一个披萨店店员？），就像游戏一样。。\n他们的胸膛里放着黄澄子弹和一块恢复生命值的肉，，（很像里脊）没有肺和心脏，只有肋骨\n刀也长得很奇怪，，是骨头磨成的爪刀？我猜是马骨\n😇😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1979777162543767855",
+        "created_at": "2025-10-19T05:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T06:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979777162543767855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979777162543767855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "梦到了大屠杀，像地痞街区那样，最开始是每一个人，后来是每一个警察，因为弹药不够了（记得放过了一个披萨店店员？），就像游戏一样。。\n他们的胸膛里放着黄澄子弹和一块恢复生命值的肉，，（很像里脊）没有肺和心脏，只有肋骨\n刀也长得很奇怪，，是骨头磨成的爪刀？我猜是马骨\n😇😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（// 高中生［endl］ \n只听自杀黑¿._ / \n我喜欢视奸你们^°^",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 84,
+          "like_count": 807,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 663
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

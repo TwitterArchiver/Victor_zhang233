@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2066165639023350162",
+    "created_at": "2026-06-14T14:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066170426460700964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1483726186991669250",
+          "start": 0,
+          "username": "DanTasKingdom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066170426460700964",
+    "in_reply_to_user_id": "1483726186991669250",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066169385073746005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DanTasKingdom 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2066165639023350162",
+        "created_at": "2026-06-14T14:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066170426460700964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1483726186991669250",
+              "start": 0,
+              "username": "DanTasKingdom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066170426460700964",
+        "in_reply_to_user_id": "1483726186991669250",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066169385073746005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DanTasKingdom 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1483726186991669250",
+        "conversation_id": "2066165639023350162",
+        "created_at": "2026-06-14T14:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066169385073746005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066169385073746005",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066165639023350162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 殉情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "简介是什么？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 325,
+          "like_count": 6745,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1986
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-19T09:01:16.000Z",
+        "description": "何で",
+        "id": "1483726186991669250",
+        "name": "くろいタバコ",
+        "pinned_tweet_id": "1824664213555646491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036646525116506112/OCgXH5FQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 271,
+          "like_count": 81,
+          "listed_count": 5,
+          "media_count": 2,
+          "tweet_count": 18
+        },
+        "username": "DanTasKingdom",
+        "verified": false
+      }
+    ]
+  }
+}

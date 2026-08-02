@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1968161280314970191",
+    "created_at": "2025-09-18T02:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T03:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968504910875607433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1758454063535198208",
+          "start": 0,
+          "username": "huanli233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968504910875607433",
+    "in_reply_to_user_id": "1758454063535198208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968161280314970191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huanli233 再串大四"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1968161280314970191",
+        "created_at": "2025-09-18T02:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T03:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968504910875607433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758454063535198208",
+              "start": 0,
+              "username": "huanli233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968504910875607433",
+        "in_reply_to_user_id": "1758454063535198208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968161280314970191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanli233 再串大四"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758454063535198208",
+        "conversation_id": "1968161280314970191",
+        "created_at": "2025-09-17T03:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T04:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968161280314970191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968161280314970191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3609,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一口o掉21t玉米，如果明早醒不来，那就是道别了，晚安.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（//黑金属/高中生//呃呃呃呃简介这样写没问题吧？（",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 75,
+          "like_count": 658,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 630
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T11:31:42.000Z",
+        "description": "虚无主义者 无证含糖 ASD alt @imhuanli",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "imhuanli"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/huanli233",
+                "end": 23,
+                "expanded_url": "https://github.com/huanli233",
+                "start": 0,
+                "url": "https://t.co/ci67Havjra"
+              }
+            ]
+          }
+        },
+        "id": "1758454063535198208",
+        "location": "LOVE U",
+        "name": "huanli233🤤🍥",
+        "pinned_tweet_id": "1940320822478213331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914779782866481152/g7Y2pf9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 490,
+          "like_count": 3244,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1414
+        },
+        "url": "https://t.co/ci67Havjra",
+        "username": "huanli233",
+        "verified": true
+      }
+    ]
+  }
+}

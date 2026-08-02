@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2059457735415226773",
+    "created_at": "2026-05-27T05:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059511380416590118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2058484419581870080",
+          "start": 0,
+          "username": "12S1dsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059511380416590118",
+    "in_reply_to_user_id": "2058484419581870080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059457735415226773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@12S1dsb 不抽烟（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059457731254435840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSp5SVaQAAJbdS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059457728305881088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSp5HWa4AA5oxC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2059457735415226773",
+        "created_at": "2026-05-27T05:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059511380416590118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2058484419581870080",
+              "start": 0,
+              "username": "12S1dsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059511380416590118",
+        "in_reply_to_user_id": "2058484419581870080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059457735415226773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@12S1dsb 不抽烟（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059457731254435840",
+            "3_2059457728305881088"
+          ]
+        },
+        "author_id": "2058484419581870080",
+        "conversation_id": "2059457735415226773",
+        "created_at": "2026-05-27T02:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059457735415226773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PB3H5zKIYJ",
+              "end": 45,
+              "expanded_url": "https://x.com/12S1dsb/status/2059457735415226773/photo/1",
+              "media_key": "3_2059457731254435840",
+              "start": 22,
+              "url": "https://t.co/PB3H5zKIYJ"
+            },
+            {
+              "display_url": "pic.x.com/PB3H5zKIYJ",
+              "end": 45,
+              "expanded_url": "https://x.com/12S1dsb/status/2059457735415226773/photo/1",
+              "media_key": "3_2059457728305881088",
+              "start": 22,
+              "url": "https://t.co/PB3H5zKIYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059457735415226773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "热门知识大调查，你们是左手烟还是右手烟啊？ https://t.co/PB3H5zKIYJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2055781542031753407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 199,
+          "like_count": 4369,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1526
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T09:45:49.000Z",
+        "description": "从出生没少往死里嗫，打那起多活一天都是赚的/烟袋",
+        "id": "2058484419581870080",
+        "location": "Jiput, Indonesia",
+        "name": "叫我12就好了",
+        "pinned_tweet_id": "2058890118145171528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058493615861907457/hNojcrDP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 90,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 81
+        },
+        "username": "12S1dsb",
+        "verified": false
+      }
+    ]
+  }
+}

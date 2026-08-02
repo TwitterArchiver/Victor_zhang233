@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1794953988217135286",
+    "created_at": "2024-06-07T07:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-07T08:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798973506987655313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1303289554762305538",
+          "start": 0,
+          "username": "libertythe1st"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798973506987655313",
+    "in_reply_to_user_id": "1303289554762305538",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794953988217135286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@libertythe1st 知道为什么大家都在批资本家吗\n因为我们也想成为资本家\n把你们狠狠踩在脚下☺️☺️☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1794953988217135286",
+        "created_at": "2024-06-07T07:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T08:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798973506987655313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1303289554762305538",
+              "start": 0,
+              "username": "libertythe1st"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798973506987655313",
+        "in_reply_to_user_id": "1303289554762305538",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794953988217135286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libertythe1st 知道为什么大家都在批资本家吗\n因为我们也想成为资本家\n把你们狠狠踩在脚下☺️☺️☺️"
+      },
+      {
+        "attachments": {},
+        "author_id": "1303289554762305538",
+        "conversation_id": "1794953988217135286",
+        "created_at": "2024-05-27T04:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T05:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794953988217135286"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794953988217135286",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12703,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实对于中国人的批判，有两点讲的确实是一部分底层中国人的心态\n1 部分中国人把快乐建立在别人的痛苦之上，喜欢人踩人\n2部分中国人哪怕踩不到别人。也见不得别人好\n\n从这两点看，这部分中国人不就是这帮“批评中国人”的支黑吗？\n他批评你不是为你好，而是想踩你，或者见不到你好！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这是一条简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "中国",
+        "name": "Апрель",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 26,
+          "like_count": 107,
+          "listed_count": 0,
+          "tweet_count": 136
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T11:10:26.000Z",
+        "description": "这个世界是美好的，只不过它短暂的被坏人掌握了。",
+        "id": "1303289554762305538",
+        "location": "浙江省嘉兴市南湖区政府",
+        "name": "🇰🇵里根归来 看左派互斗瓦解 右派reset the order之日到来（消灭鸡黑）",
+        "pinned_tweet_id": "1793883382377816262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798036274701619200/Sie6Hhqn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5712,
+          "following_count": 2165,
+          "like_count": 14357,
+          "listed_count": 46,
+          "tweet_count": 12083
+        },
+        "username": "libertythe1st",
+        "verified": false
+      }
+    ]
+  }
+}

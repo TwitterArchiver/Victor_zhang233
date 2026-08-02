@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1879817579596030025",
+    "created_at": "2025-01-18T05:57:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T06:57:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880494816255234460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1675901578480582656",
+          "start": 0,
+          "username": "X_User_404"
+        },
+        {
+          "end": 28,
+          "id": "1728357091159711745",
+          "start": 12,
+          "username": "DXPofficial1989"
+        },
+        {
+          "end": 41,
+          "id": "1226163722038710273",
+          "start": 29,
+          "username": "JingYu12197"
+        },
+        {
+          "end": 58,
+          "id": "1865628610608103424",
+          "start": 42,
+          "username": "Proletarian8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880494816255234460",
+    "in_reply_to_user_id": "1675901578480582656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880100926989717959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X_User_404 @DXPofficial1989 @JingYu12197 @Proletarian8964 什么吊图😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1879817579596030025",
+        "created_at": "2025-01-18T05:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T06:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880494816255234460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1675901578480582656",
+              "start": 0,
+              "username": "X_User_404"
+            },
+            {
+              "end": 28,
+              "id": "1728357091159711745",
+              "start": 12,
+              "username": "DXPofficial1989"
+            },
+            {
+              "end": 41,
+              "id": "1226163722038710273",
+              "start": 29,
+              "username": "JingYu12197"
+            },
+            {
+              "end": 58,
+              "id": "1865628610608103424",
+              "start": 42,
+              "username": "Proletarian8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880494816255234460",
+        "in_reply_to_user_id": "1675901578480582656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880100926989717959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X_User_404 @DXPofficial1989 @JingYu12197 @Proletarian8964 什么吊图😆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880100924259172352"
+          ]
+        },
+        "author_id": "1675901578480582656",
+        "conversation_id": "1879817579596030025",
+        "created_at": "2025-01-17T03:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T04:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880100926989717959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1728357091159711745",
+              "start": 0,
+              "username": "DXPofficial1989"
+            },
+            {
+              "end": 29,
+              "id": "1226163722038710273",
+              "start": 17,
+              "username": "JingYu12197"
+            },
+            {
+              "end": 46,
+              "id": "1865628610608103424",
+              "start": 30,
+              "username": "Proletarian8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5BqS05Q6dl",
+              "end": 70,
+              "expanded_url": "https://x.com/X_User_404/status/1880100926989717959/photo/1",
+              "media_key": "3_1880100924259172352",
+              "start": 47,
+              "url": "https://t.co/5BqS05Q6dl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880100926989717959",
+        "in_reply_to_user_id": "1728357091159711745",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879850522934698353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXPofficial1989 @JingYu12197 @Proletarian8964 https://t.co/5BqS05Q6dl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 57,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 430
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T16:18:01.000Z",
+        "description": "意熠时，吾毅逝（追忆那个星光熠熠的年代，我毅然踏上战场不惧逝去）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ping0.cc",
+                "end": 23,
+                "expanded_url": "http://ping0.cc",
+                "start": 0,
+                "url": "https://t.co/mwaybPEgLr"
+              }
+            ]
+          }
+        },
+        "id": "1675901578480582656",
+        "location": "🇨🇳中国(China)",
+        "name": "哈尔科夫老钳工📕🚩",
+        "pinned_tweet_id": "1879022809202274319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870864673488146432/ztIioCD3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 1368,
+          "like_count": 9244,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 400
+        },
+        "url": "https://t.co/mwaybPEgLr",
+        "username": "X_User_404",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T10:17:07.000Z",
+        "description": "极左派，毛派（Maoist），此号cos邓小平，反对改开和邓主义，反建制，对大多数人友善，即使立场不同",
+        "id": "1728357091159711745",
+        "location": "四川 广安",
+        "name": "稻上飞official📕🚩🇧🇫🇵🇸🇨🇳🇨🇱🇨🇺",
+        "pinned_tweet_id": "1880289613031567478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871916850428452864/dw6-LoR5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 981,
+          "like_count": 3700,
+          "listed_count": 2,
+          "media_count": 363,
+          "tweet_count": 1886
+        },
+        "username": "DXPofficial1989",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-08T15:20:21.000Z",
+        "description": "大概是一个持有虚无主义的左人\n或者是一个套左皮的虚无主义者",
+        "id": "1226163722038710273",
+        "name": "荆羽12197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572853255742586882/asRm9xEo_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 284,
+          "like_count": 1296,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 514
+        },
+        "username": "JingYu12197",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T05:25:41.000Z",
+        "description": "左派互fo\n马克思主义🚩｜毛泽东思想📕｜国际主义🌏｜民主计划经济｜INTP-A｜非二元性别规范🏳️‍🌈🏳️‍⚧️⚧｜无产阶级专政下的继续革命｜平权主义✊｜民族自决🫱🏼‍🫲🏿｜国家无神论｜知识公有化🏴‍☠️｜反法西斯｜反资本主义｜反犹太复国主义",
+        "id": "1865628610608103424",
+        "location": "普罗列塔利亚社会主义共和国联盟",
+        "name": "☭辉夜📕🚩🏴‍☠️🇨🇳🇵🇸🇺🇦",
+        "pinned_tweet_id": "1873593618579263699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872652073252335616/50am70rz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 557,
+          "like_count": 2535,
+          "listed_count": 6,
+          "media_count": 118,
+          "tweet_count": 1481
+        },
+        "username": "Proletarian8964",
+        "verified": false
+      }
+    ]
+  }
+}

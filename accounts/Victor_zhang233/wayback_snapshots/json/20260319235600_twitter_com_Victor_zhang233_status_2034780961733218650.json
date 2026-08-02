@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2034704554596737320",
+    "created_at": "2026-03-19T23:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T00:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034780961733218650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1968712733844475904",
+          "start": 0,
+          "username": "Koinu030"
+        },
+        {
+          "end": 22,
+          "id": "1915984523546005505",
+          "start": 10,
+          "username": "kagechanwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034780961733218650",
+    "in_reply_to_user_id": "1968712733844475904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034709192817483962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Koinu030 @kagechanwww 我还以为我评论了😶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2034704554596737320",
+        "created_at": "2026-03-19T23:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T00:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034780961733218650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1968712733844475904",
+              "start": 0,
+              "username": "Koinu030"
+            },
+            {
+              "end": 22,
+              "id": "1915984523546005505",
+              "start": 10,
+              "username": "kagechanwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034780961733218650",
+        "in_reply_to_user_id": "1968712733844475904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034709192817483962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koinu030 @kagechanwww 我还以为我评论了😶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968712733844475904",
+        "conversation_id": "2034704554596737320",
+        "created_at": "2026-03-19T19:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T20:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034709192817483962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915984523546005505",
+              "start": 0,
+              "username": "kagechanwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034709192817483962",
+        "in_reply_to_user_id": "1915984523546005505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034704554596737320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagechanwww 我也是😭最近好累好累，对什么都提不起兴趣，每天浑浑噩噩的，这个学期刚开学我已经旷课快十天了，就像在床上躺着，连起床去厕所的力气都没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "祝福我的死亡",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032502037242662912/m7BPbwdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 106,
+          "like_count": 2099,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 989
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-18T16:24:42.000Z",
+        "description": "",
+        "id": "1968712733844475904",
+        "location": "Smultronställe",
+        "name": "匿名用户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031772377324072962/B3XhfaIF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 17,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 243
+        },
+        "username": "Koinu030",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T04:21:44.000Z",
+        "description": "BPD/BD/GAD 自残 负面情绪废话\n希望自己早点死🤗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn.pornhub.com",
+                "end": 23,
+                "expanded_url": "https://cn.pornhub.com/",
+                "start": 0,
+                "url": "https://t.co/hKRNCoJO5j"
+              }
+            ]
+          }
+        },
+        "id": "1915984523546005505",
+        "location": "地狱",
+        "name": "死ねねねね",
+        "pinned_tweet_id": "2015850572994490678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034699842212306944/Gj1mO-UB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 278,
+          "like_count": 3115,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 878
+        },
+        "url": "https://t.co/hKRNCoJO5j",
+        "username": "kagechanwww",
+        "verified": false
+      }
+    ]
+  }
+}

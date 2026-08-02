@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1979588057864245653",
+    "created_at": "2025-10-18T17:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T18:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979598833823989765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "622036546",
+          "start": 0,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979598833823989765",
+    "in_reply_to_user_id": "622036546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979588057864245653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_six 男神"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1936,
+        "media_key": "3_1979588054785404928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3jo2PcXMAA7_em.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1979588057864245653",
+        "created_at": "2025-10-18T17:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T18:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979598833823989765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979598833823989765",
+        "in_reply_to_user_id": "622036546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979588057864245653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six 男神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979588054785404928"
+          ]
+        },
+        "author_id": "622036546",
+        "conversation_id": "1979588057864245653",
+        "created_at": "2025-10-18T16:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T17:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979588057864245653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X0Cw4jL7XY",
+              "end": 35,
+              "expanded_url": "https://x.com/overdose_six/status/1979588057864245653/photo/1",
+              "media_key": "3_1979588054785404928",
+              "start": 12,
+              "url": "https://t.co/X0Cw4jL7XY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979588057864245653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ok兄弟露个脸 一会删 https://t.co/X0Cw4jL7XY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（// 高中生［endl］ \n^^只听自杀黑¿._ / \n我喜欢视奸你们",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 84,
+          "like_count": 796,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 660
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "化学极乐百科: https://t.co/BlAoDIjruc | 提问: https://t.co/b5c8bbmW1y | 里推: @fuck_8964 | 代购私信 | #overdose",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 88,
+                "tag": "overdose"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 78,
+                "start": 68,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 31,
+                "expanded_url": "http://overdose.day",
+                "start": 8,
+                "url": "https://t.co/BlAoDIjruc"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 61,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 38,
+                "url": "https://t.co/b5c8bbmW1y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/BlAoDIjruc"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979516242659581952/1sHyJle7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1757,
+          "following_count": 76,
+          "like_count": 10622,
+          "listed_count": 7,
+          "media_count": 411,
+          "tweet_count": 2999
+        },
+        "url": "https://t.co/BlAoDIjruc",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1978842252265799749",
+    "created_at": "2025-10-17T16:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T17:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979217286277009423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1787670874549817344",
+          "start": 0,
+          "username": "elaineL187506"
+        },
+        {
+          "end": 25,
+          "id": "1597257668313260033",
+          "start": 15,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979217286277009423",
+    "in_reply_to_user_id": "1787670874549817344",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979213885245686210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elaineL187506 @Minokakay ✅✅✅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1978842252265799749",
+        "created_at": "2025-10-17T16:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T17:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979217286277009423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787670874549817344",
+              "start": 0,
+              "username": "elaineL187506"
+            },
+            {
+              "end": 25,
+              "id": "1597257668313260033",
+              "start": 15,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979217286277009423",
+        "in_reply_to_user_id": "1787670874549817344",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979213885245686210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elaineL187506 @Minokakay ✅✅✅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787670874549817344",
+        "conversation_id": "1978842252265799749",
+        "created_at": "2025-10-17T15:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T16:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979213885245686210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            },
+            {
+              "end": 27,
+              "id": "1597257668313260033",
+              "start": 17,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979213885245686210",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979211810470531379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 @Minokakay 洗澡真的很疗愈，还要香香的沐浴露。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（//高中生［endl］\n^^只听自杀黑¿._",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 78,
+          "like_count": 720,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 642
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T02:29:04.000Z",
+        "description": "",
+        "id": "1787670874549817344",
+        "name": "废废小蝴蝶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972005447650693120/bqgonmOo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 42,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 60
+        },
+        "username": "elaineL187506",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，长居🇭🇰🇯🇵。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 81,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 127,
+                "start": 117,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10985,
+          "following_count": 970,
+          "like_count": 44839,
+          "listed_count": 38,
+          "media_count": 1454,
+          "tweet_count": 21760
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

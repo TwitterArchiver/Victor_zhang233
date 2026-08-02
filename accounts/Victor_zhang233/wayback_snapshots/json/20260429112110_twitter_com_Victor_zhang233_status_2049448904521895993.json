@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2049081260417695994",
+    "created_at": "2026-04-29T11:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T12:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049448904521895993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1824037197210898432",
+          "start": 0,
+          "username": "ivan23389"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049448904521895993",
+    "in_reply_to_user_id": "1824037197210898432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049081260417695994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ivan23389 捅死她"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2049081260417695994",
+        "created_at": "2026-04-29T11:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049448904521895993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1824037197210898432",
+              "start": 0,
+              "username": "ivan23389"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049448904521895993",
+        "in_reply_to_user_id": "1824037197210898432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049081260417695994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivan23389 捅死她"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824037197210898432",
+        "conversation_id": "2049081260417695994",
+        "created_at": "2026-04-28T11:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049081260417695994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049081260417695994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1122,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和大家分享一下我唯一一段仅有14日的恋爱经历吧….感觉终于应该是放下了\n\n她4月1号想自杀，我一直安抚她，说可以和她一起走（因为我也一直在计划下一次自杀之类的事），然后因为我们之前关系不错，她在有喜欢的人的前提下和我表白了（我当时不知道，后面提分手时亲口说的）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "id": "1755494652889661440",
+        "location": "人间",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046319178005856256/-IFEFOcl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 149,
+          "like_count": 3592,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1312
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T10:55:45.000Z",
+        "description": "希望明天可以意外死亡/oder/重度抑郁/双相情感障碍/2009/11/22/我不配得到爱/去你妈的中国特色社会主义",
+        "id": "1824037197210898432",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Tomorin_燈",
+        "pinned_tweet_id": "2024761239591932129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038939171126177792/8QoQIgca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 393,
+          "like_count": 1376,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 604
+        },
+        "username": "ivan23389",
+        "verified": false
+      }
+    ]
+  }
+}

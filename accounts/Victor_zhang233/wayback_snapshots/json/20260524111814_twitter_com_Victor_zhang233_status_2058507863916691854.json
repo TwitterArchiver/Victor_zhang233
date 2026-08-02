@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2058505296813986284",
+    "created_at": "2026-05-24T11:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T12:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058507863916691854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1752259037566218240",
+          "start": 0,
+          "username": "aru_ve_lut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058507863916691854",
+    "in_reply_to_user_id": "1752259037566218240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058505296813986284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aru_ve_lut 嘴里已经有味道了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2058505072687099904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFHdQnasAA5dlj.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2058505296813986284",
+        "created_at": "2026-05-24T11:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058507863916691854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1752259037566218240",
+              "start": 0,
+              "username": "aru_ve_lut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058507863916691854",
+        "in_reply_to_user_id": "1752259037566218240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058505296813986284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aru_ve_lut 嘴里已经有味道了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058505072687099904"
+          ]
+        },
+        "author_id": "1752259037566218240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058505296813986284",
+        "created_at": "2026-05-24T11:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058505296813986284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fTY6c9D70y",
+              "end": 38,
+              "expanded_url": "https://x.com/aru_ve_lut/status/2058505296813986284/photo/1",
+              "media_key": "3_2058505072687099904",
+              "start": 15,
+              "url": "https://t.co/fTY6c9D70y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058505296813986284",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "西柚汁 yue～(⋟﹏⋞)😨 https://t.co/fTY6c9D70y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2055781542031753407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 185,
+          "like_count": 4236,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1498
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T09:14:57.000Z",
+        "description": "atto/见晴miharu/081013/日常推/中文/En/日语学习中/intp-a/od/自残/休学/希望和大家交朋友/超级社恐/很温良的小女孩/欢迎互fo 直fo就是喜欢你  互fo没看到可以私信/欢迎大家找我聊天",
+        "id": "1752259037566218240",
+        "name": "见晴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045456632256290816/rzugZvz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 356,
+          "like_count": 1064,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 358
+        },
+        "username": "aru_ve_lut",
+        "verified": false
+      }
+    ]
+  }
+}

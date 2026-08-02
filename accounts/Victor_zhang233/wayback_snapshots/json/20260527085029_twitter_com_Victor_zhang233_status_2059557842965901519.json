@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059557838268321792"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2059554300351623458",
+    "created_at": "2026-05-27T08:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059557842965901519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1977352693245980672",
+          "start": 0,
+          "username": "Anonymous779215"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U2zhHragTu",
+          "end": 45,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2059557842965901519/photo/1",
+          "media_key": "3_2059557838268321792",
+          "start": 22,
+          "url": "https://t.co/U2zhHragTu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059557842965901519",
+    "in_reply_to_user_id": "1977352693245980672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059554300351623458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anonymous779215 懂你意思 https://t.co/U2zhHragTu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 592,
+        "media_key": "3_2059557838268321792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUE8SBa0AA9PEq.jpg",
+        "width": 503
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2059554292520955905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUBt5FXsAEuRRD.jpg",
+        "width": 783
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059557838268321792"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2059554300351623458",
+        "created_at": "2026-05-27T08:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059557842965901519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1977352693245980672",
+              "start": 0,
+              "username": "Anonymous779215"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U2zhHragTu",
+              "end": 45,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2059557842965901519/photo/1",
+              "media_key": "3_2059557838268321792",
+              "start": 22,
+              "url": "https://t.co/U2zhHragTu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059557842965901519",
+        "in_reply_to_user_id": "1977352693245980672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059554300351623458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anonymous779215 懂你意思 https://t.co/U2zhHragTu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059554292520955905"
+          ]
+        },
+        "author_id": "1977352693245980672",
+        "conversation_id": "2059554300351623458",
+        "created_at": "2026-05-27T08:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059554300351623458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KOMcd06Jko",
+              "end": 29,
+              "expanded_url": "https://x.com/Anonymous779215/status/2059554300351623458/photo/1",
+              "media_key": "3_2059554292520955905",
+              "start": 6,
+              "url": "https://t.co/KOMcd06Jko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059554300351623458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有懂的 https://t.co/KOMcd06Jko"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2055781542031753407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 208,
+          "like_count": 4396,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1544
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T12:36:43.000Z",
+        "description": ".",
+        "id": "1977352693245980672",
+        "name": "Anonymous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016476555103358976/ir3bfWgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 35,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 162
+        },
+        "username": "Anonymous779215",
+        "verified": true
+      }
+    ]
+  }
+}

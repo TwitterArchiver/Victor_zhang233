@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1826220637905621348",
+    "created_at": "2024-08-23T09:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T10:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826915592420634832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1625030759395524608",
+          "start": 0,
+          "username": "pandyingg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826915592420634832",
+    "in_reply_to_user_id": "1625030759395524608",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826220637905621348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pandyingg 学瓦哥烧教堂可能可以（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1826220637905621348",
+        "created_at": "2024-08-23T09:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T10:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826915592420634832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1625030759395524608",
+              "start": 0,
+              "username": "pandyingg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826915592420634832",
+        "in_reply_to_user_id": "1625030759395524608",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826220637905621348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pandyingg 学瓦哥烧教堂可能可以（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826220511241895936"
+          ]
+        },
+        "author_id": "1625030759395524608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1826220637905621348",
+        "created_at": "2024-08-21T11:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T12:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826220637905621348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kl5dydkl75",
+              "end": 37,
+              "expanded_url": "https://twitter.com/pandyingg/status/1826220637905621348/photo/1",
+              "media_key": "3_1826220511241895936",
+              "start": 14,
+              "url": "https://t.co/kl5dyDkL75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826220637905621348",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 38859,
+          "like_count": 490,
+          "quote_count": 12,
+          "reply_count": 216,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "皈依宗教可以治疗抑郁症吗？ https://t.co/kl5dyDkL75"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这///简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": ".. лесе",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 35,
+          "like_count": 274,
+          "listed_count": 0,
+          "tweet_count": 294
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-13T07:15:16.000Z",
+        "description": "/04(˵¯͒〰¯͒˵)🏳️‍🌈🇨🇦❤️//曾经的天赋党//计科在读//目标多伦多大学读研//爱睡觉💤//音游人 东方厨//兴趣点广泛//只聊风月，不谈政治//清水推一枚",
+        "id": "1625030759395524608",
+        "name": "心海莹",
+        "pinned_tweet_id": "1762520323570982920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811843884693037056/v8vgdG6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 512,
+          "like_count": 2916,
+          "listed_count": 1,
+          "tweet_count": 2026
+        },
+        "username": "pandyingg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061765809870094336"
+      ],
+      "media_source_tweet_id": [
+        "2061765815847010457"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2062015608993320986",
+    "created_at": "2026-06-03T03:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T04:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062015608993320986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1776466730489163776",
+          "start": 3,
+          "username": "i_loxe_u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HmAl4Pvkih",
+          "end": 47,
+          "expanded_url": "https://x.com/i_loxe_u/status/2061765815847010457/photo/1",
+          "media_key": "3_2061765809870094336",
+          "start": 24,
+          "url": "https://t.co/HmAl4Pvkih"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062015608993320986",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 636
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061765815847010457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @i_loxe_u: キュートなカノジョ https://t.co/HmAl4Pvkih"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1222,
+        "media_key": "3_2061765809870094336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzdFJNaQAAawme.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061765809870094336"
+          ],
+          "media_source_tweet_id": [
+            "2061765815847010457"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2062015608993320986",
+        "created_at": "2026-06-03T03:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062015608993320986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1776466730489163776",
+              "start": 3,
+              "username": "i_loxe_u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HmAl4Pvkih",
+              "end": 47,
+              "expanded_url": "https://x.com/i_loxe_u/status/2061765815847010457/photo/1",
+              "media_key": "3_2061765809870094336",
+              "start": 24,
+              "url": "https://t.co/HmAl4Pvkih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062015608993320986",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 636
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061765815847010457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @i_loxe_u: キュートなカノジョ https://t.co/HmAl4Pvkih"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061765809870094336"
+          ]
+        },
+        "author_id": "1776466730489163776",
+        "conversation_id": "2061765815847010457",
+        "created_at": "2026-06-02T11:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061765815847010457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HmAl4Pvkih",
+              "end": 33,
+              "expanded_url": "https://x.com/i_loxe_u/status/2061765815847010457/photo/1",
+              "media_key": "3_2061765809870094336",
+              "start": 10,
+              "url": "https://t.co/HmAl4Pvkih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061765815847010457",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 283,
+          "impression_count": 29609,
+          "like_count": 4258,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 636
+        },
+        "reply_settings": "everyone",
+        "text": "キュートなカノジョ https://t.co/HmAl4Pvkih"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "抱歉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2059669582818721884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 277,
+          "like_count": 5506,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1672
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T04:27:34.000Z",
+        "description": "",
+        "id": "1776466730489163776",
+        "name": "໊",
+        "pinned_tweet_id": "2061765815847010457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039279937283391488/PHkJFN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9379,
+          "following_count": 11,
+          "like_count": 34434,
+          "listed_count": 18,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "username": "i_loxe_u",
+        "verified": false
+      }
+    ]
+  }
+}

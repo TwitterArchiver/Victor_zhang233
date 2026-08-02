@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2067248608605585805",
+    "created_at": "2026-06-17T15:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067270546048573895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "945602812347478016",
+          "start": 0,
+          "username": "kanawanunozomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067270546048573895",
+    "in_reply_to_user_id": "945602812347478016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067262084526797142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanawanunozomi 你好喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2067248608605585805",
+        "created_at": "2026-06-17T15:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067270546048573895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "945602812347478016",
+              "start": 0,
+              "username": "kanawanunozomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067270546048573895",
+        "in_reply_to_user_id": "945602812347478016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067262084526797142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanawanunozomi 你好喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "945602812347478016",
+        "conversation_id": "2067248608605585805",
+        "created_at": "2026-06-17T15:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067262084526797142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067262084526797142",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067248608605585805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 🙋("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 338,
+          "like_count": 7073,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2005
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-26T10:30:53.000Z",
+        "description": "Major Depressive Disorder & Obsessive Compulsive Disorder😵😵😵\nうつ、強迫性障害、もろもろ？😵‍💫😵‍💫😵‍💫\n\nEnglish/Mandarin/Japanese🥺🥺🥺",
+        "id": "945602812347478016",
+        "name": "nozomi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1511994634591178754/xCZnYvQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 256,
+          "like_count": 221,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 120
+        },
+        "username": "kanawanunozomi",
+        "verified": false
+      }
+    ]
+  }
+}

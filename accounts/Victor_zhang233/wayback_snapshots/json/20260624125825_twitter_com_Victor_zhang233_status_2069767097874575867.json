@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2069469075227746319",
+    "created_at": "2026-06-24T12:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T13:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069767097874575867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1483726186991669250",
+          "start": 0,
+          "username": "DanTasKingdom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069767097874575867",
+    "in_reply_to_user_id": "1483726186991669250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069640427888837006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DanTasKingdom 有点亢奋的感觉，然后睡不着，后面吃了两粒加吧才睡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2069469075227746319",
+        "created_at": "2026-06-24T12:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T13:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069767097874575867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1483726186991669250",
+              "start": 0,
+              "username": "DanTasKingdom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069767097874575867",
+        "in_reply_to_user_id": "1483726186991669250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069640427888837006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DanTasKingdom 有点亢奋的感觉，然后睡不着，后面吃了两粒加吧才睡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1483726186991669250",
+        "conversation_id": "2069469075227746319",
+        "created_at": "2026-06-24T04:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069640427888837006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069640427888837006",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069469075227746319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 有用吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 |\nDM欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 397,
+          "like_count": 8054,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 2061
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-19T09:01:16.000Z",
+        "description": "何で",
+        "id": "1483726186991669250",
+        "name": "くろいタバコ",
+        "pinned_tweet_id": "1824664213555646491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036646525116506112/OCgXH5FQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 234,
+          "like_count": 108,
+          "listed_count": 5,
+          "media_count": 6,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "DanTasKingdom",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2029138858810720418",
+    "created_at": "2026-03-04T19:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T20:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029276631110697037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472219833261772801",
+          "start": 0,
+          "username": "xxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029276631110697037",
+    "in_reply_to_user_id": "1472219833261772801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029138858810720418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx_jjkk 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2029138858810720418",
+        "created_at": "2026-03-04T19:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T20:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029276631110697037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472219833261772801",
+              "start": 0,
+              "username": "xxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029276631110697037",
+        "in_reply_to_user_id": "1472219833261772801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029138858810720418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_jjkk 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472219833261772801",
+        "conversation_id": "2029138858810720418",
+        "created_at": "2026-03-04T10:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T11:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029138858810720418"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029138858810720418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就要返校了，好焦虑，好焦虑，好焦虑，好焦虑，好焦虑，好焦虑，好焦虑好焦虑好焦虑好焦虑好焦虑，好焦虑，好焦虑。吃了阿普唑仑之后，还是减轻不了焦虑，现在又嗑了普瑞巴林了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "林中落雨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "不管你是谁不要再视奸了啊.com",
+                "end": 23,
+                "expanded_url": "http://xn--ihqa77a71av3fd5h7ni6o1axz6b782azva67s.com",
+                "start": 0,
+                "url": "https://t.co/AlLiy1e9NV"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Hypothermia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028198324504084480/mHOJiWWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 85,
+          "like_count": 1888,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 926
+        },
+        "url": "https://t.co/AlLiy1e9NV",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我这一生都存进这小小的屏幕里\n当我离去了\n至少这里曾有我活过的痕迹",
+        "id": "1472219833261772801",
+        "name": "旖旎",
+        "pinned_tweet_id": "2027442466060931175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027067181448798208/Fcxrrme-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 0,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 522
+        },
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

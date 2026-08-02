@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2078372046430732637",
+    "created_at": "2026-07-18T06:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T07:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078372046430732637"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yueyulei520/st…",
+          "end": 141,
+          "expanded_url": "https://twitter.com/yueyulei520/status/2078358688533016922",
+          "start": 118,
+          "url": "https://t.co/cHMxCWg8uj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078372046430732637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078358688533016922",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有过性行为：❌\n有过男朋友：❌\n有过女朋友：✔️\n嗑过药：✔️\n喝过酒：✔️ \n挂过科：  ❌\n去过夜店：❌\n抽过烟/用过电子烟：❌\n吻过别人：❌\n被留堂：✔️\n被课堂赶出去：✔️\n考试作弊：✔️\n偷偷溜出家门：✔️\n\n我还是好男孩吗 https://t.co/cHMxCWg8uj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2078372046430732637",
+        "created_at": "2026-07-18T06:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078372046430732637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yueyulei520/st…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/yueyulei520/status/2078358688533016922",
+              "start": 118,
+              "url": "https://t.co/cHMxCWg8uj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078372046430732637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078358688533016922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：❌\n有过男朋友：❌\n有过女朋友：✔️\n嗑过药：✔️\n喝过酒：✔️ \n挂过科：  ❌\n去过夜店：❌\n抽过烟/用过电子烟：❌\n吻过别人：❌\n被留堂：✔️\n被课堂赶出去：✔️\n考试作弊：✔️\n偷偷溜出家门：✔️\n\n我还是好男孩吗 https://t.co/cHMxCWg8uj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914611702747779072",
+        "conversation_id": "2078358688533016922",
+        "created_at": "2026-07-18T05:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078358688533016922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Mercyvxv/statu…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/Mercyvxv/status/2078312945130598679",
+              "start": 120,
+              "url": "https://t.co/oZJz2JQ0O5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078358688533016922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078312945130598679",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：❌\n有过男朋友：❌\n有过女朋友：❓\n嗑过药：✔️\n喝过酒：✔️ \n挂过科：  ✔️\n去过夜店：✔️ \n抽过烟/用过电子烟：✔️\n吻过别人：❌\n被留堂：✔️\n被课堂赶出去：✔️\n考试作弊：✔️\n偷偷溜出家门：✔️\n我还是好女孩吗 https://t.co/oZJz2JQ0O5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 482,
+          "like_count": 10365,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 2362
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T09:26:32.000Z",
+        "description": "enby｜你想活出怎样的人生｜酒精依赖｜支持LGBTQ的权益｜新左｜你喜欢我＝我喜欢你｜接受任何友善的立场和我交流｜如果心结解不开那就系成蝴蝶结吧｜怪异黑泥逃生门人格：@saki8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 84,
+                "username": "saki8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asukayeyezi",
+                "end": 23,
+                "expanded_url": "http://t.me/asukayeyezi",
+                "start": 0,
+                "url": "https://t.co/wdpxB4gYX8"
+              }
+            ]
+          }
+        },
+        "id": "1914611702747779072",
+        "location": "夜深寂靜之時",
+        "name": "⁺✞ʚ月雨淚 ɞ✟₊#列肆一🌹🏴‍☠️🏳️‍🌈",
+        "pinned_tweet_id": "2031769044852871196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077301820087783426/en7-Xu-5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 783,
+          "like_count": 10921,
+          "listed_count": 5,
+          "media_count": 185,
+          "tweet_count": 3054
+        },
+        "url": "https://t.co/wdpxB4gYX8",
+        "username": "yueyulei520",
+        "verified": false
+      }
+    ]
+  }
+}

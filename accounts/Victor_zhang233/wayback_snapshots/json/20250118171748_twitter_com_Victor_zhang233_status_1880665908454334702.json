@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1880494343028633616",
+    "created_at": "2025-01-18T17:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T18:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880665908454334702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1817429092716957696",
+          "start": 0,
+          "username": "SszXa8"
+        },
+        {
+          "end": 17,
+          "id": "1646454241324830720",
+          "start": 8,
+          "username": "tube1925"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880665908454334702",
+    "in_reply_to_user_id": "1817429092716957696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880550921329070368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SszXa8 @tube1925 尤里👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1880494343028633616",
+        "created_at": "2025-01-18T17:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T18:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880665908454334702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1817429092716957696",
+              "start": 0,
+              "username": "SszXa8"
+            },
+            {
+              "end": 17,
+              "id": "1646454241324830720",
+              "start": 8,
+              "username": "tube1925"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880665908454334702",
+        "in_reply_to_user_id": "1817429092716957696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880550921329070368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SszXa8 @tube1925 尤里👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817429092716957696",
+        "conversation_id": "1880494343028633616",
+        "created_at": "2025-01-18T09:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T10:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880550921329070368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1646454241324830720",
+              "start": 0,
+              "username": "tube1925"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880550921329070368",
+        "in_reply_to_user_id": "1646454241324830720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880494343028633616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tube1925 《Luce》，是想搞基督教共产主义是吧，什么逆天缝合，听都没听过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 59,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 445
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T05:17:41.000Z",
+        "description": "INFP，大中華情結❌，共產主義❌。中右立場，共和黨建制派，MAGA🚫，錫安主義者🇮🇱，拒絕反猶主義，🇮🇱🛡️🔪🇵🇸🇮🇷🇮🇪🇾🇪🇶🇦🇸🇦🤡，東方project愛好者。大統領@GravitySwiss🙌🙌(按讚≠完全認同，可能是已讀) #FuckMusk #FuckTrump",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 126,
+                "start": 117,
+                "tag": "FuckMusk"
+              },
+              {
+                "end": 137,
+                "start": 127,
+                "tag": "FuckTrump"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 99,
+                "start": 86,
+                "username": "GravitySwiss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "global.touhoulostword.com",
+                "end": 23,
+                "expanded_url": "https://global.touhoulostword.com/",
+                "start": 0,
+                "url": "https://t.co/YM0Dks6ll6"
+              }
+            ]
+          }
+        },
+        "id": "1817429092716957696",
+        "location": "Jerusalem",
+        "name": "ルミア✝️✡️🕎🇮🇱",
+        "pinned_tweet_id": "1878812981175443940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870506433323925504/hjft44Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 691,
+          "like_count": 9855,
+          "listed_count": 2,
+          "media_count": 420,
+          "tweet_count": 3591
+        },
+        "url": "https://t.co/YM0Dks6ll6",
+        "username": "SszXa8",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T10:04:33.000Z",
+        "description": "Hola!你好,我是一只也可以叫我will/男性/高中生(休学)/NEET/友跨🏳️‍⚧️/酒精依赖🥃/信仰天主✝️/爱好:撸猫🐱/摄影📷/文学📖使用的语言:中文🇨🇳英语🇺🇸西语🇲🇽/适度涉政/主要发点碎碎念和日常/一个在人间凑数的废柴/自我迷失中...",
+        "id": "1646454241324830720",
+        "location": "小马利亚,坎特洛特城",
+        "name": "一只",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872125929033752576/g6_gdy6W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 29,
+          "like_count": 3811,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1833
+        },
+        "username": "tube1925",
+        "verified": false
+      }
+    ]
+  }
+}

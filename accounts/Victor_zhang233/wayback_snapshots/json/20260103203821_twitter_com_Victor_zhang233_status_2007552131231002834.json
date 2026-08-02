@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007552125237366784"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2007552131231002834",
+    "created_at": "2026-01-03T20:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T21:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007552131231002834"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6TGDB8tc3U",
+          "end": 177,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2007552131231002834/photo/1",
+          "media_key": "3_2007552125237366784",
+          "start": 154,
+          "url": "https://t.co/6TGDB8tc3U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007552131231002834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "——Hypothermia——\n成立于2001年\n来自瑞典🇸🇪的\n抑郁黑金属乐队\n(Depressive Black Metal)\n2015第⑤张全长💽\n🕕时长:37:13\n💿曲目:5首\n主唱/吉他:Kim Carlsson\n吉他:Hans Cools\n鼓手:Richard Abrams\n小提琴:E.B. https://t.co/6TGDB8tc3U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2007552125237366784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9xCBXzakAA__7G.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007552125237366784"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2007552131231002834",
+        "created_at": "2026-01-03T20:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T21:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007552131231002834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6TGDB8tc3U",
+              "end": 177,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2007552131231002834/photo/1",
+              "media_key": "3_2007552125237366784",
+              "start": 154,
+              "url": "https://t.co/6TGDB8tc3U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007552131231002834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "——Hypothermia——\n成立于2001年\n来自瑞典🇸🇪的\n抑郁黑金属乐队\n(Depressive Black Metal)\n2015第⑤张全长💽\n🕕时长:37:13\n💿曲目:5首\n主唱/吉他:Kim Carlsson\n吉他:Hans Cools\n鼓手:Richard Abrams\n小提琴:E.B. https://t.co/6TGDB8tc3U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001408376811704320/27ExCAWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 107,
+          "like_count": 1391,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 780
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

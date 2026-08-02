@@ -1,0 +1,501 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1797231351294267722",
+    "created_at": "2024-06-14T14:35:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-14T15:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801624607860134136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753647103770050560",
+          "start": 0,
+          "username": "Nchzh184280"
+        },
+        {
+          "end": 25,
+          "id": "1705414209432064000",
+          "start": 13,
+          "username": "hung1623120"
+        },
+        {
+          "end": 37,
+          "id": "1409636696145154051",
+          "start": 26,
+          "username": "Liberal_KD"
+        },
+        {
+          "end": 51,
+          "id": "1769380729409130496",
+          "start": 38,
+          "username": "MaoTseTung93"
+        },
+        {
+          "end": 65,
+          "id": "1514973031684222984",
+          "start": 52,
+          "username": "xxx777hsy521"
+        },
+        {
+          "end": 82,
+          "id": "1120105527415992320",
+          "start": 66,
+          "username": "7p8DQwEptHvHnL3"
+        },
+        {
+          "end": 91,
+          "id": "1484104641243582465",
+          "start": 83,
+          "username": "zgnccnm"
+        },
+        {
+          "end": 101,
+          "id": "1273955421162635265",
+          "start": 92,
+          "username": "qing1435"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801624607860134136",
+    "in_reply_to_user_id": "1753647103770050560",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801619591992578537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nchzh184280 @hung1623120 @Liberal_KD @MaoTseTung93 @xxx777hsy521 @7p8DQwEptHvHnL3 @zgnccnm @qing1435 不了，我不喜欢坦克😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1797231351294267722",
+        "created_at": "2024-06-14T14:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T15:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801624607860134136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1753647103770050560",
+              "start": 0,
+              "username": "Nchzh184280"
+            },
+            {
+              "end": 25,
+              "id": "1705414209432064000",
+              "start": 13,
+              "username": "hung1623120"
+            },
+            {
+              "end": 37,
+              "id": "1409636696145154051",
+              "start": 26,
+              "username": "Liberal_KD"
+            },
+            {
+              "end": 51,
+              "id": "1769380729409130496",
+              "start": 38,
+              "username": "MaoTseTung93"
+            },
+            {
+              "end": 65,
+              "id": "1514973031684222984",
+              "start": 52,
+              "username": "xxx777hsy521"
+            },
+            {
+              "end": 82,
+              "id": "1120105527415992320",
+              "start": 66,
+              "username": "7p8DQwEptHvHnL3"
+            },
+            {
+              "end": 91,
+              "id": "1484104641243582465",
+              "start": 83,
+              "username": "zgnccnm"
+            },
+            {
+              "end": 101,
+              "id": "1273955421162635265",
+              "start": 92,
+              "username": "qing1435"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801624607860134136",
+        "in_reply_to_user_id": "1753647103770050560",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801619591992578537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nchzh184280 @hung1623120 @Liberal_KD @MaoTseTung93 @xxx777hsy521 @7p8DQwEptHvHnL3 @zgnccnm @qing1435 不了，我不喜欢坦克😁"
+      },
+      {
+        "attachments": {},
+        "author_id": "1753647103770050560",
+        "conversation_id": "1797231351294267722",
+        "created_at": "2024-06-14T14:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T15:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801619591992578537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            },
+            {
+              "end": 29,
+              "id": "1705414209432064000",
+              "start": 17,
+              "username": "hung1623120"
+            },
+            {
+              "end": 41,
+              "id": "1409636696145154051",
+              "start": 30,
+              "username": "Liberal_KD"
+            },
+            {
+              "end": 55,
+              "id": "1769380729409130496",
+              "start": 42,
+              "username": "MaoTseTung93"
+            },
+            {
+              "end": 69,
+              "id": "1514973031684222984",
+              "start": 56,
+              "username": "xxx777hsy521"
+            },
+            {
+              "end": 86,
+              "id": "1120105527415992320",
+              "start": 70,
+              "username": "7p8DQwEptHvHnL3"
+            },
+            {
+              "end": 95,
+              "id": "1484104641243582465",
+              "start": 87,
+              "username": "zgnccnm"
+            },
+            {
+              "end": 105,
+              "id": "1273955421162635265",
+              "start": 96,
+              "username": "qing1435"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801619591992578537",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801613583060451400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 @hung1623120 @Liberal_KD @MaoTseTung93 @xxx777hsy521 @7p8DQwEptHvHnL3 @zgnccnm @qing1435 學生加入64遊行隊伍吧😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这//白左/简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": ".. Лунный",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 34,
+          "like_count": 131,
+          "listed_count": 0,
+          "tweet_count": 193
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T05:10:44.000Z",
+        "description": "新中國開國十大元帥之一，1971年9月13日因空難而亡。但於公元2024年2月打贏復活賽，並註冊X賬號，發佈反動言論。傳推機器，工作日只有晚上和凌晨才上線。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh.m.wikipedia.org/w/index.php?ti…",
+                "end": 23,
+                "expanded_url": "https://zh.m.wikipedia.org/w/index.php?title=8964&redirect=no",
+                "start": 0,
+                "url": "https://t.co/3ISTksAW1H"
+              }
+            ]
+          }
+        },
+        "id": "1753647103770050560",
+        "location": "中華人民共和國",
+        "name": "林彪",
+        "pinned_tweet_id": "1800840926400794749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800863608009785345/YBrEusC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 112,
+          "like_count": 3089,
+          "listed_count": 2,
+          "tweet_count": 1130
+        },
+        "url": "https://t.co/3ISTksAW1H",
+        "username": "Nchzh184280",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T02:50:29.000Z",
+        "description": "本人王洪文，1935年出生在长春，早年参加过朝鲜战争，1951年入党，战争结束后在国棉十七厂保卫科担任科事部，1966年成立工总司并担任总司令，1973年在中共十大当选为副主席，在随后的几年里成功当选为主席",
+        "id": "1705414209432064000",
+        "location": "中南海",
+        "name": "王洪文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763214483579916288/AOfFqC95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3197,
+          "following_count": 306,
+          "like_count": 3367,
+          "listed_count": 18,
+          "tweet_count": 4882
+        },
+        "username": "hung1623120",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T22:16:01.000Z",
+        "description": "不定时分享书报片段及胡言乱语 | 过气刊物《青鸟信使》@courier_blue | 中推圈选举委员会主席，请持续关注活动！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "courier_blue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bluebirdcourier",
+                "end": 23,
+                "expanded_url": "https://t.me/bluebirdcourier",
+                "start": 0,
+                "url": "https://t.co/JNQdoOLeHA"
+              }
+            ]
+          }
+        },
+        "id": "1409636696145154051",
+        "location": "Bluebirdcourier",
+        "name": "海棠【中推圈大选ing】",
+        "pinned_tweet_id": "1797231351294267722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797286928745713665/LW4LLjpz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1832,
+          "following_count": 856,
+          "like_count": 17401,
+          "listed_count": 8,
+          "tweet_count": 1232
+        },
+        "url": "https://t.co/JNQdoOLeHA",
+        "username": "Liberal_KD",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T15:10:23.000Z",
+        "description": "人民萬歲 ！戰無不勝的毛澤東思想萬歲！世界反修反帝反殖力量萬歲！無產階級文化大革命萬歲!打倒以习为首的官僚主义！Long Live the People！Long Live the Maoism ! Long Live the GPCR! Serve the People！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mzdbl.com",
+                "end": 23,
+                "expanded_url": "http://mzdbl.com",
+                "start": 0,
+                "url": "https://t.co/VaniW3kxSp"
+              }
+            ]
+          }
+        },
+        "id": "1769380729409130496",
+        "location": "不灭的物质存在于世间",
+        "name": "毛泽东",
+        "pinned_tweet_id": "1799286723572384084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801598179076673536/nwxeY-66_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 237,
+          "like_count": 1889,
+          "listed_count": 3,
+          "tweet_count": 1054
+        },
+        "url": "https://t.co/VaniW3kxSp",
+        "username": "MaoTseTung93",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-15T14:25:03.000Z",
+        "description": "武攻文卫，天地翻覆。\n坚守革命，永不投降！",
+        "id": "1514973031684222984",
+        "name": "康生",
+        "pinned_tweet_id": "1788051949931082123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713170215402373120/0TZJZqkx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 257,
+          "like_count": 38109,
+          "listed_count": 11,
+          "tweet_count": 4370
+        },
+        "username": "xxx777hsy521",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-21T23:22:23.000Z",
+        "description": "习近平特色社会主义乐子人",
+        "id": "1120105527415992320",
+        "location": "枝江社会主义联盟",
+        "name": "张春桥🇵🇸🇧🇷🇿🇦",
+        "pinned_tweet_id": "1794249322122658242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796938691795173376/HbYDyQ_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 202,
+          "like_count": 1604,
+          "listed_count": 4,
+          "tweet_count": 1403
+        },
+        "username": "7p8DQwEptHvHnL3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T10:05:20.000Z",
+        "description": "",
+        "id": "1484104641243582465",
+        "name": "姚文元神",
+        "pinned_tweet_id": "1800310073920721259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717016624069328896/i88_jhP-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 55,
+          "like_count": 5600,
+          "listed_count": 3,
+          "tweet_count": 5908
+        },
+        "username": "zgnccnm",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-19T12:27:04.000Z",
+        "description": "无产阶级新文艺佔领一切午台。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/qing1435",
+                "end": 23,
+                "expanded_url": "https://twitter.com/qing1435",
+                "start": 0,
+                "url": "https://t.co/PDg1LuddlA"
+              }
+            ]
+          }
+        },
+        "id": "1273955421162635265",
+        "location": "中央文革",
+        "name": "江青",
+        "pinned_tweet_id": "1548940674703052800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1532424476197064705/Yac_d1SL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3114,
+          "following_count": 869,
+          "like_count": 985,
+          "listed_count": 10,
+          "tweet_count": 331
+        },
+        "url": "https://t.co/PDg1LuddlA",
+        "username": "qing1435",
+        "verified": false
+      }
+    ]
+  }
+}

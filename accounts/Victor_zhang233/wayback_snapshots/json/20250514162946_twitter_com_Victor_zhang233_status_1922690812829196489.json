@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1922536382804721805",
+    "created_at": "2025-05-14T16:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T17:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922690812829196489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1909253687350108160",
+          "start": 0,
+          "username": "hikokum1n"
+        },
+        {
+          "end": 22,
+          "id": "1435832892609937408",
+          "start": 11,
+          "username": "XHHM114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922690812829196489",
+    "in_reply_to_user_id": "1909253687350108160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922576356212166904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikokum1n @XHHM114514 傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1922536382804721805",
+        "created_at": "2025-05-14T16:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T17:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922690812829196489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1909253687350108160",
+              "start": 0,
+              "username": "hikokum1n"
+            },
+            {
+              "end": 22,
+              "id": "1435832892609937408",
+              "start": 11,
+              "username": "XHHM114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922690812829196489",
+        "in_reply_to_user_id": "1909253687350108160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922576356212166904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikokum1n @XHHM114514 傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909253687350108160",
+        "conversation_id": "1922536382804721805",
+        "created_at": "2025-05-14T08:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T09:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922576356212166904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1435832892609937408",
+              "start": 0,
+              "username": "XHHM114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922576356212166904",
+        "in_reply_to_user_id": "1435832892609937408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1599,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922536382804721805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XHHM114514 谁规定是贵国领土"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（/抑郁焦虑/黑金属/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎扩列和找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 坏人堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 64,
+          "like_count": 504,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 576
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T14:35:36.000Z",
+        "description": "支持蒙元朱明张献忠满清太平天国曾国藩八国联军日本军国民党北洋军阀共产党",
+        "id": "1909253687350108160",
+        "location": "上海",
+        "name": "しいなな◂Ⓘ▸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909254249047105536/bQl0vKmK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 117,
+          "like_count": 970,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 450
+        },
+        "username": "hikokum1n",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-09T05:10:25.000Z",
+        "description": "我愿以生命为代价，在无垠的宇宙中遨游\n                   宇宙在上，魂归星海",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "drive.google.com/drive/folders/…",
+                "end": 23,
+                "expanded_url": "https://drive.google.com/drive/folders/1-12_jEv6pHJxJ4R6M1-uUKZ6gnJdr-V_",
+                "start": 0,
+                "url": "https://t.co/7LtwER26Ja"
+              }
+            ]
+          }
+        },
+        "id": "1435832892609937408",
+        "location": "太阳系、第三类地行星卫星、月球(广寒)🌕",
+        "name": "星辉辉喵🐱(^･ω･)✨🌌",
+        "pinned_tweet_id": "1805562403809263862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916664624809947136/q3xgLvTy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3332,
+          "following_count": 863,
+          "like_count": 68484,
+          "listed_count": 13,
+          "media_count": 2444,
+          "tweet_count": 23088
+        },
+        "url": "https://t.co/7LtwER26Ja",
+        "username": "XHHM114514",
+        "verified": false
+      }
+    ]
+  }
+}

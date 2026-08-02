@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880867097166704640"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "1880210494574981149",
+    "created_at": "2025-01-19T06:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T07:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880867100530815288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1851166889655091202",
+          "start": 0,
+          "username": "DEERJU2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EXoujZhOJX",
+          "end": 35,
+          "expanded_url": "https://x.com/Victor_zhang233/status/1880867100530815288/photo/1",
+          "media_key": "3_1880867097166704640",
+          "start": 12,
+          "url": "https://t.co/EXoujZhOJX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880867100530815288",
+    "in_reply_to_user_id": "1851166889655091202",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880211368881840361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DEERJU2024 https://t.co/EXoujZhOJX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1880867097166704640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhouqNxXcAAe4Y7.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880867097166704640"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "1880210494574981149",
+        "created_at": "2025-01-19T06:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T07:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880867100530815288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851166889655091202",
+              "start": 0,
+              "username": "DEERJU2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EXoujZhOJX",
+              "end": 35,
+              "expanded_url": "https://x.com/Victor_zhang233/status/1880867100530815288/photo/1",
+              "media_key": "3_1880867097166704640",
+              "start": 12,
+              "url": "https://t.co/EXoujZhOJX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880867100530815288",
+        "in_reply_to_user_id": "1851166889655091202",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880211368881840361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DEERJU2024 https://t.co/EXoujZhOJX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851166889655091202",
+        "conversation_id": "1880210494574981149",
+        "created_at": "2025-01-17T11:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T12:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880211368881840361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880211368881840361",
+        "in_reply_to_user_id": "1851166889655091202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 476,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880210852277809578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "列宁:”社会主义就是提高生产率”说这个口号的是文盲，书都看不明白。\n中共:社会主义就是解放生产力！\n列宁:？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 60,
+          "like_count": 444,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 457
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T07:39:32.000Z",
+        "description": "辩证法是世界中一切运动、一切生命、一切事业之推动的原则——黑格尔//推翻资产阶级！工人阶级专政！——马克思//正是在资产阶级被推翻以后，阶级斗争才具有最尖锐的形式。——列宁//唯有经久鱼水情，堪托重任。——毛泽东",
+        "id": "1851166889655091202",
+        "name": "德耳击",
+        "pinned_tweet_id": "1874192341105582188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874689602663108608/QVByTYoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 45,
+          "like_count": 208,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 1399
+        },
+        "username": "DEERJU2024",
+        "verified": false
+      }
+    ]
+  }
+}

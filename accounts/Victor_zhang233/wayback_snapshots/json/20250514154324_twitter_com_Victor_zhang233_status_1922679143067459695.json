@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1922608134897426604",
+    "created_at": "2025-05-14T15:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T16:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922679143067459695"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "雪碧",
+          "probability": 0.6505,
+          "start": 23,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1731999601706840064",
+          "start": 0,
+          "username": "li1561750899"
+        },
+        {
+          "end": 22,
+          "id": "1577485263978143746",
+          "start": 14,
+          "username": "luplan1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922679143067459695",
+    "in_reply_to_user_id": "1731999601706840064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922615787488997831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li1561750899 @luplan1 雪碧（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1922608134897426604",
+        "created_at": "2025-05-14T15:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T16:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922679143067459695"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "雪碧",
+              "probability": 0.6505,
+              "start": 23,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1731999601706840064",
+              "start": 0,
+              "username": "li1561750899"
+            },
+            {
+              "end": 22,
+              "id": "1577485263978143746",
+              "start": 14,
+              "username": "luplan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922679143067459695",
+        "in_reply_to_user_id": "1731999601706840064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922615787488997831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li1561750899 @luplan1 雪碧（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731999601706840064",
+        "conversation_id": "1922608134897426604",
+        "created_at": "2025-05-14T11:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T12:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922615787488997831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1577485263978143746",
+              "start": 0,
+              "username": "luplan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922615787488997831",
+        "in_reply_to_user_id": "1577485263978143746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4192,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922608134897426604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luplan1 来，回答我，雪考什么赚钱？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（/抑郁焦虑/黑金属/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎扩列和找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 坏人堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 64,
+          "like_count": 499,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 562
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T11:31:10.000Z",
+        "description": "。",
+        "id": "1731999601706840064",
+        "location": "Los Angeles, CA",
+        "name": "li",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885917165867728896/-8OCDqeH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 513,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 68
+        },
+        "username": "li1561750899",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-05T02:26:16.000Z",
+        "description": "4i  喜欢cosplay 热爱二次元",
+        "id": "1577485263978143746",
+        "name": "雪亚亚",
+        "pinned_tweet_id": "1850934875580493982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1599329159968223232/stbZeOfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33476,
+          "following_count": 345,
+          "like_count": 21,
+          "listed_count": 71,
+          "media_count": 52,
+          "tweet_count": 59
+        },
+        "username": "luplan1",
+        "verified": false
+      }
+    ]
+  }
+}

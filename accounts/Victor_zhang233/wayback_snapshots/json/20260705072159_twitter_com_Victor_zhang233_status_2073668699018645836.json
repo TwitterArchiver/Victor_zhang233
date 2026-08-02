@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2073668699018645836",
+    "created_at": "2026-07-05T07:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073668699018645836"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《Veux Tu Danser?》，别名《你想跳舞吗》，由 Gris 演唱，收录于《Il Était une Forêt...》专辑中，《Veux Tu Danser?》下载，《Veux Tu Danser?》在线试听，更多Veux Tu Danser?相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/baotA47q",
+          "end": 59,
+          "expanded_url": "https://163cn.tv/baotA47q",
+          "images": [
+            {
+              "height": 714,
+              "url": "https://pbs.twimg.com/news_img/2073668710213230592/iSb14L2t?format=png&name=orig",
+              "width": 714
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2073668710213230592/iSb14L2t?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 36,
+          "status": 200,
+          "title": "Veux Tu Danser?（你想跳舞吗） - Gris - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=27591560&uct2=QWkwW2pH9yeIfM3rZ1Glsg%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=1379005&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.37&sc=wm&tn=",
+          "url": "https://t.co/qtgOEzq9II"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073668699018645836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享Gris的单曲《Veux Tu Danser? (你想跳舞吗)》: https://t.co/qtgOEzq9II (来自@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2073668699018645836",
+        "created_at": "2026-07-05T07:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073668699018645836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《Veux Tu Danser?》，别名《你想跳舞吗》，由 Gris 演唱，收录于《Il Était une Forêt...》专辑中，《Veux Tu Danser?》下载，《Veux Tu Danser?》在线试听，更多Veux Tu Danser?相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/baotA47q",
+              "end": 59,
+              "expanded_url": "https://163cn.tv/baotA47q",
+              "images": [
+                {
+                  "height": 714,
+                  "url": "https://pbs.twimg.com/news_img/2073668710213230592/iSb14L2t?format=png&name=orig",
+                  "width": 714
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2073668710213230592/iSb14L2t?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 36,
+              "status": 200,
+              "title": "Veux Tu Danser?（你想跳舞吗） - Gris - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=27591560&uct2=QWkwW2pH9yeIfM3rZ1Glsg%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=1379005&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.37&sc=wm&tn=",
+              "url": "https://t.co/qtgOEzq9II"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073668699018645836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享Gris的单曲《Veux Tu Danser? (你想跳舞吗)》: https://t.co/qtgOEzq9II (来自@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 | \n这是哪里。。？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Dekadens",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 430,
+          "like_count": 8982,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 2162
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

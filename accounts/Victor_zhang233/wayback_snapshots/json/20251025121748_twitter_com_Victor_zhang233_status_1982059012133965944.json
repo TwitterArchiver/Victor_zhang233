@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1982040198528839909",
+    "created_at": "2025-10-25T12:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T13:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982059012133965944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1803660054991872002",
+          "start": 0,
+          "username": "singring0417669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982059012133965944",
+    "in_reply_to_user_id": "1803660054991872002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982040198528839909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@singring0417669 用糯米纸包着吃，亲测有效"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1982040198528839909",
+        "created_at": "2025-10-25T12:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T13:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982059012133965944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1803660054991872002",
+              "start": 0,
+              "username": "singring0417669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982059012133965944",
+        "in_reply_to_user_id": "1803660054991872002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982040198528839909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@singring0417669 用糯米纸包着吃，亲测有效"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803660054991872002",
+        "conversation_id": "1982040198528839909",
+        "created_at": "2025-10-25T11:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T12:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982040198528839909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982040198528839909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玉米片能不能学一学白兔那个糖衣锭！！！我要哭死了我要苦死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（// 高中生［endl］ 皮下男 / \n只听自杀黑¿._ / \n我喜欢视奸你们^°^",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 98,
+          "like_count": 1128,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 754
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T05:24:22.000Z",
+        "description": "双向/高中生上学ing/江苏省省重点/高考物化政/不聊h不聊s不约p/轻度od/偶尔鉴证/闲聊，🈚🚪，很乐意和真诚的人聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Tsing_ring",
+                "end": 23,
+                "expanded_url": "http://t.me/Tsing_ring",
+                "start": 0,
+                "url": "https://t.co/y1g9ttvMnF"
+              }
+            ]
+          }
+        },
+        "id": "1803660054991872002",
+        "location": "你的心里",
+        "name": "Tsing_ring",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981390453812412416/kvpqwyFu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 72,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 79
+        },
+        "url": "https://t.co/y1g9ttvMnF",
+        "username": "singring0417669",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2056673610392301751",
+    "created_at": "2026-05-19T09:49:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056673610392301751"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YesterdayOrang…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/YesterdayOrange/status/2056670169976713379",
+          "start": 31,
+          "url": "https://t.co/WtXmLsxp4q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056673610392301751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056670169976713379",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和人交朋友好难啊，为什么你们不能主动给我发消息然后找我交朋友 https://t.co/WtXmLsxp4q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2056673610392301751",
+        "created_at": "2026-05-19T09:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056673610392301751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YesterdayOrang…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/YesterdayOrange/status/2056670169976713379",
+              "start": 31,
+              "url": "https://t.co/WtXmLsxp4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056673610392301751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056670169976713379",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和人交朋友好难啊，为什么你们不能主动给我发消息然后找我交朋友 https://t.co/WtXmLsxp4q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2056670169976713379",
+        "created_at": "2026-05-19T09:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056670169976713379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056670169976713379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和人交朋友好难啊，为什么你们不能主动给我发消息然后找我交朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "____好了宝宝，我心疼你，不管感情怎么使人麻木，遇到的人再不真诚，家庭，学习，工作状态再怎么样，你都要好好吃饭，去做一些积极开朗的事情，去被别人需要，人活着一定是要有什么精神寄托，我不是给你什么建议，幸福是个概念词，我只是希望你能好好生活，找到自己，跟自己的情绪好好相处，我能共情你",
+        "id": "1755494652889661440",
+        "location": "人间",
+        "name": "Ashes✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 163,
+          "like_count": 3861,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1420
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2056355935485071678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12051,
+          "following_count": 5072,
+          "like_count": 91665,
+          "listed_count": 22,
+          "media_count": 2253,
+          "tweet_count": 20006
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

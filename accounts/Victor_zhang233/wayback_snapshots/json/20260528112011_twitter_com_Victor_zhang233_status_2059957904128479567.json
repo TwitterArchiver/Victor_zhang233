@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2059918060681912537",
+    "created_at": "2026-05-28T11:20:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:20:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059957904128479567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1939347649141866496",
+          "start": 0,
+          "username": "Inkya__nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059957904128479567",
+    "in_reply_to_user_id": "1939347649141866496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059918060681912537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inkya__nya 抱抱你。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2059918060681912537",
+        "created_at": "2026-05-28T11:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059957904128479567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939347649141866496",
+              "start": 0,
+              "username": "Inkya__nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059957904128479567",
+        "in_reply_to_user_id": "1939347649141866496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059918060681912537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inkya__nya 抱抱你。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939347649141866496",
+        "conversation_id": "2059918060681912537",
+        "created_at": "2026-05-28T08:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059918060681912537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059918060681912537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "說起來，最開始od就是吃的晚安，每天都渾渾噩噩的，也不記得吃了多少，7t7t的吃，還會把一整瓶100片倒出來反復數生怕吃完了沒續上。每天都被夜晚角落的東西和影子螞蟻一樣的東西嚇哭，但是停藥之後看不到這些幻覺又會焦慮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2059669582818721884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 230,
+          "like_count": 4659,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1628
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T15:38:19.000Z",
+        "description": "不用在意我是誰，不用在意是真是假，你開心就好。\n如果你想稱呼我，可以叫我小陰，陰醬...\n或許我會od自傷菸酒畫畫...但這些都不重要，讓我們一起玩吧。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inkya_nya",
+                "end": 23,
+                "expanded_url": "http://ngl.link/inkya_nya",
+                "start": 0,
+                "url": "https://t.co/RwXJBzK4Cw"
+              }
+            ]
+          }
+        },
+        "id": "1939347649141866496",
+        "location": "如果你想問些什麼的話→",
+        "name": "Inkya喵",
+        "pinned_tweet_id": "1939394546850251216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939347868181028864/6N_GNXu6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 185,
+          "like_count": 1496,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 102
+        },
+        "url": "https://t.co/RwXJBzK4Cw",
+        "username": "Inkya__nya",
+        "verified": false
+      }
+    ]
+  }
+}

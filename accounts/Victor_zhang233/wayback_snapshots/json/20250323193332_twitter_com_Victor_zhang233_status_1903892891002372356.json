@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1903364489158037674",
+    "created_at": "2025-03-23T19:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T20:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903892891002372356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845844455095762944",
+          "start": 0,
+          "username": "Ankyo127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903892891002372356",
+    "in_reply_to_user_id": "1845844455095762944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903364489158037674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ankyo127 你被挂贴吧了主播😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1903364467565752320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmob5hdbcAA6GpO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1903364467402145792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmob5g2bAAAyujb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1903364489158037674",
+        "created_at": "2025-03-23T19:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T20:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903892891002372356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845844455095762944",
+              "start": 0,
+              "username": "Ankyo127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903892891002372356",
+        "in_reply_to_user_id": "1845844455095762944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903364489158037674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ankyo127 你被挂贴吧了主播😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903364467565752320",
+            "3_1903364467402145792"
+          ]
+        },
+        "author_id": "1845844455095762944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1903364489158037674",
+        "created_at": "2025-03-22T08:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T09:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903364489158037674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Non3jKeZrw",
+              "end": 36,
+              "expanded_url": "https://x.com/Ankyo127/status/1903364489158037674/photo/1",
+              "media_key": "3_1903364467565752320",
+              "start": 13,
+              "url": "https://t.co/Non3jKeZrw"
+            },
+            {
+              "display_url": "pic.x.com/Non3jKeZrw",
+              "end": 36,
+              "expanded_url": "https://x.com/Ankyo127/status/1903364489158037674/photo/1",
+              "media_key": "3_1903364467402145792",
+              "start": 13,
+              "url": "https://t.co/Non3jKeZrw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903364489158037674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2315,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们地雷女都是这样进货的 https://t.co/Non3jKeZrw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/抑郁焦虑/黑金属/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 坏人堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 66,
+          "like_count": 469,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 512
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T15:10:13.000Z",
+        "description": "桉秋/Ankyo🩵🤍丨友跨丨精分+重抑+中焦+BPD丨自伤od丨LGBT+丨欢迎互fo丨 很喜欢聊天和交朋友所以没有门槛╹ヮ╹",
+        "id": "1845844455095762944",
+        "name": "Ankyo꙳.†",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845846041545019392/2n5ZnMZ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 41,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 48
+        },
+        "username": "Ankyo127",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1979214478068887636",
+    "created_at": "2025-10-17T15:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T16:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979214478068887636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1796937387899064320",
+          "start": 3,
+          "username": "CleverFf050755"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979214478068887636",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978844472713617829",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CleverFf050755: 你说我们能不能做一个如何运营odwiki的游戏？🤠👍做成翻版主播少女重度依赖。🤠\n“恭喜你啊，成为我们Overdose.1wiki编辑组的一员，编辑网址和权限已下发，注意查收哦！[绿猫笑]”\n“好啊，谢谢谢谢[486双手合十祈祷]”\n“不…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 250,
+        "media_key": "16_1978844447761670144",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G3ZEinaWoAAG0Up.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G3ZEinaWoAAG0Up.mp4"
+          }
+        ],
+        "width": 250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1979214478068887636",
+        "created_at": "2025-10-17T15:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T16:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979214478068887636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1796937387899064320",
+              "start": 3,
+              "username": "CleverFf050755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979214478068887636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978844472713617829",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CleverFf050755: 你说我们能不能做一个如何运营odwiki的游戏？🤠👍做成翻版主播少女重度依赖。🤠\n“恭喜你啊，成为我们Overdose.1wiki编辑组的一员，编辑网址和权限已下发，注意查收哦！[绿猫笑]”\n“好啊，谢谢谢谢[486双手合十祈祷]”\n“不…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1978844447761670144"
+          ]
+        },
+        "author_id": "1796937387899064320",
+        "conversation_id": "1978844472713617829",
+        "created_at": "2025-10-16T15:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T16:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978844472713617829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KaBjSlJRat",
+              "end": 173,
+              "expanded_url": "https://x.com/CleverFf050755/status/1978844472713617829/photo/1",
+              "media_key": "16_1978844447761670144",
+              "start": 150,
+              "url": "https://t.co/KaBjSlJRat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978844472713617829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 670,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你说我们能不能做一个如何运营odwiki的游戏？🤠👍做成翻版主播少女重度依赖。🤠\n“恭喜你啊，成为我们Overdose.1wiki编辑组的一员，编辑网址和权限已下发，注意查收哦！[绿猫笑]”\n“好啊，谢谢谢谢[486双手合十祈祷]”\n“不要那么客气啦，以后我们就是一起工作的同事了[绿猫摸头]”…… https://t.co/KaBjSlJRat"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（//高中生［endl］\n^^只听自杀黑¿._",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 76,
+          "like_count": 718,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 641
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hStYWr"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造车间",
+        "name": "Texas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834807235936927744/ue2m-43z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 97,
+          "like_count": 32,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 704
+        },
+        "url": "https://t.co/T0F6hStYWr",
+        "username": "CleverFf050755",
+        "verified": false
+      }
+    ]
+  }
+}

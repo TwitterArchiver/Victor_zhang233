@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1979945865596047564",
+    "created_at": "2025-10-21T05:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T06:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980508086944268305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "248647906",
+          "start": 0,
+          "username": "Jesoooor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980508086944268305",
+    "in_reply_to_user_id": "248647906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979945865596047564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jesoooor 和小王梦女做一桌去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1979945865596047564",
+        "created_at": "2025-10-21T05:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T06:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980508086944268305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "248647906",
+              "start": 0,
+              "username": "Jesoooor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980508086944268305",
+        "in_reply_to_user_id": "248647906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979945865596047564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jesoooor 和小王梦女做一桌去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "248647906",
+        "conversation_id": "1979945865596047564",
+        "created_at": "2025-10-19T16:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T17:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979945865596047564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979945865596047564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看了柴静做的江青传记的节目，绝对算中国现代史里，最精彩的一章，没有之一。\n\n暂且抛开对她的历史定性，江青身上有我们熟知的一切女性特质，尤其是热爱文艺的现代女性的影子。你甚至可以说年轻的江青是一种地雷妹，中老年的江青则像我们刻板印象里的更年期教导主任。\n\n她有自己的美学和生活主张，既有天真的唯心主义，也有偏执、多疑和不安全感，以及对某种理想的狂热崇拜。\n\n她在一个铁幕笼罩的共产社会里过消费主义的生活，按自己的想法布置专机，喜欢花、绸缎、裙子、冰激凌，把自己拍的照片题诗、配文，送给他人，发表在官方报刊上，也让别人给自己拍照，就像在玩最早的小红书。她动不动就给人发一张片单、书单，甚至送人进监狱前也要借电影完成审判。\n\n她追逐具体、可感知的爱，16 岁初婚，第一段婚姻仅维持了两个月。之后不仅落入复杂的情感纠葛，第一次遭遇婚变时还要写文章把丈夫「挂」在公共媒体上。而这种爱的意识的自我解放，与毛泽东产生了共鸣，甚至成为他们的感情基础。\n\n直到中年，这种情谊都没有完全淡去，quote，「1954 年，在天安门城楼上，当周恩来想介绍她给赫鲁晓夫的时候，被毛泽东拦住了。毛泽东拉着她离开，两个人在一个胡同里看了烟花。」，完全是 1:1 还原的恋爱轻小说桥段。\n\n但和大部分现代女性一样，江青也清醒意识到，对女性来说，这种具体的爱的体感会迅速随青春逝去。婚姻之外的事业，才是更重要的人生第二曲线。只不过江青的「事业」，是辅助操刀一场人类近现代历史上最惨无人道的大清洗、内战。\n\n我觉得很讽刺，但又很容易共感的是：在遇到维特克之后，江青迅速从一个老奸巨猾的野心家，回返到了一种相对单纯的青春状态。短短 60 个小时的共处，除了送给唯特克一大堆贵重礼物之外，她几乎无保留地将自己的一切倾诉给了维特克，从明显违背教条的美学主张，到油然而生的女性主义理想，再到夺权的政治野心……这与她初见尼克松总统时表现出的应激形成了强烈对比。\n\n维特克是江青生命里短暂的过客，但正因如此，她才与维特克迅速建立起一种「女性友谊」。这是她作为全世界最有权势的女性之一，一直未能拥有的东西，更是她最初向往的「自由」的一部分。她将自己积郁在内心一辈子的青春幻梦重新点燃，也自己扣动扳机，射出这颗将葬送自己政治生命的子弹。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 673,
+          "impression_count": 474235,
+          "like_count": 1633,
+          "quote_count": 23,
+          "reply_count": 76,
+          "retweet_count": 166
+        },
+        "reply_settings": "everyone",
+        "text": "看了柴静做的江青传记的节目，绝对算中国现代史里，最精彩的一章，没有之一。\n\n暂且抛开对她的历史定性，江青身上有我们熟知的一切女性特质，尤其是热爱文艺的现代女性的影子。你甚至可以说年轻的江青是一种地雷妹，中老年的江青则像我们刻板印象里的更年期教导主任。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（// 高中生［endl］ \n只听自杀黑¿._ / \n我喜欢视奸你们^°^",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 92,
+          "like_count": 892,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 686
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-07T12:49:21.000Z",
+        "description": "写报道，做评测，追偶像，打游戏，总是戴着耳机，收藏模型、唱片和纸星星。早熟过，所以一直没长大。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jesor.me",
+                "end": 23,
+                "expanded_url": "https://jesor.me",
+                "start": 0,
+                "url": "https://t.co/fGkIY8fSl2"
+              }
+            ]
+          }
+        },
+        "id": "248647906",
+        "location": "Mordor",
+        "name": "ᴊᴄ🍉",
+        "pinned_tweet_id": "1211966834947215360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745502845716324352/8yNyDlje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20268,
+          "following_count": 698,
+          "like_count": 13784,
+          "listed_count": 137,
+          "media_count": 3837,
+          "tweet_count": 17640
+        },
+        "url": "https://t.co/fGkIY8fSl2",
+        "username": "Jesoooor",
+        "verified": false
+      }
+    ]
+  }
+}

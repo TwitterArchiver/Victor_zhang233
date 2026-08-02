@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1811739580619718861",
+    "created_at": "2024-07-12T16:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-12T17:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811805332714164399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1484488362182467584",
+          "start": 0,
+          "username": "ch_fannie427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811805332714164399",
+    "in_reply_to_user_id": "1484488362182467584",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811739580619718861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ch_fannie427 我也不知道......"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1811739580619718861",
+        "created_at": "2024-07-12T16:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T17:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811805332714164399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1484488362182467584",
+              "start": 0,
+              "username": "ch_fannie427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811805332714164399",
+        "in_reply_to_user_id": "1484488362182467584",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811739580619718861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ch_fannie427 我也不知道......"
+      },
+      {
+        "attachments": {},
+        "author_id": "1484488362182467584",
+        "conversation_id": "1811739580619718861",
+        "created_at": "2024-07-12T12:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T13:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811739580619718861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1811739580619718861",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请问要怎么反解离呀…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这//白左/简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": ".. Лунный",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 38,
+          "like_count": 171,
+          "listed_count": 0,
+          "tweet_count": 221
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-21T11:30:25.000Z",
+        "description": "很丑\n记性有点差抱歉\n不用当作mtf（不努力）\n心理绝对健全（会尽量包容些）\n是小屁孩（不用认真对待）\n不太擅长理解（不理解的会尽量不质疑的）\nhrt 23 10 03\n什么都不会，大概不适合当朋友\n不太会说话\n状态很稳定",
+        "id": "1484488362182467584",
+        "location": "云",
+        "name": "云匿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810651317708464128/QAGr0IpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 592,
+          "like_count": 688,
+          "listed_count": 0,
+          "tweet_count": 112
+        },
+        "username": "ch_fannie427",
+        "verified": false
+      }
+    ]
+  }
+}

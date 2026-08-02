@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2068343992597745922",
+    "created_at": "2026-06-20T15:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068350936016420907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1786442629917589505",
+          "start": 0,
+          "username": "GreenMarc512269"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068350936016420907",
+    "in_reply_to_user_id": "1786442629917589505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068345218848706628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GreenMarc512269 才11点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2068343992597745922",
+        "created_at": "2026-06-20T15:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068350936016420907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1786442629917589505",
+              "start": 0,
+              "username": "GreenMarc512269"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068350936016420907",
+        "in_reply_to_user_id": "1786442629917589505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068345218848706628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GreenMarc512269 才11点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786442629917589505",
+        "conversation_id": "2068343992597745922",
+        "created_at": "2026-06-20T14:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068345218848706628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068345218848706628",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068343992597745922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 睡觉吧……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 |\nDM欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 392,
+          "like_count": 7612,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1981
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T17:08:30.000Z",
+        "description": "可以和我聊天只要有空就回你消息😋😋|支持：CN ENG JAP RUS|互fo？…|当朋友圈发🤯🤯🫪\nTG：@GGHKing520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "GGHKing520"
+              }
+            ]
+          }
+        },
+        "id": "1786442629917589505",
+        "location": "广西",
+        "name": "LinQi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054062444159643648/_Bj8y2n7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 116,
+          "like_count": 2558,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 634
+        },
+        "url": "",
+        "username": "GreenMarc512269",
+        "verified": false
+      }
+    ]
+  }
+}

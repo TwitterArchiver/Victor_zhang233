@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1816481095401284069",
+    "created_at": "2024-07-27T08:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T09:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817121622249062634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1725486340542775296",
+          "start": 0,
+          "username": "myaukarova"
+        },
+        {
+          "end": 23,
+          "id": "1431189612190486530",
+          "start": 12,
+          "username": "ziyang8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817121622249062634",
+    "in_reply_to_user_id": "1725486340542775296",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816537026965176489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myaukarova @ziyang8964 难她天？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1816481095401284069",
+        "created_at": "2024-07-27T08:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T09:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817121622249062634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1725486340542775296",
+              "start": 0,
+              "username": "myaukarova"
+            },
+            {
+              "end": 23,
+              "id": "1431189612190486530",
+              "start": 12,
+              "username": "ziyang8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817121622249062634",
+        "in_reply_to_user_id": "1725486340542775296",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816537026965176489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myaukarova @ziyang8964 难她天？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725486340542775296",
+        "conversation_id": "1816481095401284069",
+        "created_at": "2024-07-25T18:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T19:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816537026965176489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1431189612190486530",
+              "start": 0,
+              "username": "ziyang8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816537026965176489",
+        "in_reply_to_user_id": "1431189612190486530",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1684,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816481095401284069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziyang8964 你在网上说想要八小时工作制我都不反对，但你真想要追求合法权利，就代表你支持美西方国家的裹挟，我就要反对了😡😡😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这///简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": ".. лесе",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 42,
+          "like_count": 185,
+          "listed_count": 0,
+          "tweet_count": 233
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T12:09:48.000Z",
+        "description": "🍔🍔🍔",
+        "id": "1725486340542775296",
+        "location": "Anhui China",
+        "name": "Myaukarova🏳‍⚧🍔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775694013804457984/TEunrb63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 27,
+          "like_count": 19,
+          "listed_count": 0,
+          "tweet_count": 135
+        },
+        "username": "myaukarova",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T09:39:34.000Z",
+        "description": "",
+        "id": "1431189612190486530",
+        "name": "赵书记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798369906398007296/7TpdvI02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5065,
+          "following_count": 851,
+          "like_count": 58941,
+          "listed_count": 21,
+          "tweet_count": 8216
+        },
+        "username": "ziyang8964",
+        "verified": false
+      }
+    ]
+  }
+}

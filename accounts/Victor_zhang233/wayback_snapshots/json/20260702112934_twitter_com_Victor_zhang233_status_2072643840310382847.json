@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2072641426626945112",
+    "created_at": "2026-07-02T11:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072643840310382847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1935107832627761152",
+          "start": 0,
+          "username": "GmOLD7dVOZ782"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072643840310382847",
+    "in_reply_to_user_id": "1935107832627761152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072641426626945112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GmOLD7dVOZ782 ai宣布占领中推圈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2072641426626945112",
+        "created_at": "2026-07-02T11:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072643840310382847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1935107832627761152",
+              "start": 0,
+              "username": "GmOLD7dVOZ782"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072643840310382847",
+        "in_reply_to_user_id": "1935107832627761152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072641426626945112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GmOLD7dVOZ782 ai宣布占领中推圈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935107832627761152",
+        "conversation_id": "2072641426626945112",
+        "created_at": "2026-07-02T11:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072641426626945112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072641426626945112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的天推特怎么这么多垃圾评论，居然轮到我收了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 | \n这是哪里。。？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Dekadens",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 410,
+          "like_count": 8586,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 2085
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T22:50:45.000Z",
+        "description": "=汣（じゆう）/ 自由｜\n04/173cm/52kg｜\n🏳️‍🌈 LGBTQ+ friendly｜\nOD｜\n心は無性別 / 心理无性别｜\npan / bi / ace",
+        "id": "1935107832627761152",
+        "name": "汣（じゆう）",
+        "pinned_tweet_id": "2069077115803431271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067927810870788096/H_AspBBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 11,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "GmOLD7dVOZ782",
+        "verified": false
+      }
+    ]
+  }
+}

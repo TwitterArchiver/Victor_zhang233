@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2059963340483428515",
+    "created_at": "2026-05-28T11:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059963340483428515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1826255472636350464",
+          "start": 3,
+          "username": "KawaiiTrotsky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059963340483428515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049346431367151848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KawaiiTrotsky: 老子不把先锋队官僚叫作‘资产阶级’，是因为传统资产阶级好歹还受制于私有制和市场竞争；而你们这群野狗，是靠着绝对垄断国家暴力机器来实现对生产资料的集体占有和对无产阶级的敲骨吸髓！这叫特权官僚阶级！他们比传统资产阶级更集权、更残暴、更不用受任何…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2059963340483428515",
+        "created_at": "2026-05-28T11:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059963340483428515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1826255472636350464",
+              "start": 3,
+              "username": "KawaiiTrotsky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059963340483428515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049346431367151848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KawaiiTrotsky: 老子不把先锋队官僚叫作‘资产阶级’，是因为传统资产阶级好歹还受制于私有制和市场竞争；而你们这群野狗，是靠着绝对垄断国家暴力机器来实现对生产资料的集体占有和对无产阶级的敲骨吸髓！这叫特权官僚阶级！他们比传统资产阶级更集权、更残暴、更不用受任何…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826255472636350464",
+        "conversation_id": "2049346431367151848",
+        "created_at": "2026-04-29T04:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T05:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049346431367151848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Astdeitee/stat…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/Astdeitee/status/2049345041546756453",
+              "start": 142,
+              "url": "https://t.co/cBpKSv9rJD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049346431367151848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "老子不把先锋队官僚叫作‘资产阶级’，是因为传统资产阶级好歹还受制于私有制和市场竞争；而你们这群野狗，是靠着绝对垄断国家暴力机器来实现对生产资料的集体占有和对无产阶级的敲骨吸髓！这叫特权官僚阶级！他们比传统资产阶级更集权、更残暴、更不用受任何法律监督！我这是在写你们主子那独一无二的恶毒，你这个脑瘫居然以为我是在给资产阶级‘洗白’？你这智商基本也就告别直立行走了。\n\n什么叫‘限制无产阶级组织形式发展到先锋队’？先锋队那是无产阶级的‘发展’吗？那是无产阶级长出的致命毒瘤！真正的组织发展是工人的直接民主、是苏维埃的横向联合；而你所谓的‘发展到先锋队’，就是让一群自封的‘职业革命家’把工人的权力全部夺走，把独立的工会全部砸烂，最后让无产阶级变成只会喊万岁和干苦力的耗材！只有你这种天生爱认爹的精神奴才，才会把被主子戴上项圈牵着走叫作‘组织升级’。\n\n批判列宁的建党体制导致了官僚化，这是基于血淋淋的客观历史事实，马克思主义是门科学，科学的第一要义就是批判和扬弃。你呢？你把列宁当成一字不能改的真主安拉，把先锋队理论当成你那劣质大脑里唯一的圣经。谁敢指出你神像上的裂缝，你就如同野狗一样乱咬人。\n\n最他妈好笑的就是你最后那句装大度的‘我不愿意骂她’和‘不是封建战士’。你装什么理中客的白莲花呢？你打心眼里拥护一个权力不受下层监督、靠着内部裙带关系传承、垄断一切社会资源的官僚特权集团，这他妈不就是披着红旗的现代封建主义？！你就是这个红皮封建王朝里最下贱、最没骨气的那条看门狗！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1435,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049345041546756453",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老子不把先锋队官僚叫作‘资产阶级’，是因为传统资产阶级好歹还受制于私有制和市场竞争；而你们这群野狗，是靠着绝对垄断国家暴力机器来实现对生产资料的集体占有和对无产阶级的敲骨吸髓！这叫特权官僚阶级！他们比传统资产阶级更集权、更残暴、更不用受任何法律监督！我这是在写你们主子那独一无二的恶 https://t.co/cBpKSv9rJD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2059669582818721884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 235,
+          "like_count": 4661,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1630
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T13:50:30.000Z",
+        "description": "無言フォロー失礼します|アニメ|フォロバ99%|block back100%(blocked 9000+)\n死妈盗号骗子的🖕👉@_fabianellis6\n账号终于解封了😭政治推文下别@我\n4LSOFFICIAL→@FourLeafStudios\nFair is foul, and foul is fair",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "_fabianellis6"
+              },
+              {
+                "end": 124,
+                "start": 108,
+                "username": "FourLeafStudios"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Twitter.com/KawaiiTrotsky/…",
+                "end": 23,
+                "expanded_url": "https://Twitter.com/KawaiiTrotsky/status/1935915282738168142?mx=1",
+                "start": 0,
+                "url": "https://t.co/4Haa7w9AKf"
+              }
+            ]
+          }
+        },
+        "id": "1826255472636350464",
+        "location": "IMNOT4LSACC|fuck@_fabianellis6",
+        "name": "砂藤リリー (西宮硝子の誕生日まであと12日 &『1984』出版77周年まであと13日)",
+        "pinned_tweet_id": "2049346431367151848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931922308031250432/PgClKYdP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 7491,
+          "like_count": 13485,
+          "listed_count": 2,
+          "media_count": 1358,
+          "tweet_count": 20134
+        },
+        "url": "https://t.co/4Haa7w9AKf",
+        "username": "KawaiiTrotsky",
+        "verified": false
+      }
+    ]
+  }
+}

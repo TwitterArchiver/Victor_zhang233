@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2019660559441097014",
+    "created_at": "2026-02-06T06:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T07:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019660559441097014"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fragroooooo/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/fragroooooo/status/2018935995681628413",
+          "start": 4,
+          "url": "https://t.co/KwyFcZRoVE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019660559441097014",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018935995681628413",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦流批 https://t.co/KwyFcZRoVE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2019660559441097014",
+        "created_at": "2026-02-06T06:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T07:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019660559441097014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fragroooooo/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/fragroooooo/status/2018935995681628413",
+              "start": 4,
+              "url": "https://t.co/KwyFcZRoVE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019660559441097014",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018935995681628413",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦流批 https://t.co/KwyFcZRoVE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017052934388011009",
+        "conversation_id": "2018935995681628413",
+        "created_at": "2026-02-04T06:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T07:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018935995681628413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018935995681628413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 40326,
+          "like_count": 973,
+          "quote_count": 8,
+          "reply_count": 37,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "抑郁症是被社会强奸感染的性病。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "林中落雨，秋前盛夏",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016888733715615747/2ZjaRw3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 99,
+          "like_count": 1680,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 858
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-30T01:51:19.000Z",
+        "description": "前前前世@Muddledist破千fo被封｜tg：@Muddledist ｜211中文系抽象魔怔缺爱磕药地雷女｜流浪吟詩，爛泥打樁｜ 自由思考，獨立展望，用批判性思維看待這個復雜的世界。｜ 賽博發癲日記本｜ 赛博妓女实在处女｜ 欢迎互关｜🚪88/188/388/588/1888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "Muddledist"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Muddledist"
+              }
+            ]
+          }
+        },
+        "id": "2017052934388011009",
+        "location": "第五高原",
+        "name": "乙女椿（四代目）",
+        "pinned_tweet_id": "2017054353287414066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017850629650321409/_9Fmnp41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 174,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 130
+        },
+        "username": "fragroooooo",
+        "verified": false
+      }
+    ]
+  }
+}

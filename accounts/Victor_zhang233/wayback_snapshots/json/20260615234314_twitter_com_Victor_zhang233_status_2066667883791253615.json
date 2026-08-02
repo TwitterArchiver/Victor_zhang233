@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066667880431685632"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2066667883791253615",
+    "created_at": "2026-06-15T23:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T00:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066667883791253615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 31,
+          "id": "1486946165937651716",
+          "start": 22,
+          "username": "IZUNA347"
+        },
+        {
+          "end": 43,
+          "id": "1934615181524615168",
+          "start": 32,
+          "username": "sji1086477"
+        },
+        {
+          "end": 62,
+          "id": "1938232468076957698",
+          "start": 50,
+          "username": "1yuki475740"
+        },
+        {
+          "end": 83,
+          "id": "1913966733464854529",
+          "start": 69,
+          "username": "mydearjillian"
+        },
+        {
+          "end": 99,
+          "id": "1948268170302889984",
+          "start": 84,
+          "username": "LimTongyi84917"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infinitetweet.me/family-tree?la…",
+          "end": 127,
+          "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "start": 104,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "url": "https://t.co/LUcIaCcWDd"
+        },
+        {
+          "display_url": "pic.x.com/aXs82PQ6MI",
+          "end": 151,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2066667883791253615/photo/1",
+          "media_key": "3_2066667880431685632",
+          "start": 128,
+          "url": "https://t.co/aXs82PQ6MI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066667883791253615",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @IZUNA347 @sji1086477\n👰 配偶: @1yuki475740\n👶 孩子: @mydearjillian @LimTongyi84917\n\n➡️ https://t.co/LUcIaCcWDd https://t.co/aXs82PQ6MI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 807,
+        "media_key": "3_2066667880431685632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5HfNHXEAAGOvk.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066667880431685632"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2066667883791253615",
+        "created_at": "2026-06-15T23:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T00:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066667883791253615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1486946165937651716",
+              "start": 22,
+              "username": "IZUNA347"
+            },
+            {
+              "end": 43,
+              "id": "1934615181524615168",
+              "start": 32,
+              "username": "sji1086477"
+            },
+            {
+              "end": 62,
+              "id": "1938232468076957698",
+              "start": 50,
+              "username": "1yuki475740"
+            },
+            {
+              "end": 83,
+              "id": "1913966733464854529",
+              "start": 69,
+              "username": "mydearjillian"
+            },
+            {
+              "end": 99,
+              "id": "1948268170302889984",
+              "start": 84,
+              "username": "LimTongyi84917"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 127,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "start": 104,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/LUcIaCcWDd"
+            },
+            {
+              "display_url": "pic.x.com/aXs82PQ6MI",
+              "end": 151,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2066667883791253615/photo/1",
+              "media_key": "3_2066667880431685632",
+              "start": 128,
+              "url": "https://t.co/aXs82PQ6MI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066667883791253615",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @IZUNA347 @sji1086477\n👰 配偶: @1yuki475740\n👶 孩子: @mydearjillian @LimTongyi84917\n\n➡️ https://t.co/LUcIaCcWDd https://t.co/aXs82PQ6MI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "简介是什么？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 335,
+          "like_count": 6929,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1982
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-28T06:16:23.000Z",
+        "description": "HE/HIM🏳️‍🌈-SHTWT 988TWT",
+        "id": "1486946165937651716",
+        "name": "izuna",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055029378954792960/W3zEJTZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 204,
+          "like_count": 6921,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 1231
+        },
+        "username": "IZUNA347",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 尝试戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 128,
+          "like_count": 2363,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1080
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T13:47:00.000Z",
+        "description": "𝖆 𝖈𝖔𝖗𝖕𝖘𝖊\n        𝕴 ❤️ 𝕿𝖗𝖆𝖓𝖘𝖞𝖑𝖛𝖆𝖓𝖎𝖆",
+        "id": "1938232468076957698",
+        "location": "𝖍𝖊𝖆𝖛𝖊𝖓",
+        "name": "Yuki",
+        "pinned_tweet_id": "2061617482830590458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053797917572665344/CsS3QgTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 99,
+          "like_count": 485,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 184
+        },
+        "username": "1yuki475740",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T14:43:38.000Z",
+        "description": "Daydream（life）//me//od//精神分析//\n我爱你们",
+        "id": "1913966733464854529",
+        "location": "now",
+        "name": "秋-Yuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984190166668312576/srt8Nn9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 86,
+          "like_count": 857,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 222
+        },
+        "username": "mydearjillian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T06:25:42.000Z",
+        "description": "叽里咕噜说什么呢。。我要睡觉了🛏️\n/会发自己唱歌/intp/世界只是一个巨大的乐色桶，大家都只是各种各样的乐色，我也是乐色/不聊任何黄色内容/内容超负面。（不是中国人。只是会中文。）",
+        "id": "1948268170302889984",
+        "name": "非人类",
+        "pinned_tweet_id": "2045141422475706869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036886027353415681/4ysRfabU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 49,
+          "like_count": 42953,
+          "listed_count": 0,
+          "media_count": 2459,
+          "tweet_count": 8325
+        },
+        "username": "LimTongyi84917",
+        "verified": false
+      }
+    ]
+  }
+}

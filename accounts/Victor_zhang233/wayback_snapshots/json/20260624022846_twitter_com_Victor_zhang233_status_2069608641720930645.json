@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2069608641720930645",
+    "created_at": "2026-06-24T02:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069608641720930645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1479082118",
+          "start": 3,
+          "username": "sibelAltiparmak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069608641720930645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069009457959596493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sibelAltiparmak: 有人要普瑞吗 380r急出10盒75的 可以验货"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2069608641720930645",
+        "created_at": "2026-06-24T02:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069608641720930645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1479082118",
+              "start": 3,
+              "username": "sibelAltiparmak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069608641720930645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069009457959596493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sibelAltiparmak: 有人要普瑞吗 380r急出10盒75的 可以验货"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479082118",
+        "conversation_id": "2069009457959596493",
+        "created_at": "2026-06-22T10:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069009457959596493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069009457959596493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 139,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人要普瑞吗 380r急出10盒75的 可以验货"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 |\nDM欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 399,
+          "like_count": 8039,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 2059
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-03T07:20:10.000Z",
+        "description": "药物重度依赖💊/自杀念头🩸/精神不太好会分裂🔪/前500fo都会回关/o过很多也算个行走的基围百科了不懂就问🚬/会写一些奇奇怪怪乱七八糟的东西 世界上的另一个我就是@mujmarOvO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "mujmarOvO"
+              }
+            ]
+          }
+        },
+        "id": "1479082118",
+        "location": "有你我同在的地方",
+        "name": "梦江曦",
+        "pinned_tweet_id": "2069017275513069931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067019462541541376/vHjEguHa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 62,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "sibelAltiparmak",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2029746230046380185",
+    "created_at": "2026-03-06T11:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T12:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029880279889031370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757439932271087616",
+          "start": 0,
+          "username": "ATerOL_000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029880279889031370",
+    "in_reply_to_user_id": "1757439932271087616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029746230046380185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ATerOL_000 降临派"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2029746230046380185",
+        "created_at": "2026-03-06T11:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T12:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029880279889031370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757439932271087616",
+              "start": 0,
+              "username": "ATerOL_000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029880279889031370",
+        "in_reply_to_user_id": "1757439932271087616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029746230046380185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ATerOL_000 降临派"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757439932271087616",
+        "conversation_id": "2029746230046380185",
+        "created_at": "2026-03-06T02:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T03:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029746230046380185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029746230046380185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候来个外星生物实行一下清人类计划"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "INFP | 生理男 | 阴暗抑郁家里蹲 | 我不会写简介",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Hypothermia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028198324504084480/mHOJiWWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 90,
+          "like_count": 1934,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 927
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T16:21:54.000Z",
+        "description": "舟｜术｜音游｜什么都说，od/歌手，重抑重焦bpd，习惯性改主页，无言直关抱歉，互fo请私｜全世界最可爱🤍@shiyuann_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shiyuann_"
+              }
+            ]
+          }
+        },
+        "id": "1757439932271087616",
+        "location": "痛苦",
+        "name": "介于平行中的你与我之缘",
+        "pinned_tweet_id": "2002568601250001101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029693298638737412/N93-CxiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 660,
+          "like_count": 678,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 925
+        },
+        "username": "ATerOL_000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2015843555261219264",
+    "created_at": "2026-01-26T17:49:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T18:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015844515521954098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915984523546005505",
+          "start": 0,
+          "username": "kagechanwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015844515521954098",
+    "in_reply_to_user_id": "1915984523546005505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015843555261219264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagechanwww bto正在尝试解剖自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2015843555261219264",
+        "created_at": "2026-01-26T17:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T18:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015844515521954098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915984523546005505",
+              "start": 0,
+              "username": "kagechanwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015844515521954098",
+        "in_reply_to_user_id": "1915984523546005505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015843555261219264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagechanwww bto正在尝试解剖自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915984523546005505",
+        "conversation_id": "2015843555261219264",
+        "created_at": "2026-01-26T17:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T18:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015843555261219264"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015843555261219264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的好想划一些深的伤口 那样很爽 我不知道是不是我手臂上增生太多了 还是说刀太钝了 反正每次都只能划到真皮 我好难受啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "这是哪里？",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001408376811704320/27ExCAWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 89,
+          "like_count": 1535,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 804
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T04:21:44.000Z",
+        "description": "BPD/BD/GAD 自残 负面情绪废话 欢迎同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn.pornhub.com",
+                "end": 23,
+                "expanded_url": "https://cn.pornhub.com/",
+                "start": 0,
+                "url": "https://t.co/hKRNCoJgfL"
+              }
+            ]
+          }
+        },
+        "id": "1915984523546005505",
+        "location": "地狱",
+        "name": "孤独な夜に溺れる",
+        "pinned_tweet_id": "2002298447081451989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005044114845212672/jKzBfgrq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 271,
+          "like_count": 2897,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 799
+        },
+        "url": "https://t.co/hKRNCoJgfL",
+        "username": "kagechanwww",
+        "verified": false
+      }
+    ]
+  }
+}

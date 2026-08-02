@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2076839859289997505",
+    "created_at": "2026-07-14T04:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076884544817598752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2069247012382646272",
+          "start": 0,
+          "username": "mo2overdose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076884544817598752",
+    "in_reply_to_user_id": "2069247012382646272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076884090473824472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mo2overdose 比见到屈原要好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2076839859289997505",
+        "created_at": "2026-07-14T04:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076884544817598752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2069247012382646272",
+              "start": 0,
+              "username": "mo2overdose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076884544817598752",
+        "in_reply_to_user_id": "2069247012382646272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076884090473824472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mo2overdose 比见到屈原要好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069247012382646272",
+        "conversation_id": "2076839859289997505",
+        "created_at": "2026-07-14T04:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076884090473824472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076884090473824472",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076839859289997505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 这应该是所有情况里最糟糕的badtrip"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him | 药物欣快重度依赖 | \n这是哪里。。？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 468,
+          "like_count": 9940,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2311
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-23T02:41:54.000Z",
+        "description": "前世：momo13388788781\n很高兴你找到我了！😧\n\n这里是来自母星为火星外星人本体的林momo👽很高兴见到你！【因为精神问题太严重导致无法与普通人类拥有认同感，遂认定自己是火星人的mo】\n\n我是水仙自推🥺💖 目前精神残疾正在尝试画画谋生😭",
+        "id": "2069247012382646272",
+        "location": "wonderland",
+        "name": "🥩人肉叉烧包🍽️【mo3.0】",
+        "pinned_tweet_id": "2069254110931788265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076351597093990400/cZeuoDTE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 21,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "mo2overdose",
+        "verified": false
+      }
+    ]
+  }
+}

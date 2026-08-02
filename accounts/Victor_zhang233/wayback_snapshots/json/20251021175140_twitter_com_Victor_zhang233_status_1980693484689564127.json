@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1980692738153804265",
+    "created_at": "2025-10-21T17:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T18:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980693484689564127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1428041553608527873",
+          "start": 0,
+          "username": "xingling_xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980693484689564127",
+    "in_reply_to_user_id": "1428041553608527873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980692738153804265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingling_xl 人生就是这样的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1980692738153804265",
+        "created_at": "2025-10-21T17:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T18:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980693484689564127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1428041553608527873",
+              "start": 0,
+              "username": "xingling_xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980693484689564127",
+        "in_reply_to_user_id": "1428041553608527873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980692738153804265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingling_xl 人生就是这样的吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1428041553608527873",
+        "conversation_id": "1980692738153804265",
+        "created_at": "2025-10-21T17:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T18:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980692738153804265"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980692738153804265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人际关系好痛苦，生活好痛苦，家庭好痛苦，没钱好痛苦，睡不着觉很痛苦起床也很痛苦，吃点东西就胃好痛好痛苦，经常头痛好痛苦，今天又在手抖好痛苦\n想到过去很痛苦，想象未来很痛苦，现在也很痛苦\n\n每天诉苦甚至都很痛苦\n\n因为感觉诉苦的自己很废物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（// 高中生［endl］ \n只听自杀黑¿._ / \n我喜欢视奸你们^°^",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 92,
+          "like_count": 936,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 699
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-18T17:10:20.000Z",
+        "description": "可能是个自己的树洞｜INFP｜中文｜English｜日本語｜会回fo",
+        "id": "1428041553608527873",
+        "location": "Holy Terra",
+        "name": "xingling",
+        "pinned_tweet_id": "1971305588354437128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1445717602597158924/hZWtL6ew_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 506,
+          "like_count": 781,
+          "listed_count": 15,
+          "media_count": 16,
+          "tweet_count": 459
+        },
+        "username": "xingling_xl",
+        "verified": false
+      }
+    ]
+  }
+}

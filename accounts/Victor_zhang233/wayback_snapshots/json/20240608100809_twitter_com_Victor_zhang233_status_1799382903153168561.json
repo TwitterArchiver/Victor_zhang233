@@ -1,0 +1,210 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1798583085103222842",
+    "created_at": "2024-06-08T10:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T11:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799382903153168561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1607339114508214275",
+          "start": 0,
+          "username": "gm18c_3354"
+        },
+        {
+          "end": 25,
+          "id": "1586655499738820609",
+          "start": 12,
+          "username": "byuzhngxi999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799382903153168561",
+    "in_reply_to_user_id": "1607339114508214275",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798761623961882969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gm18c_3354 @byuzhngxi999 核弹数-3是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1798583085103222842",
+        "created_at": "2024-06-08T10:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T11:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799382903153168561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1607339114508214275",
+              "start": 0,
+              "username": "gm18c_3354"
+            },
+            {
+              "end": 25,
+              "id": "1586655499738820609",
+              "start": 12,
+              "username": "byuzhngxi999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799382903153168561",
+        "in_reply_to_user_id": "1607339114508214275",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798761623961882969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gm18c_3354 @byuzhngxi999 核弹数-3是吧"
+      },
+      {
+        "attachments": {},
+        "author_id": "1607339114508214275",
+        "conversation_id": "1798583085103222842",
+        "created_at": "2024-06-06T16:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T17:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798761623961882969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1586655499738820609",
+              "start": 0,
+              "username": "byuzhngxi999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798761623961882969",
+        "in_reply_to_user_id": "1586655499738820609",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 384,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798583085103222842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@byuzhngxi999 日本还是要多加重视\n毕竟是世界上第二个拥核国家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这是一条简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "仿生人是否会梦见电子羊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 30,
+          "like_count": 113,
+          "listed_count": 0,
+          "tweet_count": 149
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T11:34:50.000Z",
+        "description": "你得有多闲才能想到来翻我主页\n这里毛都没一根",
+        "id": "1607339114508214275",
+        "location": "苏维埃第一共和国第39区",
+        "name": "国棉18厂保卫科Bird Doctor☭",
+        "pinned_tweet_id": "1643539024823595008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745664382963703808/Bgvlcm9__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 123,
+          "like_count": 41941,
+          "listed_count": 8,
+          "tweet_count": 6863
+        },
+        "username": "gm18c_3354",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T09:45:53.000Z",
+        "description": "",
+        "id": "1586655499738820609",
+        "name": "必有重谢(麟鵔銘)",
+        "pinned_tweet_id": "1798286541447692364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1587319418929152000/2zf90ksT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11531,
+          "following_count": 1660,
+          "like_count": 89991,
+          "listed_count": 100,
+          "tweet_count": 39746
+        },
+        "username": "byuzhngxi999",
+        "verified": false
+      }
+    ]
+  }
+}

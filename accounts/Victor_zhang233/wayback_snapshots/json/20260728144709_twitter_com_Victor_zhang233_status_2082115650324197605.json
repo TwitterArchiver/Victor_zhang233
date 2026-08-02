@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2082098224501064189",
+    "created_at": "2026-07-28T14:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T15:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082115650324197605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1483726186991669250",
+          "start": 0,
+          "username": "EggTarts_King"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082115650324197605",
+    "in_reply_to_user_id": "1483726186991669250",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082098224501064189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EggTarts_King 你流量呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082098218062786562",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUZTEMbMAIfV9U.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2082098224501064189",
+        "created_at": "2026-07-28T14:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082115650324197605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1483726186991669250",
+              "start": 0,
+              "username": "EggTarts_King"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082115650324197605",
+        "in_reply_to_user_id": "1483726186991669250",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082098224501064189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EggTarts_King 你流量呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082098218062786562"
+          ]
+        },
+        "author_id": "1483726186991669250",
+        "conversation_id": "2082098224501064189",
+        "created_at": "2026-07-28T13:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082098224501064189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DjYXtaVBlq",
+              "end": 32,
+              "expanded_url": "https://x.com/EggTarts_King/status/2082098224501064189/photo/1",
+              "media_key": "3_2082098218062786562",
+              "start": 9,
+              "url": "https://t.co/DjYXtaVBlq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082098224501064189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "试图啃食自己中… https://t.co/DjYXtaVBlq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 494,
+          "like_count": 10889,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 2457
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-19T09:01:16.000Z",
+        "description": "何で",
+        "id": "1483726186991669250",
+        "name": "くろいタバコ",
+        "pinned_tweet_id": "1824664213555646491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036646525116506112/OCgXH5FQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 235,
+          "like_count": 286,
+          "listed_count": 5,
+          "media_count": 14,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "EggTarts_King",
+        "verified": false
+      }
+    ]
+  }
+}

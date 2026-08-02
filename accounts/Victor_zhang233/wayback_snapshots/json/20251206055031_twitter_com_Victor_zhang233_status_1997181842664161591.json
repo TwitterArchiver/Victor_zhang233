@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1997148174218367066",
+    "created_at": "2025-12-06T05:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T06:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997181842664161591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1431691236436418564",
+          "start": 0,
+          "username": "FLCLSSSS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997181842664161591",
+    "in_reply_to_user_id": "1431691236436418564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997148174218367066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FLCLSSSS 天哪这简直就是我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1997148174218367066",
+        "created_at": "2025-12-06T05:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T06:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997181842664161591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1431691236436418564",
+              "start": 0,
+              "username": "FLCLSSSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997181842664161591",
+        "in_reply_to_user_id": "1431691236436418564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997148174218367066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FLCLSSSS 天哪这简直就是我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431691236436418564",
+        "conversation_id": "1997148174218367066",
+        "created_at": "2025-12-06T03:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T04:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997148174218367066"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997148174218367066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌人也不会说只会在心里默默减分然后断崖式绝交沟通所需承受的心理压力和心智风险远高于避开一个无法察觉我状态的普通朋友来的恐怖我需要独处来恢复精力因为在现生真的很容易被刺到不是我太敏感是你越界了我有我的感受我有我的偏好只是我一个朋友我又不爱你我真没必要包容直接讨厌就好了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "男",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 106,
+          "like_count": 1266,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 784
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-28T18:53:12.000Z",
+        "description": "死去的躯壳/\n精神污染中/\n亚空间幽灵/\nINFP 4w5 or 9w1/\n虚无主义/\n事生理男/\n人格缺陷/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "love4z.cn",
+                "end": 23,
+                "expanded_url": "https://love4z.cn",
+                "start": 0,
+                "url": "https://t.co/PhhvCFbQij"
+              }
+            ]
+          }
+        },
+        "id": "1431691236436418564",
+        "location": "地狱",
+        "name": "四折光曲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889366134295818240/VNjpKKKU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 36,
+          "like_count": 7342,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1182
+        },
+        "url": "https://t.co/PhhvCFbQij",
+        "username": "FLCLSSSS",
+        "verified": false
+      }
+    ]
+  }
+}

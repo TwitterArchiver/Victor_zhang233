@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1825178242174845353",
+    "created_at": "2024-08-18T16:47:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-18T17:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825212882528919979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1618104342451744771",
+          "start": 0,
+          "username": "bxinbshmxin11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825212882528919979",
+    "in_reply_to_user_id": "1618104342451744771",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825178242174845353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bxinbshmxin11 渴了，想喝😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1825178242174845353",
+        "created_at": "2024-08-18T16:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T17:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825212882528919979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1618104342451744771",
+              "start": 0,
+              "username": "bxinbshmxin11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825212882528919979",
+        "in_reply_to_user_id": "1618104342451744771",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825178242174845353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bxinbshmxin11 渴了，想喝😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618104342451744771",
+        "conversation_id": "1825178242174845353",
+        "created_at": "2024-08-18T14:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T15:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825178242174845353"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1825178242174845353",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发明玻子汽水的真是个傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这///简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": ".. лесе",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 36,
+          "like_count": 269,
+          "listed_count": 0,
+          "tweet_count": 290
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T04:32:29.000Z",
+        "description": "生活区博主，全网同名",
+        "id": "1618104342451744771",
+        "location": "Wong Tai Sin District",
+        "name": "酒大可爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807267853902680064/w9g2Anzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 323,
+          "like_count": 6924,
+          "listed_count": 0,
+          "tweet_count": 1903
+        },
+        "username": "bxinbshmxin11",
+        "verified": false
+      }
+    ]
+  }
+}

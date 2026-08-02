@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1800563676241686938",
+    "created_at": "2024-06-11T16:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T17:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800564497247281231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1641816257124003841",
+          "start": 0,
+          "username": "Rakukan_shugi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800564497247281231",
+    "in_reply_to_user_id": "1641816257124003841",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800563676241686938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rakukan_shugi 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1800563676241686938",
+        "created_at": "2024-06-11T16:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T17:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800564497247281231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1641816257124003841",
+              "start": 0,
+              "username": "Rakukan_shugi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800564497247281231",
+        "in_reply_to_user_id": "1641816257124003841",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800563676241686938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rakukan_shugi 晚安"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800563671577284608"
+          ]
+        },
+        "author_id": "1641816257124003841",
+        "conversation_id": "1800563676241686938",
+        "created_at": "2024-06-11T16:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T17:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800563676241686938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/kwmVEMGmGN",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Rakukan_shugi/status/1800563676241686938/photo/1",
+              "media_key": "3_1800563671577284608",
+              "start": 3,
+              "url": "https://t.co/kwmVEMGmGN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800563676241686938",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安 https://t.co/kwmVEMGmGN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这//白左/简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "仿生人是否会梦见电子羊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 36,
+          "like_count": 121,
+          "listed_count": 0,
+          "tweet_count": 174
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T14:54:48.000Z",
+        "description": "盡情做夢吧，夢裡什麼都有",
+        "id": "1641816257124003841",
+        "location": "utopia",
+        "name": "耳機重度依賴",
+        "pinned_tweet_id": "1779011382572138584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706294956309245952/nULkgCcB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2502,
+          "following_count": 817,
+          "like_count": 59016,
+          "listed_count": 4,
+          "tweet_count": 6383
+        },
+        "username": "Rakukan_shugi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980916481824002048"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "1980915394698489921",
+    "created_at": "2025-10-22T08:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T09:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980916494436610502"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BFcnzLpTez",
+          "end": 27,
+          "expanded_url": "https://x.com/Victor_zhang233/status/1980916494436610502/photo/1",
+          "media_key": "3_1980916481824002048",
+          "start": 4,
+          "url": "https://t.co/BFcnzLpTez"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980916494436610502",
+    "in_reply_to_user_id": "1755494652889661440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980915394698489921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉我草 https://t.co/BFcnzLpTez"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1355,
+        "media_key": "3_1980916481824002048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G32hC3zWEAAVGke.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980915377870651392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G32gCnQWwAAAeY8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980916481824002048"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "1980915394698489921",
+        "created_at": "2025-10-22T08:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T09:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980916494436610502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BFcnzLpTez",
+              "end": 27,
+              "expanded_url": "https://x.com/Victor_zhang233/status/1980916494436610502/photo/1",
+              "media_key": "3_1980916481824002048",
+              "start": 4,
+              "url": "https://t.co/BFcnzLpTez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980916494436610502",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980915394698489921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉我草 https://t.co/BFcnzLpTez"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980915377870651392"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "1980915394698489921",
+        "created_at": "2025-10-22T08:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T09:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980915394698489921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YrWeqDpuWP",
+              "end": 72,
+              "expanded_url": "https://x.com/Victor_zhang233/status/1980915394698489921/photo/1",
+              "media_key": "3_1980915377870651392",
+              "start": 49,
+              "url": "https://t.co/YrWeqDpuWP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980915394698489921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开了米安色林和安非他酮缓释片\n这是什么，，四环类药物吗？\n米氮平类似物？？\n哦对了还有傻逼安脑片 https://t.co/YrWeqDpuWP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（// 高中生［endl］ \n只听自杀黑¿._ / \n我喜欢视奸你们^°^",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 95,
+          "like_count": 964,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 713
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

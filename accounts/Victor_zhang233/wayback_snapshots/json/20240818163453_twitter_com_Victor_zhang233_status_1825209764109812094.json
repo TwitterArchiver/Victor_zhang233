@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1824932931951112268",
+    "created_at": "2024-08-18T16:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-18T17:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825209764109812094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1484488362182467584",
+          "start": 0,
+          "username": "ch_fannie427"
+        },
+        {
+          "end": 29,
+          "id": "1647815138450505730",
+          "start": 14,
+          "username": "yaming00742313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825209764109812094",
+    "in_reply_to_user_id": "1484488362182467584",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825084616312578511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ch_fannie427 @yaming00742313 有的，但是它无效"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1824932931951112268",
+        "created_at": "2024-08-18T16:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T17:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825209764109812094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1484488362182467584",
+              "start": 0,
+              "username": "ch_fannie427"
+            },
+            {
+              "end": 29,
+              "id": "1647815138450505730",
+              "start": 14,
+              "username": "yaming00742313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825209764109812094",
+        "in_reply_to_user_id": "1484488362182467584",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825084616312578511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ch_fannie427 @yaming00742313 有的，但是它无效"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484488362182467584",
+        "conversation_id": "1824932931951112268",
+        "created_at": "2024-08-18T08:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T09:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825084616312578511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647815138450505730",
+              "start": 0,
+              "username": "yaming00742313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825084616312578511",
+        "in_reply_to_user_id": "1647815138450505730",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824932931951112268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaming00742313 没有法律真糟…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这///简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": ".. лесе",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 36,
+          "like_count": 263,
+          "listed_count": 0,
+          "tweet_count": 289
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-21T11:30:25.000Z",
+        "description": "状态稳定，可能可以当朋友\n不过很丑就是了",
+        "id": "1484488362182467584",
+        "location": "云",
+        "name": "云匿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813214060995092480/kRdI87E2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 664,
+          "like_count": 1403,
+          "listed_count": 0,
+          "tweet_count": 222
+        },
+        "username": "ch_fannie427",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "愿我们都能于光明中得救，愿我们会在站在自由的土壤上，再次相见。",
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming（为生民立命）🙂",
+        "pinned_tweet_id": "1824811916034007316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784893238341459968/c_rdFaYP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4916,
+          "following_count": 972,
+          "like_count": 5084,
+          "listed_count": 10,
+          "tweet_count": 1744
+        },
+        "username": "yaming00742313",
+        "verified": false
+      }
+    ]
+  }
+}

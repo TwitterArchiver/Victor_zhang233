@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1881517308591649256",
+    "created_at": "2025-01-21T08:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T09:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881620384531001506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1760598845036314624",
+          "start": 0,
+          "username": "meirfanzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881620384531001506",
+    "in_reply_to_user_id": "1760598845036314624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881517308591649256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meirfanzi 是真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1881517308591649256",
+        "created_at": "2025-01-21T08:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T09:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881620384531001506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1760598845036314624",
+              "start": 0,
+              "username": "meirfanzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881620384531001506",
+        "in_reply_to_user_id": "1760598845036314624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881517308591649256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meirfanzi 是真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760598845036314624",
+        "conversation_id": "1881517308591649256",
+        "created_at": "2025-01-21T01:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T02:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881517308591649256"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "历史真相"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881517308591649256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 928,
+          "like_count": 27,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#历史真相 毛主席在三年大饥荒时候并没有吃什么奢华的食物，而且连肉都不吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 61,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 478
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T09:34:18.000Z",
+        "description": "著名走资派，三年大饥荒祸首之一，久经考验的修正主义苍蝇",
+        "id": "1760598845036314624",
+        "location": "六个鸡蛋",
+        "name": "刘少奇",
+        "pinned_tweet_id": "1760605529087586533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871855809782595584/NbC7zX0u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 239,
+          "like_count": 35,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 629
+        },
+        "username": "meirfanzi",
+        "verified": false
+      }
+    ]
+  }
+}

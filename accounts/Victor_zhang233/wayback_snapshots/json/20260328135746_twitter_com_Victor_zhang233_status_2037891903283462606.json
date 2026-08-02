@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2037890578432799058",
+    "created_at": "2026-03-28T13:57:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T14:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037891903283462606"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037891903283462606",
+    "in_reply_to_user_id": "1755494652889661440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037890578432799058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个封面没什么新意啊，，要是眼眶冒鬼火就好了🤯💥🔥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 378,
+        "media_key": "3_2037890575631040512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEgKrmuawAAaRqg.jpg",
+        "width": 378
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2037890578432799058",
+        "created_at": "2026-03-28T13:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037891903283462606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037891903283462606",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037890578432799058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个封面没什么新意啊，，要是眼眶冒鬼火就好了🤯💥🔥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037890575631040512"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2037890578432799058",
+        "created_at": "2026-03-28T13:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037890578432799058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SacBZ6ePOO",
+              "end": 48,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2037890578432799058/photo/1",
+              "media_key": "3_2037890575631040512",
+              "start": 25,
+              "url": "https://t.co/SacBZ6ePOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037890578432799058",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正在播放：Deadlife - Värdelös https://t.co/SacBZ6ePOO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "T^T",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032502037242662912/m7BPbwdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 122,
+          "like_count": 2596,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1120
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

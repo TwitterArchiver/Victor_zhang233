@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055158999704854528"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2055159003328700517",
+    "created_at": "2026-05-15T05:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055159003328700517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oTVv23ILl5",
+          "end": 43,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2055159003328700517/photo/1",
+          "media_key": "3_2055158999704854528",
+          "start": 20,
+          "url": "https://t.co/oTVv23ILl5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055159003328700517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想吃解离剂🥲\n现在手上只有加巴喷丁了 https://t.co/oTVv23ILl5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2055158999704854528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVkOLZa4AAYt0v.jpg",
+        "width": 479
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055158999704854528"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2055159003328700517",
+        "created_at": "2026-05-15T05:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055159003328700517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oTVv23ILl5",
+              "end": 43,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2055159003328700517/photo/1",
+              "media_key": "3_2055158999704854528",
+              "start": 20,
+              "url": "https://t.co/oTVv23ILl5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055159003328700517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想吃解离剂🥲\n现在手上只有加巴喷丁了 https://t.co/oTVv23ILl5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "没有焦虑症",
+        "id": "1755494652889661440",
+        "location": "人间",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 157,
+          "like_count": 3672,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1379
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

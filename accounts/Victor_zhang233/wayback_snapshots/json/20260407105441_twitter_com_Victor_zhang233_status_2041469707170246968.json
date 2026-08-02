@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2041201958967775286",
+    "created_at": "2026-04-07T10:54:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T11:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041469707170246968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1924889848151998464",
+          "start": 0,
+          "username": "IndicaBadur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041469707170246968",
+    "in_reply_to_user_id": "1924889848151998464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041228449122324593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IndicaBadur 假的😴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2041201958967775286",
+        "created_at": "2026-04-07T10:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041469707170246968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1924889848151998464",
+              "start": 0,
+              "username": "IndicaBadur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041469707170246968",
+        "in_reply_to_user_id": "1924889848151998464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041228449122324593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IndicaBadur 假的😴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924889848151998464",
+        "conversation_id": "2041201958967775286",
+        "created_at": "2026-04-06T18:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T19:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041228449122324593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041228449122324593",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041201958967775286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 祝福你不會再回來🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "四月雨",
+        "id": "1755494652889661440",
+        "location": "人间",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038442200997265408/vibWzS-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 144,
+          "like_count": 3201,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1244
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-20T18:08:16.000Z",
+        "description": "是個開發者、詩者。有時會嘗試攝影。\n喜愛感受美，或是情緒。\n喜歡打 Minecraft PvP。偶爾讀數學，最近在讀 Manifold。",
+        "id": "1924889848151998464",
+        "name": "伊莉亞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040149805536821248/gR69BqQS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 99,
+          "like_count": 483,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 73
+        },
+        "username": "IndicaBadur",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1822254796432122061",
+    "created_at": "2024-12-17T13:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T14:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869004763964350968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597166953617326081",
+          "start": 0,
+          "username": "dngfngleigus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869004763964350968",
+    "in_reply_to_user_id": "1597166953617326081",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822254796432122061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dngfngleigus ？！？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1822254796432122061",
+        "created_at": "2024-12-17T13:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T14:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869004763964350968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597166953617326081",
+              "start": 0,
+              "username": "dngfngleigus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869004763964350968",
+        "in_reply_to_user_id": "1597166953617326081",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822254796432122061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dngfngleigus ？！？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822254793080852481"
+          ]
+        },
+        "author_id": "1597166953617326081",
+        "conversation_id": "1822254796432122061",
+        "created_at": "2024-08-10T12:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T13:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822254796432122061"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "Blackmetal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aBKDSvItEG",
+              "end": 135,
+              "expanded_url": "https://x.com/dngfngleigus/status/1822254796432122061/photo/1",
+              "media_key": "3_1822254793080852481",
+              "start": 112,
+              "url": "https://t.co/aBKDSvItEG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822254796432122061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#Blackmetal\n《Juche》-Maleficar\n来自澳大利亚🇦🇺\n发行时间:2014年\n第一张专辑\n风格流派:北朝鲜主题/旋律黑金属\n评论:这是否有点太逆天了…一些歌曲中爆改北朝鲜音乐，“修正”成万恶的黑金属😡 https://t.co/aBKDSvItEG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这///简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、可能是网左（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 56,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 376
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T09:54:25.000Z",
+        "description": "Hi！/自由的社会主义者/支持🏳️‍🌈喵/追求艺术/金属乐爱好者/选择性互fo/不定期发癫/傻卵二次元/历史爱好者/英语En不是很好请谅解",
+        "id": "1597166953617326081",
+        "location": "幻想乡",
+        "name": "稗田de赤蛮奇♫⃠",
+        "pinned_tweet_id": "1607003761037443074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865029913662615552/Ccd4J3A4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 2493,
+          "like_count": 93083,
+          "listed_count": 13,
+          "media_count": 978,
+          "tweet_count": 4359
+        },
+        "username": "dngfngleigus",
+        "verified": false
+      }
+    ]
+  }
+}

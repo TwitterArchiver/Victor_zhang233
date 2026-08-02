@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1818562834286125237",
+    "created_at": "2024-07-31T09:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-31T10:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818577555311730876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1753647103770050560",
+          "start": 0,
+          "username": "8964Bot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818577555311730876",
+    "in_reply_to_user_id": "1753647103770050560",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818563864671445453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964Bot 林大帅保护好自己啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1818562834286125237",
+        "created_at": "2024-07-31T09:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T10:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818577555311730876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1753647103770050560",
+              "start": 0,
+              "username": "8964Bot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818577555311730876",
+        "in_reply_to_user_id": "1753647103770050560",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818563864671445453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964Bot 林大帅保护好自己啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753647103770050560",
+        "conversation_id": "1818562834286125237",
+        "created_at": "2024-07-31T08:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T09:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818563864671445453"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1818563864671445453",
+        "in_reply_to_user_id": "1753647103770050560",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818562834286125237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "媽的最近幾天似的人特別多，先是鄭重庚被國安談話，然後名人于兆力害怕精哥註銷，現在毛澤東也似了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这///简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": ".. лесе",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 36,
+          "like_count": 220,
+          "listed_count": 0,
+          "tweet_count": 264
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T05:10:44.000Z",
+        "description": "瀕死 部分轉發和回復是在串，請推油們明辨是非捏😋防止炸號，請關注小號洪秀全😋@TurenBot 身份證號330522200910102718 QQ226840653歡迎開盒😋現居浙江省湖州市吳興區愛家華城6-1-3002😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "TurenBot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/fTD2Tbp",
+                "end": 23,
+                "expanded_url": "https://b23.tv/fTD2Tbp",
+                "start": 0,
+                "url": "https://t.co/X4yqZ6XNDm"
+              }
+            ]
+          }
+        },
+        "id": "1753647103770050560",
+        "location": "中南海",
+        "name": "林彪",
+        "pinned_tweet_id": "1804053346828878108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818321485356036097/0gAPw3K-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 343,
+          "like_count": 10692,
+          "listed_count": 6,
+          "tweet_count": 7895
+        },
+        "url": "https://t.co/X4yqZ6XNDm",
+        "username": "8964Bot",
+        "verified": false
+      }
+    ]
+  }
+}

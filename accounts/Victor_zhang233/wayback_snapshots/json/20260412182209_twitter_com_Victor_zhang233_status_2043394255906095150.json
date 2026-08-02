@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2042976076897333662",
+    "created_at": "2026-04-12T18:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T19:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043394255906095150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1572456912045867009",
+          "start": 0,
+          "username": "Ausar6001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043394255906095150",
+    "in_reply_to_user_id": "1572456912045867009",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043306113798656012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ausar6001 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2042976076897333662",
+        "created_at": "2026-04-12T18:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T19:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043394255906095150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1572456912045867009",
+              "start": 0,
+              "username": "Ausar6001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043394255906095150",
+        "in_reply_to_user_id": "1572456912045867009",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043306113798656012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ausar6001 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572456912045867009",
+        "conversation_id": "2042976076897333662",
+        "created_at": "2026-04-12T12:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043306113798656012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043306113798656012",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043013624566890827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 难绷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "你为你的圣父哭泣，但祂不会记住你的名讳...",
+        "id": "1755494652889661440",
+        "location": "人间",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043013737184120832/LxhgENoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 144,
+          "like_count": 3382,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1272
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-21T05:25:24.000Z",
+        "description": "",
+        "id": "1572456912045867009",
+        "name": "Leviathan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033545608632672257/-TxlJ1vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 23,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 267
+        },
+        "username": "Ausar6001",
+        "verified": false
+      }
+    ]
+  }
+}

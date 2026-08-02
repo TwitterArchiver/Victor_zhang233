@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2067248608605585805",
+    "created_at": "2026-06-17T16:35:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:35:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067285102036762837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1973615365495066624",
+          "start": 0,
+          "username": "yumngyumng61776"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067285102036762837",
+    "in_reply_to_user_id": "1973615365495066624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067283609699197308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumngyumng61776 但是你看着好吓人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2067248608605585805",
+        "created_at": "2026-06-17T16:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067285102036762837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1973615365495066624",
+              "start": 0,
+              "username": "yumngyumng61776"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067285102036762837",
+        "in_reply_to_user_id": "1973615365495066624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067283609699197308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumngyumng61776 但是你看着好吓人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973615365495066624",
+        "conversation_id": "2067248608605585805",
+        "created_at": "2026-06-17T16:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067283609699197308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067283609699197308",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067248608605585805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 我也想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 344,
+          "like_count": 7085,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2010
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T05:06:19.000Z",
+        "description": "军刀断头、活体取胎、满口拔牙、强制堕胎、放血实验、炖头剥肉、死亡记时、活烧人头、蟑螂入阴、跳蚤嗜人、活体断肢、强取胎儿、活体割首、活剥头皮、急冻沸煮、活体割锯、过电割舌、活取内脏、高压爆人、毒气杀人、枪爆人头",
+        "id": "1973615365495066624",
+        "name": "妳的眼眸是我杜撰的春天",
+        "pinned_tweet_id": "1973932827432661474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049038260245323776/2M9Y04W6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 53,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 99
+        },
+        "username": "yumngyumng61776",
+        "verified": false
+      }
+    ]
+  }
+}

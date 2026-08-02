@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1998889252894159194",
+    "created_at": "2025-12-11T19:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T20:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999203410290295042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915984523546005505",
+          "start": 0,
+          "username": "kagechanwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999203410290295042",
+    "in_reply_to_user_id": "1915984523546005505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998889252894159194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagechanwww 你还好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1998889252894159194",
+        "created_at": "2025-12-11T19:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T20:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999203410290295042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915984523546005505",
+              "start": 0,
+              "username": "kagechanwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999203410290295042",
+        "in_reply_to_user_id": "1915984523546005505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998889252894159194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagechanwww 你还好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915984523546005505",
+        "conversation_id": "1998889252894159194",
+        "created_at": "2025-12-10T22:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T23:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998889252894159194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998889252894159194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好痛苦好痛苦好痛苦好痛苦好痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "男",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 110,
+          "like_count": 1318,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 787
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T04:21:44.000Z",
+        "description": "BPD/BD/GAD 自残 负面情绪废话 欢迎同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn.pornhub.com",
+                "end": 23,
+                "expanded_url": "https://cn.pornhub.com/",
+                "start": 0,
+                "url": "https://t.co/hKRNCoJgfL"
+              }
+            ]
+          }
+        },
+        "id": "1915984523546005505",
+        "location": "地狱",
+        "name": "孤独な夜に溺れる",
+        "pinned_tweet_id": "1998795955374796877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997731633278119936/L8j6SkX4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 274,
+          "like_count": 2652,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 649
+        },
+        "url": "https://t.co/hKRNCoJgfL",
+        "username": "kagechanwww",
+        "verified": false
+      }
+    ]
+  }
+}

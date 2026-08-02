@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2070210994723606861",
+    "created_at": "2026-06-26T19:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T20:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070594048528965653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2061854323433226240",
+          "start": 0,
+          "username": "beiliutxcf"
+        },
+        {
+          "end": 23,
+          "id": "2066974650559774720",
+          "start": 12,
+          "username": "kusanagin1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070594048528965653",
+    "in_reply_to_user_id": "2061854323433226240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070350782973505696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beiliutxcf @kusanagin1 你妈什么时候自杀？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2070210994723606861",
+        "created_at": "2026-06-26T19:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T20:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070594048528965653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2061854323433226240",
+              "start": 0,
+              "username": "beiliutxcf"
+            },
+            {
+              "end": 23,
+              "id": "2066974650559774720",
+              "start": 12,
+              "username": "kusanagin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070594048528965653",
+        "in_reply_to_user_id": "2061854323433226240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070350782973505696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beiliutxcf @kusanagin1 你妈什么时候自杀？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061854323433226240",
+        "conversation_id": "2070210994723606861",
+        "created_at": "2026-06-26T03:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070350782973505696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2066974650559774720",
+              "start": 0,
+              "username": "kusanagin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070350782973505696",
+        "in_reply_to_user_id": "2066974650559774720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070210994723606861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kusanagin1 准了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 |\nDM欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Dekadens",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 406,
+          "like_count": 8282,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 2116
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T16:56:28.000Z",
+        "description": "心如猛虎，细嗅蔷薇",
+        "id": "2061854323433226240",
+        "location": "中国",
+        "name": "北流",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062121866215505920/d37I-WEg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 13,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "beiliutxcf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-16T20:04:12.000Z",
+        "description": "うつ病￤統合失調症￤双極性障害￤軽度知的障害￤不眠症￤パニック障害￤病み垢￤OD",
+        "id": "2066974650559774720",
+        "location": "ふくおか",
+        "name": "なぎ",
+        "pinned_tweet_id": "2067757211020054837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982986277679104/XmZIKuCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 52,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 264
+        },
+        "url": "",
+        "username": "kusanagin1",
+        "verified": false
+      }
+    ]
+  }
+}

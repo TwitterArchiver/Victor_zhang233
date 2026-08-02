@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2015088842403979606",
+    "created_at": "2026-01-25T13:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T14:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015416277616279923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1752630016159207424",
+          "start": 0,
+          "username": "yfgyfy19453"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015416277616279923",
+    "in_reply_to_user_id": "1752630016159207424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015088842403979606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yfgyfy19453 我喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2015088842403979606",
+        "created_at": "2026-01-25T13:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T14:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015416277616279923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752630016159207424",
+              "start": 0,
+              "username": "yfgyfy19453"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015416277616279923",
+        "in_reply_to_user_id": "1752630016159207424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015088842403979606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yfgyfy19453 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752630016159207424",
+        "conversation_id": "2015088842403979606",
+        "created_at": "2026-01-24T15:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T16:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015088842403979606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015088842403979606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真像是一个不应该出现在世上的错误，我的一生什么也没有获得而我永远保持着这个状态，也许那天我意外获得的唯一的朋友对我厌烦了大概就是我该死的时候了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "这是哪里？",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001408376811704320/27ExCAWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 90,
+          "like_count": 1530,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 804
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T09:49:21.000Z",
+        "description": "没有朋友…",
+        "id": "1752630016159207424",
+        "name": "阿黎🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014392595481542656/O785Q_47_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 25,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 122
+        },
+        "username": "yfgyfy19453",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963092234888413184"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "1963092238990266694",
+    "created_at": "2025-09-03T04:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T05:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963092238990266694"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/40GJt8s2XU",
+          "end": 27,
+          "expanded_url": "https://x.com/Victor_zhang233/status/1963092238990266694/photo/1",
+          "media_key": "3_1963092234888413184",
+          "start": 4,
+          "url": "https://t.co/40GJt8s2XU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963092238990266694",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "绷不住 https://t.co/40GJt8s2XU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_1963092234888413184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz5N_JnaAAAhSbY.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963092234888413184"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "1963092238990266694",
+        "created_at": "2025-09-03T04:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T05:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963092238990266694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/40GJt8s2XU",
+              "end": 27,
+              "expanded_url": "https://x.com/Victor_zhang233/status/1963092238990266694/photo/1",
+              "media_key": "3_1963092234888413184",
+              "start": 4,
+              "url": "https://t.co/40GJt8s2XU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963092238990266694",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "绷不住 https://t.co/40GJt8s2XU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（//黑金属/高中生//呃呃呃呃简介这样写没问题吧？（",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 71,
+          "like_count": 593,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 612
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

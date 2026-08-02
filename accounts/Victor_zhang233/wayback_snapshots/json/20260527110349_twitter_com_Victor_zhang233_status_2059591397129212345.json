@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2059589725728674158",
+    "created_at": "2026-05-27T11:03:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T12:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059591397129212345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1896510089609297920",
+          "start": 0,
+          "username": "Cheeseduck111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059591397129212345",
+    "in_reply_to_user_id": "1896510089609297920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059589725728674158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheeseduck111 你也是三体人？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2059589725728674158",
+        "created_at": "2026-05-27T11:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059591397129212345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1896510089609297920",
+              "start": 0,
+              "username": "Cheeseduck111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059591397129212345",
+        "in_reply_to_user_id": "1896510089609297920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059589725728674158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheeseduck111 你也是三体人？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896510089609297920",
+        "conversation_id": "2059589725728674158",
+        "created_at": "2026-05-27T10:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059589725728674158"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059589725728674158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "梦想成为人类"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2055781542031753407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 211,
+          "like_count": 4433,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1554
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T10:37:05.000Z",
+        "description": "168/60 hrt：2022.10.3\n05年生人 mtf\n坐标河南驻马店\n🚪58 可+联系方式\n活着的意义是让别人感受到自己不管痛苦或快乐",
+        "id": "1896510089609297920",
+        "name": "jimiling 🍥",
+        "pinned_tweet_id": "2056370088140587488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010906034991480833/wAteIzsP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 94,
+          "like_count": 6248,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1108
+        },
+        "username": "Cheeseduck111",
+        "verified": false
+      }
+    ]
+  }
+}

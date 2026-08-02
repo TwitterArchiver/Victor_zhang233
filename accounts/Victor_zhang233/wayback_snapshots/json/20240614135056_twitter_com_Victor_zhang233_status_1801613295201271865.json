@@ -1,0 +1,229 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1800039510501404849",
+    "created_at": "2024-06-14T13:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-14T14:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801613295201271865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1795283544446533632",
+          "start": 0,
+          "username": "qingjiu299182"
+        },
+        {
+          "end": 28,
+          "id": "1769380729409130496",
+          "start": 15,
+          "username": "MaoTseTung93"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801613295201271865",
+    "in_reply_to_user_id": "1795283544446533632",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801494666094985694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingjiu299182 @MaoTseTung93 😨😨原来校长是彼得格勒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1800039510501404849",
+        "created_at": "2024-06-14T13:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T14:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801613295201271865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1795283544446533632",
+              "start": 0,
+              "username": "qingjiu299182"
+            },
+            {
+              "end": 28,
+              "id": "1769380729409130496",
+              "start": 15,
+              "username": "MaoTseTung93"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801613295201271865",
+        "in_reply_to_user_id": "1795283544446533632",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801494666094985694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingjiu299182 @MaoTseTung93 😨😨原来校长是彼得格勒"
+      },
+      {
+        "attachments": {},
+        "author_id": "1795283544446533632",
+        "conversation_id": "1800039510501404849",
+        "created_at": "2024-06-14T05:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T06:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801494666094985694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            },
+            {
+              "end": 30,
+              "id": "1769380729409130496",
+              "start": 17,
+              "username": "MaoTseTung93"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801494666094985694",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800561323237130662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 @MaoTseTung93 还要早 苏俄时期就有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这//白左/简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": ".. Лунный",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 34,
+          "like_count": 129,
+          "listed_count": 0,
+          "tweet_count": 190
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T02:39:01.000Z",
+        "description": "人民万岁",
+        "id": "1795283544446533632",
+        "name": "qingjiu🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801491636414992384/b5H8dZ4b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 4
+        },
+        "username": "qingjiu299182",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T15:10:23.000Z",
+        "description": "人民萬歲 ！戰無不勝的毛澤東思想萬歲！世界反修反帝反殖力量萬歲！無產階級文化大革命萬歲!打倒以习为首的官僚主义！Long Live the People！Long Live the Maoism ! Long Live the GPCR! Serve the People！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mzdbl.com",
+                "end": 23,
+                "expanded_url": "http://mzdbl.com",
+                "start": 0,
+                "url": "https://t.co/VaniW3kxSp"
+              }
+            ]
+          }
+        },
+        "id": "1769380729409130496",
+        "location": "不灭的物质存在于世间",
+        "name": "毛泽东",
+        "pinned_tweet_id": "1799286723572384084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801598179076673536/nwxeY-66_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 237,
+          "like_count": 1885,
+          "listed_count": 3,
+          "tweet_count": 1054
+        },
+        "url": "https://t.co/VaniW3kxSp",
+        "username": "MaoTseTung93",
+        "verified": false
+      }
+    ]
+  }
+}

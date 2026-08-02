@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2032484773889978650",
+    "created_at": "2026-03-13T16:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T17:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032498246984368313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777129646867542016",
+          "start": 0,
+          "username": "Sunset__3000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032498246984368313",
+    "in_reply_to_user_id": "1777129646867542016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032484773889978650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sunset__3000 在现场"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032484770673000448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDTWIV9bAAAD87k.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2032484773889978650",
+        "created_at": "2026-03-13T16:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T17:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032498246984368313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777129646867542016",
+              "start": 0,
+              "username": "Sunset__3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032498246984368313",
+        "in_reply_to_user_id": "1777129646867542016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032484773889978650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sunset__3000 在现场"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032484770673000448"
+          ]
+        },
+        "author_id": "1777129646867542016",
+        "conversation_id": "2032484773889978650",
+        "created_at": "2026-03-13T15:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T16:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032484773889978650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/chat/group_j",
+              "end": 88,
+              "expanded_url": "http://x.com/i/chat/group_j",
+              "start": 65,
+              "status": 404,
+              "unwound_url": "https://x.com/i/chat/group_j",
+              "url": "https://t.co/jSUEjYKP8B"
+            },
+            {
+              "display_url": "pic.x.com/gD7mbcBc86",
+              "end": 127,
+              "expanded_url": "https://x.com/Sunset__3000/status/2032484773889978650/photo/1",
+              "media_key": "3_2032484770673000448",
+              "start": 104,
+              "url": "https://t.co/gD7mbcBc86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032484773889978650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没找到家里蹲的群，所以直接建了一个🤓长假休学退学自学待业失业的精神病们快来吧🥰\n\n用于聊天互助卖惨发疯，健全勿进🥹🙏🏻\n\n推群链接https://t.co/jSUEjYKP8B…\n\nq群如图\n^O^爱你们♡ https://t.co/gD7mbcBc86"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "无人问津",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029881776781545474/2N7O6T8Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 86,
+          "like_count": 1986,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 945
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T00:21:51.000Z",
+        "description": "o割餐券女 | 精神病三件套 | 家里蹲备考 |  极端悲观主义 | 爱好生化药理板绘 | 同类互fo呀♡",
+        "id": "1777129646867542016",
+        "location": "宛平南路600号",
+        "name": "日落三千次",
+        "pinned_tweet_id": "2027079822229623001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028471926700851200/tjj6_fyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 181,
+          "like_count": 482,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 231
+        },
+        "username": "Sunset__3000",
+        "verified": false
+      }
+    ]
+  }
+}

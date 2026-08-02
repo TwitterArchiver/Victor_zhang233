@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1879603498788200953",
+    "created_at": "2025-01-17T14:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T15:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880259826447765655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601058898597023744",
+          "start": 0,
+          "username": "yidouxin"
+        },
+        {
+          "end": 23,
+          "id": "1797808410433560576",
+          "start": 10,
+          "username": "Lilisidebaba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880259826447765655",
+    "in_reply_to_user_id": "1601058898597023744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879865164759187718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yidouxin @Lilisidebaba 艾娃是洗头佬的情人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1879603498788200953",
+        "created_at": "2025-01-17T14:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T15:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880259826447765655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601058898597023744",
+              "start": 0,
+              "username": "yidouxin"
+            },
+            {
+              "end": 23,
+              "id": "1797808410433560576",
+              "start": 10,
+              "username": "Lilisidebaba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880259826447765655",
+        "in_reply_to_user_id": "1601058898597023744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879865164759187718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yidouxin @Lilisidebaba 艾娃是洗头佬的情人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601058898597023744",
+        "conversation_id": "1879603498788200953",
+        "created_at": "2025-01-16T12:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T13:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879865164759187718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1797808410433560576",
+              "start": 0,
+              "username": "Lilisidebaba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879865164759187718",
+        "in_reply_to_user_id": "1797808410433560576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879603498788200953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lilisidebaba 纳粹主义是个什么东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 56,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 378
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-09T03:39:32.000Z",
+        "description": "叫我Chris就好，也可以叫我小寺.需要互fo可以私信，看到就会回",
+        "id": "1601058898597023744",
+        "location": "怀仁堂",
+        "name": "Christian.K.Wick",
+        "pinned_tweet_id": "1879724709375553695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879724440550014976/c74T_Rqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 733,
+          "like_count": 7109,
+          "listed_count": 3,
+          "media_count": 839,
+          "tweet_count": 4333
+        },
+        "username": "yidouxin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T01:52:47.000Z",
+        "description": "斯毛派，极左上，前保党救国改良派，现已对中共彻底失望。民族共产主义/人类中心主义/极端生产主义/暴力革命/LGBT平权/讨厌进步b/好战分子/攻击性极强。阶级斗争要年年讲月月讲日日讲，一切触及不到阶级的所谓革命必然失败，反自反修，反右翼，反支黑，谢绝一切左派幼稚病与纯文化左翼，反以反美反北约。有意见可以拉黑",
+        "id": "1797808410433560576",
+        "location": "秦城监狱",
+        "name": "薄熙来",
+        "pinned_tweet_id": "1865706778178330806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871959937481682944/OKe5OI6Z_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 835,
+          "like_count": 13635,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 4794
+        },
+        "username": "Lilisidebaba",
+        "verified": false
+      }
+    ]
+  }
+}

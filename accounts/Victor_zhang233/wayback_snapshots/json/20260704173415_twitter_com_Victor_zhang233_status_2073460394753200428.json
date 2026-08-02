@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2073455639297404958",
+    "created_at": "2026-07-04T17:34:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T18:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073460394753200428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1976023364956553217",
+          "start": 0,
+          "username": "8964tana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073460394753200428",
+    "in_reply_to_user_id": "1976023364956553217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073455639297404958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964tana 我干的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2073455639297404958",
+        "created_at": "2026-07-04T17:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073460394753200428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1976023364956553217",
+              "start": 0,
+              "username": "8964tana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073460394753200428",
+        "in_reply_to_user_id": "1976023364956553217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073455639297404958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964tana 我干的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976023364956553217",
+        "conversation_id": "2073455639297404958",
+        "created_at": "2026-07-04T17:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073455639297404958"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073455639297404958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我的私信里连个广告都没有（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 | \n这是哪里。。？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Dekadens",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 431,
+          "like_count": 8919,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 2147
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T20:34:48.000Z",
+        "description": "19y / MTX /",
+        "id": "1976023364956553217",
+        "location": "🌍",
+        "name": "Προκύων",
+        "pinned_tweet_id": "2060946919770464407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068104428591464448/dBTXMdyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 16,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "8964tana",
+        "verified": false
+      }
+    ]
+  }
+}

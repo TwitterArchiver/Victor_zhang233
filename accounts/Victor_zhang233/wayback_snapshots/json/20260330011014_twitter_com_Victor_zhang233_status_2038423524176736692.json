@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2038423522327056384"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2038423524176736692",
+    "created_at": "2026-03-30T01:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T02:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038423524176736692"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038423524176736692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "睡觉还是吃普瑞"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-03-31T01:10:14.000Z",
+        "id": "2038423522327056384",
+        "options": [
+          {
+            "label": "睡觉",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "吃一顿",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2038423522327056384"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2038423524176736692",
+        "created_at": "2026-03-30T01:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T02:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038423524176736692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038423524176736692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡觉还是吃普瑞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "T^T / \n这里是Ashes / 生理男 / 性取向是null / 我不会写简介 / 已休学 / 该干点什么好呢？",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032502037242662912/m7BPbwdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 128,
+          "like_count": 2700,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1150
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

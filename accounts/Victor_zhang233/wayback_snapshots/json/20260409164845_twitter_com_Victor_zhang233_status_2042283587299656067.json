@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2042112232411295760",
+    "created_at": "2026-04-09T16:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042283587299656067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2033160782687731712",
+          "start": 0,
+          "username": "Shio3853620480"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042283587299656067",
+    "in_reply_to_user_id": "2033160782687731712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042112232411295760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shio3853620480 我去稀有款"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2042112232411295760",
+        "created_at": "2026-04-09T16:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042283587299656067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2033160782687731712",
+              "start": 0,
+              "username": "Shio3853620480"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042283587299656067",
+        "in_reply_to_user_id": "2033160782687731712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042112232411295760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shio3853620480 我去稀有款"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033160782687731712",
+        "conversation_id": "2042112232411295760",
+        "created_at": "2026-04-09T05:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042112232411295760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aureliax17QwQ/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Aureliax17QwQ/status/2042049582864200001",
+              "start": 12,
+              "url": "https://t.co/0TSUwY1ynU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042112232411295760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042049582864200001",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已达成一个都没有的成就 https://t.co/0TSUwY1ynU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "上帝愛世人",
+        "id": "1755494652889661440",
+        "location": "人间",
+        "name": "Ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038442200997265408/vibWzS-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 145,
+          "like_count": 3270,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1243
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥",
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 306,
+          "like_count": 705,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 367
+        },
+        "username": "Shio3853620480",
+        "verified": false
+      }
+    ]
+  }
+}

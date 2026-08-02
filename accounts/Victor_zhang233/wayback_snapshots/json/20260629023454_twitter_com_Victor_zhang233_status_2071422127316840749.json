@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2071417065081327835",
+    "created_at": "2026-06-29T02:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T03:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071422127316840749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "1212s1212bs1242"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071422127316840749",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071417065081327835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1212s1212bs1242 🤯🤯🤯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2071417057091145728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL8m1q2aUAAzRIj.jpg",
+        "width": 964
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071417061075755008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL8m15saoAABYKO.jpg",
+        "width": 1542
+      },
+      {
+        "height": 964,
+        "media_key": "3_2071417056852119552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL8m1p9bEAA5loB.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2071417065081327835",
+        "created_at": "2026-06-29T02:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T03:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071422127316840749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071422127316840749",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071417065081327835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 🤯🤯🤯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071417057091145728",
+            "3_2071417061075755008",
+            "3_2071417056852119552"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2071417065081327835",
+        "created_at": "2026-06-29T02:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T03:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071417065081327835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cnLI4utFE7",
+              "end": 29,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2071417065081327835/photo/1",
+              "media_key": "3_2071417057091145728",
+              "start": 6,
+              "url": "https://t.co/cnLI4utFE7"
+            },
+            {
+              "display_url": "pic.x.com/cnLI4utFE7",
+              "end": 29,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2071417065081327835/photo/1",
+              "media_key": "3_2071417061075755008",
+              "start": 6,
+              "url": "https://t.co/cnLI4utFE7"
+            },
+            {
+              "display_url": "pic.x.com/cnLI4utFE7",
+              "end": 29,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2071417065081327835/photo/1",
+              "media_key": "3_2071417056852119552",
+              "start": 6,
+              "url": "https://t.co/cnLI4utFE7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071417065081327835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还他妈挺骚 https://t.co/cnLI4utFE7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 | \n碎碎念推",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Dekadens",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 410,
+          "like_count": 8471,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 2152
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069708575530700800/awHm2N_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 941,
+          "like_count": 17223,
+          "listed_count": 1,
+          "media_count": 971,
+          "tweet_count": 10240
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

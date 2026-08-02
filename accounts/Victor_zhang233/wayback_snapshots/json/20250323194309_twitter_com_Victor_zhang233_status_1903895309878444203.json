@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1903895306657267713"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "1903793181025583433",
+    "created_at": "2025-03-23T19:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T20:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903895309878444203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1760598845036314624",
+          "start": 0,
+          "username": "meirfanzi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lXlkCgEN44",
+          "end": 34,
+          "expanded_url": "https://x.com/Victor_zhang233/status/1903895309878444203/photo/1",
+          "media_key": "3_1903895306657267713",
+          "start": 11,
+          "url": "https://t.co/lXlkCgEN44"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903895309878444203",
+    "in_reply_to_user_id": "1760598845036314624",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903793181025583433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meirfanzi https://t.co/lXlkCgEN44"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 248,
+        "media_key": "3_1903895306657267713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmv-sbLXAAEuYvA.jpg",
+        "width": 316
+      },
+      {
+        "height": 1023,
+        "media_key": "3_1903793178219827200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmuhzxGa0AATHKt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903895306657267713"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "1903793181025583433",
+        "created_at": "2025-03-23T19:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T20:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903895309878444203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1760598845036314624",
+              "start": 0,
+              "username": "meirfanzi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lXlkCgEN44",
+              "end": 34,
+              "expanded_url": "https://x.com/Victor_zhang233/status/1903895309878444203/photo/1",
+              "media_key": "3_1903895306657267713",
+              "start": 11,
+              "url": "https://t.co/lXlkCgEN44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903895309878444203",
+        "in_reply_to_user_id": "1760598845036314624",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903793181025583433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meirfanzi https://t.co/lXlkCgEN44"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903793178219827200"
+          ]
+        },
+        "author_id": "1760598845036314624",
+        "conversation_id": "1903793181025583433",
+        "created_at": "2025-03-23T12:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T13:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903793181025583433"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "邓小平"
+            },
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "稻上飞"
+            },
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "八九六四"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "资本主义"
+            },
+            {
+              "end": 39,
+              "start": 31,
+              "tag": "邓小平是走资派"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YsIkq77HOy",
+              "end": 63,
+              "expanded_url": "https://x.com/meirfanzi/status/1903793181025583433/photo/1",
+              "media_key": "3_1903793178219827200",
+              "start": 40,
+              "url": "https://t.co/YsIkq77HOy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903793181025583433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 165,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p的不怎么好 #邓小平 #稻上飞 \n #八九六四 #资本主义 #邓小平是走资派 https://t.co/YsIkq77HOy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/抑郁焦虑/黑金属/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 坏人堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 66,
+          "like_count": 470,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 513
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T09:34:18.000Z",
+        "description": "著名走资派，三年大饥荒祸首之一，久经考验的修正主义苍蝇刘少奇的已叛变替身",
+        "id": "1760598845036314624",
+        "location": "六个鸡蛋",
+        "name": "刘少奇的替身–已投靠毛左",
+        "pinned_tweet_id": "1760605529087586533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871855809782595584/NbC7zX0u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 341,
+          "like_count": 38,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 943
+        },
+        "username": "meirfanzi",
+        "verified": false
+      }
+    ]
+  }
+}

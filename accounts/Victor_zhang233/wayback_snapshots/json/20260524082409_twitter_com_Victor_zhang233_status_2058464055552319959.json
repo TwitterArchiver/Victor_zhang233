@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2058464055552319959",
+    "created_at": "2026-05-24T08:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T09:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058464055552319959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2056234964644196352",
+          "start": 3,
+          "username": "www123qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058464055552319959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058460302870798344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @www123qwq: 找心理医生❌\n多和别人聊天❌\n去医院❌\nSSRI❌\n改花刀✔️\n欧迪✔️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2058464055552319959",
+        "created_at": "2026-05-24T08:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058464055552319959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2056234964644196352",
+              "start": 3,
+              "username": "www123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058464055552319959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058460302870798344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @www123qwq: 找心理医生❌\n多和别人聊天❌\n去医院❌\nSSRI❌\n改花刀✔️\n欧迪✔️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056234964644196352",
+        "conversation_id": "2058460302870798344",
+        "created_at": "2026-05-24T08:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058460302870798344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058460302870798344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "找心理医生❌\n多和别人聊天❌\n去医院❌\nSSRI❌\n改花刀✔️\n欧迪✔️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2055781542031753407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 183,
+          "like_count": 4205,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1491
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T04:47:16.000Z",
+        "description": "🍥/友跨/od/致幻剂/阿片/普瑞巴林/药理学提问\nhttps://t.co/dhv75dH65I",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/yinai",
+                "end": 49,
+                "expanded_url": "https://miyu.link/yinai",
+                "start": 26,
+                "url": "https://t.co/dhv75dH65I"
+              }
+            ]
+          }
+        },
+        "id": "2056234964644196352",
+        "name": "伊奈（二世）互fo找回🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2056238962067591237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056235555827105792/4Xi1xQSL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 39,
+          "like_count": 165,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 106
+        },
+        "username": "www123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

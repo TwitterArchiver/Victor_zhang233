@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1979170249187434732",
+    "created_at": "2025-10-17T14:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T15:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979186183860040112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1736303078431924224",
+          "start": 0,
+          "username": "huajiuzimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979186183860040112",
+    "in_reply_to_user_id": "1736303078431924224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979170249187434732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajiuzimu 摸摸你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1979170249187434732",
+        "created_at": "2025-10-17T14:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T15:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979186183860040112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1736303078431924224",
+              "start": 0,
+              "username": "huajiuzimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979186183860040112",
+        "in_reply_to_user_id": "1736303078431924224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979170249187434732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajiuzimu 摸摸你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736303078431924224",
+        "conversation_id": "1979170249187434732",
+        "created_at": "2025-10-17T12:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T13:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979170249187434732"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979170249187434732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请了好久的假一直没去上学...每天宅在房间不是在自慰就是在自残，感觉人生已经完蛋了😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（//黑金属/高中生//呃呃呃呃简介这样写没问题吧？（",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 75,
+          "like_count": 703,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 635
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T08:31:57.000Z",
+        "description": "🇹🇼🤝🇨🇳.  🇨🇳🇯🇵🇰🇷等亚洲国家友好万岁≧▽≦亚洲人民大团结！ 友好的 だ우호만세 🏳️‍🌈",
+        "id": "1736303078431924224",
+        "location": "美好的世界",
+        "name": "jnguo3🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974521667314712576/zqu4GmYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 30,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 44
+        },
+        "username": "huajiuzimu",
+        "verified": false
+      }
+    ]
+  }
+}

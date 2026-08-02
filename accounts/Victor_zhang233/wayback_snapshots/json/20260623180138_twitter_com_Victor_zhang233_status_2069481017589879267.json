@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2069459323844231624",
+    "created_at": "2026-06-23T18:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T19:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069481017589879267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2067134436425224192",
+          "start": 0,
+          "username": "lingluo_Rin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069481017589879267",
+    "in_reply_to_user_id": "2067134436425224192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069459323844231624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingluo_Rin 被ghostban了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2069459323844231624",
+        "created_at": "2026-06-23T18:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T19:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069481017589879267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2067134436425224192",
+              "start": 0,
+              "username": "lingluo_Rin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069481017589879267",
+        "in_reply_to_user_id": "2067134436425224192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069459323844231624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingluo_Rin 被ghostban了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067134436425224192",
+        "conversation_id": "2069459323844231624",
+        "created_at": "2026-06-23T16:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069459323844231624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069459323844231624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家都不想理我，我就这么让人讨厌吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 |\nDM欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 398,
+          "like_count": 7960,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 2043
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-17T06:37:50.000Z",
+        "description": "我希望回到神的怀抱中\n祈求着，贪恋着祂的光辉\n于是永辞于世\n挚爱@peipeimao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "peipeimao"
+              }
+            ]
+          }
+        },
+        "id": "2067134436425224192",
+        "location": "零羽，paranoia",
+        "name": "泠珞",
+        "pinned_tweet_id": "2068549635610980840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068551292642050048/xCqim9VA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 478,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 210
+        },
+        "url": "",
+        "username": "lingluo_Rin",
+        "verified": true
+      }
+    ]
+  }
+}

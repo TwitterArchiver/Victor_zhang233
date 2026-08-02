@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2075127598892654783",
+    "created_at": "2026-07-09T11:08:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:08:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075175372816347165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1942081492508905473",
+          "start": 0,
+          "username": "EchoMio2011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075175372816347165",
+    "in_reply_to_user_id": "1942081492508905473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075127598892654783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EchoMio2011 他ban了很多mtf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1914,
+        "media_key": "3_2075127531804741632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxVfuTa0AAI37o.jpg",
+        "width": 1215
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2075127598892654783",
+        "created_at": "2026-07-09T11:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075175372816347165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1942081492508905473",
+              "start": 0,
+              "username": "EchoMio2011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075175372816347165",
+        "in_reply_to_user_id": "1942081492508905473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075127598892654783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EchoMio2011 他ban了很多mtf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075127531804741632"
+          ]
+        },
+        "author_id": "1942081492508905473",
+        "conversation_id": "2075127598892654783",
+        "created_at": "2026-07-09T07:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075127598892654783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9TbLDdNuz",
+              "end": 36,
+              "expanded_url": "https://x.com/EchoMio2011/status/2075127598892654783/photo/1",
+              "media_key": "3_2075127531804741632",
+              "start": 13,
+              "url": "https://t.co/a9TbLDdNuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075127598892654783",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "莫名其妙的(ᗜ ˰ ᗜ) https://t.co/a9TbLDdNuz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 | \n这是哪里。。？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 445,
+          "like_count": 9459,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 2236
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T04:41:35.000Z",
+        "description": "16岁 准高一喵 男生 身高163 / 55kg \n二次元+玩游戏+会点电脑+会发生活\n支持🏳️‍⚧️   不吃糖 不割手)  求抱抱💕",
+        "id": "1942081492508905473",
+        "location": "冰岛",
+        "name": "𝕬𝖎𝖒𝖊𝖗¹☭🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071166294414524416/wJ-BJ88a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 301
+        },
+        "url": "",
+        "username": "EchoMio2011",
+        "verified": false
+      }
+    ]
+  }
+}

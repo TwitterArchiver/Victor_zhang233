@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1802131274196496476",
+    "created_at": "2024-06-16T16:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T17:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802376956123693103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1551123155908849664",
+          "start": 0,
+          "username": "Autodupenothing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802376956123693103",
+    "in_reply_to_user_id": "1551123155908849664",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802131274196496476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Autodupenothing 好吃，我平时都用抢的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1802131274196496476",
+        "created_at": "2024-06-16T16:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T17:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802376956123693103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1551123155908849664",
+              "start": 0,
+              "username": "Autodupenothing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802376956123693103",
+        "in_reply_to_user_id": "1551123155908849664",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802131274196496476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Autodupenothing 好吃，我平时都用抢的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1551123155908849664",
+        "conversation_id": "1802131274196496476",
+        "created_at": "2024-06-16T00:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T01:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802131274196496476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1802131274196496476",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是我是我是我是我是我是我是我是我是我是我是我是我是我是我是我是我是我是我是我是我是我是我是我是我是我是我是我是我是我是我是？\n我是泔水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这//白左/简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": ".. Лунный",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 34,
+          "like_count": 134,
+          "listed_count": 0,
+          "tweet_count": 199
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-24T08:32:59.000Z",
+        "description": "🌌🌃🌆🌠BF:@miaowu075",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "miaowu075"
+              }
+            ]
+          }
+        },
+        "id": "1551123155908849664",
+        "location": "蔚蓝色的参宿七",
+        "name": "黎晓li💤",
+        "pinned_tweet_id": "1784787709204234515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693990843907211264/UeX2aw59_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 167,
+          "like_count": 5878,
+          "listed_count": 1,
+          "tweet_count": 1344
+        },
+        "username": "Autodupenothing",
+        "verified": false
+      }
+    ]
+  }
+}

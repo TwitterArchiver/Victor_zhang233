@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1878487888301572540",
+    "created_at": "2025-01-18T06:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T07:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880495579299782816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1606113722967244801",
+          "start": 0,
+          "username": "teslamillion"
+        },
+        {
+          "end": 24,
+          "id": "1826416442033795072",
+          "start": 14,
+          "username": "shan80799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880495579299782816",
+    "in_reply_to_user_id": "1606113722967244801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878947091063664811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teslamillion @shan80799 错误的，其实我们平时都直接把自己埋土里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1878487888301572540",
+        "created_at": "2025-01-18T06:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T07:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880495579299782816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1606113722967244801",
+              "start": 0,
+              "username": "teslamillion"
+            },
+            {
+              "end": 24,
+              "id": "1826416442033795072",
+              "start": 14,
+              "username": "shan80799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880495579299782816",
+        "in_reply_to_user_id": "1606113722967244801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878947091063664811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teslamillion @shan80799 错误的，其实我们平时都直接把自己埋土里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1606113722967244801",
+        "conversation_id": "1878487888301572540",
+        "created_at": "2025-01-13T23:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T00:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878947091063664811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1826416442033795072",
+              "start": 0,
+              "username": "shan80799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878947091063664811",
+        "in_reply_to_user_id": "1826416442033795072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 19428,
+          "like_count": 5,
+          "quote_count": 18,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878487888301572540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shan80799 以前藏民住帐篷。不怕地震。汉人来了后强迫住破砖烂瓦房。\n才造成藏民死亡。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 57,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 431
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-23T02:25:43.000Z",
+        "description": "financial freedom individual freedom mostly spiritual freedom. 财务自由 人身自由 精神自由",
+        "id": "1606113722967244801",
+        "name": "Cool X Media Group 互fo",
+        "pinned_tweet_id": "1656282909211328512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769633026462371840/o61ygMzV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3492,
+          "following_count": 7495,
+          "like_count": 923,
+          "listed_count": 13,
+          "media_count": 737,
+          "tweet_count": 21308
+        },
+        "username": "teslamillion",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-22T00:31:07.000Z",
+        "description": "安石性强忮，遇事无可否，自信所见，执意不回。至议变法，而在廷交执不可，安石傅经义， 出己意，辩论辄数百言，众不能诎。甚者谓:天变不足畏，祖宗不足法，人言不足恤。（老保之友:@xu244986）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "xu244986"
+              }
+            ]
+          }
+        },
+        "id": "1826416442033795072",
+        "location": "大宋东京开封府",
+        "name": "宋丞相荆国王文公Caswerlebel",
+        "pinned_tweet_id": "1879869953970680159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870465519448653824/nYaofId8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 639,
+          "like_count": 13128,
+          "listed_count": 5,
+          "media_count": 737,
+          "tweet_count": 3751
+        },
+        "username": "shan80799",
+        "verified": false
+      }
+    ]
+  }
+}

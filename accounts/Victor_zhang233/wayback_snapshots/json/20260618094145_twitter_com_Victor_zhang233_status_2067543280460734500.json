@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2067480372603138429",
+    "created_at": "2026-06-18T09:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T10:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067543280460734500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1809985713074847744",
+          "start": 0,
+          "username": "qisiwole1244411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067543280460734500",
+    "in_reply_to_user_id": "1809985713074847744",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067539746319143035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qisiwole1244411 😖😖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2067480372603138429",
+        "created_at": "2026-06-18T09:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067543280460734500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1809985713074847744",
+              "start": 0,
+              "username": "qisiwole1244411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067543280460734500",
+        "in_reply_to_user_id": "1809985713074847744",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067539746319143035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qisiwole1244411 😖😖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809985713074847744",
+        "conversation_id": "2067480372603138429",
+        "created_at": "2026-06-18T09:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067539746319143035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067539746319143035",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067480372603138429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 带手坤去会好一点，我真的感觉上学起码还能让我维持一点人形，呆在家里我会把自己焦虑死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 365,
+          "like_count": 7197,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 2031
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T16:20:19.000Z",
+        "description": "希望我们都能获得幸福💕",
+        "id": "1809985713074847744",
+        "name": "就算如此也心生感激",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809986755657076736/c4diUOQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 33,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 182
+        },
+        "url": "",
+        "username": "qisiwole1244411",
+        "verified": false
+      }
+    ]
+  }
+}

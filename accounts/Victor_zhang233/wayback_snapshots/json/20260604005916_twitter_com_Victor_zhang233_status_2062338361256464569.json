@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2062338361256464569",
+    "created_at": "2026-06-04T00:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T01:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062338361256464569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753386090143354880",
+          "start": 3,
+          "username": "HanQWQ457437"
+        },
+        {
+          "end": 28,
+          "id": "2057330468874526720",
+          "start": 18,
+          "username": "b1efengwo"
+        },
+        {
+          "end": 42,
+          "id": "1879395690230738944",
+          "start": 29,
+          "username": "Psych_Angel_"
+        },
+        {
+          "end": 55,
+          "id": "2040423313231740928",
+          "start": 43,
+          "username": "Misaki11137"
+        },
+        {
+          "end": 66,
+          "id": "2040970554635931648",
+          "start": 56,
+          "username": "Mercyeeua"
+        },
+        {
+          "end": 76,
+          "id": "2056010581342392320",
+          "start": 67,
+          "username": "Mercyvnv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062338361256464569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062323319026946253",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HanQWQ457437: @b1efengwo @Psych_Angel_ @Misaki11137 @Mercyeeua @Mercyvnv 他在医院里苏醒了"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [b1efengwo].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "b1efengwo",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "b1efengwo"
+    },
+    {
+      "detail": "User has been suspended: [Psych_Angel_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Psych_Angel_",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Psych_Angel_"
+    },
+    {
+      "detail": "User has been suspended: [Misaki11137].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Misaki11137",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Misaki11137"
+    },
+    {
+      "detail": "User has been suspended: [Mercyeeua].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Mercyeeua",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Mercyeeua"
+    },
+    {
+      "detail": "User has been suspended: [Mercyvnv].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Mercyvnv",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Mercyvnv"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2062338361256464569",
+        "created_at": "2026-06-04T00:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T01:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062338361256464569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753386090143354880",
+              "start": 3,
+              "username": "HanQWQ457437"
+            },
+            {
+              "end": 28,
+              "id": "2057330468874526720",
+              "start": 18,
+              "username": "b1efengwo"
+            },
+            {
+              "end": 42,
+              "id": "1879395690230738944",
+              "start": 29,
+              "username": "Psych_Angel_"
+            },
+            {
+              "end": 55,
+              "id": "2040423313231740928",
+              "start": 43,
+              "username": "Misaki11137"
+            },
+            {
+              "end": 66,
+              "id": "2040970554635931648",
+              "start": 56,
+              "username": "Mercyeeua"
+            },
+            {
+              "end": 76,
+              "id": "2056010581342392320",
+              "start": 67,
+              "username": "Mercyvnv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062338361256464569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062323319026946253",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HanQWQ457437: @b1efengwo @Psych_Angel_ @Misaki11137 @Mercyeeua @Mercyvnv 他在医院里苏醒了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2062057841457008855",
+        "created_at": "2026-06-03T23:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T00:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062323319026946253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2057330468874526720",
+              "start": 0,
+              "username": "b1efengwo"
+            },
+            {
+              "end": 24,
+              "id": "1879395690230738944",
+              "start": 11,
+              "username": "Psych_Angel_"
+            },
+            {
+              "end": 37,
+              "id": "2040423313231740928",
+              "start": 25,
+              "username": "Misaki11137"
+            },
+            {
+              "end": 48,
+              "id": "2040970554635931648",
+              "start": 38,
+              "username": "Mercyeeua"
+            },
+            {
+              "end": 58,
+              "id": "2056010581342392320",
+              "start": 49,
+              "username": "Mercyvnv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062323319026946253",
+        "in_reply_to_user_id": "1753386090143354880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062057841457008855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@b1efengwo @Psych_Angel_ @Misaki11137 @Mercyeeua @Mercyvnv 他在医院里苏醒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2059669582818721884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062155233384615936/pl3fVQYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 289,
+          "like_count": 5729,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1743
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2062126054656143543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 1025,
+          "like_count": 2788,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 794
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      }
+    ]
+  }
+}

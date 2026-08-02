@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2076783012403134476",
+    "created_at": "2026-07-14T01:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T02:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076843206998962654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1929070811241132032",
+          "start": 0,
+          "username": "GGGisena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076843206998962654",
+    "in_reply_to_user_id": "1929070811241132032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076783012403134476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GGGisena 很大概率，不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2076783012403134476",
+        "created_at": "2026-07-14T01:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076843206998962654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1929070811241132032",
+              "start": 0,
+              "username": "GGGisena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076843206998962654",
+        "in_reply_to_user_id": "1929070811241132032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076783012403134476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GGGisena 很大概率，不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929070811241132032",
+        "conversation_id": "2076783012403134476",
+        "created_at": "2026-07-13T21:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T22:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076783012403134476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076783012403134476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以头孢配酒能死吗到底"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him | 药物欣快重度依赖 | \n这是哪里。。？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 467,
+          "like_count": 9886,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2305
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T07:01:45.000Z",
+        "description": "ElleNg｜11年｜东莞/中山/珠三角｜同类直fo｜餐卷猫抓｜o割🚬｜私信除门不回｜我宝贝@ekj5615",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "ekj5615"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EllasSpace",
+                "end": 23,
+                "expanded_url": "https://t.me/EllasSpace",
+                "start": 0,
+                "url": "https://t.co/WJ0xroGtsK"
+              }
+            ]
+          }
+        },
+        "id": "1929070811241132032",
+        "location": "my home",
+        "name": "Ellaaa",
+        "pinned_tweet_id": "2062946570027536455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023700218359808/8hKMQX9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 202,
+          "like_count": 646,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 656
+        },
+        "url": "https://t.co/WJ0xroGtsK",
+        "username": "GGGisena",
+        "verified": false
+      }
+    ]
+  }
+}

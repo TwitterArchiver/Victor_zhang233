@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071006987035541504",
+        "3_2071006987039698944",
+        "3_2071006987056549888",
+        "3_2071006987056455680"
+      ],
+      "media_source_tweet_id": [
+        "2071006996778885214",
+        "2071006996778885214",
+        "2071006996778885214",
+        "2071006996778885214"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2071007588200943771",
+    "created_at": "2026-06-27T23:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T00:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071007588200943771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "951930939248082944",
+          "start": 3,
+          "username": "Love_OXYcontin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cxswBCb3BJ",
+          "end": 100,
+          "expanded_url": "https://x.com/Love_OXYcontin/status/2071006996778885214/photo/1",
+          "media_key": "3_2071006987035541504",
+          "start": 77,
+          "url": "https://t.co/cxswBCb3BJ"
+        },
+        {
+          "display_url": "pic.x.com/cxswBCb3BJ",
+          "end": 100,
+          "expanded_url": "https://x.com/Love_OXYcontin/status/2071006996778885214/photo/1",
+          "media_key": "3_2071006987039698944",
+          "start": 77,
+          "url": "https://t.co/cxswBCb3BJ"
+        },
+        {
+          "display_url": "pic.x.com/cxswBCb3BJ",
+          "end": 100,
+          "expanded_url": "https://x.com/Love_OXYcontin/status/2071006996778885214/photo/1",
+          "media_key": "3_2071006987056549888",
+          "start": 77,
+          "url": "https://t.co/cxswBCb3BJ"
+        },
+        {
+          "display_url": "pic.x.com/cxswBCb3BJ",
+          "end": 100,
+          "expanded_url": "https://x.com/Love_OXYcontin/status/2071006996778885214/photo/1",
+          "media_key": "3_2071006987056455680",
+          "start": 77,
+          "url": "https://t.co/cxswBCb3BJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071007588200943771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071006996778885214",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Love_OXYcontin: 本人自介  ⁺｡꒰ঌ 泛性恋 缺爱B 嗑药B 一个 交友互fo dddd 山东线下交友\n努力变健全中～ ໒꒱｡⁺ https://t.co/cxswBCb3BJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2071006987035541504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL2x4c2bAAAY4GJ.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071006987039698944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL2x4c3acAAtZLr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071006987056549888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL2x4c7bkAAt5Rn.jpg",
+        "width": 2040
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071006987056455680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL2x4c7aIAALQBO.jpg",
+        "width": 1628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071006987035541504",
+            "3_2071006987039698944",
+            "3_2071006987056549888",
+            "3_2071006987056455680"
+          ],
+          "media_source_tweet_id": [
+            "2071006996778885214",
+            "2071006996778885214",
+            "2071006996778885214",
+            "2071006996778885214"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071007588200943771",
+        "created_at": "2026-06-27T23:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T00:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071007588200943771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "951930939248082944",
+              "start": 3,
+              "username": "Love_OXYcontin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxswBCb3BJ",
+              "end": 100,
+              "expanded_url": "https://x.com/Love_OXYcontin/status/2071006996778885214/photo/1",
+              "media_key": "3_2071006987035541504",
+              "start": 77,
+              "url": "https://t.co/cxswBCb3BJ"
+            },
+            {
+              "display_url": "pic.x.com/cxswBCb3BJ",
+              "end": 100,
+              "expanded_url": "https://x.com/Love_OXYcontin/status/2071006996778885214/photo/1",
+              "media_key": "3_2071006987039698944",
+              "start": 77,
+              "url": "https://t.co/cxswBCb3BJ"
+            },
+            {
+              "display_url": "pic.x.com/cxswBCb3BJ",
+              "end": 100,
+              "expanded_url": "https://x.com/Love_OXYcontin/status/2071006996778885214/photo/1",
+              "media_key": "3_2071006987056549888",
+              "start": 77,
+              "url": "https://t.co/cxswBCb3BJ"
+            },
+            {
+              "display_url": "pic.x.com/cxswBCb3BJ",
+              "end": 100,
+              "expanded_url": "https://x.com/Love_OXYcontin/status/2071006996778885214/photo/1",
+              "media_key": "3_2071006987056455680",
+              "start": 77,
+              "url": "https://t.co/cxswBCb3BJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071007588200943771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071006996778885214",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Love_OXYcontin: 本人自介  ⁺｡꒰ঌ 泛性恋 缺爱B 嗑药B 一个 交友互fo dddd 山东线下交友\n努力变健全中～ ໒꒱｡⁺ https://t.co/cxswBCb3BJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071006987035541504",
+            "3_2071006987039698944",
+            "3_2071006987056549888",
+            "3_2071006987056455680"
+          ]
+        },
+        "author_id": "951930939248082944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071006996778885214",
+        "created_at": "2026-06-27T23:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T00:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071006996778885214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxswBCb3BJ",
+              "end": 80,
+              "expanded_url": "https://x.com/Love_OXYcontin/status/2071006996778885214/photo/1",
+              "media_key": "3_2071006987035541504",
+              "start": 57,
+              "url": "https://t.co/cxswBCb3BJ"
+            },
+            {
+              "display_url": "pic.x.com/cxswBCb3BJ",
+              "end": 80,
+              "expanded_url": "https://x.com/Love_OXYcontin/status/2071006996778885214/photo/1",
+              "media_key": "3_2071006987039698944",
+              "start": 57,
+              "url": "https://t.co/cxswBCb3BJ"
+            },
+            {
+              "display_url": "pic.x.com/cxswBCb3BJ",
+              "end": 80,
+              "expanded_url": "https://x.com/Love_OXYcontin/status/2071006996778885214/photo/1",
+              "media_key": "3_2071006987056549888",
+              "start": 57,
+              "url": "https://t.co/cxswBCb3BJ"
+            },
+            {
+              "display_url": "pic.x.com/cxswBCb3BJ",
+              "end": 80,
+              "expanded_url": "https://x.com/Love_OXYcontin/status/2071006996778885214/photo/1",
+              "media_key": "3_2071006987056455680",
+              "start": 57,
+              "url": "https://t.co/cxswBCb3BJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071006996778885214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "本人自介  ⁺｡꒰ঌ 泛性恋 缺爱B 嗑药B 一个 交友互fo dddd 山东线下交友\n努力变健全中～ ໒꒱｡⁺ https://t.co/cxswBCb3BJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 |\nDM欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Dekadens",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 410,
+          "like_count": 8357,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 2134
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-12T21:36:36.000Z",
+        "description": "MTF🏳️‍⚧️ 10年 糖龄3年 ADHD 重度焦虑 IP山东 山东境内交友 -*BZDs/Z drug/opioids*-最爱的药物种类 欢迎互fo\n*服用的药物皆有医生处方*‼️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Da_i_su_ki_da_…",
+                "end": 23,
+                "expanded_url": "https://t.me/Da_i_su_ki_da_yo",
+                "start": 0,
+                "url": "https://t.co/jrNU36WaHn"
+              }
+            ]
+          }
+        },
+        "id": "951930939248082944",
+        "location": "        ꒰ঌ₊⁺ ♡̶ネット天使降臨♡̶ ₊⁺໒꒱ ",
+        "name": "ฅ ᩚ千雨ちさめ੭ﾞ🐾",
+        "pinned_tweet_id": "2071006996778885214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070266649555722240/vjw9A1mb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 407,
+          "like_count": 825,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 268
+        },
+        "url": "https://t.co/jrNU36WaHn",
+        "username": "Love_OXYcontin",
+        "verified": false
+      }
+    ]
+  }
+}

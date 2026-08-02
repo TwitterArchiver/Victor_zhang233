@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2022203028582146112",
+    "created_at": "2026-02-13T11:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T12:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022264716635369490"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022264716635369490",
+    "in_reply_to_user_id": "1755494652889661440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022203028582146112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "药效中"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2022203023221792769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBBO737bIAEeWCs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2022203028582146112",
+        "created_at": "2026-02-13T11:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022264716635369490"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022264716635369490",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022203028582146112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药效中"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022203023221792769"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2022203028582146112",
+        "created_at": "2026-02-13T06:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T07:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022203028582146112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7xrFI67l6",
+              "end": 26,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2022203028582146112/photo/1",
+              "media_key": "3_2022203023221792769",
+              "start": 3,
+              "url": "https://t.co/r7xrFI67l6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022203028582146112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "试试 https://t.co/r7xrFI67l6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "林中落雨，秋前盛夏",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016888733715615747/2ZjaRw3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 79,
+          "like_count": 1758,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 880
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

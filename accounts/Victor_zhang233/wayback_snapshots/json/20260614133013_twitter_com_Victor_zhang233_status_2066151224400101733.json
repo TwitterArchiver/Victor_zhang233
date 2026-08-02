@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2066022931331952901",
+    "created_at": "2026-06-14T13:30:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:30:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066151224400101733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1724267127031672832",
+          "start": 0,
+          "username": "aliebwa"
+        },
+        {
+          "end": 23,
+          "id": "1483726186991669250",
+          "start": 9,
+          "username": "DanTasKingdom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066151224400101733",
+    "in_reply_to_user_id": "1724267127031672832",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066131916894650380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aliebwa @DanTasKingdom 2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2066022931331952901",
+        "created_at": "2026-06-14T13:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066151224400101733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1724267127031672832",
+              "start": 0,
+              "username": "aliebwa"
+            },
+            {
+              "end": 23,
+              "id": "1483726186991669250",
+              "start": 9,
+              "username": "DanTasKingdom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066151224400101733",
+        "in_reply_to_user_id": "1724267127031672832",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066131916894650380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aliebwa @DanTasKingdom 2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724267127031672832",
+        "conversation_id": "2066022931331952901",
+        "created_at": "2026-06-14T12:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066131916894650380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            },
+            {
+              "end": 31,
+              "id": "1483726186991669250",
+              "start": 17,
+              "username": "DanTasKingdom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066131916894650380",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066125326133191076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 @DanTasKingdom 一颗嘛我也没感觉是缓释片嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 324,
+          "like_count": 6731,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1978
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T03:25:00.000Z",
+        "description": "",
+        "id": "1724267127031672832",
+        "name": "idi",
+        "pinned_tweet_id": "1853642736207040577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005893629219627008/uLj6ERYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 1094,
+          "like_count": 1209,
+          "listed_count": 4,
+          "media_count": 87,
+          "tweet_count": 1707
+        },
+        "username": "aliebwa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-19T09:01:16.000Z",
+        "description": "何で",
+        "id": "1483726186991669250",
+        "name": "くろいタバコ",
+        "pinned_tweet_id": "1824664213555646491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036646525116506112/OCgXH5FQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 271,
+          "like_count": 81,
+          "listed_count": 5,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "username": "DanTasKingdom",
+        "verified": false
+      }
+    ]
+  }
+}

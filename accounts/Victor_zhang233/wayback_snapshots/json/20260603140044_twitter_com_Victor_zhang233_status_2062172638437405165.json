@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062172635346116608"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2062172638437405165",
+    "created_at": "2026-06-03T14:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T15:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062172638437405165"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "新头像"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gakvhsEYuf",
+          "end": 28,
+          "expanded_url": "https://x.com/Victor_zhang233/status/2062172638437405165/photo/1",
+          "media_key": "3_2062172635346116608",
+          "start": 5,
+          "url": "https://t.co/gakvhsEYuf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062172638437405165",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#新头像 https://t.co/gakvhsEYuf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2062172635346116608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5PFgNWIAAIh7A.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062172635346116608"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2062172638437405165",
+        "created_at": "2026-06-03T14:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062172638437405165"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gakvhsEYuf",
+              "end": 28,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2062172638437405165/photo/1",
+              "media_key": "3_2062172635346116608",
+              "start": 5,
+              "url": "https://t.co/gakvhsEYuf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062172638437405165",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/gakvhsEYuf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2059669582818721884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062155233384615936/pl3fVQYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 275,
+          "like_count": 5555,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1676
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

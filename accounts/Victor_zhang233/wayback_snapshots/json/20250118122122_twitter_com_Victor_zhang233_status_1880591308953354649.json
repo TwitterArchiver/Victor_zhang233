@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1880269363623919683",
+    "created_at": "2025-01-18T12:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T13:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880591308953354649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1631131566813618177",
+          "start": 0,
+          "username": "charming_whw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880591308953354649",
+    "in_reply_to_user_id": "1631131566813618177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880269363623919683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@charming_whw 呜呜呜呜呜5554👊👊😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1880269363623919683",
+        "created_at": "2025-01-18T12:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T13:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880591308953354649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1631131566813618177",
+              "start": 0,
+              "username": "charming_whw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880591308953354649",
+        "in_reply_to_user_id": "1631131566813618177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880269363623919683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@charming_whw 呜呜呜呜呜5554👊👊😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1631131566813618177",
+        "conversation_id": "1880269363623919683",
+        "created_at": "2025-01-17T15:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T16:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880269363623919683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880269363623919683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1775,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "简介挂infp的多少有点了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/中度抑郁焦虑/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": "🎵🎶黑金重度依赖🎶🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 58,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 436
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T03:17:33.000Z",
+        "description": "我没意见，我拿15吨煤去造行星发动机了",
+        "id": "1631131566813618177",
+        "location": "中南海怀仁堂",
+        "name": "青春王佐少年不会梦到走姿派美少女",
+        "pinned_tweet_id": "1878693234312110455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872330407590416385/bLD1a4Hf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3327,
+          "following_count": 2218,
+          "like_count": 25532,
+          "listed_count": 11,
+          "media_count": 467,
+          "tweet_count": 5666
+        },
+        "username": "charming_whw",
+        "verified": true
+      }
+    ]
+  }
+}

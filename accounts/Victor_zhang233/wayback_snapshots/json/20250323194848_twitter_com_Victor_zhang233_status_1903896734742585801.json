@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1903747560818540605",
+    "created_at": "2025-03-23T19:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T20:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903896734742585801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1567894869707825158",
+          "start": 0,
+          "username": "TEA_beta4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903896734742585801",
+    "in_reply_to_user_id": "1567894869707825158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903747560818540605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TEA_beta4 这真是往左"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1321,
+        "media_key": "3_1903747550915809280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmt4T6JbUAAvnB4.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1749,
+        "media_key": "3_1903747557823758336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmt4UT4aQAAwx5x.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1903747560818540605",
+        "created_at": "2025-03-23T19:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T20:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903896734742585801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1567894869707825158",
+              "start": 0,
+              "username": "TEA_beta4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903896734742585801",
+        "in_reply_to_user_id": "1567894869707825158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903747560818540605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TEA_beta4 这真是往左"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903747550915809280",
+            "3_1903747557823758336"
+          ]
+        },
+        "author_id": "1567894869707825158",
+        "conversation_id": "1903747560818540605",
+        "created_at": "2025-03-23T09:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T10:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903747560818540605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nzukGMacTX",
+              "end": 23,
+              "expanded_url": "https://x.com/TEA_beta4/status/1903747560818540605/photo/1",
+              "media_key": "3_1903747550915809280",
+              "start": 0,
+              "url": "https://t.co/nzukGMacTX"
+            },
+            {
+              "display_url": "pic.x.com/nzukGMacTX",
+              "end": 23,
+              "expanded_url": "https://x.com/TEA_beta4/status/1903747560818540605/photo/1",
+              "media_key": "3_1903747557823758336",
+              "start": 0,
+              "url": "https://t.co/nzukGMacTX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903747560818540605",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2161,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nzukGMacTX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛右（/抑郁焦虑/黑金属/高一/infp/呃呃呃呃简介这样写没问题吧？（休学中）\n欢迎找我见证",
+        "id": "1755494652889661440",
+        "location": "北京 坏人堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855847928532774912/gYpbFoS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 67,
+          "like_count": 472,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 515
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T15:17:33.000Z",
+        "description": "观测/null",
+        "id": "1567894869707825158",
+        "name": "Tea4_Zbc",
+        "pinned_tweet_id": "1723718861139382328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897340222909898753/NZxbHuHl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 840,
+          "like_count": 3660,
+          "listed_count": 8,
+          "media_count": 608,
+          "tweet_count": 6777
+        },
+        "username": "TEA_beta4",
+        "verified": false
+      }
+    ]
+  }
+}

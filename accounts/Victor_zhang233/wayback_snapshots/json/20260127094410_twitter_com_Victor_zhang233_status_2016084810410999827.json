@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2015844904916922805",
+    "created_at": "2026-01-27T09:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T10:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016084810410999827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1431691236436418564",
+          "start": 0,
+          "username": "FLCLSSSS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016084810410999827",
+    "in_reply_to_user_id": "1431691236436418564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016054363949826065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FLCLSSSS 能不能翻译一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2015844904916922805",
+        "created_at": "2026-01-27T09:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T10:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016084810410999827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1431691236436418564",
+              "start": 0,
+              "username": "FLCLSSSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016084810410999827",
+        "in_reply_to_user_id": "1431691236436418564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016054363949826065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FLCLSSSS 能不能翻译一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431691236436418564",
+        "conversation_id": "2015844904916922805",
+        "created_at": "2026-01-27T07:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T08:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016054363949826065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016054363949826065",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015845168700944472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 反正最终都要对他人带去巨量的打击不如先对他人带去巨量的经济打击把他的钱拿走（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "这是哪里？",
+        "id": "1755494652889661440",
+        "location": "地狱",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001408376811704320/27ExCAWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 88,
+          "like_count": 1535,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 808
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-28T18:53:12.000Z",
+        "description": "虚无主义/\n事生理男/\n死去的躯壳/\n亚空间幽灵/\n四折是哥哥/\n请对玉藻温柔点/\n爱人是三三三水/\nINFP-T 4w5 or 9w1/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "love4z.cn",
+                "end": 23,
+                "expanded_url": "https://love4z.cn",
+                "start": 0,
+                "url": "https://t.co/PhhvCFbQij"
+              }
+            ]
+          }
+        },
+        "id": "1431691236436418564",
+        "location": "地狱",
+        "name": "四折光曲",
+        "pinned_tweet_id": "2012703995215941880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999059479212785664/Tgds2j7F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 62,
+          "like_count": 16334,
+          "listed_count": 0,
+          "media_count": 626,
+          "tweet_count": 3656
+        },
+        "url": "https://t.co/PhhvCFbQij",
+        "username": "FLCLSSSS",
+        "verified": false
+      }
+    ]
+  }
+}

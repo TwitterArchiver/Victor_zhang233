@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2066073323763867959",
+    "created_at": "2026-06-14T09:32:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T10:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066091359153623160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2059640160766345217",
+          "start": 0,
+          "username": "Thanatosbz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066091359153623160",
+    "in_reply_to_user_id": "2059640160766345217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066073323763867959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thanatosbz 这是我妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7640,
+        "height": 960,
+        "media_key": "7_2066073290096156672",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066073290096156672/pu/img/0QqqQafyWKJTFO6J.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066073290096156672/pu/vid/avc1/320x426/qNrq5FNHIBtlgt9B.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066073290096156672/pu/vid/avc1/480x640/YXYPqAGNQZot4JxF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066073290096156672/pu/vid/avc1/720x960/kCHTRz8Gmtb5Axaf.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066073290096156672/pu/pl/C3e4JopVqRR7fyCs.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2066073323763867959",
+        "created_at": "2026-06-14T09:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066091359153623160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2059640160766345217",
+              "start": 0,
+              "username": "Thanatosbz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066091359153623160",
+        "in_reply_to_user_id": "2059640160766345217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066073323763867959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thanatosbz 这是我妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066073290096156672"
+          ]
+        },
+        "author_id": "2059640160766345217",
+        "conversation_id": "2066073323763867959",
+        "created_at": "2026-06-14T08:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066073323763867959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5f4HCUYuEH",
+              "end": 27,
+              "expanded_url": "https://x.com/Thanatosbz/status/2066073323763867959/video/1",
+              "media_key": "7_2066073290096156672",
+              "start": 4,
+              "url": "https://t.co/5f4HCUYuEH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066073323763867959",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "丑女人 https://t.co/5f4HCUYuEH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 324,
+          "like_count": 6715,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1971
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-27T14:18:34.000Z",
+        "description": "嗯墙内也叫这个。主页媒体都是自己的画。非盈利使用均可\n在休学治疗中。骚扰大欢迎❤️愿望是周围的人能幸福",
+        "id": "2059640160766345217",
+        "name": "白渚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064708731989045249/_RBs6Igf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 22,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 155
+        },
+        "username": "Thanatosbz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1979477673320894952",
+    "created_at": "2025-10-18T10:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T11:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979501983234130050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "522147771",
+          "start": 0,
+          "username": "N_N_DPT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979501983234130050",
+    "in_reply_to_user_id": "522147771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979477673320894952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N_N_DPT 谁家初中生"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1979477665812713472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3iEcweWEAAfspa.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1979477673320894952",
+        "created_at": "2025-10-18T10:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T11:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979501983234130050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "522147771",
+              "start": 0,
+              "username": "N_N_DPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979501983234130050",
+        "in_reply_to_user_id": "522147771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979477673320894952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N_N_DPT 谁家初中生"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979477665812713472"
+          ]
+        },
+        "author_id": "522147771",
+        "conversation_id": "1979477673320894952",
+        "created_at": "2025-10-18T09:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T10:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979477673320894952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MZPwP7qXVv",
+              "end": 37,
+              "expanded_url": "https://x.com/N_N_DPT/status/1979477673320894952/photo/1",
+              "media_key": "3_1979477665812713472",
+              "start": 14,
+              "url": "https://t.co/MZPwP7qXVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979477673320894952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1404,
+          "like_count": 29,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "今年23了，你们觉得我像么 https://t.co/MZPwP7qXVv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "毛左（// 高中生［endl］ \n^^只听自杀黑¿._ / \n我喜欢视奸你们",
+        "id": "1755494652889661440",
+        "location": "北京 怀仁堂",
+        "name": "ashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656622208786433/qbK3j3sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 82,
+          "like_count": 772,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 655
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-12T10:46:19.000Z",
+        "description": "药物科普:https://t.co/pYOLeahG7e\n博客：https://t.co/KtrQvRNIQj\ngalgame资源站：https://t.co/WlcdxeaW1H\n提问箱:https://t.co/E3f9GdHOjQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://www.overdose.day",
+                "start": 5,
+                "url": "https://t.co/pYOLeahG7e"
+              },
+              {
+                "display_url": "blog.pr80.bid",
+                "end": 55,
+                "expanded_url": "https://blog.pr80.bid",
+                "start": 32,
+                "url": "https://t.co/KtrQvRNIQj"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 90,
+                "expanded_url": "https://www.pr80.bid/",
+                "start": 67,
+                "url": "https://t.co/WlcdxeaW1H"
+              },
+              {
+                "display_url": "ngl.link/n_n_dpt",
+                "end": 118,
+                "expanded_url": "https://ngl.link/n_n_dpt",
+                "start": 95,
+                "url": "https://t.co/E3f9GdHOjQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/c6WOvYzGWA"
+              }
+            ]
+          }
+        },
+        "id": "522147771",
+        "location": "天国",
+        "name": "N,N-二丙基色胺🔯",
+        "pinned_tweet_id": "1979485530338603460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951933777049165825/lU5YAFYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2085,
+          "following_count": 2533,
+          "like_count": 871,
+          "listed_count": 6,
+          "media_count": 192,
+          "tweet_count": 1418
+        },
+        "url": "https://t.co/c6WOvYzGWA",
+        "username": "N_N_DPT",
+        "verified": false
+      }
+    ]
+  }
+}

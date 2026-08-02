@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2062181889558126661",
+    "created_at": "2026-06-03T14:53:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T15:53:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062185878735163788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2021982787860148228",
+          "start": 0,
+          "username": "yi572597757277"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062185878735163788",
+    "in_reply_to_user_id": "2021982787860148228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062181889558126661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi572597757277 怎么了呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2062181889558126661",
+        "created_at": "2026-06-03T14:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062185878735163788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2021982787860148228",
+              "start": 0,
+              "username": "yi572597757277"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062185878735163788",
+        "in_reply_to_user_id": "2021982787860148228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062181889558126661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi572597757277 怎么了呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021982787860148228",
+        "conversation_id": "2062181889558126661",
+        "created_at": "2026-06-03T14:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062181889558126661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062181889558126661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我心好累（\n好想哭 来个人救救我 （（真的好难受（为什么要把我带来这个该死的世界（考试 生活什么的能不能去死？？活着真的好累、心里面好堵 我真的想去死吗？其实没有吧（（我想上吊 我恨死这个世界了 我恨死我自己了 我这种人为什么活着？我这种人为什么还存在？去死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2059669582818721884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062155233384615936/pl3fVQYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 276,
+          "like_count": 5576,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1688
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T16:20:50.000Z",
+        "description": "",
+        "id": "2021982787860148228",
+        "name": "yi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059634086197747712/mjiZoNGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 12,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "yi572597757277",
+        "verified": false
+      }
+    ]
+  }
+}

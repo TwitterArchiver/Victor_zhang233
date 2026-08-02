@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2059649012534264248",
+    "created_at": "2026-05-27T15:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059665196969267365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1977352693245980672",
+          "start": 0,
+          "username": "Anonymous779215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059665196969267365",
+    "in_reply_to_user_id": "1977352693245980672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059658912362565972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anonymous779215 炒河粉炒泡面炒大米饭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2059649012534264248",
+        "created_at": "2026-05-27T15:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059665196969267365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1977352693245980672",
+              "start": 0,
+              "username": "Anonymous779215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059665196969267365",
+        "in_reply_to_user_id": "1977352693245980672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059658912362565972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anonymous779215 炒河粉炒泡面炒大米饭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977352693245980672",
+        "conversation_id": "2059649012534264248",
+        "created_at": "2026-05-27T15:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059658912362565972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059658912362565972",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059649012534264248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 炒作什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes✝️",
+        "pinned_tweet_id": "2059552209222689082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 220,
+          "like_count": 4501,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1579
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T12:36:43.000Z",
+        "description": ".",
+        "id": "1977352693245980672",
+        "name": "Anonymous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016476555103358976/ir3bfWgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 149,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 263
+        },
+        "username": "Anonymous779215",
+        "verified": true
+      }
+    ]
+  }
+}
