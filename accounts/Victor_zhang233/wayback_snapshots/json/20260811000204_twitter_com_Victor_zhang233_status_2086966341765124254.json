@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2086958478803997026",
+    "created_at": "2026-08-11T00:02:04.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T01:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086966341765124254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2039070542389792769",
+          "start": 0,
+          "username": "QiMeng0502"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086966341765124254",
+    "in_reply_to_user_id": "2039070542389792769",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086958478803997026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiMeng0502 👎🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2086958478803997026",
+        "created_at": "2026-08-11T00:02:04.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T01:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086966341765124254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2039070542389792769",
+              "start": 0,
+              "username": "QiMeng0502"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086966341765124254",
+        "in_reply_to_user_id": "2039070542389792769",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086958478803997026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiMeng0502 👎🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039070542389792769",
+        "conversation_id": "2086958478803997026",
+        "created_at": "2026-08-10T23:30:49.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T00:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086958478803997026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086958478803997026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对所有人保持性欲，换来的只有恶意"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "is_identity_verified": false,
+        "location": "在人间，在地狱",
+        "most_recent_tweet_id": "2086966341765124254",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755494652889661440/1782484842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 518,
+          "like_count": 12087,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 2734
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-31T20:03:58.000Z",
+        "description": "喵喵\nINFP\n专心经营自己的呆傻生活",
+        "id": "2039070542389792769",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086961764185542848",
+        "name": "绮梦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2039070542389792769/1785320404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082410668565905408/FmxW-tTY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 42,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 131
+        },
+        "url": "",
+        "username": "QiMeng0502",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

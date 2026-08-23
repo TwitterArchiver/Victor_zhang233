@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2087030321426645036",
+    "created_at": "2026-08-11T06:24:05.000Z",
+    "display_text_range": [
+      14,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T07:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087062478572363964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2066108983178579968",
+          "start": 0,
+          "username": "AkiraTT_chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087062478572363964",
+    "in_reply_to_user_id": "2066108983178579968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087030321426645036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkiraTT_chan 兑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2672,
+        "media_key": "3_2087030314615046144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPafA3oaAAAtRrx.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2087030321426645036",
+        "created_at": "2026-08-11T06:24:05.000Z",
+        "display_text_range": [
+          14,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087062478572363964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2066108983178579968",
+              "start": 0,
+              "username": "AkiraTT_chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087062478572363964",
+        "in_reply_to_user_id": "2066108983178579968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087030321426645036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkiraTT_chan 兑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087030314615046144"
+          ]
+        },
+        "author_id": "2066108983178579968",
+        "conversation_id": "2087030321426645036",
+        "created_at": "2026-08-11T04:16:18.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087030321426645036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W9wWpfwlHj",
+              "end": 31,
+              "expanded_url": "https://x.com/AkiraTT_chan/status/2087030321426645036/photo/1",
+              "media_key": "3_2087030314615046144",
+              "start": 8,
+              "url": "https://t.co/W9wWpfwlHj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087030321426645036",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087030314615046144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这玩应假的吧。 https://t.co/W9wWpfwlHj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "is_identity_verified": false,
+        "location": "在人间，在地狱",
+        "most_recent_tweet_id": "2087062478572363964",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755494652889661440/1782484842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 522,
+          "like_count": 12156,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 2742
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T10:45:00.000Z",
+        "description": "我是晓晓呀 同类宝宝大欢迎我爱你们…\n前世@Chuiertu_chan  防炸逃生舱@AkiraTTT_chan \n互fo请私信呀！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "Chuiertu_chan"
+              },
+              {
+                "end": 56,
+                "start": 42,
+                "username": "AkiraTTT_chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Chuiertu_chan",
+                "end": 23,
+                "expanded_url": "http://t.me/Chuiertu_chan",
+                "start": 0,
+                "url": "https://t.co/Kfc4R9CsiU"
+              }
+            ]
+          }
+        },
+        "id": "2066108983178579968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087030321426645036",
+        "name": "Akira_晓（2.0）",
+        "pinned_tweet_id": "2084204086984122721",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066108983178579968/1785643084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083764239504969728/GicOm_yF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 98,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/Kfc4R9CsiU",
+        "username": "AkiraTT_chan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

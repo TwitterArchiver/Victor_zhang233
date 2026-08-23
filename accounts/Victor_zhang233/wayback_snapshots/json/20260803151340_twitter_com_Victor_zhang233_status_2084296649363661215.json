@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2084293301025546375",
+    "created_at": "2026-08-03T15:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T16:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084296649363661215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1730251057316737024",
+          "start": 0,
+          "username": "SRamirez66171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084296649363661215",
+    "in_reply_to_user_id": "1730251057316737024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084293301025546375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SRamirez66171 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084293221900017664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzlpGsa4AAYdoF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2084293301025546375",
+        "created_at": "2026-08-03T15:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084296649363661215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1730251057316737024",
+              "start": 0,
+              "username": "SRamirez66171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084296649363661215",
+        "in_reply_to_user_id": "1730251057316737024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084293301025546375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SRamirez66171 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084293221900017664"
+          ]
+        },
+        "author_id": "1730251057316737024",
+        "conversation_id": "2084293301025546375",
+        "created_at": "2026-08-03T15:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084293301025546375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IcOATyJvua",
+              "end": 41,
+              "expanded_url": "https://x.com/SRamirez66171/status/2084293301025546375/photo/1",
+              "media_key": "3_2084293221900017664",
+              "start": 18,
+              "url": "https://t.co/IcOATyJvua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084293301025546375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看我重新p的一张图，把头p大了一点 https://t.co/IcOATyJvua"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 504,
+          "like_count": 11433,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 2612
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T15:43:03.000Z",
+        "description": "大号已经不重要了，故事并没有结束/互fo寻回/od/备用号：@imqrmrtvom1lkt主人：@MercuricCyanide\ntg群：https://t.co/Fm16DYfxrU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 92,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 69,
+                "url": "https://t.co/Fm16DYfxrU"
+              }
+            ]
+          }
+        },
+        "id": "1730251057316737024",
+        "name": "洛5.0",
+        "pinned_tweet_id": "2083454884255297692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082718807173599232/iHJ1jUK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 220,
+          "like_count": 658,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "SRamirez66171",
+        "verified": false
+      }
+    ]
+  }
+}

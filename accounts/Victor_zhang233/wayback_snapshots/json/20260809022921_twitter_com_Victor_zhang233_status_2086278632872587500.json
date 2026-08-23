@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086105629090004992",
+        "3_2086105629090070528"
+      ],
+      "media_source_tweet_id": [
+        "2086105762959622525",
+        "2086105762959622525"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2086278632872587500",
+    "created_at": "2026-08-09T02:29:21.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T03:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086278632872587500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2059149411007991808",
+          "start": 3,
+          "username": "wndsfefoumxlw6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AZh9xFJC0V",
+          "end": 71,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2086105762959622525/photo/1",
+          "media_key": "3_2086105629090004992",
+          "start": 48,
+          "url": "https://t.co/AZh9xFJC0V"
+        },
+        {
+          "display_url": "pic.x.com/AZh9xFJC0V",
+          "end": 71,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2086105762959622525/photo/1",
+          "media_key": "3_2086105629090070528",
+          "start": 48,
+          "url": "https://t.co/AZh9xFJC0V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086278632872587500",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086105629090004992"
+      },
+      {
+        "media_key": "3_2086105629090070528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086105762959622525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wndsfefoumxlw6: 宣一下群，求求你们进来玩好不好，我什么都愿意做的😭😭😭 https://t.co/AZh9xFJC0V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2086105629090004992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNWBFnaQAASc-c.jpg",
+        "width": 983
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086105629090070528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNWBFnbQAAEuoL.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086105629090004992",
+            "3_2086105629090070528"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2086105762959622525",
+        "created_at": "2026-08-08T15:02:26.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T16:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086105762959622525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZh9xFJC0V",
+              "end": 51,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2086105762959622525/photo/1",
+              "media_key": "3_2086105629090004992",
+              "start": 28,
+              "url": "https://t.co/AZh9xFJC0V"
+            },
+            {
+              "display_url": "pic.x.com/AZh9xFJC0V",
+              "end": 51,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2086105762959622525/photo/1",
+              "media_key": "3_2086105629090070528",
+              "start": 28,
+              "url": "https://t.co/AZh9xFJC0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086105762959622525",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086105629090004992"
+          },
+          {
+            "media_key": "3_2086105629090070528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "宣一下群，求求你们进来玩好不好，我什么都愿意做的😭😭😭 https://t.co/AZh9xFJC0V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086105629090004992",
+            "3_2086105629090070528"
+          ],
+          "media_source_tweet_id": [
+            "2086105762959622525",
+            "2086105762959622525"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2086278632872587500",
+        "created_at": "2026-08-09T02:29:21.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T03:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086278632872587500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2059149411007991808",
+              "start": 3,
+              "username": "wndsfefoumxlw6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZh9xFJC0V",
+              "end": 71,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2086105762959622525/photo/1",
+              "media_key": "3_2086105629090004992",
+              "start": 48,
+              "url": "https://t.co/AZh9xFJC0V"
+            },
+            {
+              "display_url": "pic.x.com/AZh9xFJC0V",
+              "end": 71,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2086105762959622525/photo/1",
+              "media_key": "3_2086105629090070528",
+              "start": 48,
+              "url": "https://t.co/AZh9xFJC0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086278632872587500",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086105629090004992"
+          },
+          {
+            "media_key": "3_2086105629090070528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086105762959622525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wndsfefoumxlw6: 宣一下群，求求你们进来玩好不好，我什么都愿意做的😭😭😭 https://t.co/AZh9xFJC0V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "is_identity_verified": false,
+        "location": "在人间，在地狱",
+        "most_recent_tweet_id": "2086278632872587500",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755494652889661440/1782484842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 522,
+          "like_count": 11922,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 2707
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊💉避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 126,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 103,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086147420010995809",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 272,
+          "like_count": 6109,
+          "listed_count": 3,
+          "media_count": 365,
+          "tweet_count": 2761
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084186554441043968"
+      ],
+      "media_source_tweet_id": [
+        "2084186562921947452"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084270531835297915",
+    "created_at": "2026-08-03T13:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T14:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084270531835297915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1810704701744435200",
+          "start": 3,
+          "username": "worlds_end_fumo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9rHVRrNSTf",
+          "end": 137,
+          "expanded_url": "https://x.com/worlds_end_fumo/status/2084186562921947452/photo/1",
+          "media_key": "3_2084186554441043968",
+          "start": 114,
+          "url": "https://t.co/9rHVRrNSTf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084270531835297915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084186562921947452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @worlds_end_fumo: od区临死前伸出两根手指，众人皆以为他有未了心愿。旁人问：‘可是还有两种策划药？’他摇头。再问：‘可是还有两位亲友？’他摇头。最后药友恍然大悟：“你是说....20：11 剧烈变形？” https://t.co/9rHVRrNSTf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 726,
+        "media_key": "3_2084186554441043968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyEoPcakAAwpTm.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084186554441043968"
+          ]
+        },
+        "author_id": "1810704701744435200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084186562921947452",
+        "created_at": "2026-08-03T07:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084186562921947452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9rHVRrNSTf",
+              "end": 116,
+              "expanded_url": "https://x.com/worlds_end_fumo/status/2084186562921947452/photo/1",
+              "media_key": "3_2084186554441043968",
+              "start": 93,
+              "url": "https://t.co/9rHVRrNSTf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084186562921947452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 959,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "od区临死前伸出两根手指，众人皆以为他有未了心愿。旁人问：‘可是还有两种策划药？’他摇头。再问：‘可是还有两位亲友？’他摇头。最后药友恍然大悟：“你是说....20：11 剧烈变形？” https://t.co/9rHVRrNSTf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084186554441043968"
+          ],
+          "media_source_tweet_id": [
+            "2084186562921947452"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084270531835297915",
+        "created_at": "2026-08-03T13:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084270531835297915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1810704701744435200",
+              "start": 3,
+              "username": "worlds_end_fumo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9rHVRrNSTf",
+              "end": 137,
+              "expanded_url": "https://x.com/worlds_end_fumo/status/2084186562921947452/photo/1",
+              "media_key": "3_2084186554441043968",
+              "start": 114,
+              "url": "https://t.co/9rHVRrNSTf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084270531835297915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084186562921947452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @worlds_end_fumo: od区临死前伸出两根手指，众人皆以为他有未了心愿。旁人问：‘可是还有两种策划药？’他摇头。再问：‘可是还有两位亲友？’他摇头。最后药友恍然大悟：“你是说....20：11 剧烈变形？” https://t.co/9rHVRrNSTf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 503,
+          "like_count": 11402,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 2603
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T15:57:11.000Z",
+        "description": "第二次转生/🎈批发 /可代购任何能力以内的东西 \n联系https://t.co/Ve4lzmqf76\n原号\n@popcat1234566\n\n3.25/一支 12邮 9g\n互关寻回！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "popcat1234566"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/opodoge",
+                "end": 50,
+                "expanded_url": "http://t.me/opodoge",
+                "start": 27,
+                "url": "https://t.co/Ve4lzmqf76"
+              }
+            ]
+          }
+        },
+        "id": "1810704701744435200",
+        "location": "fumo island",
+        "name": "popcat1234566",
+        "pinned_tweet_id": "2063607798639030523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608187446812672/qwIQh47u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 343,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "worlds_end_fumo",
+        "verified": false
+      }
+    ]
+  }
+}

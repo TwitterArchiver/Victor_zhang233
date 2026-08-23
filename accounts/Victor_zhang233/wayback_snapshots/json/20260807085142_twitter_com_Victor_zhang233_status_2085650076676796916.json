@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085642521364107264"
+      ],
+      "media_source_tweet_id": [
+        "2085642529572061355"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2085650076676796916",
+    "created_at": "2026-08-07T08:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T09:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085650076676796916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1776162571709796352",
+          "start": 3,
+          "username": "Fooogfox"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y0bTa9b1Wc",
+          "end": 117,
+          "expanded_url": "https://x.com/Fooogfox/status/2085642529572061355/photo/1",
+          "media_key": "3_2085642521364107264",
+          "start": 94,
+          "url": "https://t.co/Y0bTa9b1Wc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085650076676796916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085642529572061355",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fooogfox: 这是我的自我介绍！\n如果对我有好感可以转发一下谢谢大家😺\n我想尽我所能认识更多更多人，分享有意思的各种各样的东西，让大家来到阿间的幸福净土\n我想成为大家的朋友 https://t.co/Y0bTa9b1Wc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1864,
+        "media_key": "3_2085642521364107264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGw0q5bkAA2sTp.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085642521364107264"
+          ]
+        },
+        "author_id": "1776162571709796352",
+        "conversation_id": "2085642529572061355",
+        "created_at": "2026-08-07T08:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T09:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085642529572061355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y0bTa9b1Wc",
+              "end": 103,
+              "expanded_url": "https://x.com/Fooogfox/status/2085642529572061355/photo/1",
+              "media_key": "3_2085642521364107264",
+              "start": 80,
+              "url": "https://t.co/Y0bTa9b1Wc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085642529572061355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这是我的自我介绍！\n如果对我有好感可以转发一下谢谢大家😺\n我想尽我所能认识更多更多人，分享有意思的各种各样的东西，让大家来到阿间的幸福净土\n我想成为大家的朋友 https://t.co/Y0bTa9b1Wc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085642521364107264"
+          ],
+          "media_source_tweet_id": [
+            "2085642529572061355"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2085650076676796916",
+        "created_at": "2026-08-07T08:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T09:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085650076676796916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1776162571709796352",
+              "start": 3,
+              "username": "Fooogfox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y0bTa9b1Wc",
+              "end": 117,
+              "expanded_url": "https://x.com/Fooogfox/status/2085642529572061355/photo/1",
+              "media_key": "3_2085642521364107264",
+              "start": 94,
+              "url": "https://t.co/Y0bTa9b1Wc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085650076676796916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085642529572061355",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fooogfox: 这是我的自我介绍！\n如果对我有好感可以转发一下谢谢大家😺\n我想尽我所能认识更多更多人，分享有意思的各种各样的东西，让大家来到阿间的幸福净土\n我想成为大家的朋友 https://t.co/Y0bTa9b1Wc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 516,
+          "like_count": 11789,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2686
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T08:18:58.000Z",
+        "description": "五月生\n请称呼我为：雨原花咲/阿间。\n非典型oder（我不鼓励任何自伤行为，只在原有基础上进行探讨），同类友好，聊天完全欢迎，请和我交朋友ww\nftx\n碎碎念和不定期药物感受",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fooooogfox",
+                "end": 23,
+                "expanded_url": "https://t.me/fooooogfox",
+                "start": 0,
+                "url": "https://t.co/rO2rYtJvdt"
+              }
+            ]
+          }
+        },
+        "id": "1776162571709796352",
+        "location": "世界",
+        "name": "猫不理茶茶罐头🏳️‍⚧️",
+        "pinned_tweet_id": "2085642529572061355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885748304442748928/rwYCd9t__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 334,
+          "like_count": 1433,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 156
+        },
+        "url": "https://t.co/rO2rYtJvdt",
+        "username": "Fooogfox",
+        "verified": false
+      }
+    ]
+  }
+}

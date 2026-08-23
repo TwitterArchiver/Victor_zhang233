@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1790484175654682752",
+    "created_at": "2026-08-11T10:33:39.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T11:33:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087125286575812613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1738801237024559104",
+          "start": 0,
+          "username": "MIAOMAOMJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087125286575812613",
+    "in_reply_to_user_id": "1738801237024559104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790484175654682752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MIAOMAOMJ 用锋利的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1790484175654682752",
+        "created_at": "2026-08-11T10:33:39.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087125286575812613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738801237024559104",
+              "start": 0,
+              "username": "MIAOMAOMJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087125286575812613",
+        "in_reply_to_user_id": "1738801237024559104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790484175654682752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MIAOMAOMJ 用锋利的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738801237024559104",
+        "conversation_id": "1790484175654682752",
+        "created_at": "2024-05-14T20:47:47.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2024-05-14T21:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790484175654682752"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790484175654682752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2341,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想问问宝宝们怎么割腕割手臂不会很痛啊，我现在想割但是有点怕下不去手，觉得自己好废物，但是精神上的痛苦真的让我接近崩溃了，就是拿刀在手上一直比划和戳，就是下不去手，真的感觉自己好懦弱没用……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "is_identity_verified": false,
+        "location": "在人间，在地狱",
+        "most_recent_tweet_id": "2087125286575812613",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755494652889661440/1782484842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 522,
+          "like_count": 12174,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 2746
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-24T05:58:25.000Z",
+        "description": "",
+        "id": "1738801237024559104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2059020622852927819",
+        "name": "浔茜",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787562501993025536/3DLEaKqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 184,
+          "like_count": 4188,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "MIAOMAOMJ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2088351078568099960",
+    "created_at": "2026-08-15T08:03:36.000Z",
+    "display_text_range": [
+      13,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T09:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088537075872112795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053717016092295169",
+          "start": 0,
+          "username": "xixijun8827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088537075872112795",
+    "in_reply_to_user_id": "2053717016092295169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088351078568099960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixijun8827 长得好像门神soloman"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2088351076160507905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPtQPTzaEAEURtE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2088351078568099960",
+        "created_at": "2026-08-15T08:03:36.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088537075872112795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053717016092295169",
+              "start": 0,
+              "username": "xixijun8827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088537075872112795",
+        "in_reply_to_user_id": "2053717016092295169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088351078568099960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixijun8827 长得好像门神soloman"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088351076160507905"
+          ]
+        },
+        "author_id": "2053717016092295169",
+        "conversation_id": "2088351078568099960",
+        "created_at": "2026-08-14T19:44:31.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T20:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088351078568099960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2UWYJanGDs",
+              "end": 37,
+              "expanded_url": "https://x.com/xixijun8827/status/2088351078568099960/photo/1",
+              "media_key": "3_2088351076160507905",
+              "start": 14,
+              "url": "https://t.co/2UWYJanGDs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088351078568099960",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088351076160507905"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 932,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "...我...出院...了 https://t.co/2UWYJanGDs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "is_identity_verified": false,
+        "location": "在人间，在地狱",
+        "most_recent_tweet_id": "2088537075872112795",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755494652889661440/1782484842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 530,
+          "like_count": 12676,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 2838
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-11T06:01:51.000Z",
+        "description": "09/♂/烟鬼/od 已转生@caicaixi9927\n祝你天天开心,来都来了，互fo再走吧https://t.co/O3WONapKvU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "caicaixi9927"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/junxixijun",
+                "end": 69,
+                "expanded_url": "https://ngl.link/junxixijun",
+                "start": 46,
+                "url": "https://t.co/O3WONapKvU"
+              }
+            ]
+          }
+        },
+        "id": "2053717016092295169",
+        "is_identity_verified": false,
+        "location": "泪流海",
+        "most_recent_tweet_id": "2088505793155060125",
+        "name": "无问",
+        "pinned_tweet_id": "2070813338951704920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053717016092295169/1778588984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053780220164083712/gmAUBRcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 203,
+          "like_count": 5539,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 690
+        },
+        "url": "",
+        "username": "xixijun8827",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2084087814409568317",
+    "created_at": "2026-08-03T01:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T02:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084087814409568317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Victor_zhang23…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Victor_zhang233/status/2077986189785935947",
+          "start": 7,
+          "url": "https://t.co/JaxkKXFlN9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084087814409568317",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077986189785935947",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "需要人的陪伴 https://t.co/JaxkKXFlN9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2084087814409568317",
+        "created_at": "2026-08-03T01:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084087814409568317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Victor_zhang23…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Victor_zhang233/status/2077986189785935947",
+              "start": 7,
+              "url": "https://t.co/JaxkKXFlN9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084087814409568317",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077986189785935947",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "需要人的陪伴 https://t.co/JaxkKXFlN9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2077986189785935947",
+        "created_at": "2026-07-17T05:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077986189785935947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077986189785935947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2060,
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "人们都不喜欢我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 497,
+          "like_count": 11339,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 2580
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

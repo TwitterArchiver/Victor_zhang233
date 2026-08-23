@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "card_uri": "https://t.co/TgzF1YFtgU",
+    "conversation_id": "2087944020265931163",
+    "created_at": "2026-08-13T16:47:01.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T17:47:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087944020265931163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《Morgondagen》，由 Apati 演唱，收录于《Morgondagen inställd i brist på intresse》专辑中，《Morgondagen》下载，《Morgondagen》在线试听，更多Morgondagen相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/bc2EosFb",
+          "end": 23,
+          "expanded_url": "https://163cn.tv/bc2EosFb",
+          "images": [
+            {
+              "height": 1200,
+              "url": "https://pbs.twimg.com/news_img/2087944009981497349/HnN2qOI-?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2087944009981497349/HnN2qOI-?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Morgondagen - Apati - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=1057960&uct2=QWkwW2pH9yeIfM3rZ1Glsg%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=1379005&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.50&sc=wm&tn=",
+          "url": "https://t.co/TgzF1YFtgU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087944020265931163",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/TgzF1YFtgU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "card_uri": "https://t.co/TgzF1YFtgU",
+        "conversation_id": "2087944020265931163",
+        "created_at": "2026-08-13T16:47:01.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087944020265931163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《Morgondagen》，由 Apati 演唱，收录于《Morgondagen inställd i brist på intresse》专辑中，《Morgondagen》下载，《Morgondagen》在线试听，更多Morgondagen相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/bc2EosFb",
+              "end": 23,
+              "expanded_url": "https://163cn.tv/bc2EosFb",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2087944009981497349/HnN2qOI-?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2087944009981497349/HnN2qOI-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Morgondagen - Apati - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=1057960&uct2=QWkwW2pH9yeIfM3rZ1Glsg%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=1379005&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.50&sc=wm&tn=",
+              "url": "https://t.co/TgzF1YFtgU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087944020265931163",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TgzF1YFtgU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "is_identity_verified": false,
+        "location": "在人间，在地狱",
+        "most_recent_tweet_id": "2087944020265931163",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755494652889661440/1782484842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 526,
+          "like_count": 12434,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 2803
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

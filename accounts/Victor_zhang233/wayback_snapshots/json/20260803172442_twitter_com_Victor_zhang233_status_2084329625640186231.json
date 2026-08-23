@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084320699204710400",
+        "3_2084320699208826881",
+        "3_2084320699208871936"
+      ],
+      "media_source_tweet_id": [
+        "2084320725029023983",
+        "2084320725029023983",
+        "2084320725029023983"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "conversation_id": "2084329625640186231",
+    "created_at": "2026-08-03T17:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T18:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084329625640186231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1732763258325762048",
+          "start": 3,
+          "username": "AmeAsukaLangley"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ONVea9L9y4",
+          "end": 120,
+          "expanded_url": "https://x.com/AmeAsukaLangley/status/2084320725029023983/photo/1",
+          "media_key": "3_2084320699204710400",
+          "start": 97,
+          "url": "https://t.co/ONVea9L9y4"
+        },
+        {
+          "display_url": "pic.x.com/ONVea9L9y4",
+          "end": 120,
+          "expanded_url": "https://x.com/AmeAsukaLangley/status/2084320725029023983/photo/1",
+          "media_key": "3_2084320699208826881",
+          "start": 97,
+          "url": "https://t.co/ONVea9L9y4"
+        },
+        {
+          "display_url": "pic.x.com/ONVea9L9y4",
+          "end": 120,
+          "expanded_url": "https://x.com/AmeAsukaLangley/status/2084320725029023983/photo/1",
+          "media_key": "3_2084320699208871936",
+          "start": 97,
+          "url": "https://t.co/ONVea9L9y4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084329625640186231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084320725029023983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmeAsukaLangley: 这是新置顶，距离上次发置顶已经是快两个月前的事了，我是男的，虽然我不希望用任何性别来圈定我，讨厌我请直接ban我，喜欢你会直fo，不喜欢也会直接ban https://t.co/ONVea9L9y4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2084320699204710400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOz-ofoXMAABhd8.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084320699208826881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOz-ofpWAAE-_I7.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084320699208871936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOz-ofpWsAAJG1O.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084320699204710400",
+            "3_2084320699208826881",
+            "3_2084320699208871936"
+          ]
+        },
+        "author_id": "1732763258325762048",
+        "conversation_id": "2084320725029023983",
+        "created_at": "2026-08-03T16:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084320725029023983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ONVea9L9y4",
+              "end": 99,
+              "expanded_url": "https://x.com/AmeAsukaLangley/status/2084320725029023983/photo/1",
+              "media_key": "3_2084320699204710400",
+              "start": 76,
+              "url": "https://t.co/ONVea9L9y4"
+            },
+            {
+              "display_url": "pic.x.com/ONVea9L9y4",
+              "end": 99,
+              "expanded_url": "https://x.com/AmeAsukaLangley/status/2084320725029023983/photo/1",
+              "media_key": "3_2084320699208826881",
+              "start": 76,
+              "url": "https://t.co/ONVea9L9y4"
+            },
+            {
+              "display_url": "pic.x.com/ONVea9L9y4",
+              "end": 99,
+              "expanded_url": "https://x.com/AmeAsukaLangley/status/2084320725029023983/photo/1",
+              "media_key": "3_2084320699208871936",
+              "start": 76,
+              "url": "https://t.co/ONVea9L9y4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084320725029023983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这是新置顶，距离上次发置顶已经是快两个月前的事了，我是男的，虽然我不希望用任何性别来圈定我，讨厌我请直接ban我，喜欢你会直fo，不喜欢也会直接ban https://t.co/ONVea9L9y4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084320699204710400",
+            "3_2084320699208826881",
+            "3_2084320699208871936"
+          ],
+          "media_source_tweet_id": [
+            "2084320725029023983",
+            "2084320725029023983",
+            "2084320725029023983"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2084329625640186231",
+        "created_at": "2026-08-03T17:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084329625640186231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1732763258325762048",
+              "start": 3,
+              "username": "AmeAsukaLangley"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ONVea9L9y4",
+              "end": 120,
+              "expanded_url": "https://x.com/AmeAsukaLangley/status/2084320725029023983/photo/1",
+              "media_key": "3_2084320699204710400",
+              "start": 97,
+              "url": "https://t.co/ONVea9L9y4"
+            },
+            {
+              "display_url": "pic.x.com/ONVea9L9y4",
+              "end": 120,
+              "expanded_url": "https://x.com/AmeAsukaLangley/status/2084320725029023983/photo/1",
+              "media_key": "3_2084320699208826881",
+              "start": 97,
+              "url": "https://t.co/ONVea9L9y4"
+            },
+            {
+              "display_url": "pic.x.com/ONVea9L9y4",
+              "end": 120,
+              "expanded_url": "https://x.com/AmeAsukaLangley/status/2084320725029023983/photo/1",
+              "media_key": "3_2084320699208871936",
+              "start": 97,
+              "url": "https://t.co/ONVea9L9y4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084329625640186231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084320725029023983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AmeAsukaLangley: 这是新置顶，距离上次发置顶已经是快两个月前的事了，我是男的，虽然我不希望用任何性别来圈定我，讨厌我请直接ban我，喜欢你会直fo，不喜欢也会直接ban https://t.co/ONVea9L9y4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 507,
+          "like_count": 11471,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2621
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 372,
+          "like_count": 30103,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2423
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      }
+    ]
+  }
+}

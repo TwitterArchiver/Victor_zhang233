@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2087849820153430165",
+    "created_at": "2026-08-13T11:48:51.000Z",
+    "display_text_range": [
+      10,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T12:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087868986973471045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1976023364956553217",
+          "start": 0,
+          "username": "8964tana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087868986973471045",
+    "in_reply_to_user_id": "1976023364956553217",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087868213107540477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964tana 兑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2087849820153430165",
+        "created_at": "2026-08-13T11:48:51.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T12:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087868986973471045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1976023364956553217",
+              "start": 0,
+              "username": "8964tana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087868986973471045",
+        "in_reply_to_user_id": "1976023364956553217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087868213107540477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964tana 兑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976023364956553217",
+        "conversation_id": "2087849820153430165",
+        "created_at": "2026-08-13T11:45:47.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T12:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087868213107540477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087868213107540477",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087849820153430165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 细节水印"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "is_identity_verified": false,
+        "location": "在人间，在地狱",
+        "most_recent_tweet_id": "2087868986973471045",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755494652889661440/1782484842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 525,
+          "like_count": 12411,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 2796
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-08T20:34:48.000Z",
+        "description": "19y / MTX / 欢迎扩列",
+        "id": "1976023364956553217",
+        "is_identity_verified": false,
+        "location": "🌍",
+        "most_recent_tweet_id": "2087868213107540477",
+        "name": "Προκύων",
+        "pinned_tweet_id": "2060946919770464407",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976023364956553217/1784819677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081835733522972672/oGTRRDHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 25,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 166
+        },
+        "url": "",
+        "username": "8964tana",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

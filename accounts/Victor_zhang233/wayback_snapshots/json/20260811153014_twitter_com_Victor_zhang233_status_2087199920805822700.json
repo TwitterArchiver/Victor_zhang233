@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2086745147082244219",
+    "created_at": "2026-08-11T15:30:14.000Z",
+    "display_text_range": [
+      11,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T16:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087199920805822700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2086339012135137281",
+          "start": 0,
+          "username": "Ha_d_e_s_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087199920805822700",
+    "in_reply_to_user_id": "2086339012135137281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087152688593297707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ha_d_e_s_ ied=遥控土质炸弹（=劲爆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2086745147082244219",
+        "created_at": "2026-08-11T15:30:14.000Z",
+        "display_text_range": [
+          11,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087199920805822700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2086339012135137281",
+              "start": 0,
+              "username": "Ha_d_e_s_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087199920805822700",
+        "in_reply_to_user_id": "2086339012135137281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087152688593297707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ha_d_e_s_ ied=遥控土质炸弹（=劲爆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2086339012135137281",
+        "conversation_id": "2086745147082244219",
+        "created_at": "2026-08-11T12:22:33.000Z",
+        "display_text_range": [
+          17,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T13:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087152688593297707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087152688593297707",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086958411552563210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 这个我不懂（但是想聊点低俗的我完全OK（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "is_identity_verified": false,
+        "location": "在人间，在地狱",
+        "most_recent_tweet_id": "2087199920805822700",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755494652889661440/1782484842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 522,
+          "like_count": 12197,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 2753
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-09T06:30:05.000Z",
+        "description": "上一世被奸人所害，希望能寻回朋友们😇",
+        "id": "2086339012135137281",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087193160653128163",
+        "name": "黑（二世）",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086339424678559744/lGTmRopw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 109,
+          "like_count": 583,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "Ha_d_e_s_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

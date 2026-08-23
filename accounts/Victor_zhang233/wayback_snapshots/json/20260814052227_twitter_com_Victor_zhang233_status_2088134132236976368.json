@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2088084298616504587",
+    "created_at": "2026-08-14T05:22:27.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T06:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088134132236976368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2071944346648399872",
+          "start": 0,
+          "username": "mst0w_00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088134132236976368",
+    "in_reply_to_user_id": "2071944346648399872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088084298616504587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mst0w_00 好高啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24984,
+        "height": 1280,
+        "media_key": "13_2088084132823982081",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088084132823982081/img/KXl-w7ZPexGJV1MU.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088084132823982081/vid/avc1/320x568/wgsR35MrKusXZNbr.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088084132823982081/vid/avc1/480x852/61SDITJ0KIDo7hRd.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088084132823982081/vid/avc1/720x1280/71dm_gdpbZD-vXWg.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088084132823982081/pl/hvtcQFf8tikLYpN5.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2088084298616504587",
+        "created_at": "2026-08-14T05:22:27.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088134132236976368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2071944346648399872",
+              "start": 0,
+              "username": "mst0w_00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088134132236976368",
+        "in_reply_to_user_id": "2071944346648399872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088084298616504587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mst0w_00 好高啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088084132823982081"
+          ]
+        },
+        "author_id": "2071944346648399872",
+        "conversation_id": "2088084298616504587",
+        "created_at": "2026-08-14T02:04:26.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T03:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088084298616504587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xOYfvIavJH",
+              "end": 33,
+              "expanded_url": "https://x.com/mst0w_00/status/2088084298616504587/video/1",
+              "media_key": "13_2088084132823982081",
+              "start": 10,
+              "url": "https://t.co/xOYfvIavJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088084298616504587",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2088084132823982081"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一滴一滴刺痛我的心 https://t.co/xOYfvIavJH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "is_identity_verified": false,
+        "location": "在人间，在地狱",
+        "most_recent_tweet_id": "2088134132236976368",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755494652889661440/1782484842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 527,
+          "like_count": 12474,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 2807
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T13:11:09.000Z",
+        "description": "神了",
+        "id": "2071944346648399872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088084298616504587",
+        "name": "月",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071944346648399872/1782825685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087745366943035392/wIru0Omm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "mst0w_00",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

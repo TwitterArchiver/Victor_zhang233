@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2084293113523110048",
+    "created_at": "2026-08-03T14:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T15:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084293113523110048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Fubuki_027/sta…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/Fubuki_027/status/2084277968004931942",
+          "start": 18,
+          "url": "https://t.co/r7Aae96mcL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084293113523110048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084277968004931942",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我能在互联网上找到任何东西.jpg https://t.co/r7Aae96mcL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2084293113523110048",
+        "created_at": "2026-08-03T14:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084293113523110048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fubuki_027/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Fubuki_027/status/2084277968004931942",
+              "start": 18,
+              "url": "https://t.co/r7Aae96mcL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084293113523110048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084277968004931942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我能在互联网上找到任何东西.jpg https://t.co/r7Aae96mcL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472419244126388226",
+        "conversation_id": "2084277968004931942",
+        "created_at": "2026-08-03T13:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084277968004931942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SnozakiSakura/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/SnozakiSakura/status/2084244767916064785",
+              "start": 2,
+              "url": "https://t.co/gc26dul5xP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084277968004931942",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084244767916064785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤔 https://t.co/gc26dul5xP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 504,
+          "like_count": 11422,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 2610
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-19T04:11:30.000Z",
+        "description": "🏳️‍⚧️我喜欢你🏳️‍⚧️ | INFP | MtX | 无证含糖 | 已炸柜家暴党 | 想割手爱od | 重生日2026.5.8 | 小号 @Rinfen_027 | 随缘回fo请多指教🥺 | 永远的爱人@HyacinthWithYou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "Rinfen_027"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "HyacinthWithYou"
+              }
+            ]
+          }
+        },
+        "id": "1472419244126388226",
+        "name": "Rinfen27.🍥",
+        "pinned_tweet_id": "2084234383012356301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066320077000228864/GiHJ7Exj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 1643,
+          "like_count": 5464,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 2833
+        },
+        "url": "",
+        "username": "Fubuki_027",
+        "verified": false
+      }
+    ]
+  }
+}

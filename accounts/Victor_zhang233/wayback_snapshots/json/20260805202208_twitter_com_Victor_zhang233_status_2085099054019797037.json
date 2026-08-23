@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2085099054019797037",
+    "created_at": "2026-08-05T20:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T21:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085099054019797037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1428041553608527873",
+          "start": 3,
+          "username": "xingling_xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085099054019797037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085049509797908589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xingling_xl: 挂一下这个骗子\n圈内叫莉莉\n一个月前朋友介绍从她那买了60u的4ho，买了之后长达一个月的时间推迟发货，然后在上周联系上之后说无法发货要退款，在长久的已读不回后直接注销了账号\n怎么也是圈内叫的上名字的…qq微信都是找的上账号的真别逼我直接开盒了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085049502994690048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-VedUacAADYfB.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085049502977925120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-VedQaoAAifsh.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2085099054019797037",
+        "created_at": "2026-08-05T20:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085099054019797037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1428041553608527873",
+              "start": 3,
+              "username": "xingling_xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085099054019797037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085049509797908589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xingling_xl: 挂一下这个骗子\n圈内叫莉莉\n一个月前朋友介绍从她那买了60u的4ho，买了之后长达一个月的时间推迟发货，然后在上周联系上之后说无法发货要退款，在长久的已读不回后直接注销了账号\n怎么也是圈内叫的上名字的…qq微信都是找的上账号的真别逼我直接开盒了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085049502994690048",
+            "3_2085049502977925120"
+          ]
+        },
+        "author_id": "1428041553608527873",
+        "conversation_id": "2085049509797908589",
+        "created_at": "2026-08-05T17:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085049509797908589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rYZcFanTxH",
+              "end": 147,
+              "expanded_url": "https://x.com/xingling_xl/status/2085049509797908589/photo/1",
+              "media_key": "3_2085049502994690048",
+              "start": 124,
+              "url": "https://t.co/rYZcFanTxH"
+            },
+            {
+              "display_url": "pic.x.com/rYZcFanTxH",
+              "end": 147,
+              "expanded_url": "https://x.com/xingling_xl/status/2085049509797908589/photo/1",
+              "media_key": "3_2085049502977925120",
+              "start": 124,
+              "url": "https://t.co/rYZcFanTxH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085049509797908589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "挂一下这个骗子\n圈内叫莉莉\n一个月前朋友介绍从她那买了60u的4ho，买了之后长达一个月的时间推迟发货，然后在上周联系上之后说无法发货要退款，在长久的已读不回后直接注销了账号\n怎么也是圈内叫的上名字的…qq微信都是找的上账号的真别逼我直接开盒了… https://t.co/rYZcFanTxH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 515,
+          "like_count": 11675,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2668
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-18T17:10:20.000Z",
+        "description": "可能是个自己的树洞｜INFP｜简体中文（母语）｜English(IELTS 6.5)｜日本語(JLPT N2)｜会回fo｜自傷OD致歉",
+        "id": "1428041553608527873",
+        "location": "Holy Terra",
+        "name": "STAR🌟0#南河三",
+        "pinned_tweet_id": "1971305588354437128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007830536564412416/HHMYGqU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 1109,
+          "like_count": 6220,
+          "listed_count": 15,
+          "media_count": 122,
+          "tweet_count": 1077
+        },
+        "url": "",
+        "username": "xingling_xl",
+        "verified": false
+      }
+    ]
+  }
+}

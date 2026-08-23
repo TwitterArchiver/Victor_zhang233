@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2086981065277866373",
+    "created_at": "2026-08-11T05:49:26.000Z",
+    "display_text_range": [
+      10,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T06:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087053758018564432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1776162571709796352",
+          "start": 0,
+          "username": "Fooogfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087053758018564432",
+    "in_reply_to_user_id": "1776162571709796352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087042944020935107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fooogfox 我只能说\n经典打瓦奶茶纯欲女大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2086981065277866373",
+        "created_at": "2026-08-11T05:49:26.000Z",
+        "display_text_range": [
+          10,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087053758018564432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1776162571709796352",
+              "start": 0,
+              "username": "Fooogfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087053758018564432",
+        "in_reply_to_user_id": "1776162571709796352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087042944020935107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fooogfox 我只能说\n经典打瓦奶茶纯欲女大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776162571709796352",
+        "conversation_id": "2086981065277866373",
+        "created_at": "2026-08-11T05:06:27.000Z",
+        "display_text_range": [
+          17,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087042944020935107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087042944020935107",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086981065277866373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 你说的好文明哦，怎么不多骂点"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "is_identity_verified": false,
+        "location": "在人间，在地狱",
+        "most_recent_tweet_id": "2087053758018564432",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755494652889661440/1782484842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 521,
+          "like_count": 12142,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 2740
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-05T08:18:58.000Z",
+        "description": "五月生\nftx🏳️‍🌈🏳️‍⚧️\nhttps://t.co/xgC1f8meqx\n请称呼我为：雨原花咲/阿间。\n非典型oder（我不鼓励任何自伤行为，只在原有基础上进行探讨），同类友好，聊天完全欢迎，请和我交朋友ww\n碎碎念和不定期药物感受",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fooogfox",
+                "end": 40,
+                "expanded_url": "https://ngl.link/fooogfox",
+                "start": 17,
+                "url": "https://t.co/xgC1f8meqx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fooooogfox",
+                "end": 23,
+                "expanded_url": "https://t.me/fooooogfox",
+                "start": 0,
+                "url": "https://t.co/rO2rYtJvdt"
+              }
+            ]
+          }
+        },
+        "id": "1776162571709796352",
+        "is_identity_verified": false,
+        "location": "世界",
+        "most_recent_tweet_id": "2087047002169438423",
+        "name": "猫不理茶茶罐头",
+        "pinned_tweet_id": "2085642529572061355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776162571709796352/1786162843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085954969455513600/vrMZ8he4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 369,
+          "like_count": 1993,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 427
+        },
+        "url": "https://t.co/rO2rYtJvdt",
+        "username": "Fooogfox",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

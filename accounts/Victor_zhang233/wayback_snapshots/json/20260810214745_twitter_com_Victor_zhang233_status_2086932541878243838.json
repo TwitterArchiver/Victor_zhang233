@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2086932541878243838",
+    "created_at": "2026-08-10T21:47:45.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T22:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086932541878243838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1674372721726357504",
+          "start": 3,
+          "username": "rosy15811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086932541878243838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086888763083669929",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rosy15811: 我又想把你的头割下来了，我会为此专门买一把刀.......爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2086932541878243838",
+        "created_at": "2026-08-10T21:47:45.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T22:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086932541878243838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1674372721726357504",
+              "start": 3,
+              "username": "rosy15811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086932541878243838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086888763083669929",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rosy15811: 我又想把你的头割下来了，我会为此专门买一把刀.......爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674372721726357504",
+        "conversation_id": "2086888763083669929",
+        "created_at": "2026-08-10T18:53:48.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T19:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086888763083669929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086888763083669929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我又想把你的头割下来了，我会为此专门买一把刀.......爱你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "is_identity_verified": false,
+        "location": "在人间，在地狱",
+        "most_recent_tweet_id": "2086932541878243838",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755494652889661440/1782484842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 518,
+          "like_count": 12029,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 2725
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-29T11:02:39.000Z",
+        "description": "庆贺我与你与不会再相遇的世界，那个秋天我们最后一次去田里踢球，不会再有的意思就是再也不会有了       顺男，不喜欢男的，不喜欢女的，不喜欢做爱，啥也不喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kasumi60",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kasumi60",
+                "start": 0,
+                "url": "https://t.co/vAXfGSs7OY"
+              }
+            ]
+          }
+        },
+        "id": "1674372721726357504",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2086901961107161213",
+        "name": "安慶的My'Last'Winter'",
+        "pinned_tweet_id": "2078461638211231960",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674372721726357504/1785613567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083643400134500352/l3k_pFIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 87,
+          "like_count": 9035,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 485
+        },
+        "url": "https://t.co/vAXfGSs7OY",
+        "username": "rosy15811",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

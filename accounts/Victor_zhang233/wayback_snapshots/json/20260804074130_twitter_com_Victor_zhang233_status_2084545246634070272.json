@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2084545246634070272",
+    "created_at": "2026-08-04T07:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084545246634070272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1873708075619946497",
+          "start": 3,
+          "username": "qik1182069"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084545246634070272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084489505394819229",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qik1182069: 讣告：\n定时发送，我先走一步了，烧炭，我不知道该说些啥，哈哈哈，谢谢陪伴我的挚友楮白和顾博，还有其他朋友，谢谢你们，晚安晚安晚安晚安，我将会永眠\n23年底两次紫砂，24年被送进戒网瘾机构，26年我终于可以走了，哈哈哈，我早就该死了，23年底就该死…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2084545246634070272",
+        "created_at": "2026-08-04T07:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084545246634070272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1873708075619946497",
+              "start": 3,
+              "username": "qik1182069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084545246634070272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084489505394819229",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qik1182069: 讣告：\n定时发送，我先走一步了，烧炭，我不知道该说些啥，哈哈哈，谢谢陪伴我的挚友楮白和顾博，还有其他朋友，谢谢你们，晚安晚安晚安晚安，我将会永眠\n23年底两次紫砂，24年被送进戒网瘾机构，26年我终于可以走了，哈哈哈，我早就该死了，23年底就该死…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873708075619946497",
+        "conversation_id": "2084489505394819229",
+        "created_at": "2026-08-04T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084489505394819229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084489505394819229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9517,
+          "like_count": 96,
+          "quote_count": 3,
+          "reply_count": 26,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n定时发送，我先走一步了，烧炭，我不知道该说些啥，哈哈哈，谢谢陪伴我的挚友楮白和顾博，还有其他朋友，谢谢你们，晚安晚安晚安晚安，我将会永眠\n23年底两次紫砂，24年被送进戒网瘾机构，26年我终于可以走了，哈哈哈，我早就该死了，23年底就该死了，这样也不会被送进\n我的微信号：a127658134"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 513,
+          "like_count": 11570,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2642
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T12:30:09.000Z",
+        "description": "无性别 - 泛性恋\n自由 - 平等 - 博爱\n开放 - 包容 - 多元",
+        "id": "1873708075619946497",
+        "name": "✝️春沫✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049306580643123200/u3zr6mwe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 57,
+          "like_count": 2401,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "qik1182069",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2083111333827084748",
+    "created_at": "2026-07-31T08:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083111333827084748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1776162571709796352",
+          "start": 3,
+          "username": "Fooogfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083111333827084748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083043885186736380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fooogfox: 其實我很討厭被指派為男/女某種性別，我討厭被定義\n惡且扯到特定性別伴隨的話題就是肉慾，慾望有很多，無窮無盡的，最沒意思的就是肉慾\n明明有意思的是思想上的碰撞，我渴望靈魂的共鳴，渴望本質\n我覺得我的身體也好，還是長相也好，呈現一種完美的中和，並不是說有…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2083111333827084748",
+        "created_at": "2026-07-31T08:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083111333827084748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1776162571709796352",
+              "start": 3,
+              "username": "Fooogfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083111333827084748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083043885186736380",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fooogfox: 其實我很討厭被指派為男/女某種性別，我討厭被定義\n惡且扯到特定性別伴隨的話題就是肉慾，慾望有很多，無窮無盡的，最沒意思的就是肉慾\n明明有意思的是思想上的碰撞，我渴望靈魂的共鳴，渴望本質\n我覺得我的身體也好，還是長相也好，呈現一種完美的中和，並不是說有…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776162571709796352",
+        "conversation_id": "2083043885186736380",
+        "created_at": "2026-07-31T04:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083043885186736380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083043885186736380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實我很討厭被指派為男/女某種性別，我討厭被定義\n惡且扯到特定性別伴隨的話題就是肉慾，慾望有很多，無窮無盡的，最沒意思的就是肉慾\n明明有意思的是思想上的碰撞，我渴望靈魂的共鳴，渴望本質\n我覺得我的身體也好，還是長相也好，呈現一種完美的中和，並不是說有多好看，只是令人安心的存在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 494,
+          "like_count": 11142,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 2539
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T08:18:58.000Z",
+        "description": "五月生，请称呼我为：雨原花咲/阿间。非典型oder，同类友好，聊天完全欢迎，请和我交朋友ww\n碎碎念和不定期药物感受。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fooooogfox",
+                "end": 23,
+                "expanded_url": "https://t.me/fooooogfox",
+                "start": 0,
+                "url": "https://t.co/rO2rYtK331"
+              }
+            ]
+          }
+        },
+        "id": "1776162571709796352",
+        "location": "世界",
+        "name": "猫不理茶茶罐头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885748304442748928/rwYCd9t__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 264,
+          "like_count": 1171,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 60
+        },
+        "url": "https://t.co/rO2rYtK331",
+        "username": "Fooogfox",
+        "verified": false
+      }
+    ]
+  }
+}

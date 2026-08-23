@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2089484092618551713",
+    "created_at": "2026-08-18T05:19:58.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T06:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089583058706153571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2084990480618770432",
+          "start": 0,
+          "username": "yuda3_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089583058706153571",
+    "in_reply_to_user_id": "2084990480618770432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089484092618551713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuda3_8964 牛逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 854,
+        "media_key": "3_2089484086733856768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP9WtNGaYAApkvK.jpg",
+        "width": 641
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2089484092618551713",
+        "created_at": "2026-08-18T05:19:58.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089583058706153571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2084990480618770432",
+              "start": 0,
+              "username": "yuda3_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089583058706153571",
+        "in_reply_to_user_id": "2084990480618770432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089484092618551713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuda3_8964 牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089484086733856768"
+          ]
+        },
+        "author_id": "2084990480618770432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089484092618551713",
+        "created_at": "2026-08-17T22:46:43.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T23:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089484092618551713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lStAptfZqe",
+              "end": 41,
+              "expanded_url": "https://x.com/yuda3_8964/status/2089484092618551713/photo/1",
+              "media_key": "3_2089484086733856768",
+              "start": 18,
+              "url": "https://t.co/lStAptfZqe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089484092618551713",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089484086733856768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杯子，你这么点电你是无法战胜我的👿 https://t.co/lStAptfZqe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "is_identity_verified": false,
+        "location": "在人间，在地狱",
+        "most_recent_tweet_id": "2089583058706153571",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755494652889661440/1782484842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 533,
+          "like_count": 13100,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 2907
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T13:12:24.000Z",
+        "description": "正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  三代目",
+        "id": "2084990480618770432",
+        "is_identity_verified": false,
+        "location": "你家",
+        "most_recent_tweet_id": "2089576536101814611",
+        "name": "𝖞𝖚𝖉𝖆،梦想挂了🏴‍☠️三代目",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084990480618770432/1785936237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084991632076865537/chE31pU-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 137,
+          "like_count": 4298,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 280
+        },
+        "url": "",
+        "username": "yuda3_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

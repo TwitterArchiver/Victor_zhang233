@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2084300700461465742",
+    "created_at": "2026-08-03T15:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T16:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084303706900853142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2070973562350145536",
+          "start": 0,
+          "username": "lonelyhsv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084303706900853142",
+    "in_reply_to_user_id": "2070973562350145536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084300700461465742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lonelyhsv ssri和苯二氮卓类有撤药反应"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2084300700461465742",
+        "created_at": "2026-08-03T15:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084303706900853142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2070973562350145536",
+              "start": 0,
+              "username": "lonelyhsv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084303706900853142",
+        "in_reply_to_user_id": "2070973562350145536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084300700461465742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lonelyhsv ssri和苯二氮卓类有撤药反应"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070973562350145536",
+        "conversation_id": "2084300700461465742",
+        "created_at": "2026-08-03T15:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084300700461465742"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084300700461465742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想问抑郁类的药可以彻底断成功吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 504,
+          "like_count": 11443,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 2621
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-27T20:53:27.000Z",
+        "description": "重郁重焦\nentp\n💀",
+        "id": "2070973562350145536",
+        "name": "lonely",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070974000562663424/F1uYJC5U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 47,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "lonelyhsv",
+        "verified": false
+      }
+    ]
+  }
+}

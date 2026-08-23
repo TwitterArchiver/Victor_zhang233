@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2085034051233370484",
+    "created_at": "2026-08-05T20:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T21:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085099112786170093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878441068649426944",
+          "start": 0,
+          "username": "xian_zi17640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085099112786170093",
+    "in_reply_to_user_id": "1878441068649426944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085034051233370484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xian_zi17640 你们你们这个是什么群啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2085034043683573760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-Ham5bEAApr1K.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2085034051233370484",
+        "created_at": "2026-08-05T20:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085099112786170093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878441068649426944",
+              "start": 0,
+              "username": "xian_zi17640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085099112786170093",
+        "in_reply_to_user_id": "1878441068649426944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085034051233370484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xian_zi17640 你们你们这个是什么群啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085034043683573760"
+          ]
+        },
+        "author_id": "1878441068649426944",
+        "conversation_id": "2085034051233370484",
+        "created_at": "2026-08-05T16:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085034051233370484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ytodjzb06u",
+              "end": 35,
+              "expanded_url": "https://x.com/xian_zi17640/status/2085034051233370484/photo/1",
+              "media_key": "3_2085034043683573760",
+              "start": 12,
+              "url": "https://t.co/Ytodjzb06u"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2085034051233370484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "群太冷了喵来宣传一下喵 https://t.co/Ytodjzb06u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 515,
+          "like_count": 11675,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2669
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T13:57:19.000Z",
+        "description": "一个很悲苦的咪\nHRT2026.7.25\nhttps://t.co/Qntfz9TedO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huizxlk",
+                "end": 44,
+                "expanded_url": "https://ngl.link/huizxlk",
+                "start": 21,
+                "url": "https://t.co/Qntfz9TedO"
+              }
+            ]
+          }
+        },
+        "id": "1878441068649426944",
+        "name": "huizxlkファイ🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041259774965395456/QJN4Ra5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 486,
+          "like_count": 3796,
+          "listed_count": 2,
+          "media_count": 1256,
+          "tweet_count": 3904
+        },
+        "url": "",
+        "username": "xian_zi17640",
+        "verified": false
+      }
+    ]
+  }
+}

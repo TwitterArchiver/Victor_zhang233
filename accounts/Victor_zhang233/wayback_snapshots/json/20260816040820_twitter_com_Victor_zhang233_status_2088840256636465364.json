@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2088629621059379458",
+    "created_at": "2026-08-16T04:08:20.000Z",
+    "display_text_range": [
+      22,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T05:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088840256636465364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1953978384532615173",
+          "start": 0,
+          "username": "8crrh7d9t6"
+        },
+        {
+          "end": 21,
+          "id": "1643490407094030338",
+          "start": 12,
+          "username": "Usam8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088840256636465364",
+    "in_reply_to_user_id": "1953978384532615173",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088745174747013630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8crrh7d9t6 @Usam8964 GG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2088629621059379458",
+        "created_at": "2026-08-16T04:08:20.000Z",
+        "display_text_range": [
+          22,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T05:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088840256636465364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1953978384532615173",
+              "start": 0,
+              "username": "8crrh7d9t6"
+            },
+            {
+              "end": 21,
+              "id": "1643490407094030338",
+              "start": 12,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088840256636465364",
+        "in_reply_to_user_id": "1953978384532615173",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088745174747013630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8crrh7d9t6 @Usam8964 GG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953978384532615173",
+        "conversation_id": "2088629621059379458",
+        "created_at": "2026-08-15T21:50:31.000Z",
+        "display_text_range": [
+          27,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T22:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088745174747013630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            },
+            {
+              "end": 26,
+              "id": "1643490407094030338",
+              "start": 17,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088745174747013630",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088644203807170742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 @Usam8964 喜欢上了怎么办"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "is_identity_verified": false,
+        "location": "在人间，在地狱",
+        "most_recent_tweet_id": "2088840256636465364",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755494652889661440/1782484842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 534,
+          "like_count": 12774,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 2864
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-09T00:35:40.000Z",
+        "description": "上天不給我的 無論我十指怎樣緊扣 仍然走漏 給予我的 無論過去怎麼失手 都是我的",
+        "id": "1953978384532615173",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088745174747013630",
+        "name": "珏",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1953978384532615173/1763999901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088719623030206464/UrvWgE-Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 43,
+          "like_count": 825,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "8crrh7d9t6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley @yuki40582 @SayoriCat8964\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "yuki40582"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "SayoriCat8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088629621059379458",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2072003546862715204",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643490407094030338/1770249101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4226,
+          "following_count": 1387,
+          "like_count": 88833,
+          "listed_count": 7,
+          "media_count": 632,
+          "tweet_count": 8491
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

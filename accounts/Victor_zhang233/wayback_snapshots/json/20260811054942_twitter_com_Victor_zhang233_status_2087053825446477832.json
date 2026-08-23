@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2086999008984375654",
+    "created_at": "2026-08-11T05:49:42.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T06:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087053825446477832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1776162571709796352",
+          "start": 0,
+          "username": "Fooogfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087053825446477832",
+    "in_reply_to_user_id": "1776162571709796352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086999008984375654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fooogfox 还有续杯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2244,
+        "media_key": "3_2086998983071965184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPaChIibIAAkGCU.jpg",
+        "width": 1586
+      },
+      {
+        "height": 2244,
+        "media_key": "3_2086998989380202496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPaChgCbMAAvvI2.jpg",
+        "width": 1586
+      },
+      {
+        "height": 2244,
+        "media_key": "3_2086998995730395136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPaCh3sbcAA5uS9.jpg",
+        "width": 1586
+      },
+      {
+        "height": 2244,
+        "media_key": "3_2086999001786941440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPaCiOQbAAAd_TC.jpg",
+        "width": 1586
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2086999008984375654",
+        "created_at": "2026-08-11T05:49:42.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087053825446477832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1776162571709796352",
+              "start": 0,
+              "username": "Fooogfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087053825446477832",
+        "in_reply_to_user_id": "1776162571709796352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086999008984375654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fooogfox 还有续杯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086998983071965184",
+            "3_2086998989380202496",
+            "3_2086998995730395136",
+            "3_2086999001786941440"
+          ]
+        },
+        "author_id": "1776162571709796352",
+        "conversation_id": "2086999008984375654",
+        "created_at": "2026-08-11T02:11:52.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T03:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086999008984375654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rg8cail8jy",
+              "end": 23,
+              "expanded_url": "https://x.com/Fooogfox/status/2086999008984375654/photo/1",
+              "media_key": "3_2086998983071965184",
+              "start": 0,
+              "url": "https://t.co/Rg8cail8jy"
+            },
+            {
+              "display_url": "pic.x.com/Rg8cail8jy",
+              "end": 23,
+              "expanded_url": "https://x.com/Fooogfox/status/2086999008984375654/photo/1",
+              "media_key": "3_2086998989380202496",
+              "start": 0,
+              "url": "https://t.co/Rg8cail8jy"
+            },
+            {
+              "display_url": "pic.x.com/Rg8cail8jy",
+              "end": 23,
+              "expanded_url": "https://x.com/Fooogfox/status/2086999008984375654/photo/1",
+              "media_key": "3_2086998995730395136",
+              "start": 0,
+              "url": "https://t.co/Rg8cail8jy"
+            },
+            {
+              "display_url": "pic.x.com/Rg8cail8jy",
+              "end": 23,
+              "expanded_url": "https://x.com/Fooogfox/status/2086999008984375654/photo/1",
+              "media_key": "3_2086999001786941440",
+              "start": 0,
+              "url": "https://t.co/Rg8cail8jy"
+            },
+            {
+              "display_url": "x.com/Fooogfox/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Fooogfox/status/2086998711721480501",
+              "start": 24,
+              "url": "https://t.co/y3SNN3sEwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086999008984375654",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086998983071965184"
+          },
+          {
+            "media_key": "3_2086998989380202496"
+          },
+          {
+            "media_key": "3_2086998995730395136"
+          },
+          {
+            "media_key": "3_2086999001786941440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086998711721480501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Rg8cail8jy https://t.co/y3SNN3sEwG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "is_identity_verified": false,
+        "location": "在人间，在地狱",
+        "most_recent_tweet_id": "2087053825446477832",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755494652889661440/1782484842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 521,
+          "like_count": 12144,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 2741
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-05T08:18:58.000Z",
+        "description": "五月生\nftx🏳️‍🌈🏳️‍⚧️\nhttps://t.co/xgC1f8meqx\n请称呼我为：雨原花咲/阿间。\n非典型oder（我不鼓励任何自伤行为，只在原有基础上进行探讨），同类友好，聊天完全欢迎，请和我交朋友ww\n碎碎念和不定期药物感受",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fooogfox",
+                "end": 40,
+                "expanded_url": "https://ngl.link/fooogfox",
+                "start": 17,
+                "url": "https://t.co/xgC1f8meqx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fooooogfox",
+                "end": 23,
+                "expanded_url": "https://t.me/fooooogfox",
+                "start": 0,
+                "url": "https://t.co/rO2rYtJvdt"
+              }
+            ]
+          }
+        },
+        "id": "1776162571709796352",
+        "is_identity_verified": false,
+        "location": "世界",
+        "most_recent_tweet_id": "2087047002169438423",
+        "name": "猫不理茶茶罐头",
+        "pinned_tweet_id": "2085642529572061355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776162571709796352/1786162843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085954969455513600/vrMZ8he4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 369,
+          "like_count": 1993,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 427
+        },
+        "url": "https://t.co/rO2rYtJvdt",
+        "username": "Fooogfox",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

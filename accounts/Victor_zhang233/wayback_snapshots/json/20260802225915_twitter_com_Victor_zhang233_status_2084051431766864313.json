@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2084051431766864313",
+    "created_at": "2026-08-02T22:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T23:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084051431766864313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1914166367705530368",
+          "start": 3,
+          "username": "xiaomao_444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084051431766864313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083952448461287532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaomao_444: 我求你不要走…… \n我求你不要离开……\n请不要离开我........."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2084051431766864313",
+        "created_at": "2026-08-02T22:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T23:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084051431766864313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1914166367705530368",
+              "start": 3,
+              "username": "xiaomao_444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084051431766864313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083952448461287532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaomao_444: 我求你不要走…… \n我求你不要离开……\n请不要离开我........."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914166367705530368",
+        "conversation_id": "2083952448461287532",
+        "created_at": "2026-08-02T16:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083952448461287532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083952448461287532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我求你不要走…… \n我求你不要离开……\n请不要离开我........."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子\n我喜欢这个人➡️ @fooogfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "fooogfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 497,
+          "like_count": 11316,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 2583
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-21T03:57:01.000Z",
+        "description": "Xiao Māo 𝚂𝚎𝚒𝚜𝚑𝚒𝚗-𝚝𝚎𝚔𝚒 𝚔𝚘𝚗𝚛𝚊𝚗🔩 menhera SCCP  有时我想让自己消失 | 非二元性别 nb 💢 ISFP 21y | 精神不稳定 💢 我喜欢用毒品逃避现实🍁drugtwt\njoin us in @mentaruhell organization\nBFF @stonedkangel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 116,
+                "username": "mentaruhell"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "stonedkangel"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiaomao444.tumblr.com/?source=share",
+                "end": 23,
+                "expanded_url": "https://xiaomao444.tumblr.com/?source=share",
+                "start": 0,
+                "url": "https://t.co/uvaRPj7a4w"
+              }
+            ]
+          }
+        },
+        "id": "1914166367705530368",
+        "location": "dm for discord sever link",
+        "name": "Xiao Māo 小猫★ 🐼420",
+        "pinned_tweet_id": "2082359465043452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080517583124525057/3yWmOsr7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 244,
+          "like_count": 4612,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1191
+        },
+        "url": "https://t.co/uvaRPj7a4w",
+        "username": "xiaomao_444",
+        "verified": false
+      }
+    ]
+  }
+}

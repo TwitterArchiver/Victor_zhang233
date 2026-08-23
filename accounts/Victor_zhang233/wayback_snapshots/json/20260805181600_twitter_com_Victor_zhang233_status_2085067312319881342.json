@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2085003646886985812",
+    "created_at": "2026-08-05T18:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T19:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085067312319881342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "985823244929372160",
+          "start": 0,
+          "username": "rn93O3hVuhDyx0O"
+        },
+        {
+          "end": 33,
+          "id": "1732763258325762048",
+          "start": 17,
+          "username": "AmeAsukaLangley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085067312319881342",
+    "in_reply_to_user_id": "985823244929372160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085010478070448316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rn93O3hVuhDyx0O @AmeAsukaLangley 你是如何入坑逃离塔科夫的\n答：仇人陷害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2085003646886985812",
+        "created_at": "2026-08-05T18:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T19:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085067312319881342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "985823244929372160",
+              "start": 0,
+              "username": "rn93O3hVuhDyx0O"
+            },
+            {
+              "end": 33,
+              "id": "1732763258325762048",
+              "start": 17,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085067312319881342",
+        "in_reply_to_user_id": "985823244929372160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085010478070448316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rn93O3hVuhDyx0O @AmeAsukaLangley 你是如何入坑逃离塔科夫的\n答：仇人陷害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "985823244929372160",
+        "conversation_id": "2085003646886985812",
+        "created_at": "2026-08-05T14:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085010478070448316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085010478070448316",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085003646886985812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley 打塔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 516,
+          "like_count": 11646,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2664
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-16T10:12:32.000Z",
+        "description": "蟹堡王罢了",
+        "id": "985823244929372160",
+        "name": "屑堡王",
+        "pinned_tweet_id": "2058636448572784954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1132302766494212096/_PwUWm8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 409,
+          "like_count": 352,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "rn93O3hVuhDyx0O",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 375,
+          "like_count": 30312,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2505
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2083617178679746835",
+    "created_at": "2026-08-03T05:34:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T06:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084150863258587443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1833887382078402561",
+          "start": 0,
+          "username": "xiaxuelema0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084150863258587443",
+    "in_reply_to_user_id": "1833887382078402561",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084149594037133414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaxuelema0 50"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2083617178679746835",
+        "created_at": "2026-08-03T05:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084150863258587443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1833887382078402561",
+              "start": 0,
+              "username": "xiaxuelema0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084150863258587443",
+        "in_reply_to_user_id": "1833887382078402561",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084149594037133414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaxuelema0 50"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833887382078402561",
+        "conversation_id": "2083617178679746835",
+        "created_at": "2026-08-03T05:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084149594037133414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084149594037133414",
+        "in_reply_to_user_id": "1833887382078402561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083617178679746835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "x的发帖/回复限制是多少呢？不确定~总之今天触发了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 499,
+          "like_count": 11363,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 2589
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T15:17:12.000Z",
+        "description": "ID1：晴时雪 / 晴時_雪\nID2：由間_陸由 / ゆま_りくゆ\n0国语言掌握者 // 零か言語の掌握者\n有什么“杂质”都可以抛向我哦~如果能在我这个“杂质黑洞”牵引杂质的过程中再次体会到方向感，那就让我更幸福了~随时向我发信吧~",
+        "id": "1833887382078402561",
+        "name": "ShiXue Qing",
+        "pinned_tweet_id": "2083748979519758451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833887526605733889/hgI52jcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 3,
+          "like_count": 1137,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 451
+        },
+        "url": "",
+        "username": "xiaxuelema0",
+        "verified": false
+      }
+    ]
+  }
+}

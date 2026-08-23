@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2088969497940218057",
+    "created_at": "2026-08-16T13:22:01.000Z",
+    "display_text_range": [
+      8,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T14:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088979594854445407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1483028560084299776",
+          "start": 0,
+          "username": "AskYU_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088979594854445407",
+    "in_reply_to_user_id": "1483028560084299776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088969497940218057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AskYU_ 摸摸你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088969310287151104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2ChRZbwAA0taZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088969310287147008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2ChRZbsAAp4Hm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2088969497940218057",
+        "created_at": "2026-08-16T13:22:01.000Z",
+        "display_text_range": [
+          8,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088979594854445407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1483028560084299776",
+              "start": 0,
+              "username": "AskYU_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088979594854445407",
+        "in_reply_to_user_id": "1483028560084299776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088969497940218057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AskYU_ 摸摸你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088969310287151104",
+            "3_2088969310287147008"
+          ]
+        },
+        "author_id": "1483028560084299776",
+        "conversation_id": "2088969497940218057",
+        "created_at": "2026-08-16T12:41:54.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088969497940218057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tp4YG7zR6z",
+              "end": 64,
+              "expanded_url": "https://x.com/AskYU_/status/2088969497940218057/photo/1",
+              "media_key": "3_2088969310287151104",
+              "start": 41,
+              "url": "https://t.co/Tp4YG7zR6z"
+            },
+            {
+              "display_url": "pic.x.com/Tp4YG7zR6z",
+              "end": 64,
+              "expanded_url": "https://x.com/AskYU_/status/2088969497940218057/photo/1",
+              "media_key": "3_2088969310287147008",
+              "start": 41,
+              "url": "https://t.co/Tp4YG7zR6z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088969497940218057",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088969310287151104"
+          },
+          {
+            "media_key": "3_2088969310287147008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "特效化妆\n窝爱泥呀窝爱泥可是我好痛苦我真的好痛苦我活着的念想都没有了我真的好相似 https://t.co/Tp4YG7zR6z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "is_identity_verified": false,
+        "location": "在人间，在地狱",
+        "most_recent_tweet_id": "2088979594854445407",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755494652889661440/1782484842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 530,
+          "like_count": 12852,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 2870
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-17T10:49:03.000Z",
+        "description": "⩌⌯⩌",
+        "id": "1483028560084299776",
+        "is_identity_verified": false,
+        "location": "我说我不会原谅这个世界👁👁👁",
+        "most_recent_tweet_id": "2088970435732148597",
+        "name": "5101",
+        "pinned_tweet_id": "1725837773863887269",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1483028560084299776/1733890357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719020103059345408/GaA9engd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 101,
+          "like_count": 1135,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 432
+        },
+        "url": "",
+        "username": "AskYU_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

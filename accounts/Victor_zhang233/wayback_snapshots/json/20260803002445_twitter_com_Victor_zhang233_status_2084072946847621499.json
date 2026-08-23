@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "2084066165924471096",
+    "created_at": "2026-08-03T00:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T01:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084072946847621499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753386090143354880",
+          "start": 0,
+          "username": "HanQWQ457437"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084072946847621499",
+    "in_reply_to_user_id": "1753386090143354880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084066165924471096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HanQWQ457437 怎么又发了一遍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1122,
+        "media_key": "3_2084063514356772866",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOwUuXaWcAIxzGs.jpg",
+        "width": 886
+      },
+      {
+        "height": 728,
+        "media_key": "3_2084063630278950912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOwU1HQWgAAMVuK.png",
+        "width": 712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2084066165924471096",
+        "created_at": "2026-08-03T00:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T01:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084072946847621499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753386090143354880",
+              "start": 0,
+              "username": "HanQWQ457437"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084072946847621499",
+        "in_reply_to_user_id": "1753386090143354880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084066165924471096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HanQWQ457437 怎么又发了一遍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084063514356772866",
+            "3_2084063630278950912"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2084066165924471096",
+        "created_at": "2026-08-02T23:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T00:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084066165924471096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/12fscwR4VI",
+              "end": 190,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2084066165924471096/photo/1",
+              "media_key": "3_2084063514356772866",
+              "start": 167,
+              "url": "https://t.co/12fscwR4VI"
+            },
+            {
+              "display_url": "pic.x.com/12fscwR4VI",
+              "end": 190,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2084066165924471096/photo/1",
+              "media_key": "3_2084063630278950912",
+              "start": 167,
+              "url": "https://t.co/12fscwR4VI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084066165924471096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于我你可能想知道\n08年 现在大— 177 60kg\n可以的话多来点人类来陪我聊天 有qq群 会审核\n现在在新西兰留学 苏州人 放假会回国\n多来点人陪我聊天打游戏可以吗。联机游戏主要玩cs apex mc 塔科夫 怪物猎人 R6 我的世界 游戏王 md ygo tcg 后室 僵毁 潜渊症什么的 \n唯一的雷点是不回我信息 很忙除外\n关于游戏王我主要玩电子龙 捕食植物 银河眼 机关傀儡 龙辉巧 虫惑魔 白银城 恐啡肽 珠泪 命运英雄 霍普水产 ddd 魔术师 异色眼 废二百夫长 旅鸟 相剑 方界 教导纠罪巧 rr 宝石骑士 月光 海皇 祀剑"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于我你可能想知道\n08年 现在大— 177 60kg\n可以的话多来点人类来陪我聊天 有qq群 会审核\n现在在新西兰留学 苏州人 放假会回国\n多来点人陪我聊天打游戏可以吗。联机游戏主要玩cs apex mc 塔科夫 怪物猎人 R6 我的世界 游戏王 md ygo tcg 后室 僵毁 潜渊症什么的 \n唯一的雷点是不回我信息 很忙除外 https://t.co/12fscwR4VI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子\n我喜欢这个人➡️ @fooogfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "fooogfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 497,
+          "like_count": 11331,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 2586
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2084066165924471096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 1154,
+          "like_count": 3544,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1021
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true
+      }
+    ]
+  }
+}

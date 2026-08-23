@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085221308783308800"
+      ],
+      "media_source_tweet_id": [
+        "2085221503503945791"
+      ]
+    },
+    "author_id": "1755494652889661440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085243077070115210",
+    "created_at": "2026-08-06T05:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T06:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085243077070115210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2085214308754239488",
+          "start": 3,
+          "username": "yonakimnw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2SOjlzm6ma",
+          "end": 87,
+          "expanded_url": "https://x.com/yonakimnw/status/2085221503503945791/photo/1",
+          "media_key": "3_2085221308783308800",
+          "start": 64,
+          "url": "https://t.co/2SOjlzm6ma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085243077070115210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085221503503945791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yonakimnw: 我是mnweeper 3.0。上一世嗑大发雪兔被msk 永封申诉无果，寻回推油中😭😭 \n求帮转🥺 https://t.co/2SOjlzm6ma"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085221308783308800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAxu3wasAANh_c.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085221308783308800"
+          ]
+        },
+        "author_id": "2085214308754239488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085221503503945791",
+        "created_at": "2026-08-06T04:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085221503503945791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2SOjlzm6ma",
+              "end": 72,
+              "expanded_url": "https://x.com/yonakimnw/status/2085221503503945791/photo/1",
+              "media_key": "3_2085221308783308800",
+              "start": 49,
+              "url": "https://t.co/2SOjlzm6ma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085221503503945791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是mnweeper 3.0。上一世嗑大发雪兔被msk 永封申诉无果，寻回推油中😭😭 \n求帮转🥺 https://t.co/2SOjlzm6ma"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085221308783308800"
+          ],
+          "media_source_tweet_id": [
+            "2085221503503945791"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085243077070115210",
+        "created_at": "2026-08-06T05:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T06:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085243077070115210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2085214308754239488",
+              "start": 3,
+              "username": "yonakimnw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2SOjlzm6ma",
+              "end": 87,
+              "expanded_url": "https://x.com/yonakimnw/status/2085221503503945791/photo/1",
+              "media_key": "3_2085221308783308800",
+              "start": 64,
+              "url": "https://t.co/2SOjlzm6ma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085243077070115210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085221503503945791",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yonakimnw: 我是mnweeper 3.0。上一世嗑大发雪兔被msk 永封申诉无果，寻回推油中😭😭 \n求帮转🥺 https://t.co/2SOjlzm6ma"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 518,
+          "like_count": 11700,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2674
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-06T04:06:12.000Z",
+        "description": "mnweeper 3.0 寻回互关中\nINFP 4w5 enby/agender 06已成年 \n抑焦cptsd asd 自傷 LGBTQIA+全友好🏳️‍🌈 \n一些自言自語。",
+        "id": "2085214308754239488",
+        "location": "死亡就是天堂",
+        "name": "mnw3eper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085215985997660160/RbPnwnWT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 59,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "yonakimnw",
+        "verified": false
+      }
+    ]
+  }
+}
