@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1755494652889661440",
+    "conversation_id": "1816284938544570448",
+    "created_at": "2024-10-10T08:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-10T09:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1844296399892197865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1624795006828421122",
+          "start": 0,
+          "username": "RealColidora3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1844296399892197865",
+    "in_reply_to_user_id": "1624795006828421122",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816284938544570448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RealColidora3 煞笔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "1816284938544570448",
+        "created_at": "2024-10-10T08:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-10T09:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1844296399892197865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1624795006828421122",
+              "start": 0,
+              "username": "RealColidora3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844296399892197865",
+        "in_reply_to_user_id": "1624795006828421122",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816284938544570448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RealColidora3 煞笔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1816278819990278144"
+          ]
+        },
+        "author_id": "1624795006828421122",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1480944075167571971",
+              "name": "Pfizer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "S&P 500",
+              "id": "864154902926196737",
+              "name": "S&P 500"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1480944075167571971",
+              "name": "Pfizer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10032761422",
+              "name": "Pfizer"
+            }
+          }
+        ],
+        "conversation_id": "1816284938544570448",
+        "created_at": "2024-07-25T01:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T02:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816284938544570448"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Pfizer",
+              "probability": 0.9751,
+              "start": 19,
+              "type": "Organization"
+            },
+            {
+              "end": 103,
+              "normalized_text": "COVID-19",
+              "probability": 0.9847,
+              "start": 96,
+              "type": "Other"
+            },
+            {
+              "end": 201,
+              "normalized_text": "Miles Guo",
+              "probability": 0.8855,
+              "start": 193,
+              "type": "Person"
+            },
+            {
+              "end": 234,
+              "normalized_text": "Pfizer",
+              "probability": 0.9389,
+              "start": 229,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "Pfizer"
+            },
+            {
+              "end": 156,
+              "start": 148,
+              "tag": "vaccine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/puhtleQj8n",
+              "end": 303,
+              "expanded_url": "https://x.com/ivaniosef22/status/1816284938544570448/video/1",
+              "media_key": "13_1816278819990278144",
+              "start": 280,
+              "url": "https://t.co/puhtleQj8n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816284938544570448",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 91161,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "In November 2020, #Pfizer and various rogue governments announced the global vaccination of the COVID-19 'poison' vaccine, officially beginning the #vaccine massacre\n\nOn November 10, 2020, Mr. Miles Guo warned the world that the Pfizer vaccine was ineffective, stating that this… https://t.co/puhtleQj8n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "条简介、这是一条简介、这是一条简介、这是一条简这是一条简介、这是一条简介一条简介、这是一条简介、这是一条简介、这是一条简介、这是一条简简介、这///简介、这是一条简介、这是一条简介、这是一条简介、这是呃呃呃简介、这是一条简介、这是一条简介、社会自由主义（/中度抑郁症患者/初三生/infp/简介这样写没问题吧？",
+        "id": "1755494652889661440",
+        "location": "苏维埃社会主义共和国联盟 斯大林格勒州",
+        "name": ".. лесе",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755912090609455104/JDsDlMRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 40,
+          "like_count": 287,
+          "listed_count": 0,
+          "tweet_count": 298
+        },
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-12T15:38:28.000Z",
+        "description": "中共不代表中国人、 中共不代表中国",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nfscofficial.com",
+                "end": 23,
+                "expanded_url": "http://nfscofficial.com",
+                "start": 0,
+                "url": "https://t.co/kTgqXSPFkj"
+              }
+            ]
+          }
+        },
+        "id": "1624795006828421122",
+        "location": "新中国联邦",
+        "name": "诗和远方",
+        "pinned_tweet_id": "1816284938544570448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719721353882791936/FTZABcpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10995,
+          "following_count": 303,
+          "like_count": 16489,
+          "listed_count": 29,
+          "tweet_count": 36351
+        },
+        "url": "https://t.co/kTgqXSPFkj",
+        "username": "RealColidora3",
+        "verified": true
+      }
+    ]
+  }
+}
